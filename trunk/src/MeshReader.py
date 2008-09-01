@@ -62,25 +62,28 @@ class MeshHandler(ContentHandler):
 
 	def endElement(self, name):
 		if name == 'DescriptorName' and self.nivel == 3:
-			self.descritor = self.data
-			#self.file.write("Descriptor %d: %s\n" % (self.contador, self.data))
-		elif name == 'ScopeNote':
 			word = ''
 			output = ''
-			for c in self.data:
+			for c in (self.data + ' '):
 				if c.isalpha():
 					word += c.lower()
 				else:
-					if word and not self.filter.is_stopword(word):
+					if word:# and not self.filter.is_stopword(word):
 						output += self.stemmer.stem(word, 0, len(word)-1 )
 						output += ' '
 					word = ''
-			self.desc_dic[self.descritor] = self.data
-			#self.file.write("Concept: %s\n" % (output))
+			self.desc_dic[output] = self.data
+			self.descritor = output
+			raw_input(self.data + ": " + output)
+			#self.file.write("Descriptor %d: %s\n" % (self.contador, self.data))
+			
+		elif name == 'ScopeNote':
+			pass
+			
 		elif name == 'Term':
 			if self.data != "":
 				self.sino_dic[self.data] = self.descritor
-				raw_input(self.data + ": " + self.descritor)
+				#raw_input(self.data + ": " + self.descritor)
 			
 		elif name == 'DescriptorRecord':
 			#self.file.write("\n")
