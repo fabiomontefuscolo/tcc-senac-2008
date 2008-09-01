@@ -16,6 +16,11 @@ class MeshHandler(ContentHandler):
 		self.file = NullFile()
 		self.stemmer = NullStemmer()
 		self.filter = NullWordFilter()
+		self.desc_dic = {}
+		self.sino_dic = {}
+		self.descritor = ""
+		self.sinonimo = ""
+		self.preferido = ""
 
 	def set_output(self, fp):
 		self.file = fp
@@ -36,11 +41,17 @@ class MeshHandler(ContentHandler):
 			pass
 		elif name == 'DescriptorRecord':
 			self.contador += 1
+			self.desc = ""
+			self.sino = ""
 		elif name == 'DescriptorUI':
 			pass
 		elif name == 'DescriptorName':
 			pass
 		elif name == 'TreeNumberList':
+			pass
+		elif name == 'TermList':
+			pass
+		elif name == 'Term':
 			pass
 		elif name == 'ConceptList':
 			pass
@@ -51,7 +62,8 @@ class MeshHandler(ContentHandler):
 
 	def endElement(self, name):
 		if name == 'DescriptorName' and self.nivel == 3:
-			self.file.write("Descriptor %d: %s\n" % (self.contador, self.data))
+			self.descritor = self.data
+			#self.file.write("Descriptor %d: %s\n" % (self.contador, self.data))
 		elif name == 'ScopeNote':
 			word = ''
 			output = ''
@@ -63,9 +75,16 @@ class MeshHandler(ContentHandler):
 						output += self.stemmer.stem(word, 0, len(word)-1 )
 						output += ' '
 					word = ''
-			self.file.write("Concept: %s\n" % (output))
+			self.desc_dic[self.descritor] = self.data
+			#self.file.write("Concept: %s\n" % (output))
+		elif name == 'Term':
+			if self.data != "":
+				self.sino_dic[self.data] = self.descritor
+				raw_input(self.data + ": " + self.descritor)
+			
 		elif name == 'DescriptorRecord':
-			self.file.write("\n")
+			#self.file.write("\n")
+			pass
 
 		if name != 'String':
 			self.data = ""
@@ -82,7 +101,7 @@ parser = make_parser()
 mh = MeshHandler()
 
 # Arquivo de saida para gravacao
-fp = open('/home/fabio/workspace/Indexador/ouput/resultado.txt','w')
+#fp = open('/home/fabio/workspace/Indexador/ouput/resultado.txt','w')
 
 # Porter Stemmer
 ps = PorterStemmer()
@@ -92,7 +111,7 @@ wf = WordFilter()
 wf.load_stopwords('/home/fabio/workspace/Indexador/stopwords/english')
 
 # Passa pointer do arquivo para o handler
-mh.set_output(fp)
+#mh.set_output(fp)
 
 # Vamos ver se o stemmer funciona
 mh.set_stemmer(ps)
@@ -105,3 +124,5 @@ parser.setContentHandler(mh)
 
 # Arquivo XML
 parser.parse('/home/fabio/workspace/Indexador/mesh/desc2008.xml')
+
+print mh.desc_dic
