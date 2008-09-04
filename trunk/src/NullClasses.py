@@ -3,7 +3,8 @@ class NullFile:
         pass
 
     def write(self,str):
-        print str,
+        #print str,
+        pass
 
 class NullStemmer:
     def __init__(self):
