@@ -13,9 +13,10 @@ class ArticleScielo():
         self.arquivo = NullFile()
         self.descritores_definidos = ""
         self.artigo = ""
-        self.extrair_conteudo()
+        #self.extrair_conteudo()
         
-    def extrair_conteudo(self):
+    def extrair_conteudo(self,nomeArquivo):
+        self.nomeArquivoTxt = nomeArquivo
         self.arquivo = open(self.nomeArquivoTxt,'r')
         for linha in self.arquivo.readLine():
             if linha == "Descritores":
@@ -27,7 +28,8 @@ class ArticleScielo():
                 self.artigo = self.arquivo.read()
 
     
-artigo = ArticleScielo(self,r'../in/Artigo2.txt')
+artigo = ArticleScielo()
+artigo.extrair_conteudo(r'../in/Artigo2.txt')
 print artigo.descritores_definidos
 print artigo.arquivo
 

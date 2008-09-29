@@ -72,7 +72,7 @@ class MeshHandler(ContentHandler):
 						output += self.stemmer.stem(word, 0, len(word)-1 )
 						output += ' '
 					word = ''
-			self.desc_dic[output] = self.data
+			self.desc_dic[output.trim()] = self.data
 			self.descritor = output
 			#raw_input(self.data + ": " + output)
 			#self.file.write("Descriptor %d: %s\n" % (self.contador, self.data))
