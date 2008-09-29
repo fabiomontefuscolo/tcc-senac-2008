@@ -44,7 +44,7 @@ class ArticleReader():
         for i in range(len(self.conteudo)):
 
             #Uma Palavra
-            print self.conteudo[i]+'\n'
+            #print self.conteudo[i]+'\n'
             #Descritores
             if listaDesc.has_key(self.conteudo[i]):
                 if(self.descritores.__contains__(listaDesc[self.conteudo[i]])):
@@ -66,7 +66,7 @@ class ArticleReader():
             #listaDesc[self.conteudo[i]+' '+self.conteudo[i+1]]
             #Duas Palavras
             if i+1 < len(self.conteudo):
-                print self.conteudo[i]+' '+self.conteudo[i+1]+'\n'
+                #print self.conteudo[i]+' '+self.conteudo[i+1]+'\n'
                 #Descritores
                 if listaDesc.has_key(self.conteudo[i]+' '+self.conteudo[i+1]):
                     if(self.descritores.__contains__(listaDesc[self.conteudo[i]+' '+self.conteudo[i+1]])):
@@ -88,7 +88,7 @@ class ArticleReader():
             #listaDesc[self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]]
             #Tres Palavras      
             if i+2 < len(self.conteudo):
-                print self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]+'\n'
+                #print self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]+'\n'
                 #Descritores
                 if listaDesc.has_key(self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]):
                     if(self.descritores.__contains__(listaDesc[self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]])):
@@ -107,7 +107,7 @@ class ArticleReader():
  
  
         
-           
+"""           
 
 descritores = {'HIV': 'HIV Full String' ,
                'nitric' : 'Nitric full',
@@ -146,7 +146,7 @@ print descritores
 print ar.descritores
 
 
-
+"""
 
 
 

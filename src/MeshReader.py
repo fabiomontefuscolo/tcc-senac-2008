@@ -74,7 +74,7 @@ class MeshHandler(ContentHandler):
 					word = ''
 			self.desc_dic[output] = self.data
 			self.descritor = output
-			raw_input(self.data + ": " + output)
+			#raw_input(self.data + ": " + output)
 			#self.file.write("Descriptor %d: %s\n" % (self.contador, self.data))
 			
 		elif name == 'ScopeNote':
@@ -96,7 +96,7 @@ class MeshHandler(ContentHandler):
 
 	def characters(self, content):
 		self.data += strip(content)
-		
+"""		
 # Criar um objeto Parser
 parser = make_parser()
 
@@ -111,7 +111,7 @@ ps = PorterStemmer()
 
 # Filtro de Stop Words
 wf = WordFilter()
-wf.load_stopwords('/home/fabio/workspace/Indexador/stopwords/english')
+wf.load_stopwords(r'../stopwords/english')
 
 # Passa pointer do arquivo para o handler
 #mh.set_output(fp)
@@ -126,6 +126,6 @@ mh.set_word_filter(wf)
 parser.setContentHandler(mh)
 
 # Arquivo XML
-parser.parse('/home/fabio/workspace/Indexador/mesh/desc2008.xml')
-
-print mh.desc_dic
+parser.parse(r'../mesh/desc2008.xml')
+"""
+#print mh.desc_dic
