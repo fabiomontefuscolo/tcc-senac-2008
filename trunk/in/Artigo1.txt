@@ -1,0 +1,255 @@
+Descritores
+
+Anti-Bacterial Agents/*PK/TU
+Half-Life
+Humans
+Infant, Newborn
+Infant, Premature, Diseases/DT/*ME
+Metabolic Clearance Rate
+Prospective Studies
+Sepsis/DT/*ME
+Vancomycin/*PK/TU
+
+
+Artigo
+
+Vancomycin pharmacokinetics in preterm infants
+
+ 
+
+Farmacocinética da vancomicina em neonatos pré-termo
+
+ 
+
+ 
+
+Jose Kleber Kobol MachadoI; Rubens FeferbaumI; Celia Etsuco KobayashiII; Cristina SanchesIII; Silvia Regina Cavani Jorge SantosIII
+
+IUniversity of Sao Paulo Medical School, Sao Paulo/SP, Brazil
+IIHeart Institute, University of Sao Paulo Medical School, Sao Paulo/SP, Brazil
+IIISchool of Pharmaceutical Sciences - University of Sao Paulo Medical School, Sao Paulo/SP, Brazil
+
+ 
+
+ 
+
+ABSTRACT
+
+OBJETIVE: The objective of the present study was to evaluate the kinetic disposition of vancomycin in preterm infants with emphasis on the apparent volume of distribution, biological half-life, and total body clearance as well as whether their variations cause significant modification of the trough plasma concentration of the drug, depending on the postconceptional age (PCA) and the postnatal age (PNA).
+MATERIAL AND METHOD: Twenty-five selected patients were distributed into 2 groups which differed significantly in terms of mean PCA (31.2-32.3 weeks in group 1, n = 13; 33.5-34.1 weeks in group 2, n = 12: CI95%, P < .001) and PNA (group 1, 12.0-18.5 days; group 2, 18.0-34.0 days, CI95%, P < .05). The parents were informed and signed a written consent for participation of the infants in the protocol that had been previously approved by the Ethics Committee of the hospital.
+RESULTS: Apparent volume of distribution was significantly increased in group 1 compared with patients of group 2 (0.85 vs. 0.56 L/kg, respectively; P = .01,). Additionally multiple linear regression revealed a good linear correlation (r = 0.85) of trough plasma concentration of vancomycin with the apparent volume of distribution and also with the biological half-life in patients of group 1, while a good correlation (r = 0.91) was obtained for the trough plasma concentration with total body clearance in infants of group 2. The influence of these kinetic parameters on the trough concentration of vancomycin in preterm infants seems to vary according to PCA and PNA.
+CONCLUSION: In conclusion, the trough plasma concentration of vancomycin depends on the pharmacokinetics, and multiple linear correlation indicates that it varies according to the postconceptional and postnatal age of preterm infants.
+
+Keywords: Pharmacokinetics. Vancomycin. Preterm infants.
+
+RESUMO
+
+OBJETIVO: O objetivo do presente estudo foi investigar a farmacocinética da vancomicina em neonatos pretermo, considerando a idade pós-conceptual e também a idade pós-natal para determinar se as alterações no volume aparente de distribuição, meia-vida biológica e depuração plasmática causam variação significativa no vale plasmático da vancomicina.
+MATERIAL E MÉTODO: Os vinte e cinco pacientes selecionados foram distribuídos em dois grupos, que diferiram significativamente em termos de idade pós-conceptualgrupo 1, n=13: 31,2-32,3 semanas; grupo 2, n=12: 33,5-34,1 semanas, IC95%, p<0,0001) e idade pós-natalgrupo 1: 12,0-18,5 dias; grupo 2: 18,0-34,0 dias, p<0,05). Todos os responsáveis foram informados sobre os detalhes do estudo e assinaram o termo de consentimento livre e esclarecido. O protocolo foi submetido e aprovado previamente pelo Comitê de Ética em Pesquisa do hospital.
+RESULTADO: O volume aparente de distribuição se mostrou significativamente aumentado no grupo 1 comparado aos pacientes do grupo 2 0,85 vs 0,56 L/kg, p=0,01). Adicionalmente, o teste de regressão linear múltipla mostrou boa correlação linear: 0,85) da concentração plasmática de vale com o volume aparente de distribuição, e também com a meia-vida biológica nos pacientes do grupo 1. Nas crianças do grupo 2 evidenciou-se boa correlação(r: 0,91) entre o vale e a depuração plasmática. A influência desses parâmetros farmacocinéticos sobre o vale nos prematuros parece variar de acordo com a idade pós-conceptual e a idade pós-natal.
+CONCLUSÃO: Concluindo, a concentração de vale para a vancomicina depende da farmacocinética e a correlação múltipla varia de acordo com a idade pós-conceptual e a idade pós-natal dos recém-nascidos pré-termos.
+
+Unitermos: Farmacocinética. Vancomicina. Neonatos pré-termos.
+
+ 
+
+ 
+
+INTRODUCTION
+
+One of the main agents of nosocomial infections in preterm infants is Staphylococcus species.1-3 About 70% of Staphylococcus species have been found to be methycillin resistant in the Neonatal Intensive Care Unit of the University Hospital of Sao Bernardo do Campo, Faculty of Medicine of ABC. Vancomycin is the best alternative for these oxacillin-resistant agents. In general, the peak concentration of the drug ranges from 20 to 40 µg/mL and the trough concentration ranges from 5 to 10 µg/mL. However, if the plasma concentration reaches peak values higher than 40 µg/mL or trough higher than 10 µg/mL, very serious adverse effects, ototoxicity and nephrotoxicity, respectively, can be expected.4-6
+
+Regarding the analytical method for the plasma vancomycin measurements, fluorescence polarization immunoassay (FPIA) has been applied in most of the previously published studies.7-10 Nowadays, it is well known that this method is rapid but presents low selectivity; its degradation product, which is structurally quite similar to vancomycin, is produced in vitro and also in vivo, interfering with the immunoassay, because the kit does not contain the monoclonal antibody.
+
+Some additional studies have been developed to compare FPIA and high performance liquid chromatography (HPLC) for plasma vancomycin measurements in patients with sepsis.11-13 All authors reported lower plasma levels of vancomycin (peak and trough) using HPLC compared with FPIA, indicating the higher selectivity of the HPLC method. Good correlation of laboratory data and clinical efficacy were reported for infants with sepsis by Staphylococcus species.11-13
+
+Although pharmacokinetic data for vancomycin for pediatric patients and preterm infants are rare, a wide interindividual variation has been reported when the same dose was administered, resulting in poorly predictable plasma vancomycin concentrations. Interference of renal function with vancomycin elimination and changes in body water compartments are the main characteristics in the growing individual, and these variations might be explained according to the age of preterm infants.4-6,14,15 Therefore, the objective of the present study was to investigate the kinetic disposition of vancomycin in preterm infants and also the influence of apparent volume of distribution (Vd), biological half-life (t½b), and total body clearance (Clt) on the trough plasma concentration (Cssmin) of vancomycin.
+
+ 
+
+METHODS
+
+Study design, ethics, and drug administration
+
+A prospective cohort study was conducted on 25 preterm infants with sepsis who differed significantly in terms of postconceptional age (PCA) and postnatal age (PNA) and who were accordingly distributed into 2 groups. Sepsis was in a similar phase in both groups of investigated infants, because vancomycin was prescribed in a earlier stage of hospitalization, and the criteria for deciding which dose should be prescribed for neonatal patients was based on the Young and Mangun (2001) dose prescription for infants in the intensive care unit (ICU).
+
+The clinical study was developed in the hospital's neonatal ICU, and the analytical procedure and statistics were performed in a research laboratory for clinical trials in a public university.
+
+The protocol of the study was submitted and approved by the Ethics Committee of the hospital's medical school in 2001. Patients from the ICU were included in the study, vancomycin was administered by fast infusion for a minimum of 3 days to reach the steady state, and a series of blood samples were collected by the same physician from all patients investigated. The clinical protocol was completed in about 1 year, beginning at the end of 2001 and ending the end of 2002. Each infant was followed during the protocol for a period of 4 days (3 days of drug therapy with vancomycin plus 1 day for blood collection), and then the treatment was optimized and continued up to the discharge of infant from the ICU.
+
+Inclusion and exclusion criteria were as follows:
+
+    *
+
+      Inclusion criteria: < 35 weeks postconceptional age; clinical diagnosis of sepsis, and/or blood culture positive for Staphylococcus species; use of vancomycin, combined or not combined with other antimicrobial agents or vasoactive or diuretic drugs.
+    *
+
+      Exclusion criteria: Apgar score < 5 at 5 minutes of life; congenital renal anomaly; previous use of indomethacin; history of edema, altered renal function, or hemodynamic instability.
+
+Gestational age was based on the date of the last menstruation or on the New Ballard method.17
+
+For group 1, gestational age ranged from 28.9 to 30.2 weeks (95%CI), with a mean of 29.5 ± 1.1 weeks. The mean PCA was 31.8 ± 0.9 weeks (95%CI: 31.2-32.3 weeks) and the mean PNA was 15.3 ± 5.9 days (95%CI: 12-18.5 days). The mean birth body weight was 1184 ± 283 g (95%CI: 1030-1338 g), whereas the mean body weight at the time of sample collection was 1232 ± 263 g (1089-1375 g). Mean creatinine clearance was 30 ± 19 mL/min/1.73 m2 (95%CI: 22.3- 37.3).
+
+In group 2, the mean gestational age was 30.1 ± 1.9 weeks (95%CI: 29-31.2 weeks). The mean PCA was 33.8 ± 0.5 weeks (95%CI: 33.5-34.1 weeks) and the mean PNA was 26 ± 14.2 days (95%CI: 18-34 days). The mean birth weight of the infants was 1175 ± 308.4 g (95%CI: 1000-1350 g), whereas the mean weight at the time of sample collection was 1289 ± 265 g (1140-1440 g). With respect to renal function, mean creatinine clearance was 31.4 ± 17.2 mL/min/1.73 m2 (95%CI: 24.6- 38.1).
+
+Except for PCA and PNA, no significant differences were found between groups for any of these parameters (Table 1).
+
+ 
+
+ 
+
+Vancomycin doses of 10, 15, or 20 mg/kg were administered at dose intervals of 8, 12, or 18 h, respectively. Twenty-five patients were allocated into group 1 (n = 13), or group 2 (n = 12) as determined by the PCA and PNA. The dose schedules of vancomycin administered for each patient investigated are described in Table 2.
+
+ 
+
+ 
+
+Before drug administration, vancomycin was diluted in 5% dextrose solution, and was administered by an infusion pump over a 1-hour period.
+
+After 3 days of antibiotic therapy, samples of venous blood (1 mL) were collected from a peripheral blood vein by the physician in the neonatal unit of the medical school hospital for the determination of the plasma vancomycin concentration at steady state.
+
+Blood samples for each infant were collected at 0, 1, 2, 4, and 6 h and immediately before the next infusion, or at the trough concentration, at the 8th, 12th or 18th hour, depending on dosing schedule (Table 2).
+
+In addition, mean creatinine clearances estimated from serum creatinine were 30.0 mL/min/1.73 m2 (IC 95%: 22.3-37.3) in group 1 and 31.4 mL/min/1.73 m2 (IC 95%: 24.6-38.1) in group 2, which are considered normal values for preterm infants < 34 weeks according to PNA.
+
+Before the start of the study, the parents of the infants signed a voluntary informed consent form, and the protocol was approved by the Ethics Committee of the hospital.
+
+Analytical procedure, pharmacokinetics, and statistics.
+
+Vancomycin in plasma was analyzed using a selective micromethod requiring only 0.2 mL of biological matrix and determined by an automated high-performance liquid chromatographic method (HPLC-UV) under the supervision of a pharmacist from the laboratory.12,13
+
+For pharmacokinetics, a 1-compartment open model was applied, and the kinetic parameters were estimated using the PK Solutions® 2.0 software (Noncompartmental Pharmacokinetics Data Analysis) Ashland, OH, USA. Statistical analysis was based on the Student t test using the GraphPad InStat® 2.01, Graphpad Software Corporation, San Diego, USA, GMC Basic® 6.6, Ribeirão Preto, SP, Brazil. Multiple linear regression was obtained by applying the SPSS® software, 9.0 Chicago, USA.
+
+ 
+
+RESULTS
+
+A wide variation was observed in vancomycin plasma concentrations in both groups of infants as listed in Table 3, which shows the percentage of patients of both groups with emphasis on their peak and trough levels. Regarding the trough plasma concentration for vancomycin in both groups of patients investigated, plasma levels were observed in the recommended range (5-10 µg/mL) in a higher percentage in patients of group 1 (7/13) compared with group 2 (4/12), 54% vs. 33%, respectively. Infants of both groups investigated were under subtherapy in similar percentages (23%, 3/13, group 1 vs. 17%, 2/12, group 2). In addition, a potential risk of nephrotoxicity related to trough levels higher than 10 µg/mL was observed in 23% (3/13) of group 1 vs. 50% (6/12) of group 2. These results could be explained as a consequence of water compartment (extravascular/interstitial fluid), which was increased in infants of group 1 compared with infants of group 2. Therefore, lower trough vancomycin levels were obtained for infants of group 1 compared to group 2.
+
+ 
+
+ 
+
+With respect to peak levels, plasma vancomycin concentrations obtained were higher than 40 µg/mL, and a potential risk of ototoxicity was present for 23% (3/13) of the infants in group 1, Table 3.
+
+Peak plasma concentrations of vancomycin were in the recommended range (20-40 µg/mL) in 23% patients (3/13) of group 1 vs. 75% (9/12) of patients from group 2. In addition, peaks lower than 20 µg/mL were obtained in 54% (7/13) of patients from group 1 vs. 25% (3/12) in group 2. These data also indicate that the water compartments were increased in infants from group 1 compared to those from group 2, since vancomycin plasma levels in group 1 were lower than in group 2.
+
+Regarding clinical efficacy, high percentages were obtained for patients of group 1 (77%: 10/13) and of group 2 (83%: 10/12) after the treatment minimum of 3 days with vancomycin infusion over a 1-hour period; then if necessary, dose adjustment was performed after this period to optimize drug therapy.
+
+Vancomycin pharmacokinetic data including peak and trough levels are shown in Table 4 (mean, CI95%), comparing the parameters of both groups of patients investigated. Peak and trough values did not show significant differences between groups because of the wide interindividual variation of data in both groups of patients. Similarly, the biological half-life and plasma clearance were not significantly different between groups. The apparent volume of distribution was increased in patients from group 1 compared with those from group 2, indicating an inverse change of water compartment related to PNA and PCA in preterm infants.
+
+ 
+
+ 
+
+The influence of pharmacokinetics on the vancomycin trough was shown in group 1, using multiple linear regression. The mathematical model (r: 0.85) included Vd and t½ b as independent variables, whereas Clt was excluded. The following equation was used and the standard deviation of the constants and of the partial regression coefficients of Equation 1 were as follows:
+
+Where:
+
+9.05 is a constant,
+
+14.5 and 1.23 are the partial regression coefficients
+
+standard deviation of the constant ± 3.89, and of the partial regression coefficients of Equation 1 were ± 3.13 (Vd) and ± 0.32 (t½ b), respectively.:
+
+In group 2, the model that describes the data obtained includes Clt (r: 0.91), while the Vd and t½ b were excluded as follows in the equation 2:
+
+Where:
+
+18.22 is a constant,
+
+9.27 is the partial regression coefficient
+
+the standard deviations of the constant and of the partial regression coefficient of Equation 2 were ± 1.30 and ± 1.31 (Clt), respectively.
+
+ 
+
+DISCUSSION
+
+The 2 population samples investigated differed statistically only in terms of PCA (P = .01) and PNA (P = .02); they are more homogenous than those reported in the previous studies.14,18-21
+
+The trough plasma concentration of vancomycin seems to be the most important parameter for drug monitoring since it is directly related to the therapeutic efficacy of the antibiotic agent. The adequate value is based on the blood level that must exceed by 2 to 8 times the minimal inhibitory concentration for Staphylococcus species.22
+
+In the present study, the percentage of infants with plasma concentrations in the therapeutic range for the peak or the trough were dependent on the group considered.
+
+In general, the clinical consequences of the overdose of vancomycin therapy are mainly transitory nephrotoxicity or permanent ototoxicity with potential risks in children. In the present study, the potential risk of transitory nephrotoxicity was confirmed in both groups of patients investigated, but they were lower than data reported previously.20 Additionally, based on the therapeutic drug monitoring followed by the pharmacokinetic modelling, the dose adjustment was performed by the physician to reach trough plasma levels lower than 10 µg/mL to guarantee clinical efficacy and no risk of nephrotoxicity.
+
+Since the dosage adjustment was performed during the first week of drug therapy, no potential risk of ototoxicity occurred in infants included in the protocol, in spite of 23% (3/13) reaching peak plasma levels higher than 40 µg/mL only in patients from group 1. Then after 3 days of treatment, if necessary, the daily dose was reduced based on therapeutic drug monitoring. Since the peak plasma concentration of vancomycin was proportional to the dose and the rate of drug infusion, data presented agree with results reported by other investigators.23
+
+The mean biological half-life of 11.3 hours (IC95%, 9.3-13.3 hours) obtained for infants of group 1 (Table 4) agrees with those reported previously for newborns of 32 weeks or less PCA. However, it is important to emphasize that a larger variation is reported for the parameter (3.5-25.5 h, n = 44) in an investigation reported in a previous study.24
+
+It should be noted that only the apparent volume of distribution differed significantly between groups (P = .01, Table 4). These data indicate that PCA and PNA can significantly influence the volume of distribution of vancomycin to a greater degree than total body clearance (Clt); consequently, if the PCA and PNA decrease, the Vd increases.
+
+Volume of distribution was found to be a good index for dose adjustment in patients of group 1, while trough levels in group 2 seemed to depend mainly on the glomerular filtration rate related to plasma clearance. These findings could be explained by the higher distribution of drug in preterm infants of 32 weeks PCA (group 1) compared with those of 34 weeks PCA (group 2), based mainly on the increased water compartment in infants of group 1.
+
+Multiple linear regression was applied to analyze the data and to determine which independent variables exerted the influence on trough plasma vancomycin concentration. Since the trough concentration depends on volume of distribution and, to a lesser extent, on t½ b in preterm infants with PCA of 32 weeks, to optimize antimicrobial therapy, Equation 1 should be applied to these cases. In contrast, for infants of 34 weeks PCA, drug adjustments required for the maintenance of trough concentration at therapeutic window depend on Clt according to Equation 2.
+
+The main contribution of data obtained in the present study is that a good correlation of pharmacokinetics of vancomycin in both groups of infants investigated was shown in a different manner, using the postconceptual age (PCA) and also the postnatal age (PNA). In addition, the 2 population samples investigated in the present study are more homogenous than those reported in the previous studies.14, 18-21 Data obtained here differed statistically only in terms of PCA and PNA, P < .05.
+
+Differences found in kinetic data obtained in this study compared to published data could be explained by the selective and sensitive micromethod using HPLC applied to determine vancomycin concentrations in plasma of infants, since in most of the information reported previously, the drug was analyzed by a method using FPIA (fluorescence polarized immunoassay), which has a lower selectivity than the chromatographic method applied to our study. It is well known that vancomycin plus its degradation product have been quantified without differentiation by FPIA, so that the plasma levels are overestimated, with a significant error in the estimation of plasma clearance and also the biological half-life. Previous experience of our group shows that trough vancomycin levels lower than 5 µg/mL obtained by the HPLC method were related to the failure of drug therapy Therefore, the therapeutic drug monitoring of vancomycin is pharmacoeconomically feasible and recommended for patients of all ages, more especially for infants and for the elderly under intensive care.7-10
+
+Finally, the data reported in the present study indicate that therapeutic drug monitoring is critical for these patients, and the pharmacokinetic data must guide the neonatal physician in dose adjustments to guarantee the success of pharmacotherapy of sepsis in infants with vancomycin.
+
+ 
+
+CONCLUSION
+
+The trough plasma concentrations of vancomycin in preterm infants of group 1 depended mainly on volume of distribution but also on biological half-life, while that parameter in group 2 depended only on the total body clearance. Finally the influence of these kinetic parameters on trough plasma vancomycin concentration in preterm infants varies according to postconceptional age and postnatal age.
+
+ 
+
+ACKNOWLEDGMENTS
+
+To the Brazilian Research Support institutions, CAPES, CNPq and FAPESP, for the financial support.
+
+ 
+
+REFERENCES
+
+1. Hall SL. Coagulase-negative staphylococcal infections in neonates. Pediatr. Infect Dis J. 1991;10:57-67.         [ Links ]
+
+2. Haddad Q, Sobayo EI, Basit OB, Rotimi VO. Outbreak of methicillin-resistant Staphylococcus aureus in a neonatal intensive care unit. J Hosp Infect. 1993;23:211-22.         [ Links ]
+
+3. Huebner J, Pier GB, Maslow JN, Muller E, Shiro H, Parent M, Kropec A, et al. Endemic nosocomial transmission of Staphylococcus epidermidis bacteremia isolates in a neonatal intensive care unit over 10 years. J Infect Dis. 1994;169:526-31.         [ Links ]
+
+4. Gabriel MH, Kildoo GC 3rd, Gennrich JL, Modanlou HD, Collins SR. Prospective evaluation of a vancomycin dosage guideline for neonates. Clin Pharm. 1991;10:129-32.         [ Links ]
+
+5. Seay RE, Brundage RC, Jensen PD, Schilling CG, Edgren BE. Population pharmacokinetics of vancomycin in neonates. Clin Pharmacol Ther. 1994;56:169-75.         [ Links ]
+
+6. Sato Y. Pharmacokinetics of antibiotics in neonates. Acta Paediatr Jpn. 1997;39:124-31.         [ Links ]
+
+7. Tanaka M, Orii T, Gomi T, Kobayashi H, Kanke M, Hirono S. Clinical estimation of vancomycin measurement method on hemodialysis patient. The Pharmaceutical Society of Japan. 2002;122:269-75.         [ Links ]
+
+8. White LO, Holt HA, Reeves DS, MacGowan AP. Evaluation of innofluor fluorescence polarization immunoassay kits for the determination of serum concentrations of gentamicin, tobramycin, amikacin and vancomycin. J. Antimicrob Chemother. 1997; 39:355-61.         [ Links ]
+
+9. Sym D, Smith C, Meenan G, Lehrer M. Fluorescence polarization immunoassay: can it result in an overestimation of vancomycin in patients not suffering from renal failure? Ther Drug Monit. 2001;23:441-4.         [ Links ]
+
+10. Somerville AL, Wright DH. Rotschafer JC. Implications for vancomycin degradation products on therapeutic drug monitoring in patients with end-stage renal disease. Pharmacotherapy. 1999;19:702-7.         [ Links ]
+
+11. Paap CM, Sharpe GL. Overestimation of serum vancomycin concentrations using fluorescent polarization immunoassay (Tdx) in preterm neonates. Dev Pharmacol Ther. 1993;20:174-9.         [ Links ]
+
+12. Santos, CR, Feferbaum R, De Paula MLSA, Bertoline MA, Omosako CEK, Santos, SRCJ. Micromethod for quantification of vancomycin in plasma by HPLC and therapeutic drug monitoring application in newborns with sepsis. J.Pharmaceutical Sci. 2001;37:87-93.         [ Links ]
+
+13. Feferbaum R, Kobol Machado JK, de Albuquerque Diniz EM, Okay TS, Santos SR, Ceccon ME, et al. Vancomycin monitoring in term newborns: comparison of peak and trough serum concentrations determined by high performance liquid chromatography and fluorescence polarization immunoassay. Rev Hosp Clin; FM-USP. 2001; 56:149-52.         [ Links ]
+
+14. McDougal A, Ling EW, Levine M. Vancomycin pharmacokinetics and dosing in premature neonates. Ther Drug Monit. 1995;17:319-26.         [ Links ]
+
+15. Machado JK, Feferbaum R, Diniz EM, Okay TS, Ceccon ME, Costa Vaz FA. Monitoring the treatment of sepsis with vancomycin in term newborn infants. Rev Hosp Clin FMUSP. 2001;56:17-24.         [ Links ]
+
+16. Young TE, Mangum B. Neofax: a manual of drugs used in neonatal care. 14th ed. North Carolina: Acorn Publishing; 2001;58-9.         [ Links ]
+
+17. Ballard JL, Khoury JC, Wedig K, Wang L, Eilers-Walsman BL, Lipp R. New Ballard Score, expanded to include extremely premature infants. J Pediatr. 1991;119:417-23.         [ Links ]
+
+18. Rodvold KA, Everett JA, Pryka RD, Kraus DM. Phamacokinetics and administration regimens of vancomycin in neonates, infants, and children. Clin Pharmacokinet. 1997;33:32-24.         [ Links ]
+
+19. Yasuhara M, Iga T, Zenda H, Okumura K, Oguma T, et al. Population pharmacokinetics of vancomycin in Japanese pediatric patients. Ther Drug Monit. 1998; 20:612-8.         [ Links ]
+
+20. Grimsley C, Thomson AH. Pharmacokinetics and dose requirements of vancomycin in neonates. Arch Dis Child Fetal Neonatal. 1999;81:221-7.         [ Links ]
+
+21. Capparelli EV, Lane JR, Romanowski GL, McFeely EJ, Murray W, Sousa P, et al. The influences of renal function and maturation on vancomycin elimination in newborns and infants. J Clin Pharmacol. 2001;41:927-34.         [ Links ]
+
+22. Rotschafer JC, Walker KJ, Mandaras-Kelly KJ. Antimicrobial agents. In: Remington JS, Klein JO. Infect Dis Fetus New Infant. 1995; 4:2322-325.         [ Links ]
+
+23. De Hoog M, Schoemaker RC, Mouton JW, van den Anker JN. Vancomycin population pharmacokinetics in neonates. Clin Pharmacol Ther. 2000; 67:360-7.         [ Links ]
+
+24. Ginovart Galiana G, Mangues Bafalluy MA, Demestre Guasch X, Farre Riba R, Lopes Santos AP, Altirriba Valls O. Pharmacokinetics of vancomycin in neonates of postconceptional age less than or equal to 32 weeks. Ann Esp Pediatr. 1996;45:167-71.        [ Links ]

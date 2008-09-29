@@ -1,0 +1,193 @@
+Descritores
+
+Adolescent
+Adult
+Aged
+Cause of Death/*TD
+Child
+Child, Preschool
+Chile/EP
+Chronic Disease
+Female
+Health Transition/*
+Humans
+Hypertension/MO
+Infant
+Life Expectancy/TD
+Male
+Middle Aged
+Obesity/MO
+Socioeconomic Factors
+
+
+Artigo
+
+High frequency of p 16 promoter methylation in non-small cell lung carcinomas from Chile
+
+ 
+
+LEDA M GUZMAN1*, CHIHAYA KORIYAMA2, SUMINORI AKIBA2, YOSHITO EIZURU3, DARWINS CASTILLO4, ALEJANDRO CORVALAN4,5 and FRANCISCO R AGUAYO3,6 **
+
+1 Escuela de Tecnología Médica, Facultad de Salud, Universidad Santo Tomás, Santiago, Chile.
+2  Department of Epidemiology and Preventive Medicine, Kagoshima University Graduate School of Medical and Dental Sciences, Kagoshima, Japan.
+3  Division of Oncogenic and Persistent Viruses, Center for Chronic Viral Diseases, Kagoshima University Graduate School of Medical and Dental Sciences, Kagoshima, Japan.
+4 Laboratorio Nacional y de Referencia de Inmunología, Instituto de Salud Pública de Chile, Santiago, Chile.
+5 Departamento Anatomía Patológica, Pontificia Universidad Católica de Chile, Santiago, Chile.
+6 Laboratorio Patología Molecular y Epidemiología, Centro de Investigaciones Médicas, Pontificia Universidad Católica de Chile, Santiago, Chile.
+
+ABSTRACT
+
+The inactivation of tumour suppressor genes by aberrant methylation of promoter regions has been described as a frequent event in neoplasia development, including lung cancer. The p16 gene is a tumour suppressor gene involved in the regulation of cell cycle progression that has been reported to be inactivated by promoter methylation in lung carcinomas at variable frequencies around the world in a smoking habit dependent manner. The purpose of this study was to investigate the methylation status of the promoter region of the p16 gene in 74 non-small cell lung carcinomas from Chile. The frequency of p16 gene inactivation by promoter methylation was determined as 79.7% (59/74). When we considered histological type, we observed that p16 promoter methylation was significantly higher in squamous cell carcinomas (30/33, 91%) compared with adenocarcinomas (21/30, 70%) (p=0.029). In addition, no association between p16 promoter methylation and gender, age or smoking habit was found (p=0.202, 0.202 and 0.147 respectively). Our results suggest that p16 promoter hypermethylation is a very frequent event in non-small cell lung carcinomas from Chile and could be smoking habit-independent.
+
+Key terms: lung carcinoma, methylation, promoter region.
+
+INTRODUCTION
+
+Lung cancer (LC) is the most common cause of cancer-related mortality in men and women around the world [Pisani et al., 2002; Greenlee et al., 2001]. In Chile, LC is the second cause of death in men and third in women [Szot, 2003]. LC is classified into 2 major types: small-cell lung carcinomas (SCLCs) and non-small cell lung carcinomas (NSCLCs). In Chile, 75% of LC cases are NSCLCs and squamous cell lung carcinomas (SQCs) range between 25% to 50% of the cases and have been associated to chronic smoking habit [Wistuba et al., 2002; Shields, 2002]. LC is the most deadly and aggressive cancer, and the prognosis is limited by the difficulties of diagnosing early stages. The conventional analysis of sputum, cytological or bronchioalveolar lavage associated to thorax radiological screening has not improved the survival of this disease [Cassidy et al., 2007]. The rapid advancement in molecular techniques may help to identify novel new diagnostic markers with high sensitivity and prognostic value for early detection of LC in high-risk subjects, such as chronic smokers [Wistuba, 2007].
+
+It has been demonstrated that aberrant CpG island methylation in the promoter region of tumour suppressor genes (TSGs) is an important epigenetic mechanism of gene silencing [Callinan and Feinberg, 2006]. The TSGs inactivation by hypermethylation is a common event described in human cancer, including LC [Esteller, 2003; Herman and Baylin, 2003]. In lung carcinomas, more than 30 silenced genes have been reported to be methylated such as p16INK4a (pi6), RAR-|3 (retinoic-acid receptor (3) and E-cadherin [Zochbauer Muller et al., 2001]. The p16 TSG located on 9p21 chromosome encodes a cyclin dependent kinase, a key protein regulator of progression through the Gl phase of the cell cycle [Berger and Bardeesy, 2007]. The p16 protein plays an important role in the binding and inhibition of cyclin D kinase activity and then regulating the phosphorylation of the retinoblastoma protein (pl05Rb) [Wikenheiser-Brokamp, 2006].
+
+Recent studies demonstrated that aberrant p16 promoter methylation is an early and critical event in the NSCLCs development [Hilbe et al., 2004], and it has been observed in serum and sputum of chronic smokers without clinical disease [Belinsky, 2007]. It has been reported that aberrant pi6 promoter methylation is smoking habit associated, however TSGs methylation in non-smoker subjects has been detected [Liu et al., 2006; Nakata et al., 2006]. In addition, p16 promoter methylation has been shown to correlate with the progression of the malignancy in LC patients [Tanaka et al., 2005]. Taken together, p16 inactivation by promoter hypermethylation may be a useful precocity marker of LC development in high-risk subjects such as heavy smokers. Moreover, methylation is a reversible epigenetic event, thus the use of some drugs such as 5-deoxyazacytidine would be a very important future tool for the treatment of LC patients [Momparler, 2005]. We previously reported a high pi6 promoter methylation prevalence in SQCs from Santiago de Chile [Adonis et al., 2006], and now our goal is to increase the size of analyzed samples including Adenocarcinomas (ACs) and Large cell carcinomas (LCCs) and establish clinical associations with other clinical parameters such as smoking habit.
+
+MATERIALS AND METHODS
+
+Patients and Samples
+
+Primary tumour specimens were obtained from 74 patients undergoing surgical resection or biopsy of SCLC. There were 33 SQCs, 30 ACs, 8 LCCs and 3 specimens without histological information. Twenty-two samples were fresh frozen tissue and 52 specimens corresponded to archival paraffin embedded tissue. The specimens collected prospectively (fresh tissue) were snap-frozen at -80°C after initial histopathological examination and were diagnosed with stage I to III at Instituto Nacional de Enfermedades Respiratorias, Santiago, Chile. The paraffin embedded tissue specimens were diagnosed in the Hospital Salvador, Santiago, Chile during the period between 1998 and 2003.
+
+DNA extraction and Methylation-Specific PCR
+
+Ten [im-thick sections of each formalin-fixed paraffin-embedded sample were used. The samples were treated with 1 mL of xylene, and then with 1 mL of ethanol. After centrifugation, the pellet was resuspended in digestion buffer (50 mM Tris-Cl pH 8.0, 1 mM EDTA pH 8.0, 0.5% Tween 20) containing 200 [ig of Proteinase K (Life Technologies, Inc) and incubated during 24 hours at 56°C. Then the solution was heated to 100°C for 10 min and centrifuged to 10,000 rpm for 10 min. Phenol-chloroform extraction was made in all the samples and the DNA was precipitated with double volumes of ethanol [Coombs et al., 1999]. Genomic DNA was purified from frozen tumours by digestion with 200 [ig/mL Proteinase K (Life Technologies, Inc) for incubation at 50°C overnight, followed by extraction using the Wizard genomic DNA purification kit (Promega Corp., Madison, WI), following the instructions of the manufacturer. After the DNA purification, the adequacy of the samples for PCR was determined by amplification of the beta-globin gene. The primer sequences are indicated in Table I. For analysis of methylation patterns within the 5'-CpG island of the promoter region and upstream region of exon 1 of pi6 gene, µg of purified genomic DNA from each sample was used. The DNA was denatured with sodium hydroxide and modified with sodium bisulfite (Sigma Chemical Co., St Louis, MO), as described previously [Herman et al., 1996]. The modified DNA was purified using the Wizard Cleanup system (Promega Corp., Madison, WI). In order to amplify p16 methylated and non-methylated regions a nested MSP protocol was used as described [Fan X et al., 2002; Herman JG et al., 1996]. Primer sequences for both the methylated and the unmethylated form of the pi6 promoter region, annealing temperature, and the expected PCR product sizes are summarized in Table I. In order to amplify pi6 promoter fragment in the first PCR (outer primers), 2 µL of modified DNA were used and the reaction mix contained IX PCR buffer (16.6 mM (NH4)2S04, 67 mM Tris pH: 8.8, 6.7 mM MgCl2, 10 mM 2-mercaptoethanol), 1.2 mM dNTPs, 1.6 mM each primer, 2.5 U Taq Gold DNA polymerase (Applied Biosystem) and 5.2% DMSO in a final volume of 25 µL The PCR conditions were initial denaturation at 94°C for 7 min, 35 amplification cycles of denaturation at 94°C for 30 s, annealing at 56°C for 30 s, and extension at 72°C for 30 s. Using 1 µL of the first PCR product, a second PCR using inner methylated and unmethylated specific primers and 40 cycles of amplification was made. The annealing temparature was adjusted at 55°C. Genomic DNA from gallbladder treated with SssI methyltransferase (New England Biolabs) served as a positive control. Negative controls without DNA were included. The hypermethylation status of the p16 promoter region was determined by analysis of PCR products in 8% polyacrylamide gels after silver nitrate staining.
+
+
+Statistical analysis
+
+Statistical analyses were performed using Fisher's exact test and two sided p-values were presented. A P value less than 0.05 was considered statistically significant.
+
+RESULTS
+
+In this study we determined the frequency of pi6 promoter hypermethylation in NSCLCs from Chile confirmed by histology. We used a MS-PCR method that allows to detect methylated and unmethylated regions in the genome [Adonis et al, 2006]. The primers used in this report are described in Table I. All the used NSCLC specimens for methylation analysis were beta-globin gene positive because of the positive amplification of a 110 bp fragment in the samples. The clinico-pathological features of the analyzed samples and controls are described in Table II. In Figure I the specific amplification of two representative samples and controls are shown. The results of p16 promoter methylation status in all the samples are shown in Table III. Our results indicated that 59/74 (73%) lung carcinomas were pi6 promoter methylation positive. In addition, the pi6 promoter methylation frequency considering histological type was 91% (30/33) for SQC, 70% (21/30) for AC and 88% (7/8) for LCC. The difference between SQCs and ACs was statistically significant (p=0.029). No association between p16 promoter methylation and age (p=0.202), gender (p=0.202) or smoking habit (p=0.147) was found. The differentiation grade in NSCLC was not related to pi6 promoter methylation status (Table 4). However in AC we found that p16 promoter methylation was more frequent in highly differentiated (7/8, 87.5%) compared with moderately (7/12, 58.3%) or poorly (6/ 9, 66.7%) differentiated carcinomas. These differences were not statistically significant (Table 4, p=0.163).
+
+
+
+Figure 1: MS-PCR for P16 promoter methylation in NSCLCs specimens. Bisulphite modified DNA was amplified with p16 specific primers to detect methylated (M) and unmethylated (U) alíeles. MW: Molecular weight marker; +SssI: Genomic DNA treated with SssI enzyme; -SssI: Genomic DNA untreated with SssI enzyme; Sample 1 and 2: Specimens positive and negative for methylated condition; H20: distilled water used as negative control.
+
+
+
+DISCUSSION
+
+Epigenetic alterations such as CpG island methylation of promoter regions of TSGs have been reported to be a very frequent event in lung cancer development [Esteller M, 2002]. In 1995 the frequent p16 gene inactivation by methylation in diverse cancers was reported [Herman et al., 1995] and this methylation implied loss of pi6 transcriptional expression that was reversible after treatment with 5-deoxyazacytidine [Merlo et al, 1995]. After these findings, other reports showed that the pi6 promoter region was methylated in lung cancer at frequencies between 20 to 70% [Belinsky et al., 1998; Nuovo et al., 1999]. Previously, we reported that the p16 promoter is methylated in 86% of patients with SQC, a high prevalence compared with other studies around the world [Adonis et al., 2006]. For this reason, we decided to increase the size of our initial study, including other histological types as ACs and LCCs. In this report, a very frequent pi6 promoter methylation in NSCLCs from Chile was found (79.7%). In addition, when we stratified by histological type we observed that pi6 promoter methylation was higher in SQCs (90.9%) compared with ACs (70%) and this difference was statistically significant (p=0.029). Overall, the pi6 promoter methylation has been reported more frequently in SQCs compared with ACs [Belinsky, 2004; Digel et al., 2005] and accordingly with the frequent central location of SQCs compared with the peripheric location of ACs [Travis et al., 2004; Wistuba, 2007]. This higher p16 promoter methylation in SQCs is probably related to smoking habit which is considered a risk factor for SQC development.
+
+Some reports described a significant association between methylation of some genes such as pi6 or MGMT and smoking habit [Liu et al., 2006; Nakata et al., 2006; Toyooka et al., 2003]. However in our study we found that p16 promoter methylation was independent of smoking habit. Moreover, p16 promoter methylation was more frequent in non-smokers compared with smokers, although this difference was not statistically significant (91% vs. 72% respectively, p=0.147). This finding is compatible with another study [Sanchez-Cespedes M et al., 2001] where the authors showed that tumours from non-smokers arise exclusively through inactivation of p16 gene by promoter hypermethylation. However the frequencies of pi6 promoter methylation were lower in both smokers and non-smokers compared with our report. In addition, it has been reported that MGMT gene (06-methylguanine-DNA methyltransferase) methylation was more frequent between non-smokers compared with smokers [Pulling etal., 2003].
+
+In 2002, Belinsky et al. reported that exposure to particulate carcinogens such as diesel exhaust, carbon black and beryllium metal is associated with aberrant p16 promoter methylation [Belinsky et al., 2002]. In addition, the carcinogenic role of polycyclic aromatic hydrocarbons (HAP) present in smoke fumes and environmental contamination in lung cancer development has been well established [Gil et al., 2000; Hecht, 1999]. The carcinogenic mechanism implies adduct formation in the genetic material and is highly dependent of host factors [Hecht, 1999]. These observations are relevant to this study because the most of the patients come from Santiago (Salvador Hospital and Thorax Hospital), one of the most polluted cities worldwide [Adonis et al., 2000; Gil et al., 2000]. These compounds include polycyclic aromatic compounds as benzo-oc-pyrene which is a potent carcinogen. How the carcinogens present in the air, including cigarette fumes, may be involved in aberrant TSG methylation such as pi6 gene, remain to be elucidated. The very high frequency of pi6 promoter methylation detected in this study compared with previous reports [Belinsky, 2004] and moreover, the very high p16 promoter methylation prevalence in nonsmokers (91%, Table II) allows us to speculate that other environmental factors acting synergistically or not, are involved in this epigenetic alteration. These other factors may be related to cigarette smoke exposure which is difficult to evaluate in the population within environmental pollution and contamination such as ocurs in Santiago de Chile.
+
+The pi6 promoter methylation has been suggested as an early detection marker of lung cancer. In fact, p16 promoter methylation has been detected in early lesions and preneoplastic lesions of the lung. In SQC, pi6 promoter methylation has been suggested to occur in squamous dysplasia and metaplasia and then it is possible to detect it in high-risk individuals such as heavy smokers [Wistuba, 2007] when no clinical evidence is observed. It has been reported that pi6 methylation may be detected in serum or sputum from heavy smokers three years previous to clinical detection by conventional methods [Belinsky et al., 2006] as radiology or sputum cytology. Future studies should be focused on this area.
+
+In conclusion, our report showed high pi6 promoter methylation prevalence in NSCLCs from Chile that was significantly more frequent in SQCs compared with ACs. The pi6 promoter methylation was smoking habit-independent.
+
+ACKNOWLEDGEMENTS
+
+We are grateful to Dra. Maria Capetillo from Instituto de Anatomía Patológica in Salvador Hospital for her gift of the paraffin embedded blocks used in this study. This work was supported by Sociedad Chilena de Enfermedades Respiratorias (SER), Chile, Instituto de Salud Pública de Chile and Grants-in-Aid for Scientific Research on Priority Areas (12218231 and 17015037) of the Ministry of Education, Culture, Sports, Science and Technology,Japan.
+
+ 
+
+REFERENCES
+
+ADONIS M, GIL L (2000) Polycyclic aromatic hydrocarbon levels and mutagenicity of inhalable particulate matter in Santiago, Chile. Inhal Toxicol 12: 1173-83
+        [ Medline ]
+
+ADONIS W, AGUAYO F, CORDERO E, RODRIGUEZ L, CASTILLO D and GUZMAN L (2006). Evaluación de hipermetilación del gen p161NK4 _ en cáncer escamoso de pulmón en pacientes chilenos, Rev Ch Enf Resp, 22: 7-12
+
+BELINSKY SA, NIKULA KJ, PALMISANO WA, MICHELS R, SACCOMANNO G, GABRIELSON E, BAYLIN SB, HERMAN JG (1998) Aberrant methylation of pi6 (INK4a) is an early event in lung cancer and a potential biomarker for early diagnosis. Proc Nati Acad Sci U S A 95: 11891-11896
+
+BELINSKY SA, SNOW SS, NIKULA KJ, FINCH GL, TELLEZ CS, PALMISANO WA (2002) Aberrant CpG island methylation of the p16(INK4a) and estrogen receptor genes in rat lung tumours induced by particulate carcinogens. Carcinogenesis 23: 335-339
+        [ Medline ]
+
+BELINSKY SA (2004) Gene-promoter hypermethylation as a biomarker in lung cancer. Nat Rev Cancer 4: 707-717
+
+BELINSKY SA, LIECHTY KC, GENTRY FD, WOLF HJ, ROGERS J, VU K, HANEY J, KENNEDY TC, HIRSCH FR, MILLER Y, FRANKLIN WA, HERMAN JG, BAYLIN SB, BUNN PA, BYERS T (2006) Promoter hypermethylation of multiple genes in sputum precedes lung cancer incidence in a high-risk cohort. Cancer Res 66: 3338-3344
+        [ Medline ]
+
+BELINSKY SA, GRIMES MJ, CASAS E, STIDLEY CA, FRANKLIN WA, BOCKLAGE TJ, JOHNSON DH, SCHILLER JH (2007) Predicting gene promoter methylation in non-small-cell lung cancer by evaluating sputum and serum. Br J Cancer 96: 1278-1283
+        [ Medline ]
+
+CALLINAN PA, FEINBERG AP (2006) The emerging science of epigenomics. Hum Mol Genet 15 Spec No 1: R95-101
+
+CASSIDY A, DUFFY SW, MYLES JP, LILOGLOU T, FIELD JK (2007) Lung cancer risk prediction: a tool for early detection. Int J Cancer 120: 1-6
+        [ Medline ]
+
+COOMBS NJ, GOUGH AC, PRIMROSE JN (1999) Optimisation of DNA and RNA extraction from archival formalin-fixed tissue. Nucleic Acids Res 27: el2
+
+DIGEL W, LUBBERT M (2005) DNA methylation disturbances as novel therapeutic target in lung cancer: preclinical and clinical results. Crit Rev Oncol Hematol 55: 1-11
+        [ Medline ]
+
+ESTELLER M (2002) CpG island hypermethylation and tumour suppressor genes: a booming present, a brighter future. Oncogene 21: 5427-5440
+
+ESTELLER M (2003) Cancer epigenetics: DNA methylation and chromatin alterations in human cancer. Adv Exp Med Biol 532: 39-49
+        [ Medline ]
+
+FAN X, INDA MM, TUÑON T AND CASTRESANA JS (2002) Improvement of the methylation specific PCR technical conditions for the detection of p16 promoter hypermethylation in small amounts of tumour DNA. Oncol Rep 9: 181-183
+        [ Medline ]
+
+GIL L, KING L, ADONIS M (2000) Trends of polycyclic aromatic hydrocarbon levels and mutagenicity in Santiago's inhalable airborne particles in the period 1992-1996. Inhal Toxicol 12: 1185-204
+        [ Medline ]
+
+GREENLEE RT, HILL-HARMON MB, MURRAY T AND THUN M (2001) Cancer statistics, 2001. CA Cancer J Clin 51: 15-36. Erratum in: CA Cancer J Clin 2001;51: 144
+        [ Medline ]
+
+HECHT SS. Tobacco smoke carcinogens and lung cancer. J Nati Cancer Inst 91: 1194-1210
+
+HERMAN JG, MERLO A, MAO L, LAPIDUS RG, ISSA JP, DAVIDSON NE, SIDRANSKY D, BAYLIN SB (1995) Inactivation of the CDKN2/p16/MTSl gene is frequently associated with aberrant DNA methylation in all common human cancers. Cancer Res 55: 4525-30
+
+HERMAN JG, GRAFF JR, MYÖHÄNEN S, NELKIN BD AND BAYLIN SB (1996) Methylation -specific PCR: a novel PCR assay for methylation status of CpG islands. Proc. Nati. Acad. Sci. USA 93: 9821-9826
+
+HERMAN JG, BAYLIN SB (2003) Gene silencing in cancer in association with promoter hypermethylation. N Engl J Med 349: 2042-2054
+
+HILBE W, DIRNHOFER S, GREIL R, WOLL E (2004) Biomarkers in non-small cell lung cancer prevention. Eur J Cancer Prev 13: 425-436
+        [ Medline ]
+
+LIU Y, LAN Q, SIEGFRIED JM, LUKETICH JD, KEOHAVONG P (2006) Aberrant promoter methylation of p16 and MGMT genes in lung tumours from smoking and never-smoking lung cancer patients. Neoplasia 8: 46-51
+
+MERLO A, HERMAN JG, MAO L, LEE DJ, GABRIELSON E, BURGER PC, BAYLIN SB, SIDRANSKY D (1995) 5' CpG island methylation is associated with transcriptional silencing of the tumour suppressor p 16/CDKN2/MTS1 in human cancers. Nat Med 1: 686-692
+        [ Medline ]
+
+MOMPARLER RL (2005) Epigenetic therapy of cancer with 5-aza-2'-deoxycytidine (decitabine). Semin Oncol 32: 443-451
+        [ Medline ]
+
+NAKATA S, SUGIO K, URAMOTO H, OYAMA T, HANAGIRI T, MORITA M, YASUMOTO K (2006) The methylation status and protein expression of CDH1, p16(INK4A), and fragile histidine triad in nonsmall cell lung carcinoma: epigenetic silencing, clinical features, and prognostic significance. Cancer 106: 2190-2199
+        [ Medline ]
+
+NUOVO GJ, PLAIA TW, BELINSKY SA, BAYLIN SB, HERMAN JG (1999) In situ detection of the hypermethylation-induced inactivation of the p16 gene as an early event in oncogenesis. Proc Nati Acad Sci USA 96: 12754-12759
+
+PISANI P, BRAY F, PARKIN DM (2002) Estimates of the world-wide prevalence of cancer for 25 sites in the adult population. Int J Cancer 97: 72-81
+        [ Medline ]
+
+PULLING LC, DIVINE KK, KLINGE DM, GILLILAND FD, KANG T, SCHWARTZ AG, BOCKLAGE TJ, BELINSKY SA (2003) Promoter hypermethylation of the 06-methylguanine-DNA methyltransferase gene: more common in lung adenocarcinomas from never-smokers than smokers and associated with tumour progression. Cancer Res 63: 4842-4848
+        [ Medline ]
+
+SANCHEZ-CESPEDES M, DECKER PA, DOFFEK KM, ESTELLER M, WESTRA WH, ALAWI EA, HERMAN JG, DEMEURE MJ, SIDRANSKY D, AHRENDT SA (2001) Increased loss of chromosome 9p21 but not p16 inactivation in primary non-small cell lung cancer from smokers. Cancer Res 61: 2092-2096
+        [ Medline ]
+
+SHIELDS PG (2002) Molecular epidemiology of smoking and lung cancer. Oncogene 21: 6870-6876
+        [ Medline ]
+
+SZOT J (2003) Epidemiological analysis of mortality caused by solid tumours in the Metropolitan Region, Chile, 1999. Rev Med Chil 131: 641-9
+        [ Medline ]        [ Lilacs ]
+
+TANAKA R, WANG D, MORISHITA Y, INADOME Y, MINAMI Y, IIJIMA T, FUKAI S, GOYA T, NOGUCHI M (2005) Loss of function of p16 gene and prognosis of pulmonary adenocarcinoma. Cancer 103: 608-615
+        [ Medline ]
+
+TOYOOKA S, TSUDA T, GAZDAR AF (2003). The TP53 gene, tobacco exposure, and lung cancer. Hum Mutat 2: 229-239
+
+TRAVIS WD, BRAMBILLA E, MULLER-HERMELINK HK AND HARRIS CC (2004) Pathology and Genetics: Tumours of the Lung, Pleura, Thymus and Heart: World Health Organization. Classification of Tumours. Pathology & Genetics. Travis WD, Brambilla E, Muller-Hermelink Hk and Harris Cc (eds). International Agency for Research on Cancer (IARC): Lyon,pp. 9-124
+
+WIKENHEISER-BROKAMP KA (2006) Retinoblastoma regulatory pathway in lung cancer. Curr Mol Med 6: 783-793
+
+WISTUBA II, MAO L AND GAZDAR AF (2002) Smoking molecular damage in bronchial epithelium. Oncogene 21: 7298-7306
+        [ Medline ]
+
+WISTUBA II (2007) Genetics of preneoplasia: lessons from lung cancer. Curr Mol Med 7: 3-14
+
+ZOCHBAUER-MULLER S, FONG KM, VIRMANI AK, GERADTS J, GAZDAR AF, MINNA J (2001) Aberrant promoter methylation of multiple genes in non-small cell lung cancers. Cancer Res 61: 249-255
+        [ Medline ]
