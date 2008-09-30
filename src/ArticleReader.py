@@ -15,6 +15,10 @@ class ArticleReader():
         self.arquivo = NullFile()
         self.stemmer = NullStemmer()
         self.filter = NullWordFilter()
+    def set_conteudo(self,string):
+        self.conteudo = string
+    def set_desc(self,desc):
+        self.descritores = desc
     def set_file(self,string):
         self.nomeArquivo = string
     def open_file(self):
@@ -24,7 +28,8 @@ class ArticleReader():
     def set_word_filter(self, filter):
         self.filter = filter
     def filter_and_steam(self):
-        self.conteudo = self.arquivo.read()
+        if self.conteudo == "":
+            self.conteudo = self.arquivo.read()
         word = ''
         output = ''
         for c in self.conteudo:
@@ -42,9 +47,9 @@ class ArticleReader():
         self.conteudo = self.conteudo.split()
     def compare(self,listaDesc , listaSin):
         for i in range(len(self.conteudo)):
-
+            #self.descritores.__len__()
             #Uma Palavra
-            #print self.conteudo[i]+'\n'
+            print self.conteudo[i]+'\n'
             #Descritores
             if listaDesc.has_key(self.conteudo[i]):
                 if(self.descritores.__contains__(listaDesc[self.conteudo[i]])):
@@ -66,7 +71,7 @@ class ArticleReader():
             #listaDesc[self.conteudo[i]+' '+self.conteudo[i+1]]
             #Duas Palavras
             if i+1 < len(self.conteudo):
-                #print self.conteudo[i]+' '+self.conteudo[i+1]+'\n'
+                print self.conteudo[i]+' '+self.conteudo[i+1]+'\n'
                 #Descritores
                 if listaDesc.has_key(self.conteudo[i]+' '+self.conteudo[i+1]):
                     if(self.descritores.__contains__(listaDesc[self.conteudo[i]+' '+self.conteudo[i+1]])):
@@ -88,7 +93,7 @@ class ArticleReader():
             #listaDesc[self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]]
             #Tres Palavras      
             if i+2 < len(self.conteudo):
-                #print self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]+'\n'
+                print self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]+'\n'
                 #Descritores
                 if listaDesc.has_key(self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]):
                     if(self.descritores.__contains__(listaDesc[self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]])):
