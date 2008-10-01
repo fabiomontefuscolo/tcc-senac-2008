@@ -40,16 +40,16 @@ class ArticleReader():
                     output += self.stemmer.stem(word, 0, len(word)-1 )
                     output += ' '
                 word = ''
-        self.conteudo = output
- 
+        self.conteudo = output 
     def prepar_conteudo(self):
         self.filter_and_steam()    
         self.conteudo = self.conteudo.split()
     def compare(self,listaDesc , listaSin):
         for i in range(len(self.conteudo)):
+            self.descritores = {}
             #self.descritores.__len__()
             #Uma Palavra
-            print self.conteudo[i]+'\n'
+            #print self.conteudo[i]+'\n'
             #Descritores
             if listaDesc.has_key(self.conteudo[i]):
                 if(self.descritores.__contains__(listaDesc[self.conteudo[i]])):
@@ -71,7 +71,7 @@ class ArticleReader():
             #listaDesc[self.conteudo[i]+' '+self.conteudo[i+1]]
             #Duas Palavras
             if i+1 < len(self.conteudo):
-                print self.conteudo[i]+' '+self.conteudo[i+1]+'\n'
+                #print self.conteudo[i]+' '+self.conteudo[i+1]+'\n'
                 #Descritores
                 if listaDesc.has_key(self.conteudo[i]+' '+self.conteudo[i+1]):
                     if(self.descritores.__contains__(listaDesc[self.conteudo[i]+' '+self.conteudo[i+1]])):
@@ -93,7 +93,7 @@ class ArticleReader():
             #listaDesc[self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]]
             #Tres Palavras      
             if i+2 < len(self.conteudo):
-                print self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]+'\n'
+                #print self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]+'\n'
                 #Descritores
                 if listaDesc.has_key(self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]):
                     if(self.descritores.__contains__(listaDesc[self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]])):
@@ -111,9 +111,27 @@ class ArticleReader():
                         self.descritores[listaDesc[listaSin[self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]]]] = 1
  
  
+ 
+    def filter_desc(self):
+        self.descritores = sorted(self.descritores.items(),lambda x, y: cmp(x[1], y[1]), reverse=True)
+        #print self.descritores.__getitem__(0)
+        #print self.descritores.__getitem__(0)[1] / 5
+        #print self.descritores.__len__()
+        #print self.descritores.__getitem__(self.descritores.__len__()/2)[1]
+        #qty = (self.descritores.__getitem__(0)[1] *10) / (self.descritores.__len__())
+        #print qty
+        limite = self.descritores.__getitem__(0)[1] / 5
         
-"""           
-
+        newdesc ={}
+        for i in self.descritores:
+            
+            if i[1] >=limite:
+                newdesc[i[0]] = i[1]
+        #self.descritores.
+        self.descritores = newdesc
+        #print self.descritores
+           
+"""
 descritores = {'HIV': 'HIV Full String' ,
                'nitric' : 'Nitric full',
                'nitric oxid' : 'Nitric oxide full',
