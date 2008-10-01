@@ -45,8 +45,8 @@ class ArticleReader():
         self.filter_and_steam()    
         self.conteudo = self.conteudo.split()
     def compare(self,listaDesc , listaSin):
+        self.descritores = {}
         for i in range(len(self.conteudo)):
-            self.descritores = {}
             #self.descritores.__len__()
             #Uma Palavra
             #print self.conteudo[i]+'\n'
