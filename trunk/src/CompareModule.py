@@ -48,15 +48,17 @@ class ArticleScielo():
  
     def precisao(self,dic):
         count = 0
-        print self.descritores_definidos
+        print "Descritores Pre-definidos: ",self.descritores_definidos
+        print "Descritores Obtidos: ", dic
         for desc in dic.iterkeys():
-            print desc
+            #print desc
             if self.descritores_definidos.__contains__(desc):
                 count = count + 1
         
         print count , " corretos de " , dic.__len__(), " encontrados"
-        print count , " corretos encontrados de " , self.descritores_definidos.__len__() , " definidos previamente\n"
-    
+        print count , " corretos encontrados de " , self.descritores_definidos.__len__() , " definidos previamente"
+        print "Precisao = " , (count)*1.0/(dic.__len__())*1.0 , "%"
+        print "Cobertura = " , (count)*1.0/(self.descritores_definidos.__len__())*1.0 , "%"
 artigo = ArticleScielo()
 artigo.extrair_conteudo(r'../in/Artigo2.txt')
 #print artigo.descritores_definidos

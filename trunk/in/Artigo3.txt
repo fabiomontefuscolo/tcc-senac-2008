@@ -2,20 +2,20 @@ Descritores
 
 Analysis of Variance
 Anthropometry
-Body Height/PH
-Body Size/*PH
-Body Weight/PH
-Child Development/*PH
-Cholestasis, Extrahepatic/ME/*PP
-Cholestasis, Intrahepatic/ME/*PP
-Growth Disorders/ME/*PP
+Body Height
+Body Size
+Body Weight
+Child Development
+Cholestasis, Extrahepatic
+Cholestasis, Intrahepatic
+Growth Disorders
 Humans
 Infant
 Infant, Newborn
-Jaundice, Neonatal/PP
-Malnutrition/ME/PP
-Nutritional Status/*PH
-Triglycerides/PK
+Jaundice, Neonatal
+Malnutrition
+Nutritional Status
+Triglycerides
 
 
 

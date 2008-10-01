@@ -1,14 +1,14 @@
 Descritores
 
-Anti-Bacterial Agents/*PK/TU
+Anti-Bacterial Agents
 Half-Life
 Humans
 Infant, Newborn
-Infant, Premature, Diseases/DT/*ME
+Infant, Premature, Diseases
 Metabolic Clearance Rate
 Prospective Studies
-Sepsis/DT/*ME
-Vancomycin/*PK/TU
+Sepsis
+Vancomycin
 
 
 Artigo

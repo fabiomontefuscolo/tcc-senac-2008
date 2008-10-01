@@ -3,20 +3,20 @@ Descritores
 Adolescent
 Adult
 Aged
-Cause of Death/*TD
+Cause of Death
 Child
 Child, Preschool
-Chile/EP
+Chile
 Chronic Disease
 Female
-Health Transition/*
+Health Transition
 Humans
-Hypertension/MO
+Hypertension
 Infant
-Life Expectancy/TD
+Life Expectancy
 Male
 Middle Aged
-Obesity/MO
+Obesity
 Socioeconomic Factors
 
 
