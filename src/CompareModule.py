@@ -7,11 +7,14 @@ from WordFilter import WordFilter
 from NullClasses import *
 
 class ArticleScielo():
+
     def _init_(self):
         self.nomeArquivoTxt = ""
         self.arquivo = NullFile()
         self.descritores_definidos = []
         self.artigo = ""
+        self.count = -1    
+
         #self.extrair_conteudo()
         
     def extrair_conteudo(self,nomeArquivo):
@@ -47,24 +50,37 @@ class ArticleScielo():
  
  
     def precisao(self,dic):
-        count = 0
-        print "Descritores Pre-definidos: ",self.descritores_definidos
-        print "Descritores Obtidos: ", dic
-        for desc in dic.iterkeys():
+        self.count = -1
+        if (self.count == -1):
+            self.count = 0
+            for desc in dic.iterkeys():
             #print desc
-            if self.descritores_definidos.__contains__(desc):
-                count = count + 1
+                if self.descritores_definidos.__contains__(desc):
+                    self.count = self.count + 1
+        return (self.count)*1.0/(dic.__len__())*1.0    
+ 
+    def cobertura(self,dic):
+        if self.count == -1:
+            self.count = 0
+            for desc in dic.iterkeys():
+            #print desc
+                if self.descritores_definidos.__contains__(desc):
+                    self.count = self.count + 1    
+        return (self.count)*1.0/(self.descritores_definidos.__len__())*1.0
+        #print count , " corretos de " , dic.__len__(), " encontrados"
+        #print count , " corretos encontrados de " , self.descritores_definidos.__len__() , " definidos previamente"
+        #print "Precisao = " , (count)*1.0/(dic.__len__())*1.0 , "%"
+        #print "Cobertura = " , (count)*1.0/(self.descritores_definidos.__len__())*1.0 , "%"
+
         
-        print count , " corretos de " , dic.__len__(), " encontrados"
-        print count , " corretos encontrados de " , self.descritores_definidos.__len__() , " definidos previamente"
-        print "Precisao = " , (count)*1.0/(dic.__len__())*1.0 , "%"
-        print "Cobertura = " , (count)*1.0/(self.descritores_definidos.__len__())*1.0 , "%"
 artigo = ArticleScielo()
 artigo.extrair_conteudo(r'../in/Artigo2.txt')
 #print artigo.descritores_definidos
 #print artigo.artigo
 
 
+        #print "Descritores Pre-definidos: ",self.descritores_definidos
+        #print "Descritores Obtidos: ", dic
 
 
 
