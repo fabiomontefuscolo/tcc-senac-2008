@@ -44,7 +44,32 @@ class ArticleReader():
     def prepar_conteudo(self):
         self.filter_and_steam()    
         self.conteudo = self.conteudo.split()
-    def compare(self,listaDesc , listaSin):
+        
+    def compare(self,listaDesc,listaSin,janela):
+        for i in range(len(self.conteudo)):
+            word = ""
+            for j in range(janela):
+                if (i+j) >= len(self.conteudo):
+                    break
+                word += self.conteudo[i+j]
+                #print word
+                if listaDesc.has_key(word):
+                    if(self.descritores.__contains__(listaDesc[word])):
+                        self.descritores[listaDesc[word]] += 1
+                    else:
+                        self.descritores[listaDesc[word]] = 1
+                        
+                if listaSin.has_key(word):
+                    if(self.descritores.__contains__(listaDesc[listaSin[word]])):
+                        self.descritores[listaDesc[listaSin[word]]] += 1
+                    else:
+                        self.descritores[listaDesc[listaSin[word]]] = 1
+                
+                word += " "
+                
+        print self.descritores           
+    
+    """def compare(self,listaDesc , listaSin):
         self.descritores = {}
         for i in range(len(self.conteudo)):
             #self.descritores.__len__()
@@ -108,28 +133,29 @@ class ArticleReader():
                     if(self.descritores.__contains__(listaDesc[listaSin[self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]]])):
                         self.descritores[listaDesc[listaSin[self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]]]] += 1
                     else:
-                        self.descritores[listaDesc[listaSin[self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]]]] = 1
+                        self.descritores[listaDesc[listaSin[self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]]]] = 1"""
  
- 
+
  
     def filter_desc(self):
-        self.descritores = sorted(self.descritores.items(),lambda x, y: cmp(x[1], y[1]), reverse=True)
-        #print self.descritores.__getitem__(0)
-        #print self.descritores.__getitem__(0)[1] / 5
-        #print self.descritores.__len__()
-        #print self.descritores.__getitem__(self.descritores.__len__()/2)[1]
-        #qty = (self.descritores.__getitem__(0)[1] *10) / (self.descritores.__len__())
-        #print qty
-        limite = self.descritores.__getitem__(0)[1] / 5
-        
-        newdesc ={}
-        for i in self.descritores:
+        if(self.descritores.__len__() > 0):
+            self.descritores = sorted(self.descritores.items(),lambda x, y: cmp(x[1], y[1]), reverse=True)
+            #print self.descritores.__getitem__(0)
+            #print self.descritores.__getitem__(0)[1] / 5
+            #print self.descritores.__len__()
+            #print self.descritores.__getitem__(self.descritores.__len__()/2)[1]
+            #qty = (self.descritores.__getitem__(0)[1] *10) / (self.descritores.__len__())
+            #print qty
+            limite = self.descritores.__getitem__(0)[1] / 5
             
-            if i[1] >=limite:
-                newdesc[i[0]] = i[1]
-        #self.descritores.
-        self.descritores = newdesc
-        #print self.descritores
+            newdesc ={}
+            for i in self.descritores:
+                
+                if i[1] >=limite:
+                    newdesc[i[0]] = i[1]
+            #self.descritores.
+            self.descritores = newdesc
+            #print self.descritores
            
 """
 descritores = {'HIV': 'HIV Full String' ,
@@ -163,13 +189,13 @@ ar.set_file(r'..\in\Entrada.txt')
 ar.open_file()
 
 ar.prepar_conteudo()
-ar.compare(descritores,sinonimos)
+#ar.compare2(descritores,sinonimos,4)
 
-print descritores
-print ar.descritores
-
+#print descritores
+#print ar.descritores
 
 """
+
 
 
 
