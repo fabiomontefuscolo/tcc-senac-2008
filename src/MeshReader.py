@@ -117,8 +117,12 @@ class MeshHandler(ContentHandler):
         pickle.dump(dic, file)
         
     
-    def restore(self, dic,file):
-        dic = pickle.load(file)
+    def restore(self, dic,file,type):
+        if type == "DESC":
+            self.desc_dic = pickle.load(file)
+        elif type == "SINO":
+            self.sino_dic = pickle.load(file)
+        #print dic
         
 # Criar um objeto Parser
 """parser = make_parser()

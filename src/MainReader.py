@@ -41,8 +41,11 @@ mh.set_word_filter(wf)
 parser.setContentHandler(mh)
 
 # Arquivo XML
-parser.parse(r'../mesh/desc2008.xml')
+#parser.parse(r'../mesh/desc2008.xml')
 
+#Carregar Dicionarios serializados
+mh.restore(mh.desc_dic,open(r'../mesh/desc_dic'),"DESC")
+mh.restore(mh.sino_dic,open(r'../mesh/sino_dic'),"SINO")
 #print mh.desc_dic
 
 print "Mesh carregado!!!"
@@ -94,8 +97,8 @@ for i in range(1,4):
 print "\nPrecisao geral do programa para",total,"documentos:",precisao/total
 print "\nCobertura geral do programa para",total,"documentos:",cobertura/total
 
-mh.serialize(mh.desc_dic, open(r'../mesh/desc_dic','w'))
-mh.serialize(mh.sino_dic, open(r'../mesh/sino_dic','w'))
+#mh.serialize(mh.desc_dic, open(r'../mesh/desc_dic','w'))
+#mh.serialize(mh.sino_dic, open(r'../mesh/sino_dic','w'))
 
 
 #print mh.desc_dic
