@@ -1,0 +1,245 @@
+Descritores
+
+Adult
+Age Factors
+Aged
+Aged, 80 and over
+Brazil
+Breast Neoplasms
+Female
+Humans
+Mammography
+Mass Screening
+Middle Aged
+Prevalence
+Radiology Information Systems
+Retrospective Studies
+
+
+Artigo
+
+Presumed prevalence analysis on suspected and highly suspected breast cancer lesions in São Paulo using BIRADS® criteria
+
+ 
+
+Análise da prevalência presumida de lesões suspeitas e altamente suspeitas de câncer de mama em São Paulo, Brasil, utilizando critérios de BIRADS (breast imaging radiology and data system-American College of Radiology)
+
+ 
+
+ 
+
+Vivian Milani; Suzan Menasce Goldman; Flora Finguerman; Marianne Pinotti; Celso Scazufka Ribeiro; Nitamar Abdalla; Jacob Szejnfeld
+
+Institute of Diagnostic Imaging (IDI), Universidade Federal de São Paulo – Escola Paulista de Medicina (Unifesp-EPM), São Paulo, Brazil
+
+Address for correspondence
+
+ 
+
+ 
+
+ABSTRACT
+
+CONTEXT AND OBJECTIVE: Breast cancer screening programs are critical for early detection of breast cancer. Early detection is essential for diagnosing, treating and possibly curing breast cancer. Since there are no data on the incidence of breast cancer, nationally or regionally in Brazil, our aim was to assess women by means of mammography, to determine the prevalence of this disease.
+DESIGN AND SETTING: The study protocol was designed in collaboration between the Department of Diagnostic Imaging (DDI), Institute of Diagnostic Imaging (IDI) and São Paulo Municipal Health Program.
+METHODS: A total of 139,945 Brazilian women were assessed by means of mammography between April 2002 and September 2004. Using the American College of Radiology (ACR) criteria (Breast Imaging Reporting and Data System, BIRADS®), the prevalence of suspected and highly suspected breast lesions were determined.
+RESULTS: The prevalence of suspected (BIRADS® 4) and highly suspected (BIRADS® 5) lesions increased with age, especially after the fourth decade. Accordingly, BIRADS® 4 and BIRADS® 5 lesions were more prevalent in the fourth, fifth, sixth and seventh decades.
+CONCLUSION: The presumed prevalence of suspected and highly suspected breast cancer lesions in the population of São Paulo was 0.6% and it is similar to the prevalence of breast cancer observed in other populations.
+
+KEY WORDS: Mammography. Breast neoplasm. Determination. Epidemiology. Statistics.
+
+RESUMO
+
+CONTEXTO E OBJETIVO: Os programas de rastreamento para câncer de mama são fundamentais para a detecção precoce da doença. A detecção precoce de lesões suspeitas é essencial para diagnóstico, tratamento e possível cura do câncer de mama. Como no Brasil não há dados nacionais ou regionais sobre a prevalência do câncer de mama, nosso objetivo foi avaliar mulheres através da mamografia para determinar a prevalência da doença no Brasil no período de abril de 2002 a setembro de 2004.
+TIPO DE ESTUDO E LOCAL: Este trabalho foi realizado com a colaboração do Departamento de Diagnóstico por Imagem (DDI), Instituto de Diagnóstico por Imagem e da Prefeitura da cidade de São Paulo.
+MÉTODOS: Um total de 139.945 mulheres brasileiras foram avaliadas através de mamografias no período de abril de 2002 a setembro de 2004. Utilizando o sistema Birads® ACR (Breast Imaging Reporting and Data System, American College), a prevalência de lesões suspeitas e altamente suspeitas foi determinada.
+RESULTADOS: A prevalência de lesões suspeitas (BIRADS® 4) e altamente suspeitas (BIRADS® 5) aumentou com a idade, especialmente após a quarta década. De acordo com isso, as lesões BIRADS® 4 e BIRADS® 5 são mais prevalentes nas quarta, quinta, sexta e sétima décadas de vida.
+CONCLUSÕES: A prevalência presumida de lesões suspeitas e altamente suspeitas de câncer de mama na população da cidade de São Paulo é 0,6% e esta prevalência é similar a de outras populações observadas.
+
+PALAVRAS-CHAVE: Mamografia. Neoplasias mamárias. Detecção. Epidemiologia. Estatística.
+
+ 
+
+ 
+
+INTRODUCTION
+
+Population-based health programs for breast cancer screening are essential for detecting breast tumors in their initial stages. Developed countries and the majority of developing nations have implemented breast cancer screening strategies in order to detect and treat the disease in its earliest stages. The importance of early diagnosis for treating and possibly curing breast cancer patients has been demonstrated in many studies.1 Disease aggressiveness and high mortality rates are considered to be related to late diagnosis.2
+
+Many authors1,3,4 have demonstrated the importance of mammography for screening for breast cancer and achieving early diagnosis. These studies have also indicated that early detection of breast cancer involves less cost for the health system and is associated with significantly higher cure rates, better treatment options and better responses from patients.2
+
+Breast cancer is considered to be one of the most prevalent diseases worldwide. Moreover, breast cancer is the disease with the highest death rates in Western Europe and North America. In Canada and the United States, statistics have shown that one in ten women will develop breast cancer during their lifetimes.5 According to the Brazilian National Cancer Institute (INCA),6 a considerable increase in the mortality rate due to breast cancer was observed in Brazil between 1978 and 1998. About 31,500 new cases of breast cancer were estimated to have emerged in Brazil in 1999, thereby confirming the trend towards higher prevalence of the disease in developing countries in recent years.
+
+The most important screening pro-grams for breast cancer are based on mammography. This is considered to be the best method for screening for early-stage breast cancer and its use has been described as the most efficient strategy for reducing the mortality rate due to breast cancer. The sensitivity of mammography for breast cancer diagnosis ranges from 85% to 92%.3 Experience from screening programs for breast cancer that have been implemented around the world has suggested that mammography should be performed on women without symptoms every year, starting at the age of 40 years. This recommendation is supported by the American College of Radiology (ACR).4,5,7-10
+
+Among the factors that may influence the development of breast cancer are the woman's age at the menarche, menopause and first pregnancy, along with late pregnancy and parity.4,7-9 Other important factors involved in the development and progression of breast cancer include heredity, genetically acquired abnormalities and other endogenous and exogenous environmental factors.10,11 Five to 10% of breast cancer cases have a hereditary background and, in 3.5% of the patients, the disease is related to the presence of a genetic defect, BRCA-1, which give rise to genetic susceptibility to breast cancer. Patients with a family history of breast cancer (mother, sister or daughter) have a two to fourfold greater chance of developing the disease.12-14 Among the environmental factors, radiation exposure, fat-rich diet and alcohol use may influence the development of the disease.15 Obesity is a risk factor for different types of tumor, including breast, prostate, colon and womb cancer.16
+
+Epidemiological studies have demonstrated that the prevalence of breast cancer according to mammographic screening surveys varies among different populations (Table 1). Depending on the population studied, breast cancer prevalence ranges from 0.40 to 0.81%.17-22
+
+ 
+
+ 
+
+According to the ACR, mammography examinations should be undertaken every year by patients within the age range from 40 to 49 years, and this strategy causes a reduction of breast cancer mortality by about 19%.7,23 For patients under 40 years of age, mammography is suggested either when they are included in a risk group for disease development or when palpable nodules need to be investigated.24-26 However, despite its high sensitivity and low specificity, mammography does not detect 10 to 20% of breast cancers.27-29
+
+For breast lesion classification, the Breast Imaging Reporting and Data System (BIRADS®) is usually used.This standardized mammographic evaluation system was proposed by the ACR in 1992 and reviewed in 1998.7The process aimed to homogenize the analysis of mammography reports and also had the objective of making the information and procedures uniform. Since 1998, the BIRADS® system has been recommended for mammography reports in Brazil, following recommendations from the Brazilian College of Radiology and the Brazilian Federation of Gynecology and Obstetrics.6
+
+Widespread use of mammography as a screening tool for breast cancer diagnosis allows comparison of disease incidence among different population groups and brings important information for planning health prevention programs and resource allocation in developing countries. The use of standardized mammographic analysis in accordance with the ACR recommendations has gained worldwide acceptance and motivated us to apply this method in the screening program for breast cancer in São Paulo, Brazil. Using BIRADS® standard reports, in the present study we determined the presumed prevalence of suspected and highly suspected breast cancer lesions among a significant number of women living in São Paulo in 2003.
+
+ 
+
+OBJECTIVE
+
+The aim of this study was to analyze the presumed prevalences of suspected and highly suspected breast cancer lesions in a representative sample of the population of São Paulo, Brazil, using mammographic screening and systematic analysis by means of the ACR criteria, as standardized by BIRADS®.
+
+ 
+
+METHODS
+
+Patients
+
+A total of 139,945 mammographic examinations performed between April 2002 and September 2004 were assessed retrospectively. The study protocol was designed in collaboration between the Department of Diagnostic Imaging of Universidade Federal de São Paulo (DDI-Unifesp), the Institute of Diagnostic Imaging (IDI) and the São Paulo Municipal Health Program. All the mammograms came from medical facilities located in the metropolitan area of São Paulo. They were read and analyzed in the Report Center of DDI-Unifesp by radiologists who had been trained in the use of BIRADS® standard reports. The study protocol had previously been submitted to and been approved by the Ethics Committee of Universidade Federal de São Paulo — Escola Paulista de Medicina (Unifesp-EPM).
+
+Inclusion criteria
+
+Patients undergoing mammography examinations for breast cancer screening were included in this study. Patients with palpable nodules and patients who had already undergone surgery due to breast cancer were excluded.
+
+Mammogram technique
+
+The conventional technique for mammographic screening was used, with four basic incidences: caudal-cranial and medial-lateral, bilaterally. Some complementary incidences (lateral, compressions and magnifications) were performed in approximately 15% of the mammographic screening.
+
+Equipment, film quality and maintenance
+
+The examinations were performed on standard mammography equipment (GE 600T, GE 700 T, Lorad MII-E and Philips Diagnostic UC) in primary healthcare units in the São Paulo metropolitan area. The quality of the film used for mammography was supervised by radiologists specializing in mammographic radiology at all the primary healthcare units. Weekly checks were made on cleaning methods and the specific care taken with film developing and fixing. The maintenance procedures for the equipment were carried out by a group of specialized technicians. Image quality control was also performed by a technical team from the Radiation Physics Department of Unifesp-EPM.
+
+Radiologist training
+
+All the radiologists affiliated to the Report Center of DDI-Unifesp had had training and at least two years of experience with imaging diagnostics. All of them were familiar with the examination analysis protocol (the revised BIRADS® system), which was followed and used as the standard for the reports.
+
+Lesion classification
+
+All the lesions were classified according to the BIRADS® criteria described by the ACR.30 These criteria are as follows: BIRADS® 0 refers to the need for other mammographic examinations with other incidences (localized compression, magnification, etc) or for other methods (ultrasound). BIRADS® 1 and 2 refer to negative mammograms or to typically benign lesions, respectively. Theoretically, neither of these categories have any possibility for malignancy, and the recommendation is annual mammographic control. BIRADS® 3 refers to lesions considered to probably be benign, although there is a 2% chance of malignancy, and the recommendation is radiological control every six months. BIRADS® 4 refers to lesions in which the chance of malignancy ranges from 2% to 90% (suspected lesions), and BIRADS® 5 refers to lesions in which the chance of malignancy is greater than 90% (highly suspected lesions). In the cases of both BIRADS® 4 and BIRADS® 5, a biopsy is recommended to ensure an effective diagnosis.
+
+Statistical analysis
+
+The presumed prevalences of BIRADS® 4 and BIRADS® 5 lesions in our sample were presented as numbers and percentages. The observed frequencies of lesions classified as BIRADS® 4 and BIRADS® 5 were also presented according to age groups. Considering that BIRADS® 4 and BIRADS® 5 lesion frequencies were homogeneous, the chi-squared test was used to compare lesion frequencies between age groups and the expected frequencies for each age group. The significance level for these frequencies was set at p < 0.05.
+
+ 
+
+RESULTS
+
+Table 2 shows the prevalence of breast lesions according to the BIRADS® classification among women living in the São Paulo metropolitan area who underwent mammographic screening. The percentages of patients who presented BIRADS® 0, BIRADS® 1 and BIRADS® 2 in their mammograms were 11.7%, 38.1% and 49%, respectively. Lesions classified as BIRADS® 3, BIRADS® 4 and BIRADS® 5 were observed in 0.57%, 0.34% and 0.14% of the examinations, respectively.
+
+ 
+
+ 
+
+Out of the total of 139,945 mammograms analyzed, most of the examinations were from women in the age groups of 41-50, 51-60 and 61-70 years (n = 134,419). Table 3 shows the frequency of breast lesions in these women who underwent mammographic screening, according to age group and BIRADS® classification. The prevalence of suspected (BIRADS® 4) and highly suspected (BIRADS® 5) lesions increased with age, especially after the fourth decade of life.
+
+ 
+
+ 
+
+The presumed prevalence of breast cancer in our sample is shown in Table 4. We observed that 11.7% of our patients were classified as BIRADS® 0. According to Sickles,26 approximately 10% of these lesions will require further investigation and 30% of these lesions will be considered positive, thus totaling breast cancer prevalence in this category of 0.32%. BIRADS® 1 and BIRADS® 2 do not represent suspected lesions and are not associated with breast cancer. On the other hand, convincing evidence shows that 2% of BIRADS® 3, 30% of BIRADS® 4 and almost 100% of BIRADS® 5 are positive lesions. Taking into consideration the statistical limitations, the presumed prevalence of breast cancer among the population of the greater São Paulo area was found to be around 0.6 %.
+
+ 
+
+ 
+
+DISCUSSION
+
+In this study, the presumed prevalence of breast cancer was determined among a significant sample of the Brazilian population, living in the greater São Paulo area. For this, mammographic exams were used in conjunction with controlled and uniform analysis.
+
+Concerning the presumed prevalence of breast cancer in different BIRADS® categories, it was seen that 11.7% of the patients were characterized as BIRADS® 0 (Table 3). The parameters established by Sickles26 were taken into consideration. According to these parameters, approximately 10% of these lesions should undergo further investigation and 30% of these same lesions will probably be considered positive, thus totaling 0.32%. BIRADS® 1 and BIRADS® 2 do not present suspected lesions. It can be taken as reasonably certain that 2% of BIRADS® 3, 30% of BIRADS® 4 and almost 100% of BIRADS® 5 will be considered positive. Thus, the presumed prevalence of breast cancer in this sample of the population of São Paulo was 0.6%.
+
+When this presumed prevalence is compared with what is observed worldwide, it can be seen that this Brazilian finding is apparently very similar to results from New York, greater than findings from Greece, Spain, Portugal, Italy, France and the European Union, and smaller than findings from Finland, Germany, Ireland, Great Britain, Luxembourg, Sweden, Denmark, Belgium and Holland (Table 1).
+
+Brazil does not provide an official program for breast cancer screening. One of the drawbacks of not adopting this practice as the routine is the cost of mammographic screening. Nonetheless, informal screening takes place on the basis of medical advice. In the countries with high incidence of breast cancer, patients over 40 years of age are required to undergo mammographic screening. On the other hand, the recommendations for mammographic screening should be based on the benefits to these patients, without considering political or economic issues that could change the follow-up protocols. However, under any circumstances, the cost of treating breast tumors that are detected through screening is considerably lower than the cost when they are detected through clinical procedures.6
+
+Because Brazil does not provide official mammography screening programs, with adequate data collection, there are no national statistics for the prevalence of breast cancer diagnosed by imaging exams. Until the year 2002, all the mammography reports in the public sector clinic were hand-written, and there was no databank with the results. This made it difficult to recover epidemiological data. The sample that was obtained in this study came from outpatient examinations carried out at primary healthcare units in a downtown area of São Paulo.
+
+To have the assurance that mammographic screening is able to reduce breast cancer mortality, the examination must present high sensitivity and adequate imaging and there must be quality control within established patterns. It is well known that badly performed examinations generate false-negative results16 and can cause great harm because of this inadequate screening and the subsequent lack of treatment. The work performed at the DII gave special attention to quality control, to ensure that the women benefited from the program.
+
+Many factors can influence mammography readings and lead to wrong interpretations, as well as to false-negative and false-positive results. Among these factors are the positioning of the breast in the mammography machine, the quality of the image, the equipment used and the radiologist's experience.23 In the primary healthcare units that had partnerships with DII, all the equipment (mammography machines, processors and negatoscopes) undergoes periodic evaluation, focusing on checking its technical condition, in accordance with the Ministry of Health specifications, thereby assuring optimal working conditions not only for doctors but also for technicians.
+
+According to the literature, the number of examinations that require supplementation (BIRADS® 0) is estimated to be 10%.30 Bird et al. analyzed 215,665 mammographic screenings and found a recall rate ranging from 1.9% to 13.4%. The ACR considers that a rate of less than 10% of the all of the examinations is satisfactory.31
+
+The ACR standards include medical auditing of mammographic screening, and this is the best method for evaluating the ability to detect breast cancer. The primary value of such auditing consists of self-assessment of the mammography service, with the aim of revealing the strengths and weaknesses of radiologists' practices. In the IDI Report Center, auditing is performed by two experienced radiologists on approximately 10% of the examinations, thus ensuring the quality of the work.3
+
+The partnership between DII and the São Paulo municipal authorities has emphasized good quality work and its program was able to bring together a significant volume of mammography screening samples in less than a year. These were read by a homogeneous medical team with adequate training, using the BIRADS® classification and thereby standardizing the results. Through organizing this Report Center to assist the city of São Paulo, we were able to obtain uniform information.
+
+With this objective and organized infrastructure, it was possible to implement this program. The aim now is to motivate other Brazilian cities and states to follow suit. Screening is not the solution for breast cancer problems, but it is a strategy that is available for detecting this disease in its initial stages, thus allowing effective and early treatment, in an attempt to decrease the cost to these patients.
+
+ 
+
+CONCLUSION
+
+The presumed prevalence of suspected and highly suspected breast cancer lesions in the population of São Paulo was 0.6%, from studying mammograms from a screened population of 139,945 women, at the IDI Report Center in collaboration with DDI, Unifesp-EPM.
+
+The presumed prevalence found in this study was comparable to what has been found in other populations around the world for whom mammographic screening programs have been implemented.
+
+ 
+
+REFERENCES
+
+1. Tabar L, Fagerberg G, Chen HH, et al. Efficacy of breast cancer screening by age. New results from the Swedish Two-County Trial. Cancer. 1995;75(10):2507-17.         [ Links ]
+
+2. Ministério da Saúde. Instituto Nacional de Câncer. Coordenação de Programas de Controle do Câncer. O problema do câncer no Brasil. 4a ed. Rio de Janeiro: Pro-Onco; 1997.         [ Links ]
+
+3. Shapiro S. Evidence on screening for breast cancer from a randomized trial. Cancer. 1977;39(6 Suppl):2772-82.         [ Links ]
+
+4. Kopans DB. The use of mammography for screening. JAMA. 1994;271(13):982-3.         [ Links ]
+
+5. Smith RA. IARC Handbooks of Cancer Prevention, Volume 7: Breast Cancer Screening. Breast Cancer Res. 2003;5(4):216-7. Available from: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=165025. Accessed in 2007 (May 24).         [ Links ]
+
+6. Ministério da Saúde. Instituto Nacional de Câncer. Documento de Consenso. Estimativa/2006. Incidência de Câncer no Brasil. Available from: http://www.inca.gov.br/estimativa/2006/. Accessed in 2007 (May 24).         [ Links ]
+
+7. American College of Radiology. Breast imaging reporting and data system. 3rd ed. Reston: American College of Radiology; 1998.         [ Links ]
+
+8. American College of Radiology. ACR Practice guideline for the performance of diagnostic mammography. Diagnostic mammography. 2002:405-9. Available from: http://www.acr.org/s_acr/bin.asp?CID=549&DID=12208&DOC=FILE.PDF. Accessed in 2007 (May 24).        [ Links ]
+
+9. Kemp C, Petti DA, Quadros LGO. Câncer de mama – prevenção primária. Projeto Diretrizes. São Paulo: Associação Médica Brasileira e Conselho Federal de Medicina. Sociedade Brasileira de Mastologia e Federação Brasileira das Sociedades de Ginecologia e Obstetrícia; 2002. Available from: http://www.projetodiretrizes.org.br/projeto_diretrizes/025.pdf. Accessed in 2007 (May 24).         [ Links ]
+
+10. Tabar L, Duffy SW, Chen HH. Re: Quantitative interpretation of age-specific mortality reductions from the Swedish Breast Cancer-Screening Trials. J Natl Cancer Inst. 1996;88(1):52-5.         [ Links ]
+
+11. Wright CJ, Mueller CB. Screening mammography and public health policy: the need for perspective. Lancet. 1995;346(8966):29-32.         [ Links ]
+
+12. Dershaw DD, Yahalom J, Petrek JA. Breast carcinoma in women previously treated for Hodgkin disease: mammographic evaluation. Radiology. 1992;184(2):421-3.         [ Links ]
+
+13. Smigel K. Breast cancer death rates decline for white women. J Natl Cancer Inst. 1995;87(3):173.         [ Links ]
+
+14. Olsen O, Gotzsche PC. Cochrane review on screening for breast cancer with mammography. Lancet. 2001;358(9290):1340-2.         [ Links ]
+
+15. Lee CH. Screening mammography: proven benefit, continued controversy. Radiol Clin North Am. 2002;40(3):395-407.        [ Links ]
+
+16. Fletcher SW, Black W, Harris R, Rimer BK, Shapiro S. Report of the International Workshop on Screening for Breast Cancer. J Nat Cancer Inst. 1993;85(20):1644-56.         [ Links ]
+
+17. Shapiro S. The status of breast cancer screening: a quarter of a century of research. World J Surg. 1989;13(1):9-18.         [ Links ]
+
+18. Baker LH. Breast Cancer Detection Demonstration Project: five-year summary report. CA Cancer J Clin. 1982;32(4):194-225.         [ Links ]
+
+19. Tabar L, Vitak B, Chen HH, Yen MF, Duffy SW, Smith RA. Beyond randomized controlled trials: organized mammographic screening substantially reduces breast carcinoma mortality. Cancer. 2001;91(9):1724-31.         [ Links ]
+
+20. Feig SA. Effect of service screening mammography on population mortality from breast carcinoma. Cancer. 2002;95(3):451-7.        [ Links ]
+
+21. Baines CJ, Miller AB, Kopans DB, et al. Canadian National Breast Screening Study: assessment of technical quality by external review. AJR Am J Roentgenol. 1990;155(4):743-7; discussion 748-9.         [ Links ]
+
+22. Frisell J, Glas U, Hellstrom L, Somell A. Randomized mammographic screening for breast cancer in Stockholm. Design, first round results and comparisons. Breast Cancer Res Treat. 1986;8(1):45-54.         [ Links ]
+
+23. Kopans DB, Feig SA. The Canadian National Breast Screening Study: a critical review. AJR Am J Roentgenol. 1993;161(4):755-60.         [ Links ]
+
+24. van der Mass PJ, de Koning HJ, van Ineveld BM, et al. The cost-effectiveness of breast cancer screening. Int J Cancer. 1989;43(6):1055-60.         [ Links ]
+
+25. Kopans DB, Monsees B, Feig SA. Screening for cancer: when is it valid? --Lessons from the mammography experience. Radiology. 2003;229(2):319-27.        [ Links ]
+
+26. Sickles EA, Kopans DB. Deficiencies in the analysis of breast cancer screening data. J Natl Cancer Inst. 1993;85(20):1621-4.         [ Links ]
+
+27. Berlin L. Breast cancer, mammography, and malpractice litigation: the controversies continue. AJR Am J Roentgenol. 2003;180(5):1229-37.         [ Links ]
+
+28. Humphrey LL, Helfand M, Chan BK, Woolf SH. Breast cancer screening: a summary of the evidence for the U.S. Preventive Services Task Force. Ann Intern Med. 2002;137(5 Part 1):347-60.        [ Links ]
+
+29. Alexander FE, Anderson TJ, Brown HK, et al. 14 years of follow-up from the Edinburghrandomised trial of breast-cancer screening. Lancet. 1999;353(9168):1903-8.        [ Links ]
+
+30. American Cancer Society. Breast cancer facts and figures 2001-2002. Atlanta: American Cancer Society; 2002. Available from: http://www.cancer.org/downloads/STT/BrCaFF2001.pdf. Accessed in 2007 (May 25).         [ Links ]
+
+31. Bird RE, Wallace TW, Yankaskas BC. Analysis of cancers missed at screening mammography. Radiology. 1992;184(3):613-7.        [ Links ]

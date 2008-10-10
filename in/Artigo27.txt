@@ -1,0 +1,214 @@
+Descritores
+
+Adolescent
+Adult
+Aged
+Circadian Rhythm
+Epidemiologic Methods
+Female
+Humans
+Kidney Failure, Chronic
+Male
+Middle Aged
+Quality of Life
+Renal Dialysis
+Restless Legs Syndrome
+Sex Factors
+Sleep
+Sleep Apnea Syndromes
+Sleep Disorders
+Sleep Initiation and Maintenance Disorders
+Snoring
+Time Factors
+
+
+Artigo
+
+Sleep disturbances in patients on maintenance hemodialysis: role of dialysis shift
+
+ 
+
+Distúrbios de sono em pacientes em hemodiálise crônica: o papel dos diferentes turnos de diálise
+
+ 
+
+ 
+
+João Paulo Catunda Bastos*; Romualdo Barroso de Sousa; Lara Albuquerque de Medeiros Nepomuceno; Oswaldo A. Gutierrez-Adrianzen; Pedro Felipe Carvalhedo de Bruin; Marx Lincoln Lima de Barros Araújo; Veralice Meireles Sales de Bruin*
+
+ 
+
+ 
+
+SUMMARY
+
+OBJECTIVES: Subjective sleep complaints have been reported in up to 80% of patients with end stage renal disease (ESRD). In these patients, sleep disturbances manifesting as insomnia, sleep apnea syndrome, restless leg syndrome (RLS), periodic limb movement disorder and excessive daytime sleepiness (EDS) have been frequently reported. Moreover, studies about the role of dialysis shift on sleep abnormalities, morbidity and mortality are still scarce. The aim of this study was to investigate the influence of dialysis shift on the quality of sleep and sleep abnormalities in patients with ESRD.
+MÉTHODS: We studied one hundred consecutive patients from a dialysis center. Quality of sleep was assessed by the Pittsburgh Sleep Quality Index and subjective EDS by the Epworth Sleepiness Scale. Restless leg syndrome was diagnosed using the four minimum criteria defined by the International Restless Legs Syndrome Study Group. Clinical and laboratory parameters were obtained by interview and chart review. Adequacy of dialysis was evaluated by the Kt/V index.
+RESULTS: Poor quality sleep (PSQI>6) was found in 75% of cases and was associated with RLS (p=0.004) and with snoring (p=0.016). EDS (ESS>10) was present in 28% of cases. Patients with EDS (1.33±0.29) had lower values of the Kt/v index (P=0.01) than those without EDS (1.52±0.32). RLS was present in 48% of cases. Irrespective of dialysis shift, poor quality sleep, EDS and RLS were not different among patients.
+CONCLUSION: Poor quality sleep, EDS and RLS were common and not related to dialysis shift.
+
+Key words: End-stage-renal-disease (ESRD); Hemodialysis; Restless leg; Sleep; Snoring
+
+RESUMO
+
+OBJETIVOS: Alterações do sono têm sido relatadas em até 80% dos pacientes com Insuficiência renal crônica dialítica (IRCD). Insônia, síndrome da apnéia do sono, síndrome das pernas inquietas (SPI), movimentos periódicos de extremidades e sonolência excessiva diurna (SED) têm sido descritos. A influência que o turno da diálise exerce sobre as alterações do sono e sobre a morbidade e mortalidade ainda é desconhecida. O objetivo deste estudo foi avaliar a influência do turno da diálise sobre as anormalidades do sono em pacientes com IRCD.
+MÉTODOS: Estudamos 100 pacientes consecutivos provenientes de um centro de diálise. A qualidade do sono foi avaliada através do Índice de Qualidade do Sono de Pittsburgh (IQSP) e a SED através da Escala de sonolência de Epworth (ESE). A SPI foi avaliada utilizando os quatro critérios mínimos definidos internacionalmente pela International Restless Legs Syndrome Study Group. Os parâmetros clínicos e laboratoriais foram obtidos através de entrevistas e revisão de prontuários. A qualidade da diálise foi avaliada pelo índice Kt/V.
+RESULTADOS: Má qualidade do sono (IQSP>6), encontrada em 75% dos casos, associou-se à SPI (P= 0.004) e à presença de ronco (P= 0.016). Pacientes com SED (ESE>10) (1.33±0.29) apresentaram valores do índice Kt/v menores (P=0.01) do que aqueles sem SED (1.52±0.32). Observou-se a presença de SPI em 48% dos pacientes. Má qualidade do sono, SED e SPI não diferiram entre os pacientes agrupados quanto ao turno de diálise.
+CONCLUSÃO: Má qualidade do sono, SED e SPI são freqüentes e não se relacionam com o turno da diálise.
+
+Unitermos: Insuficiência renal crônica dialítica. Hemodiálise. Pernas inquietas. Sono. Ronco.
+
+ 
+
+ 
+
+INTRODUCTION
+
+Subjective sleep complaints have been reported in up to 80% of patients with end stage renal disease (ESRD). Sleep disturbances, such as insomnia, sleep apnea syndrome (SAS), restless legs syndrome (RLS), periodic limb movements (PLM) disorder and excessive daytime sleepiness (EDS) have been frequently reported in these patients. These alterations have been described as having a negative effect on quality of life and functional status1. However, long term studies about repercussion of these abnormalities on morbidity and mortality have yet to be performed. Moreover, studies about the role of dialysis shift on sleep abnormalities, morbidity and mortality are still scarce2,3.
+
+Restless legs syndrome seems to be common in ESRD, although the cause for this association is not entirely clear 1. Complaints of an unpleasant feeling deep inside the legs, occurring at rest, particularly at bedtime, accompanied by an irresistible urge to move the limbs thereby producing a temporary relief of symptoms are characteristic of RLS and should be sufficient to diagnose this condition2. Difficulty to initiate and maintain sleep, daytime sleepiness and less refreshing sleep are other common complaints 3,4. In addition to poor sleep quality, reduced life expectancy has been associated to presence of RLS in ESRD 1,5. Despite the fact that symptomatic treatment for RLS is available, in their majority patients remain non-diagnosed and untreated6.
+
+Excessive daytime sleepiness has long been described in dialysis patients but only recently have investigators tried to systematically assess its underlying causes. The relative contribution of RLS, anemia and sub-clinical uremic encephalopathy to the pathogenesis of EDS remains controversial 10,11. Particularly, the comparative role of dialysis shift in EDS and RLS has not yet been addressed. Previously, morning-shift dialysis had been associated with longer survival 12 and with insomnia 13. A better understanding of the influence of dialysis shift on clinical manifestations might contribute to optimize the care of ESRD patients.
+
+Sleep abnormalities can be evaluated using questionnaires directed to identify and quantify sleep quality14, RLS15, daytime sleepiness16, and snoring, among others. Polysomnography, actigraphy and the test of multiple sleep latency are further used to identify sleep structure, patterns of rest and activity and sleep latency, respectively.
+
+Presently, we studied a group of patients with ESRD using specific questionnaires directed to evaluate presence of RLS, quality of sleep and EDS. This study intended to compare patients receiving dialysis at different times of the day.
+
+ 
+
+METHODS
+
+SUBJECTS
+
+Patients were consecutively recruited from a population in chronic hemodialysis. All patients undergoing chronic hemodialysis at the same hour of the day for at least three months were considered eligible. Cases that did not have recent infectious disease, cancer, drug or excessive alcohol abuse, severe neurological, hepatic, lung or cardiac diseases were also considered eligible. Total number of cases in the hemodialysis center was 210. Overall, cases were either receiving hemodialyis in the morning (6:30 to 10:30 A.M., N=60), afternoon (11:00 to 3:00 P.M., N=80) or evening (4:00 to 8:00 P.M., N=70). In this study, one hundred consecutive individuals (58 males), aged 18 to 70 years, from the three dialysis shift groups, were studied. Twenty three individuals (38.4%) from the morning shift, 41 (51.2%) from the afternoon and 36 (51.4%) from the evening, were evaluated. The study protocol was approved by the local Research Ethics Committee and written informed consent was obtained in all cases.
+
+ 
+
+STUDY DESIGN
+
+This was a cross-sectional study of patients undergoing chronic hemodialysis. All cases were studied while in a clinically stable condition. Individuals performed four hour dialysis sessions three days per week either in the morning, afternoon or evening period. Social-demographic and clinical data wares obtained by interview using a standardized questionnaire applied by three previously trained individuals. Biochemical data were collected from patient files. Causes of renal disease were determined by interview and file review. All variables were measured concurrently.
+
+ 
+
+ASSESSMENT PROCEDURES
+
+Sleep quality was assessed by the Pittsburgh Sleep Quality Index. This scale has seven components, each dealing with a major aspect of sleep: a) subjective quality of sleep; b) sleep onset latency; c) sleep duration; d) sleep efficiency; e) presence of sleep disturbances; f) use of hypnotic-sedative medication; and g) presence of daytime disturbances, as an indication of daytime alertness 14. Individuals with total PSQI score of six or more were considered poor sleepers 17.
+
+RLS was established using the minimum criteria defined by the International Restless Legs Syndrome Study Group: (1) an urge to move the legs, usually accompanied or caused by uncomfortable and unpleasant sensations in the legs (sometimes the urge to move is present without the uncomfortable sensations and sometimes the arms or other body parts are involved, in addition to the legs); (2) the urge to move or unpleasant sensations begin or worsen during periods of rest or inactivity, such as lying or sitting; (3) the urge to move or unpleasant sensations are partially or totally relieved by movement, such as walking or stretching, at least as long as the activity continues; and (4) the urge to move or unpleasant sensations are worse in the evening or night than during the day or only occur in the evening or night (when symptoms are very severe, worsening at night may not be noticeable but must have been previously present) 15.
+
+Daytime sleepiness was assessed by the Epworth Sleepiness Scale (ESS) 16. ESS is a validated questionnaire containing eight items that inquire about expectation of dozing in eight hypothetical situations. Dozing probability ratings range from zero (no probability) to three (high probability). ESS score of 10 or more indicates excessive daytime somnolence.
+
+Snoring, defined as a noise associated with breathing during sleep, was considered to be present when it was intense, continuous or intermittent and occurred more than three times a week, according to the bed partner or other family member. Individuals were asked about the use of any medication during the last three months.
+
+Results for complete blood count, electrolyte levels, renal function and medication used in the last 30 days were obtained from medical records. Additionally, serum albumin, hemoglobin, serum iron, ferritin, saturation of transferin, parathormone, and single pool Kt/V (estimated from urea reduction rate) were also measured. Body mass index was calculated as the ratio between weight (kg) and height squared (m). Kt/V is a number used to quantify hemodialysis and adequacy of peritoneal dialysis treatment. In hemodialysis, the Kt/V target is usually 1.2 to 1.3 and in peritoneal dialysis the target is 2.0/week18.
+
+ 
+STATISTICAL ANALYSIS
+
+For statistical analysis and data description, patients were stratified according to dialysis shift. ANOVA and the chi-square test were used to compare clinical data between dialysis shift groups. In a stepwise manner, logistic regression analysis was used to evaluate poor sleep quality and potential influencing factors, such as, age, disease duration, gender, BMI, RLS, snoring and the KtV index. Data were analyzed using a Statistic Package for Social Sciences (SPSS- Norusis, 1993) software for Windows. Statistical significance was defined at a 95% level (P<0.05).
+
+ 
+
+RESULTS
+
+Patient characteristics according to time of dialysis are depicted in Table 1. Twenty-three patients received hemodialysis in the morning, 41 in the afternoon and 36 in the evening. The three shift groups did not differ with respect to age, gender, BMI, presence of snoring and Kt/V index (Table 1). Overall, hemoglobin levels were 11.09±1.94 (mean±SD, g/dL) (range 6.9 to15.6). Anemia (hemoglobin level <12.0 g/dL) was present in 41% of cases. Creatinine levels were 10.70±3.44 (mean±SD, mg/dL) (range 8.48 to 16.70). Ferritin levels were 450.93±403.94 (mean±SD, mg/dL). Calcium, phosphorus and PTH serum were respectively 8.9±0.83 (mean±SD, mg/dL) (range 7.50 to 11.40), 8.7±0.9 (mean±SD, mg/dL) (range 7.8 to 10.5) and 388.31±356.34 (mean±SD, pg/dL) (range 74.0 to 2.500.00). The calcium-phosphorus product varied from 19.75 to 97.74 (mean=47.84±16.56). Biochemical results by dialysis shift are expressed in Table 1. Iron levels were higher in patients in the afternoon-shift. However, no differences were found on ferritin (p=0.2) and transferin levels (p=0.1). Albumin levels, detected by the bromocresol green albumin (BCG) method were lower in the evening-shift. Most common medications used were oral antihypertensives (59%), epoetin (Eprex) (58%), calcitriol (42%) and or analgesics (41%). Occasional use of sedative-hypnotics was reported by six patients from the morning, five from the afternoon and six from the night hemodialysis shifts without significant difference between the three groups (ANOVA, p=0.2, F=1.64). Common comorbidities were arterial hypertension (57%), anemia (41%) and diabetes (35%). The main causes of ESRD were systemic arterial hypertension and diabetes Arterial hypertension, the use of epoetin, anemia and diabetes did not differ between groups.
+
+ 
+
+ 
+
+RLS was detected in 48% of patients and was not associated with dialysis shift (OR= 1.06, 95% CI= 0.62-1.81). In this study, RLS was associated with iron levels (F= 4.74, P= 0.03) and not associated with anemia, diabetes, ferritin levels, age or duration of hemodialysis. No difference was observed for genders. PSQI and ESS scores were not significantly different between dialysis shift groups (Table 2).
+
+ 
+
+ 
+
+Poor quality sleep (PSQI36) was present in 75 subjects and was associated with the presence of RLS (P=0.004) and with snoring (p=0.016) (Table 3). Excessive daytime sleepiness was found in 28% of all cases regardless of hemodialysis. Patients with EDS (1.33±0.29) had lower levels of the Kt/v index [p=0.015, OR=0.12, CI=0.02-0.66] than those without EDS (1.52±0.32).
+
+ 
+
+ 
+
+DISCUSSION
+
+Our data confirm that in dialysis patients, poor quality sleep and RLS are frequent and related. RLS was present in 48% of cases in agreement with other studies that described a high prevalence 7,19. However, other reports have described a lower prevalence 1,8. Our data show that poor quality sleep, EDS and RLS did not differ between subjects according to dialysis shift. Recently, it has been shown that the dialysate temperature influences sleep20. It has already been reported that patients undergoing hemodialysis in the morning have more insomnia13. Unfortunately, although RLS is a known cause for insomnia, the issue of RLS as well as quality of sleep and EDS were not addressed in that study. Thus, further prospective studies about the influence of dialysis shift on sleep abnormalities and on other clinical data are expected.
+
+Recently, a prevalence of the female gender and longer duration on dialysis has been associated with RLS21. However, our data do not support this evidence. RLS is one of the most common sensorimotor disorders and its pathogenesis has not been elucidated. Good therapeutic response to dopaminergic agents points to a central role of dopamine in the genesis of RLS. Iron deficiency is known to be common in many clinical conditions associated with RLS, including ESRD 22,23. Our data confirm this association. Iron and dopamine may act together in the development of RLS, as suggested by recent pathological and brain imaging studies24. Improvement of RLS after renal transplantation suggests that renal failure and blood chemistry may play a role in the genesis of RLS in uremia25.
+
+In this series, snoring was one of the factors influencing sleep quality. Snoring is considered a marker of obstructive sleep apnea and may be a precursor of this disorder26. It has been reported that non-apneic snorers may be sleepier during the day than non-apneic non-snorer controls. This might be related to increased respiratory effort during sleep causing transient arousals in the absence of sleep apnea or hypopnea 27,28. It has been shown that nocturnal hemodialysis improves sleep apnea and this has been attributed to a decrease in the volume of extracellular fluid29.
+
+Twenty-eight percent of the subjects in our study showed EDS, regardless of dialysis shift. An association between EDS and uremia has been reported29. However, there have been conflicting results and this question remains controversial25. For instance, insomnia expressed as either difficulty on initiating and maintaining sleep or early awakening can be causal to sleepiness, in hemodialysis30. Sleep disordered breathing and RLS can also be associated with sleepiness. Other clinical factors such as age, poor sleep hygiene and comorbidities can contribute to daytime sleepiness. Therefore, several sleep disturbances that are described in dialysis patients can contribute to EDS. This is an important issue since a negative impact of EDS on cognition, mood and general performance has been demonstrated31.
+
+ 
+
+CONCLUSION
+
+Our data indicate that RLS, poor quality sleep and EDS are common in end-stage-renal-disease patients under hemodialysis and, are not influenced by dialysis shift. Further studies involving the change of hemodialyisis shift may provide better understanding about the relationship between turn of day of dialysis and sleep disturbances.
+
+Conflict of interest: none
+
+ 
+
+REFERENCES
+
+1. Sleep disorders in end-stage renal disease: markers of inadequate dialysis? Kidney Int. 2006;70:1687-93.         [ Links ]
+
+2. Ng YH, Meyer KB, Kusek JW, Yan G, Rocco MV, Kimmel PL, Benz RL, Beddhu S, Dwyer JT, Toto RD, Eknoyan G, Unruh ML. Hemodialysis Timing, Survival, and Cardiovascular Outcomes in the Hemodialysis (HEMO) Study. Am J Kidney Dis. 2006;47:614-24.         [ Links ]
+
+3. Abbott KC, Reynolds JC, Trespalacios FC, Cruess D, Agodoa LY; United States Renal Data System Dialysis Morbidity and Mortality Waves III/IV. Survival by time of day of hemodialysis: analysis of United States Renal Data System Dialysis Morbidity and Mortality Waves III/IV. Am J Kidney Dis. 2003;41:796-806.         [ Links ]
+
+4. Unruh ML, Levey AS, D'Ambrosio C, Fink NE, Powe NR, Meyer KB. Restless legs symptoms among incident dialysis patients: association with lower quality of life and shorter survival. Am J Kidney Dis. 2004;43:900-9.         [ Links ]
+
+5. Culebras A. Restless leg syndrome. Diagnosis and treatment. Rev Neurol. 2001;32:281-3.         [ Links ]
+
+6. Mendelson WB. Are periodic leg movements associated with clinical sleep disturbance? Sleep. 1996;19:219-23.         [ Links ]
+
+7. Rijsman RM, de Weerd AW, Stam CJ, Kerkhof GA, Rosman JB. Periodic limb movement disorder and restless legs syndrome in dialysis patients. Nephrology. 2004;9:353-61.         [ Links ]
+
+8. Benz RL, Pressman MR, Hovick ET, Peterson DD. Potential novel predictors of mortality in en-stage renal disease patients with sleep disorders. Am J Kidney Dis. 2000;35:1052-60.         [ Links ]
+
+9. Gigli GL, Adorati M, Dolso P, Piani A, Valente M, Brotini S, Budai R. Restless legs syndrome in end-stage renal disease. Sleep Med. 2004;5:309-15.         [ Links ]
+
+10. Benz RL, Pressman MR, Rovick ET, Peterson DD. A preliminary study of the effects of correction of anemia with recombinant human erythropoietin therapy on sleep, sleep disorders and daytime sleepiness in hemodialysis patients (The SLEEPO study). Am J Kidney Dis. 1999;34:1089-95.         [ Links ]
+
+11. Mucsi I, Molnar MZ, Ambrus C, Szeifert L, Kovacs AZ, Zoller R, Barotfi S, Remport A, Novak M. Restless legs syndrome, insomnia and quality of life in patients on maintenance dialysis. Nephrol Dial Transplant. 2005;20:571-7.         [ Links ]
+
+12. Bliwise DL, Kutner NG, Zhang R, Parker KP. Survival by time of day of dialysis in na elderly cohort. JAMA. 2001;286:2690-4.         [ Links ]
+
+13. Sabbatini M, Minale B, Crispo A, Pisani A, Ragosta A, Esposito R, Cesaro A, Cianciaruso B, Andreucci VE. Insomnia in maintenance haemodialysis patients. Nephrol Dial Transplant. 2002; 17:852-6.         [ Links ]
+
+14. Buysse DJ, Reynolds CF 3rd, Monk TH, Berman SR, Kupfer DJ. The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research. Psychiatry Res. 1989;28:193-213.         [ Links ]
+
+15. Diagnostic Classification Steering Committee. International Classification of Sleep Disorders: Diagnostic and Coding Manual. Rochester: American Sleep Disorders Association; 1990.         [ Links ]
+
+16. Johns MW. A new method of measuring daytime sleepiness: the Epworth Sleepiness Scale. Sleep. 1991;14:540-5.         [ Links ]
+
+17. Backhaus J, Junghanns K, Broocks A, Riemann D, Hohagen F. Test-retest reliability and validity of the Pittsburgh Sleep Quality Index in primary insomnia. J Psychosom Res. 2002;53:737-40.         [ Links ]
+
+18. Kopple JD. National kidney foundation K/DOQI clinical practice guidelines for nutrition in chronic renal failure. Am J Kidney Dis. 2001;37(1 Suppl 2):S66-70.         [ Links ]
+
+19. Siddiqui S, Kavanagh D, Traynor J, Mak M, Deighan C, Geddes C. Risk factors for restless legs syndrome in dialysis patients. Nephron Clin Pract. 2005;101:155-60.         [ Links ]
+
+20. Parker KP, Bailey JL, Rye DB, Bliwise DL, Van Someren EJ. Lowering dialysate temperature improves sleep and alters nocturnal skin temperature in patients on chronic hemodialysis. J Sleep Res. 2007;16:42-50.         [ Links ]
+
+21. Sloand JA, Shelly MA, Feigin A, Bernstein P, Monk RD. A double-blind, placebo-controlled trial of intravenous iron dextran therapy in patients with ESRD and restless legs syndrome. Am J Kidney Dis. 2004;43:663-70.         [ Links ]
+
+22. O'Keeffe ST. Secondary causes of restless legs syndrome in older people. Age Ageing. 2005;34:349-52.         [ Links ]
+
+23. Schmidauer C, Sojer M, Seppi K, Stockner H, Hogl B, Biedermann B, Brandauer E, Peralta CM, Wenning GK, Poewe W. Transcranial ultrasound shows nigral hypoechogenicity in restless legs syndrome. Ann Neurol. 2005;58:630-34.         [ Links ]
+
+24. Molnar MZ, Novak M, Ambrus C, Szeifert L, Kovacs A, Pap J, Remport A, Mucsi I. Restless Legs Syndrome in patients after renal transplantation. Am J Kidney Dis. 2005;45:388-96.         [ Links ]
+
+25. Zoccali C, Mallamaci F, Tripepi G. Sleep apnea in renal patients. J Am Soc Nephrol. 2001; 12: 2854-9.         [ Links ]
+
+26. Guilleminault C, Stoohs R, Clerk A, Cetel M, Maistros P. A cause of excessive daytime sleepiness: the upper airway resistance syndrome. Chest. 1993;104:781-7.         [ Links ]
+
+27. Parker KP, Bliwise DL, Bailey JL, Rye DB. Polysomnographic measures of nocturnal sleep in patients on chronic, intermittent daytime haemodialysis vs those with chronic kidney disease. Nephrol Dial Transplant. 2005;20:1422-8.         [ Links ]
+
+28. Hanly PJ, Pierratos A. Improvement of sleep apnea in patients with chronic renal failure who undergo nocturnal hemodialysis. N Engl J Med 2001;344: 102-7.         [ Links ]
+
+29. Wetter TC, Stiasny K, Kohnen R, Oertel WH, Trenkwalder C. Polysomnographic sleep measures in patients with uremic and idiopathic restless legs syndrome. Mov Disord. 1998; 13:820-4.         [ Links ]
+
+30. Noda A, Nakai S, Soga T, Sugiura T, Iwayama N, Maeda K, Atarashi M, Yasuma F, Ozaki N, Yokota M, Koike Y.Factors contributing to sleep disturbance and hypnotic drug use in hemodialysis patients. Intern Med. 2006;45:1273-8.         [ Links ]
+
+31. Sateia MJ. Neuropsychological impairment and quality of life in obstructive sleep apnea. Clin Chest Med. 2003; 24: 249-59.         [ Links ]

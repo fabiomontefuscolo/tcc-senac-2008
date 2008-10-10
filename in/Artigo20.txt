@@ -1,0 +1,247 @@
+Descritores
+
+Aedes
+Animals
+Brazil
+Breeding
+Dengue
+Dengue Virus
+Ecosystem
+Entomology
+Humans
+Insect Vectors
+Larva
+Mosquito Control
+Population Density
+Population Surveillance
+Residence Characteristics
+Sample Size
+Urban Population
+
+
+Artigo
+
+Identification of key areas for Aedes aegypti control through geoprocessing in Nova Iguaçu, Rio de Janeiro State, Brazil
+
+ 
+
+Identificação de áreas chave para o controle de Aedes aegypti por meio de geoprocessamento em Nova Iguaçu, Estado do Rio de Janeiro, Brasil
+
+ 
+
+ 
+
+Marcos Thadeu Fernandes LagrottaI; Wellington da Costa SilvaI; Reinaldo Souza-SantosII
+
+ICoordenadoria de Vigilância em Saúde, Secretaria Municipal de Saúde de Mesquita, Mesquita, Brasil
+IIEscola Nacional de Saúde Pública Sergio Arouca, Fundação Oswaldo Cruz, Rio de Janeiro, Brasil
+
+Correspondence
+
+ 
+
+ 
+
+ABSTRACT
+
+This study discusses the use of geoprocessing to identify key areas for Aedes aegypti control, based on the infestation index obtained in the Aedes aegypti Infestation Index Rapid Survey (LIRAa). The study was conducted in November 2004 in Nova Iguaçu, Rio de Janeiro State, Brazil. The results were analyzed on two scales, neighborhoods and blocks, with the building infestation index assigned to the neighborhood polygons and the Breteau index to the blocks. Kernel estimation was used in the spatial pattern analysis. The Breteau index spatial distribution showed five areas with high and medium density of positive Ae. aegypti breeding sites, highlighting small block clusters with high larval density, strategic for vector control. Based on the results, we recommend this method for dengue vector surveillance.
+
+Aedes; Dengue; Vector Control; Spatial Analysis
+
+RESUMO
+
+Este trabalho tem como objetivo discutir o uso da análise de dados espaciais na identificação de conglomerados urbanos chave para o controle de Aedes aegypti, tendo como base os resultados do Levantamento de Índice Rápido para Aedes aegypti (LIRAa), realizado em novembro de 2004 no Município de Nova Iguaçu, Estado do Rio de Janeiro, Brasil. Os dados foram analisados em duas escalas: bairros e quarteirões, sendo os índices de infestação predial atribuídos aos polígonos dos bairros e os índices de Breteau atribuídos aos quarteirões. A interpolação e alisamento por meio de Kernel foi utilizada na análise dos padrões espaciais dos índices. Foram trabalhados pelo LIRAa um total de 15.163 imóveis distribuídos em 2.182 quarteirões agrupados em 33 estratos. O padrão de distribuição espacial do índice de Breteau por quarteirões indicou cinco áreas com alta e média densidades de criadouros positivos para Ae. aegypti, evidenciando seis conglomerados de quarteirões com alta densidade larvária, estratégicos para as ações de controle. O método mostrou-se ideal para a análise espacial dos indicadores entomológicos e de fácil operacionalização pelo serviço.
+
+Aedes; Dengue; Controle de Vetores; Análise Espacial
+
+ 
+
+ 
+
+Introduction
+
+Aedes aegypti control programs have used entomological monitoring parameters, the majority of which targeting the presence of peridomiciliary breeding sites. The most widely used parameters include the Breteau index and the building infestation index 1.
+
+Mosquito control programs have made routine use of the Breteau and building infestation indices to determine the degree of Ae. aegypti and Aedes albopictus infestation, dispersal, and density in locations 2. Since the larval infestation levels do not always correlate with dengue incidence, and transmission has been recorded even with low Breteau indices 3,4, there is a need for better indicators that can predict dengue virus transmission risks and are easy for the control programs to manage. It is important to propose and validate predictive models that estimate vector density and epidemic risk, including ecological and social variables, identifying the universal part of these models and the components that need to be customized by region 5. Nevertheless, the scientific literature has highlighted the identification of key blocks or areas for Ae. aegypti control as crucial for optimizing control activities 6.
+
+The Aedes aegypti Infestation Index Rapid Survey (LIRAa) is a new and simplified method developed by staff at the Secretaria de Vigilância em Saúde do Miistério da Saúde [SVS/MS; Health Surveillance Secretariat of the Brazilian Ministry of Health] and currently in use at the municipal (county) level. In this method, the sample is determined as a function of the population density and the number of existing buildings.
+
+The Brazilian Ministry of Health recommends the use of LIRAa by the municipalities, since the procedure quickly identifies the vector infestation rates. The speed in obtaining percentage figures and identifying predominant breeding sites, allowing rapid redirecting of vector control activities, is the method's main advantage according to the Ministry of Health 7.
+
+Another important question is the instrument that should be used as the evaluation method for these indicators, which needs to be rapid, reliable, and scientifically valid in order to assist dengue prevention and control programs. New techniques should assist public authorities in decision-making. The characteristics of geoprocessing techniques, especially geographic information systems (GIS), make them powerful tools for planning, monitoring, and evaluating programs 8.
+
+The spatial analysis of entomological indicators aimed at vector monitoring and control has expanded in recent years in various countries 9,10,11,12,13,14,15,16. Most of the studies have been performed in Africa and focused on mosquitoes from genus Anopheles. Few studies have focused on Ae. aegypti 17, but the results have been promising for entomological surveillance.
+
+The current study discusses the use of spatial data analysis using Kernel estimation to identify key areas or clusters for Ae. Aegypti surveillance and control, based on the results obtained from LIRAa in a study conducted in Nova Iguaçu, Rio de Janeiro State, Brazil.
+
+ 
+
+Methodology
+
+The study was conducted in the municipality (county) of Nova Iguaçu, in the Baixada Fluminense area of Rio de Janeiro State. The municipal seat is located at 22º45'33'' latitude South and 43º27'04" longitude West. The municipality has a total area of 523,888m2, measuring 36km North-South and 19km East-West, with the municipal seat at 25m.a.s.l. 18.
+
+Nova Iguaçu has 358,007 buildings grouped in 6,531 blocks. From the administrative point of view, according to its master plan 18, it is divided into 68 well-demarcated neighborhoods (Figure 1) distributed in six so-called Integrated Planning Sectors (the equivalent of boroughs). The county also has two large uninhabited, protected green areas, the Tinguá Biological Reserve and the Nova Iguaçu Municipal Park 18.
+
+Mean annual temperature is 21.8ºC and mean annual precipitation is 2,105mm. The main access roads are the President Dutra Highway (BR-116) and the Madureira Highway (BR-465, RJ-105, and RJ-111), both crossing through the Centro (Downtown or City Center) Integrated Planning Sector 18. The municipality has a population of 750,485, with a population density of 1,413.8 inhabitants/km². The most heavily urbanized area with the highest population density includes the neighborhoods comprising the Centro Integrated Planning Sector, located along the President Dutra Highway, since the area was developed more quickly and the land was occupied more intensively along this roadway 18,19,20,21.
+
+Spatial pattern analysis of the building infestation and Breteau indices used secondary data on vector infestation and density obtained by the LIRAa performed by the Vector Control Division of the Nova Iguaçu Municipal Health Secretariat from November 22 to 26, 2004.
+
+The LIRAa methodology is recommended by the National Dengue Control Plan (PNCD/SVS/MS) and was based on a sampling plan for calculating the Ae. aegypti and Ae. albopictus larval density in the State of São Paulo, Brazil 22. The sampling plan provides for two-stage cluster selection (blocks and buildings) 7,22. The methodology includes the division of municipalities into strata defined according to the number of buildings, in blocks regardless of the neighborhood boundaries. In this methodology, the blocks receive a sequential numbering by neighborhood assigned by the vector control personnel 23, and each stratum consists of a minimum of 8,100 and a maximum of 12 thousand buildings 7,22,24.
+
+According to the methodology proposed by the PNCD/SVS/MS 7, the number of buildings in the sample for each stratum is set at 450 (random sample), corrected for the mean number of closed buildings in each location in order to avoid losses. The number of blocks processed in each stratum is obtained by a random sample of one-sixth of the buildings per block.
+
+Spatial pattern analysis of entomological indicators
+
+The method chosen to analyze the spatial patterns of the building infestation and Breteau indices obtained from the LIRAa results was Kernel interpolation and smoothing 17.
+
+The Kernel smoothing grid is controlled by a parameter known as "bandwidth", indicating the area to be considered in the calculation, which should reflect the geographic scale of the study's target hypothesis, based on prior knowledge of the target problem 17.
+
+Since most of the LIRAa strata encompass two or more neighborhoods in the county, the building infestation data were extracted directly from the field and laboratory forms and reorganized according to the neighborhoods logic defined by the Municipal Master Plan 18. Spatial analysis of the building infestation indices by neighborhood used the open-access TerraView 3.0.3 program (Instituto Nacional de Pesquisas Espaciais; http://www.dpi.inpe.br/terraview) and the Nova Iguaçu digital grid. The indices were assigned to the neighborhood polygon centroids, excluding the areas of vegetation in the Tinguá Biological Reserve and the Nova Iguaçu Municipal Park.
+
+After spatial analysis of the building infestation indices by neighborhood, a region from the Centro Integrated Planning Sector was selected, consisting of contiguous neighborhoods with medium and high building infestation indices, located along the President Dutra Highway. In this area, we measured the coordinates for all the blocks processed in the LIRAa, defining the backs of the households located at the mid-point of the longest street on each block (the accessible point closest to the central area of the block) as the measurement site. We also recalculated the Breteau indices for these blocks based on the data extracted from the field and laboratory bulletins and forms.
+
+Kernel estimation was also used to analyze the spatial patterns of the Breteau indices by positive blocks in the selected region, where the areas were identified with a high density of positive breeding sites. Following this stage and seeking to identify priority block clusters for vector control, we individually analyzed the spatial patterns of the Breteau indices by block for each of the areas with high larval density, identified in the previous stage, thus aiming to detect small urban clusters with high vector density.
+
+Since this study sought to identify not the vector dispersal per se but areas with increased density or concentration of infested buildings and positive breeding sites, we opted for a Kernel map with 100 columns on the events and with a quartic function algorithm with an adaptive radius. The adaptive radius automatically estimates a bandwidth considering the number of events and the total extension of the area analyzed.
+
+We used the terminology low, medium, and high densities for the analysis of the spatial patterns of Ae. aegypti building infestation and Breteau indices for the municipality.
+
+ 
+
+Results
+
+According to the data obtained from the field and laboratory bulletins and consolidated in the study's database, during the LIRAa a total of 15,163 buildings were processed on 2,182 blocks distributed in 68 neighborhoods divided in 33 strata in the municipality of Nova Iguaçu. The LIRAa results showed only five strata with building infestation indices greater than 5%.
+
+When the strata were dismembered and reorganized according to the municipality's neighborhood logic, the building infestation data expressed very different indices between the neighborhoods comprising the same stratum, and a total of 17 neighborhoods were observed with indices greater than 5%, while in two of these the indices were greater than 10%, namely Califórnia and Figueiras (Figure 2).
+
+The thematic map displaying the Ae. aegypti neighborhood building infestation indices (Figure 2) shows two large areas consisting of contiguous neighborhoods with building infestation indices between 5% and 10%: one consisting of six neighborhoods located in the Noroeste (Northwest) and Centro Integrated Planning Sectors and the other consisting of four neighborhoods located in the Nordeste (Northeast) Integrated Planning Sector. The Centro Integrated Planning Sector also showed nine non-contiguous and scattered neighborhoods with building infestation indices greater than or equal to 5%.
+
+Kernel map analysis of the building infestation indices (Figure 1a) showed five regions in the county with medium and high building infestation, four of which located in Centro neighborhoods (Figures 1a and 1b).
+
+The majority of the neighborhoods along the President Dutra Highway or contiguous with them (Figure 1b) are located in areas with high or medium building infestation (Figure 1a), including the principal points of access to Nova Iguaçu by this highway (Figure 1b).
+
+The selected region in the Centro Integrated Planning Sector, consisting of neighborhoods located along President Dutra Highway or contiguous with them, included in the region with the highest positive buildings index for the dengue vector, showed an overall building infestation index of 3.78%. This region showed a total of 124 blocks and 186 buildings that were positive for Ae. aegypti, out of a total of 616 blocks and 4,922 buildings inspected during the LIRAa. Of the 23 neighborhoods analyzed, eight showed a building infestation index for Ae. aegypti of greater than five. Califórnia and Chacrinha showed the highest and lowest building infestation indices of all the selected neighborhoods, namely 12 and zero, respectively (Table 1).
+
+The block-wise spatial distribution of Breteau indices in the selected region (Figure 1c) indicated five areas with high and medium density of positive breeding sites for Ae. aegypti, namely: Area 1 (Figure 1c), close to the southern beltway of the President Dutra Highway, with a high density of positive breeding sites in a radius of 562.5m, intersecting with the Centro, Caonze, and Califórnia neighborhoods; Area 2 (Figure 1c), close to the northern beltway of the President Dutra Highway, with a high density of positive breeding sites in a 500m radius, intersecting with the Vila Operária, Rancho Novo, and Jardim da Viga neighborhoods; Area 3 (Figure 1c), included in Bairro Cerâmica, with a high density of positive breeding sites in a 437.5m radius; Area 4 (Figure 1c), with a medium density of positive breeding sites in a 312.5m radius intersecting with the Nova América, Carmary, and Kennedy neighborhoods; and Area 5 (Figure 1c), with a medium density of positive breeding sites in a 250m radius intersecting with the Moquetá, Kennedy, and Posse neighborhoods, cut across by the northern stretch of the President Dutra Highway.
+
+The point between areas with the highest and second-highest densities (Figure 1c) is called "Posto 13" and is the principal access point to the municipal seat, at the crossroads between the Plínio Casado Highway and the President Dutra Highway (Figure 1b) in the Califórnia neighborhood. The stretch of the President Dutra Highway that cuts across Area 5 (Figure 1c) corresponds to the crossroads of Avenida Governador Roberto da Silveira with this highway in the Centro neighborhood and is the third main point of access to the municipal seat (Figure 1b).
+
+Separate spatial analysis of the Breteau indices in each of the five areas identified previously (Figure 3) showed six urban clusters with high larval density: two clusters in Area 1, one of them located in the Centro neighborhood (location "a") and the other in the Califórnia neighborhood (location "b"), both consisting of three blocks; one cluster in Area 2 consisting of three blocks, located in the Vila Operária neighborhood (location "c"); one cluster in Area 3 consisting of one block situated in the Cerâmica neighborhood (location "d"); one cluster in Area 4 consisting of two blocks situated in the Nova América neighborhood (location "e"); and a cluster in Area 5 consisting of a block located in the Moquetá neighborhood (location "f").
+
+ 
+
+Discussion
+
+Both LIRAa and the Yellow Fever and Dengue Information System (FAD) consolidate information and calculate the entomological indicators for analysis by large areas of territory. The first uses strata of 8,100 to 12,000 buildings and the second uses neighborhoods, which may often fail to reflect the real conditions for the production of adult forms of the vector and thus of disease transmission in these areas. Within their territories, strata and neighborhoods with infestation indices less than 1% can present small urban clusters with high productivity of immature forms due to the highly concentrated supply of potential breeding sites in specific points of the territory, producing adult forms capable of spreading to larger areas or of transmitting the disease to the population in these neighborhoods or strata, or circulating through these higher-risk areas.
+
+The LIRAa results in Nova Iguaçu show building infestation indices greater than 5% in only five strata. However, when reorganized by neighborhood, these results express very different indices between neighborhoods comprising the same stratum. In our study, 19 neighborhoods showed indices greater than 5%, including two with indices greater than 10%, undetected by the stratum analysis.
+
+Consoli & Lourenço-de-Oliveira 25 point out that the two methods used by the Ae. aegypti entomological surveillance service (Breteau index and building infestation index) are based on the evaluation of the larval phase and thus do not necessarily reflect the population of potentially infective females or in turn the real risk of disease transmission, which should be measured by the bite rate, which is difficult to perform routinely. However the solution may not be the use of adult-phase indicators but rather the application of larval indicators in smaller areas, consisting of a smaller set of buildings like census areas or blocks. Block analysis of larval indicators would be easy to perform by the local vector control service, since the field methodology already provides for implementing activities according to this logic, with sequential numbering by neighborhood as part of the routine 23.
+
+The relationship identified by some authors 23,26,27,28 between Ae. aegypti proliferation and the chaotic occupation of large urban areas became evident in the Kernel map (Figure 1), since the areas with the highest building infestation indices are located in the Centro area of the municipality and the surrounding neighborhoods, precisely the area with the highest migratory flow and the most intense occupation in the last 50 years 19,20,21. Increased Ae. aegypti infestation in settings with high human population density, a high concentration of dwellings and low plant cover, and the higher frequency of Ae. albopictus in areas with opposite parameters observed in other studies reinforce these results 29,30.
+
+In a study by Lourenço-de-Oliveira et al. 31 in 2002, dengue virus serotype 3 was isolated in mosquitoes in three neighborhoods located along the President Dutra Highway, located in the Centro Planning Sector of Nova Iguaçu. The Califórnia neighborhood, where the principal access to the municipal seat is located, was among the three neighborhoods in which the virus was detected in the vector population. The high and medium building infestation density points "3", "4", and "5" identified in our study (Figure 1a) correspond to the principal access points to the municipal seat via the President Dutra Highway (Figure 1b, locations 1, 2, 3, and 4), including the one with the greatest flow, located at the crossroads between the Plínio Casado Highway and the President Dutra Highway in the Califórnia neighborhood. These areas have numerous gasoline stations, tire shops, and scrap metal yards. They are also strategically important for surveillance due to the intense circulation of vehicles, objects, and persons.
+
+The same situation is not observed in the thematic map (Figure 2), in which the indices attributed to the total area of the neighborhoods did not allow the identification of these points, which demonstrates the potential of the Kernel interpolation and smoothing method for this purpose. In an area corresponding to the total territory of the municipality, that is, on a scale much greater than the vector's dispersal capacity, the Kernel method with an adaptive radius and a 100-column grid 32 allowed the identification of these strategic areas.
+
+In a study in the municipality of Rio de Janeiro based on spatial analysis of Ae. aegypti breeding sites17, the Kernel bandwidth was set at 300m around the block centroids, to which the entomological indicators were assigned. The definition of this bandwidth was based on the dispersal radius for Ae. aegypti females. Ae. aegypti dispersal has already been reported at distances up to 3km 23, however in areas with an abundant supply of potential breeding sites it is described on average at 30m to 80m 23,33. However, on this scale the use of Kernel with a predefined bandwidth as a function of the vector dispersal may not be the most appropriate method, since in areas similar to that studied here, where the vector is disseminated throughout the territory, what is feasible to identify in a block-wise spatial analysis are concentrated areas (high densities) of breeding sites and positive buildings, which are strategic for control activities, that are purportedly related to the supply of potential breeding sites and conditioning factors for the existing supply, and not the vector females' dispersal capacity.
+
+Analysis of adaptive-radius Kernel maps for the Breteau indices by blocks (Figures 1c and 3) proved even better than the analysis of building infestation indices by neighborhoods (Figure 1a), since this methodology allowed identifying small areas with distinct characteristics in given neighborhoods of the municipality, imperceptible in the previous analysis. The use of larval indices assigned to the blocks in the Kernel method displayed the additional advantage of operational ease, since the vector control services' routine provides for field activities by sequentially numbered blocks 23, requiring only their georeferencing. This methodology applied to the services' routine would allow locating strategic blocks and clusters for control, which would be the object of more intense intervention, with a view towards identifying strategic buildings, large-scale breeding sites, and specific existing conditions or factors in these small areas that determine the supply of potential breeding sites.
+
+ 
+
+Conclusion
+
+Kernel estimation with adaptive radius has proven ideal for the spatial analysis of entomological indicators attributed to neighborhoods and blocks in municipalities with similar characteristics to Nova Iguaçu in which the vector is dispersed throughout the territory.
+
+This method allowed identifying high building infestation densities and subsequently locating small urban clusters inside them with high larval density, strategic for control activities. In other words, the spatial analysis used here for block-wise Breteau indices in particular proved more precise for estimating the location of these key clusters, in addition to its ease of implementation by the vector control service, thus characterizing it as an effective tool for control activities.
+
+Identification of these urban clusters with high larval density by vector control services would allow a more intense targeted intervention, with a view towards locating strategic buildings, eliminating large-scale breeding sites, and defining specific control strategies, considering the conditioning factors in the supply of potential breeding sites in these small areas.
+
+Analyses of entomological indicators based on secondary data tend to be questioned due to the low data reliability, as a function of possible flaws in the entomological surveillance systems and control programs. However, such data should not be ignored; rather they should used critically in order to improve the systems and programs.
+
+In this study, the results from the spatial analysis of secondary data on building infestation and larval density allowed estimating the location of key clusters for control activities. This points to the importance of developing strategies to foster analyses based on these data.
+
+Finally, it is recommended that the services implement an entomological surveillance system for dengue vectors based on geoprocessing of indicators by census tracts or blocks, with the use of Kernel estimation for locating urban clusters with high larval density and thus the detection within them of strategic buildings and large-scale breeding sites for vector control activities.
+
+ 
+
+Contributors
+
+M. T. F. Lagrotta contributed to the conception, methodological design, and development of the research project, analysis and interpretation of the results, and drafting of the article. W. C. Silva collaborated in the methodological design and development of the research project. R. Souza-Santos contributed to the methodological design of the research project, interpretation of the results, and critical review.
+
+ 
+
+Acknowledgments
+
+The authors wish to thank the Entomology Team of the Vector Control Division, Nova Iguaçu Municipal Health Secretariat, for the access to the information on the Aedes aegypti Infestation Index Rapid Survey (LIRAa) in 2004.
+
+ 
+
+References
+
+1. Forattini OP, Kakitani I, Sallum MAM. Produtividade de criadouros de Aedes albopictus em ambiente urbano. Rev Saúde Pública 1997; 31:545-55.        [ Links ]
+
+2. Gomes AC. Medidas dos níveis de infestação urbana para Aedes (Stegomyia) aegypti e Aedes (Stegomyia) albopictus em programa de vigilância entomológica. Inf Epidemiol SUS 1998; 7:49-57.        [ Links ]
+
+3. Focks DA, Chadee DD. Pupal survey: an epidemiologically significant surveillance method for Aedes aegypti: an example using data from Trinidad. Am J Trop Med Hyg 1997; 56:159-67.        [ Links ]
+
+4. Teixeira MG, Costa MCN, Barreto ML, Barreto FR. Epidemiologia do dengue em Salvador-Bahia 1995-1999. Rev Soc Bras Med Trop 2001; 34:269-74.        [ Links ]
+
+5. Donalisio MR, Glasser CM. Entomological surveillance and control of dengue fever vectors. Rev Bras Epidemiol 2002; 5:259-79.        [ Links ]
+
+6. Tun-Lin W, Kay BH, Barnes A. The premise condition index: a tool for streamlining surveys of Aedes aegypti. Am J Trop Med Hyg 1995; 53:591-4.        [ Links ]
+
+7. Programa Nacional de Controle da Dengue. Diagnóstico rápido nos municípios para vigilância entomológica de Aedes aegypti no Brasil: metodologia para avaliação dos índices de Breteau e predial. Brasília: Secretaria de Vigilância em Saúde, Ministério da Saúde; 2004.        [ Links ]
+
+8. Medronho R. Geoprocessamento e saúde: uma nova abordagem do espaço no processo saúde-doença [Master's Thesis]. Rio de Janeiro: Escola Nacional de Saúde Pública, Fundação Oswaldo Cruz; 1995.        [ Links ]
+
+9. Ritchie SA. Application of radar rainfall estimates for surveillance of Aedes taeniorhynchus larvae. J Am Mosq Control Assoc 1993; 9:228-31.        [ Links ]
+
+10. Beck LR, Rodríguez MH, Dister SW, Rodríguez AD, Rejmánková E, Ulloa A, et al. Remote sensing as a landscape epidemiologic tool to identify villages at high risk for malaria transmission. Am J Trop Med Hyg 1994; 51:271-80.        [ Links ]
+
+11. Kitron U, Pener H, Costin C, Orshan L. Greenberg Z, Shalom U. Geographic information system in malaria surveillance: mosquito breeding and imported cases in Israel, 1992. Am J Trop Med Hyg 1994; 50:550-6.        [ Links ]
+
+12. Smith T, Charlwood JD, Takken W, Tanner M, Spiegelhalter DJ. Mapping the densities of malaria vectors within a single village. Acta Trop 1995; 59:1-18.        [ Links ]
+
+13. Hay SI. Remote sensing and disease control: past, present and future. Trans R Soc Trop Med Hyg 1997; 91:1005-6.        [ Links ]
+
+14. Dale PER, Ritchie SA, Territo BM, Morris CD, Muhar A, Kay BH. An overview of remote sensing and GIS for surveillance of mosquito vector habitats and risk assessment. J Vector Ecol 1998; 23:54-61.        [ Links ]
+
+15. Spradling SL, Olson JK, Coulson RN, Lovelady CN. A geographic information system approach to evaluating the effects of the endangered species protection program on mosquito control. J Am Mosq Control Assoc 1998; 14:137-47.        [ Links ]
+
+16. Barrera R, Delgado N, Jiménez M, Villalobos I, Romero I. Estratificación de una ciudad hiperendémica en dengue hemorrágico. Rev Panam Salud Pública 2000; 8:225-33.        [ Links ]
+
+17. Souza-Santos R, Carvalho MS. Análise da distribuição espacial de larvas de Aedes aegypti na Ilha do Governador, Rio de Janeiro, Brasil. Cad Saúde Pública 2000; 16:31-42.        [ Links ]
+
+18. Prefeitura Municipal de Nova Iguaçu. Lei nº. 2.952, de 17 de dezembro de 1998. Complementar à Lei nº. 006, de 12 de dezembro de 1997. Diário Oficial da Prefeitura Municipal de Nova Iguaçu 1999; 13 dez.        [ Links ]
+
+19. Carneiro SAT. Os (des)caminhos do migrante nordestino em Nova Iguaçu (RJ): de uma periferia a outra [Monografia de Graduação]. Niterói: Instituto de Geociências, Universidade Federal Fluminense; 2001.        [ Links ]
+
+20. Soares MTS. Nova Iguaçu: absorção de uma célula urbana pelo grande Rio de Janeiro. Revista Brasileira de Geografia 1952; 2:157-241.        [ Links ]
+
+21. Polydoro L. Nova Iguaçu: uma nova identidade territorial? [Master's Thesis]. Niterói: Instituto de Geociências, Universidade Federal Fluminense; 2002.        [ Links ]
+
+22. Alves MCGP, Gurgel SM, Almeida MCRR. Plano amostral para cálculo de densidade larvária de Aedes aegypti e Aedes albopictus no Estado de São Paulo, Brasil. Rev Saúde Pública 1991; 25:251-6.        [ Links ]
+
+23. Secretaria Executiva do Plano Diretor de Erradicação do Aedes aegypti no Brasil. Instrução para pessoal de combate ao vetor: manual de normas técnicas. 2ª Ed. Brasília: Ministério da Saúde; 1998.        [ Links ]
+
+24. Alves MCGP, Silva NN. Simplificação do método de estimação da densidade larvária de Aedes aegypti no Estado de São Paulo. Rev Saúde Pública 2001; 35:467-73.        [ Links ]
+
+25. Consoli RAGB, Lourenço-de-Oliveira R. Principais mosquitos de importância sanitária no Brasil. Rio de Janeiro: Editora Fiocruz; 1994.        [ Links ]
+
+26. Mondet B, Travassos-da-Rosa A, Vasconcelos PFC. Urbanização da febre amarela: um problema preocupante. Rev Soc Bras Med Trop 1996; 29 Suppl:51.        [ Links ]
+
+27. Brito M, Forattini OP. Produtividade de criadouros de Aedes albopictus no Vale do Paraíba, SP, Brasil. Rev Saúde Pública 2004; 38:209-15.        [ Links ]
+
+28. Gubler DJ. Dengue and dengue hemorrhagic fever: its history and resurgence as a global health problem. In: Gubler DJ, Kuno G, editors. Dengue and dengue and hemorrhagic fever. New York: CAB International; 1997. p. 1-22.        [ Links ]
+
+29. Honório NA, Silva WC, Leite PJ, Gonçalves JM, Lounibus LP, Lourenço-de-Oliveira R. Dispersal of Aedes aegypti and Aedes albopictus (Diptera: Culicidae) in an urban endemic dengue area in the State of Rio de Janeiro, Brazil. Mem Inst Oswaldo Cruz 2003; 98:91-8.        [ Links ]
+
+30. Lima-Camara TN, Honório NA, Lourenço-de- Oliveira R. Freqüência e distribuição espacial de Aedes aegypti e Aedes albopictus (Diptera, Culicidae) no Rio de Janeiro, Brasil. Cad Saúde Pública 2006; 22:2079-84.        [ Links ]
+
+31. Lourenço-de-Oliveira R, Honório NA, Castro MG, Schatzmayr HG, Miagostovich MP, Alves JCR, et al. Dengue virus type 3 isolation from Aedes aegypti in the municipality of Nova Iguaçu, State of Rio de Janeiro. Mem Inst Oswaldo Cruz 2002; 97:799-800.        [ Links ]
+
+32. Bailey TC, Gatrell AC. Interactive spatial data analysis. Essex: Longman Scientific & Technical; 1995.        [ Links ]
+
+33. Reiter P, Amador MA, Anderson RA, Clark GG. Dispersal of Aedes aegypti in an urban area after blood feeding as demonstrated by rubidium-marked eggs. Am J Trop Med Hyg 1995; 52:177-9.        [ Links ]

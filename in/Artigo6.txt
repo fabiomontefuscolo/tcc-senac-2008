@@ -1,0 +1,235 @@
+Descritores
+
+Animals
+Cholinesterase Inhibitors
+Depression, Chemical
+Indans
+Male
+Morphine
+Phrenic Nerve
+Piperidines
+Rabbits
+Respiration
+
+
+Artigo
+
+Antagonism of morphine-induced central respiratory depression by donepezil in the anesthetized rabbit
+
+ 
+
+MIKI TSUJITA1, SHIGEKI SAKURABA1, JUNYA KURIBAYASHI1'3, YUKI HOSOKAWA1, EIKI HATORI1, YASUMASA OKADA2, MASANORI KASHIWAGI3, JUNZO TAKEDA1 and SHUN-ICHI KUWANA4
+
+1  Department of Anesthesiology, School of Medicine, Keio University, Tokyo.
+2  Department of Medicine, Keio University Tsukigase Rehabilitation Center, Shizuoka.
+3  Department of Anesthesiology, Kitasato Institute Hospital, The Kitasato Institute, Tokyo.
+4  Department of Physiology, School of Medicine, Teikyo University, Tokyo, Japan.
+
+Dirección para correspondencia
+
+ABSTRACT
+
+Morphine is often used in cancer pain and postoperative analgesic management but induces respiratory depression. Therefore, there is an ongoing search for drug candidates that can antagonize morphine-induced respiratory depression but have no effect on morphine-induced analgesia. Acetylcholine is an excitatory neurotransmitter in central respiratory control and physostigmine antagonizes morphine-induced respiratory depression. However, physostigmine has not been applied in clinical practice because it has a short action time, among other characteristics. We therefore asked whether donepezil (a long-acting acetylcholinesterase inhibitor used in the treatment of Alzheimer's disease) can antagonize morphine-induced respiratory depression. Using the anesthetized rabbit as our model, we measured phrenic nerve discharge as an index of respiratory rate and amplitude. We compared control indices with discharges after the injection of morphine and after the injection of donepezil. Morphine-induced depression of respiratory rate and respiratory amplitude was partly antagonized by donepezil without any effect on blood pressure and end-tidal C02. In the other experiment, apneic threshold PaC02 was also compared. Morphine increased the phrenic nerve apnea threshold but this was antagonized by donepezil. These findings indicate that systemically administered donepezil partially restores morphine-induced respiratory depression and morphine-deteriorated phrenic nerve apnea threshold in the anesthetized rabbit.
+
+Key terms: morphine, donepezil, rabbit, respiratory depression, Alzheimer's disease, cholinesterase inhibitor.
+
+INTRODUCTION
+
+Morphine is the mainstay of cancer pain and postoperative analgesic management, but its side effects can limit dosage and reduce quality of life (Bowdle 1998; Chaney 1995; McNicol et al., 2003). Respiratory depression is potentially the most serious side effect induced by morphine and is of great concern to physicians (McNicol et al., 2003). This morphine-induced side effect can be treated with naloxone, an opioid receptor antagonist, but naloxone also inhibits morphine-induced analgesia (Bowdle 1998). Therefore, anesthesiologists and pain clinicians seek new therapeutic strategies that can antagonize morphine-induced respiratory depression.
+
+Numerous articles have proposed various candidates as antagonistic drugs for opiate-induced respiratory depression (Weinstock et al., 1980; Weinstock et al., 1981; Weinstock et al., 1982; Snir-Mor et al. 1983; Willette et al., 1987; Elmalem et al., 1991; Berkenbosch et al., 1994; Ballanyi et al., 1997; Owen et al., 2000; Manzke et al., 2003; Lalley, 2004; 2005). However, none of these have been applied to clinical practice thus far because most are experimental chemicals. Among these candidates, only physostigmine, an acetylcholinesterase inhibitor, is clinically used and can antagonize opiate-induced respiratory depression (Weinstock et al., 1980; Weinstock et al., 1981; Willette et al., 1986; Snir-Mor et al. 1983; Berkenbosch et al., 1994). Acetylcholine (ACh) is an excitatory neurotransmitter in central respiratory control (Murakoshi et al., 1985; Monteau et al., 1990; Burton et al. 1995; Shao and Feldman, 2000, 2001, 2002, 2005; Sakuraba et al. 2003), including central chemosensitivity (Monteau et al., 1990; Burton et al. 1997; Eugenin and Nicholls, 1997; Eugenin et al., 2001; Okada et al., 2001; Sakuraba et al. 2005) and opiates can inhibit the release of ACh from neurons in the central nervous system (Jhamandas et al., 1971; Domino and Wilson, 1973; Zsilla et al., 1977). However, physostigmine has numerous disadvantages, e.g. relatively high toxicity (Christie et al., 1981), low chemical stability and short duration of action (Elmalem et al., 1991). Neostigmine, another commonly used acetylcholinesterase inhibitor, does not penetrate the blood-brain barrier (Padmanabha Pillai et al., 1982). A long-acting acetylcholinesterase inhibitor that can pass the blood-brain barrier might become one of the candidate drugs for reversing opiate-induced respiratory depression.
+
+Donepezil, a widely used Alzheimer's disease drug, is a long-acting synthetic drug designed to selectively and reversibly inhibit acetylcholinesterase (Smith Doody 2003). Furthermore, it easily penetrates the blood-brain barrier and targets the brain. Therefore, we hypothesized that donepezil would reverse morphine-induced respiratory depression in the anesthetized rabbit.
+
+METHODS
+
+General
+
+This study was conducted in accordance with a protocol approved by the Animal care and Use Committee of Teikyo University School of Medicine. The experimental procedure has been described in detail elsewhere (Kuwana and Natsui 1981; Okada et al 2004). Briefly, 26 healthy rabbits (Japanese White, male, Sankyo laboratory, Tokyo, Japan) weighing 1.9-2.7 kg (average, 2.3 kg) were anesthetized by intravenous administration of 40 mg/kg chloralose and 200 mg/kg urethane (Wako Pure Chemical, Osaka, Japan) after intraperitoneal administration of 10 mg/kg ketamine (Sankyo Pharmaceutical, Tokyo, Japan). In the preliminary study, these anesthetics did not change respiratory activity during 3 hours in the same conditions of the present study. In our previous study, the combination of chloralose and urethane could maintain a stable depth of anesthesia for over 8 h (Okada et al. 2004) and no experiment lasted more than 3 h in this study. After anesthesia was performed, each rabbit was placed in a supine position on an electrical heating pad, and the rectal temperature was maintained at 37-38 °C. The trachea was cannulated in the mid-cervical region for artificial respiration and there was continuous monitoring of the end-tidal C02 with a gas analyzer (Respina 1H26, NEC San-Ei, Tokyo, Japan). The right femoral artery and vein were catheterized for arterial blood pressure measurement and intravenous injection. After preparatory nerve surgery, the vagus and aortic nerves were cut bilaterally at the mid-cervical region. Muscle paralysis was induced with 0.2 mg/ kg pancuronium bromide (Sankyo Pharmaceutical, Tokyo, Japan) injected into the right femoral vein, and artificial ventilation with room air was initiated. Thereafter, the same dose of pancuronium bromide was administered hourly. The end-tidal C02 was maintained within 35 ± 3mmHg by adjusting the ventilation (Kuwana and Natsui, 1981).
+
+Phrenic nerve discharge was used as the index of central respiratory output (Kuwana and Natsui, 1981). The right phrenic nerve was sectioned at the low cervical region and its central cut end was placed on a bipolar platinum electrode in a pool of liquid paraffin. The phrenic nerve discharge was amplified with an AC amplifier (AB651J, Nihon Kohden, Tokyo) and passed through a band-pass filter (50Hz-3kHz). It was then half-wave rectified and integrated with a time constant of 100 ms with a signal-integrator (EI601G, Nihon Kohden, Tokyo). Signals of raw phrenic discharge, integrated phrenic output, end-tidal C02 and arterial blood pressure were recorded with a thermal array recorder (RTA-1200M, Nihon Kohden, Tokyo) and stored with a digital tape recorder (RD-135T, TEAC, Tokyo) for subsequent analysis.
+
+Experiment 1
+
+At about 30 min after surgery, respiratory rate (/min) and respiratory amplitude (height of integrated phrenic output) were measured to provide control or baseline indices. They were also measured at 10 min after 2 mg/kg morphine was injected intravenously over a period of 1-2 min. Then, after the signal became stable, 4 ml/kg saline (n=3) or 400 ug/kg donepezil (n=14) was injected and both indices were also measured 15 min after the injection of these drugs.
+
+Experiment 2
+
+In 6 rabbits, apneic threshold PaC02 (mmHg) was determined at control and 10 min after injection of morphine and donepezil. The procedure for determination of apneic threshold PaC02 has been described in detail previously (Kuwana and Natsui 1981). Briefly, successive increments in ventilatory magnitude resulted in a gradual decrease in PaC02, followed by gradual suppression of phrenic nerve activity. After phrenic nerve discharge disappeared completely, arterial blood was sampled from the femoral artery and PaC02 was measured by capnogram. This PaC02 value was designated the apneic threshold PaC02.
+
+Statistical analysis
+
+Respiratory frequency and respiratory amplitude after injection of morphine and after injection of saline or donepezil were both analyzed using a paired t-test. Apneic threshold PaC02 at control, 10 min after the injection of morphine and at 15 min after the injection of donepezil were analyzed using one-way ANOVA with Bonferroni/ Dunn post hoc test. P < 0.05 was considered significant. Data are expressed as mean ± SD.
+
+RESULTS
+
+Experiment 1
+
+Fig. 1 shows a typical recording of morphine-induced respiratory depression and the antagonistic action of donepezil. Morphine (2mg/kg) depressed the respiratory rate and respiratory amplitude (Fig. 1A). Average respiratory rate obtained from 17 rabbits was 89.9 ±3.9 /min at control and significantly decreased to 30.2 ±5.6 /min after morphine administration (P < 0.001). The amplitude of integrated phrenic nerve activity decreased to 50.9 ± 8.7 % of control (P < 0.001). Minute phrenic activity (respiratory rate x amplitude) decreased to 20.0 ± 8.7 % of control (P< 0.001).
+
+
+Figure 1: Representative recording of integrated phrenic nerve activities showing effects of morphine (A) on control condition and also showing effects of donepezil (B) or saline (C) on morphine-induced respiratory depression. End-tidal CO2 (EtCCO2 ) and blood pressure (BP) were continuously monitored, and are presented at the bottom of the figure.
+
+This morphine-induced respiratory depression was antagonized by donepezil (Fig. 1B). Donepezil (n=14) induced significant increments in (a) respiratory rate to 55.6 ±3.6 /min from 30.4 ± 6.3 / min (Fig. 2A; P < 0.0003), in (b) respiratory amplitude to 82.3 ± 3.4 % of control from 51.3 ± 9.5 % (Fig. 2B; P < 0.002), and in (c) minute phrenic activity to 52.6 ± 4.3 % of control from 20.3 ±3.7 % (Fig. 2C; P < 0.0000006). On the other hand, injection of saline (n=3) did not induce any change in phrenic nerve activity (Fig. 1C, Fig. 2). During the experiments, blood pressure and end-tidal C02 did not change significantly.
+
+
+Figure 2: Effects of intravenous test drugs (donepezil or saline) on morphine-induced respiratory depression including (A) respiratory rate (RR), (B) amplitude, (C) minute phrenic activity (respiratory rate x amplitude), EtCQ2 = end-tidal C02 * P<0.002 **P<0.0003 *** P<0.0000006
+
+Experiment 2
+
+Apneic threshold PaC02 is a useful reference for respiratory activity. Morphine significantly increased the phrenic nerve apnea threshold (P < 0.05) but this was significantly antagonized by donepezil (P < 0.05) (Fig. 3).
+
+
+	  	Figure 3: Apneic threshold PaC02 at control, after the injection of morphine and after the consequent injection of donepezil. *P<0.05
+
+DISCUSSION
+
+The present study revealed for the first time that systemically administered donepezil, an acetylcholinesterase inhibitor, partially restores morphine-induced respiratory depression and morphine-induced deterioration of phrenic nerve apnea threshold in anesthetized rabbit.
+
+Donepezil is a reversible inhibitor that exhibits high specificity for centrally active acetylcholinesterase and raises ACh levels in the brain (Rho and Lipson, 1997; Rogers et al., 1998). Because it is administered orally in clinical practice and in most previous experiments, we could not obtain information regarding how much intravenously administered donepezil induces significant increases in ACh levels in the brain. However, there is at least one previous study investigating quantitative dose/response relationship between ACh inhibition and intravenously administered donepezil. This study suggests that donepezil at 100 µg/kg inhibits about 30% of the acetylcholinesterase activity and donepezil at 250 µg/kg inhibits about 55% of the activity in living monkeys (Shiraishi et al., 2005). In order to induce even greater inhibitory effects with donepezil, we applied 400 µg/kg donepezil in the current study. It is reported that the donepezil concentration between blood and brain becomes constant within 5 min after intravenous injection in mice (De Vos et al., 2000) and the maximal increase in intracerebral ACh levels resulting from ACh inhibition by donepezil occurs as early as 14 min after intravenous injection of donepezil in monkeys (Tsukada et al., 2004). Even though these previous reports support our assumption that the concentration of donepezil in the brain reaches a steady state rapidly enough before the indices were measured (15 min) in our study, donepezil could not completely, but only partially, recover the morphine-induced respiratory depression. Therefore, further studies will be needed to evaluate the dose-dependent effects of donepezil on morphine-induced respiratory depression.
+
+In the present study, morphine-induced deterioration of apneic threshold is recovered by donepezil. Berkenbosch et al. (1994) have shown that morphine increased the apneic threshold and physostigmine decreased this morphine-induced increment of the apneic threshold without any change of the C02 sensitivity of the central and peripheral chemoreflex loops. These results are consistent with our results that donepezil recovered morphine-induced increment of the apneic threshold, and recovered morphine-induced ventilatory depression. Thus, not only physostigmin but also donepezil might take action on the respiratory neuronal network by increasing the amount of ACh in the respiratory center.
+
+In the previous studies, some drugs and substances have been indicated as candidate antagonists for opiate-induced respiratory depression (Weinstock et al., 1980; 1981; 1982; Snir-Mor et al. 1983; Willette et al., 1986; Elmalem et al., 1991; Berkenbosch et al., 1994; Ballanyi et al., 1997; Owen et al., 2000; Manzke et al., 2003; Lalley, 2004; 2005). Among these candidates, physostigmine is the only clinically used drug that can pass the blood brain barrier, it is rapidly metabolized to eseroline and two other metabolites (Giacobini et al., 1987). Therefore, Bourke et al. (1984) concluded that physostigmine was ineffective as an antagonist for opiate-induced respiratory depression. However, as we have shown in the present study, donepezil may represent a strong candidate as an antagonist of morphine-induced respiratory depression. Furthermore, donepezil has numerous advantages for patients using morphine. Donepezil appears to improve sedation and fatigue in patients receiving opioids for cancer pain (Bruera et al., 2003; Slatkin and Rhiner 2003) and prevents the addictive effect of morphine (Hikida et al., 2003). As an added advantage, the diarrhea induced by donepezil as a side effect (Birks 2006) might cancel the constipation which is a side effect of morphine. Furthermore, donepezil might enhance the analgesic effect of morphine because spinal ACh enhances the analgesic effect of systemic morphine (Chen and Pan. 2001). Further studies are needed to evaluate these potential advantageous effects of donepezil in its interaction with morphine.
+
+Pancuronium is used as neuromuscular blocking agent in the present study. In our previous study (Sakuraba et al., 2003), neuromuscular blocking agents themselves have inhibitory effects on respiratory activity in the isolated brainstem spinal cord of neonatal rats that have no blood brain barrier. However, neuromuscular blocking agents can hardly pass blood brain barrier (Fahey et al., 1990; Werba et al., 1992; Fuchs Buder et al., 2004) and thus can be thought not to affect respiratory activity.
+
+In summary, the inhibitory effects of morphine on respiratory rate and amplitude were partly recovered by donepezil in the anesthetized rabbit. Also, donepezil recovers the morphine-induced increase of apneic threshold. Thus, these effects might be caused by donepezil-induced increment of ACh in the respiratory neuronal network.
+
+ACKNOWLEDGEMENTS
+
+This research was supported, in part, by the Keio Gijuku Postgraduate School Fund for the Advancement of Research, the Keio University Grant-in-Aid for Encouragement of Young Medical Scientists, and a Grant-in-Aid for Scientific Research from the Japanese Ministry of Education, Science and Culture.
+
+ 
+
+REFERENCES
+
+BALLANYI K, LALLEY PM, HOCH B, RICHTER DW (1997) cAMP-dependent reversal of opioid- and prostaglandin-mediated depression of the isolated respiratory network in newborn rats. J Physiol 504: 127-134
+
+BERKENBOSCH A, OLIVIER CN, WOLSINK JG, DEGOEDE J, RUPREHT J (1994) Effects of morphine and physostigmine on the ventilatory response to carbon dioxide. Anesthesiology 80: 1303-1310
+        [ Medline ]
+
+BIRKS J (2006) Cholinesterase inhibitors for Alzeimer's disease. Cochrane Database Syst Rev 25: CD005593
+
+BOURKE DL, ROSENBERG M, ALLEN PD (1984) Physostigmine: Effectiveness as an antagonist of respiratory depression and psychomotor effects caused by morphine or diazepam. Anesthesiology 61: 523-528
+        [ Medline ]
+
+BOWDLE TA(1998) Adverse effects of opioid agonists and antagonists in anaesthesia. Drug Safety 19: 173-89
+        [ Medline ]
+
+BRUERA E, STRASSER F, SHEN L, PALMER JL, WILLEY J, DRIVER LC, BURTON AW (2003) The effect of donepezil on sedation and other symptoms in patients receiving opioids for cancer pain: a pilot study. J Pain Symptom Manage 26: 1049-1054
+        [ Medline ]
+
+BURTON MD, NOURI M, KAZEMI H (1995) Acetylcholine and central respiratory control: perturbations of acetylcholine synthesis in the isolated brainstem of the neonatal rat. Brain Res. 670: 39-47
+        [ Medline ]
+
+BURTON MD, JOHNSON DC, KAZEMI H (1997) The central respiratory effects of acetylcholine vary with CSF pH. J Auton Nerv Syst. 62: 27-32
+        [ Medline ]
+
+CHANEY MA (1995) Side effects of intrathecal and epidural opioids. Can J Anaeth 42: 891-903
+
+CHEN S, PAN H (2001) Spinal endogenous acetylcholine contributes to the analgesia effect of systemic morphine in rats. Anesthesiology 95: 525-530
+
+CHRISITIE JE, SHERING A, FERGUSON J, GLEN AI (1981) Physostigmine and areholine: effects of intravenous in Alzeimer presenile dementia. Br J Psychiatry 138: 46-50
+
+DE VOS F, SANTENS P, VERMEIRSCH H, DUMONT F, SLEGERS G (2000) Pharmacological evaluation of [11C] donepezil as a tracer for visualization of acetylcholinesterase by PET. Nucl Med Biol 27: 745-747
+        [ Medline ]
+
+DOMINO EF, WILSON A (1973) Effects of narcotic analgesic agonists and antagonists on rat brain acetylcholine. J Pharmacol Exp Ther 184: 18-32
+        [ Medline ]
+
+ELMALEM E, CHOREV M, WEINSTOCK M (1991) Antagonism of morphine-induced respiratory depression by novel anticholinesterase agents. Neuropharmacology 30: 1059-1064
+        [ Medline ]
+
+EUGENIN J, NICHOLLS JG (1997) Chemosensory and cholinergic stimulation of fictive respiration in isolated CNS of neonatal opossum. J Physiol 501: 425-437
+
+EUGENIN J, LLONA I, INFANTE CD, AMPUERO E (2001) In vitro approach to the chemical drive of breathing. Biol Res 34: 117-122
+        [ Medline ]        [ SciELO ]
+
+FAHEY MR, CANFELL PC, TABOADA T, HOSOBUCHI Y, MILLER RD (1990) Cerebrospinal fluid concentaration of laudanosine after administration of atracurium. Br J Anaesth 64: 105-106
+
+FUCHS-BUDER T, STROWITZKI M, RENTSCH K, SCHREIBER JU, PHILIPP-OSTERMAN S, KLEIN SCHMIDT S (2004) Concentration of rocuronium in cerebrospinal fluid of patients undergoing cerebral aneurysm clipping. Br J Anaesth 92:419-421
+        [ Medline ]
+
+GIACOBINI E, SOMANI S, MCIHANY M, DOWNEN M, HALLAK M (1987) Pharmacokinetics and pharmacodynamics of physostigmine after intravenous administration in beagle dogs. Neuropharmacology 26: 831-836
+        [ Medline ]
+
+HIKIDA T, KITABATAKE Y, PASTAN I, NAKANISHI S (2003) Acetylcholine enhancement in the nucleus accumbens prevents addictive behaviors of cocaine and morphine. Proc Nati Acad Sci 100: 6169-6173
+
+JHAMANDAS K, PHILLIS JW, PINSKY C (1971) Effect of narcotic analgesics and antagonists in the in vivo release of acetylcholine from the cerebral cortex of the cat. Br J Pharmacol 43: 53-66
+
+KUWANA S, NATSUI T (1981) Effect of arterial [H+] on threshold PC02 of the respiratory system in vagotomized and carotid sinus nerve denervated cats. J Physiol 318: 223-237
+
+LALLEY PM (2004) Dopaminel receptor agonists reverse opioid respiratory network depression, increase C02 reactivity. Respir Physiol Neurobiol 139: 247-262
+
+LALLEY PM (2005) DI-dopamine receptor agonists prevent and reverse opiate depression of breathing but not antinociception in the cat. Am J Physiol Regul Integr Comp Physiol 289: R45-R51
+
+MANZKE T, GUENTHER U, PONIMASKIN EG, HALLER M, DUTSCHMANN M, SCHWARZACHER S, RICHTER DW (2003) 5-HT4(a) receptors avert opioid-induced breathing depression without loss of analgesia. Science 301: 226-229
+
+MCNICOL E, HOROWICZ-MEHLER N, FISK RA, BENNETT K, GIALELI-GOUDAS M, CHEW PW, LAU J, CARR D (2003) Management of opioid side effects in cancer-related and chronic noncancer pain: a systematic review. J Pain 4: 231-256
+
+MONTEAU R, MORIN D,HILAIRE G (1990) Acetylcholine and central chemosensitivity: in vitro study in the newborn rat. Respir Physiol 81: 241-254
+        [ Medline ]
+
+MURAKOSHI T, SUZUE T, TAMAI S (1985) A pharmacological study on respiratory rhythm in the isolated brainstem-spinal cord preparation of the newborn rat. Br J Pharmacol 86: 95-104
+        [ Medline ]
+
+OKADA Y, CHEN Z, KUWANA S (1991) Cytoarchitecture of central chemoreceptors in the mammalian ventral medulla. Respir Physiol 129: 13-23
+
+OKADA Y, SATOH T, KUWANA S, KASHIWAGI M, KUSAKABE T (2004) Electrical stimulation of the rabbit pulmonary artery increases respiratory output. Respir Physiol Neurobiol 140: 209-217
+
+OWEN MD, UNAL CB, CALLAHAN MF, TRIVEDI K, YORK C, MILLINGTON WR (2000) Glycyl-glutamine inhibits the respiratory depression, but not the antinociception, produced by morphine. Am J Physiol Regulatory Integrative Comp Physiol 279: R1944-R1948
+
+PADMANABHA PILLAI N, RAMASWAMY S, GOPALAKRISHNAN V, GHOSH MN (1982) Effect of cholinergic drugs on acute and chronic morphine dependence. Arch Int Pharmacodyn Ther. 257: 146-154
+
+RHO JP, LIPSON LG (1997) Focus on donepezil: a reversible acetylcholinesterase inhibitor for the treatment of Alzheimer's disease. Formulary 32: 677-678
+
+ROGERS SL, DOODY RS, MOHS RC, FRIEDHOFF LT (1998) Donepezil improves cognition and global function in Alzheimer disease: a 15-week, double-blind, placebo-controlled sstudy. Donepezil Study Group. Arch Intern Med 158: 1021-1031
+        [ Medline ]
+
+SAKURABA S, KUWANA S, OCHIAI R, OKADA Y, KASHIWAGI M, HATORI E, TAKEDA J (2003) Effects of neuromuscular blocking agents on central respiratory control in the isolated brainstem-spinal cord of neonatal rat. Neurosci Res 47: 289-298
+        [ Medline ]
+
+SAKURABA S, KUWANA S, ERIKSSON LI, OKADA Y, OCHIAI R, KASHIWAGI M, HATORI E, LINDAHL SGE, TAKEDA J (2005) Effects of neuromuscular blocking agents on central respiratory chemosensitivity in newborn rats. Biol Res 38: 225-233
+        [ Medline ]        [ Lilacs ]        [ SciELO ]
+
+SHAO XM, FELDMAN JL (2000) Acetylcholine modulates respiratory pattern: effects mediated by M3-like receptors in preBotzinger complex inspiratory neurons. J Neurophysiol 83: 1243-1252
+        [ Medline ]
+
+SHAO XM, FELDMAN JL (2001) Mechanisms underlying regulation of respiratory pattern by nicotine in preBotzinger complex. J Neurophysiol 85: 2461-2467
+        [ Medline ]
+
+SHAO XM, FELDMAN JL (2002) Pharmacology of nicotinic receptors in preBotzinger complex that mediate modulation of respiratory pattern. J Neurophysiol 88: 1851-1858
+        [ Medline ]
+
+SHAO XM, FELDMAN JL (2005) Cholinergic neurotransmission in the preBotzinger Complex modulates excitability of inspiratory neurons and regulates respiratory rhythm. Neuroscience 130: 1069-1081
+        [ Medline ]
+
+SHIRAISHI T, KIKUCHI T, FUKUSHI K, SHINOTOH H, HAGATSUKA S, TANAKA N, OTA T, SATO K, HIRANO S, TAÑADA S, IYO M, IRIE T (2005) Estimation of Plasma IC50 of donepezil hydrochloride for brain acetylcholinesterase inhibition in monkey using N-[11C]methylpiperidin-4-y1 Acetate ([11C]MP4A) and PET. Neuropsychopharmacology 30: 2154-2161
+        [ Medline ]
+
+SLATKIN NE, RHINER M (2003) Treatment of opiate-related sedation: utility of the cholinesterase inhibitors. J Support Oncol 1: 53-63
+
+SMITH DOODY R (2003) Update on Alzheimer drugs (donepezil). Neurologist 9: 225-229
+        [ Medline ]
+
+SNIR-MOR I, WEINSTOCK M, DAVIDSON JT, BAHAR M (1983) Physostigmine antagonizes morphine-induced respiratory depression in human subjects. Anesthesiology 59: 6-9
+        [ Medline ]
+
+TSUKADA H, NISHIYAMA S, FUKUMOTO D, OHBA H, SATO K, KAKIUCHI T (2004) Effects of acute acetylcholinesterase inhibition on the cerebral cholinergic neuronal system and cognitive function: functional imaging of the conscious monkey brain using animal PET in combination with microdialysis. Synapse 52: 1-10
+
+WEINSTOCK M, ROLL D, EREZ E, BAHAR M (1980) Physostigmine antagonizes morphine-induced respiratory depression but not analgesia in dogs and rabbits. Br J Anaesth 52: 1171-1176
+        [ Medline ]
+
+WEINSTOCK M, EREZ E, ROLL D (1981) Antagonism of the cardiovascular and respiratory effect of morphine in the conscious rabbit by physostigmine. J Pharmac ExpTher 218: 504-508
+
+WEINSTOCK M, DAVIDSON JT, ROSIN AJ, SCHNIEDEN H (1982) Effect of physostigmine on morphine-induced postoperative pain and somnolence. Br J Anaesth 54: 429-434
+        [ Medline ]
+
+WERBA A, GILLY H, WEINDLMAYR-GOETTEL M, SPISS CK, STEINBEREITHNER K, CZECH T, AGOSTON S (1992) Porcine model for studying the passage of non-depolarizing neuromuscular blockersthrough the blood-brain barrier. Br J Anaesth 69: 382-386
+        [ Medline ]
+
+WILLETTE RN, DOORLEY BM, SAPRU HN (1987) Activation of cholinergic mechanisms in medulla oblongata reverse intravenous opioid-induced respiratory depression. J Pharmac Exp Ther 240: 352-358
+
+ZSILLA G, RACAGNI G, CHENEY DL, COSTA E (1977) Constant rate infusion of deuterated phosphorylcholine to measure the effects of morphine on acetylcholine turnover rate in specific nuclei of rat brain. Neuropharmacology, 16: 25-30.
+        [ Medline ]

@@ -1,0 +1,102 @@
+Descritores
+
+Argentina
+Female
+Head Protective Devices
+Humans
+Male
+Motorcycles
+Sex Factors
+
+
+Artigo
+
+Helmet use among motorcyclists: observational study in the city of Mar del Plata, Argentina
+
+ 
+
+Uso do capacete por motociclistas: estudo observacional na cidade de Mar del Plata, Argentina
+
+ 
+
+ 
+
+Rubén Daniel Ledesma; Raquel Inés Peltzer
+
+Universidad Nacional de Mar del Plata. Mar del Plata, Argentina
+
+Correspondence
+
+ 
+
+ 
+
+ABSTRACT
+
+The objective of the study was to assess the use of helmets in a community where helmet use is mandatory but low as there is no police enforcement. A sample comprising 451 motorcyclists in the city of Mar del Plata, Argentina, was studied in 2006. The following variables were studied: gender, type of motorcycle, weather conditions, time of the day, city area and type of road where motorcyclists traveled. Data were analyzed through a multiple logistic regression model. An overall 40% prevalence (95% CI: 35.5;44.5) of helmet use was found. Higher rates of helmet use were seen among women, and under unfavorable weather conditions, lower rates were found in the city outskirts, and variable use was seen according to the type of motorcycle. There is a need to improve law enforcement and to promote education of motorcyclists.
+
+Key words: Head protective devices, utilization. Motorcycles. Accidents, traffic, prevention & control. Argentina.
+
+RESUMO
+
+O estudo teve por objetivo analisar o uso de capacetes em uma comunidade onde, embora o uso seja obrigatório, não há policiamento e o uso é baixo. A amostra foi composta por 451 motociclistas observados na cidade de Mar del Plata, Argentina, em 2006. As variáveis estudadas foram: sexo do motociclista, tipo de motocicleta, condições climáticas, hora do dia, região da cidade e tipo de via em que circulavam as motocicletas.Os dados foram analisados em modelo de regressão logística múltipla. A prevalência do uso do capacete foi de 40% (IC 95%: 35,5;44,5), com maior uso pelas mulheres e em condições climáticas desfavoráveis, menor uso na periferia da cidade e variações segundo o tipo de motocicleta. Os resultados mostram a necessidade de haver maior controle e melhor educação dos condutores motociclistas.
+
+Descritores: Dispositivos de proteção da cabeça, utilização. Motocicletas. Acidentes de trânsito, prevenção e controle. Argentina.
+
+ 
+
+ 
+
+INTRODUCTION
+
+In most Latin American countries, road traffic injuries constitute a serious public health problem. There is considerable empirical evidence indicating that helmet use effectively reduces motorcycle-related injuries. Helmet use lessens serious injuries, lowers mortality rates and reduces the need for hospital resources.4 Nevertheless, the use of this safety device is not common in Argentina, and enforcement of the regulation mandating helmet use is almost inexistent.
+
+With respect to the variables that affect or are related to the use of helmets, it is worth mentioning, firstly, the significance of the legislation regulating helmet use. Experience shows that usage varies considerably depending on whether helmet use is mandatory or not.3 Therefore, the changes introduced into the legislation significantly affect the frequency of use but such changes need to be supported by police enforcement.
+
+It is also recognized that certain road-related and environmental variables are associated with the use of helmets. Weather conditions, type of road, circulation area and time of the day are some of the variables identified as factors associated with helmet use.5 Likewise, some individual-related variables have been defined as markers of differences among people sharing the same background and environment such as education level, gender and age.1 Other individual-related variables influencing helmet use are closely related to the road user profile including having or not having a driver's license, type of motorcycle, among others. Finally, some studies identify subjacent attitudinal variables that influence helmet use.2
+
+To sum up, this is a complex behavioral problem influenced by contextual and individual-related variables. Thus, despite previous research, it is necessary to explore what happens in each community in the light of its peculiarities. The purpose of the present study was to assess the use of helmets in a community where helmet use is mandatory but low as there is no police enforcement.
+
+ 
+
+METHODS
+
+The study was carried out in the city of Mar del Plata, Argentina, in the months of April and May 2006.The city was divided into three areas: central, macro and peripheral. For each area, seven observation points were selected following two basic parameters: normal traffic flow and artificial lighting. At each point, observations were made over the course of an hour, about half an hour during the day and half an hour during the evening and night. Data collection was carried out through a protocol of observation records designed and managed by the researchers. To simplify data collection, two researchers completed the protocol at each site. The study sample comprised all motorcyclists observed during the observation period. Five observations were excluded from the analysis since gender or type of vehicle could not be identified.
+
+Data were analyzed using a multiple logistic regression model with the variable "helmet use/no helmet use" as the dependent one. Rider's gender, type of motorcycle, weather conditions, time of the day, city area, type of road were the predictor variables. A backwards stepwise regression approach was used, taking the likelihood ratio test as the criterion for variable elimination. The dependent variable was codified so that odds ratios are interpreted as an increase in the helmet use rate, taking as reference the first category of each independent variable.
+
+ 
+
+RESULTS
+
+A total 464 motorcyclists were studied during the observation period. Analysis was conducted for 451 observations with complete data. An overall prevalence of 40% (95% CI: 35.5;44.5) was found for helmet use. It was also found that 11% of the riders had their helmets at the time of the observation but were not wearing them.
+
+Table 1 summarizes the most relevant results obtained in the regression model. The variables "type of road" and "time of the day" were excluded from the model. The final model shows a satisfactory fit according to the likelihood ratio test (-2 log likelihood 544,160; p<0.001). The global effects of the model variables are all significant. The most important partial contribution (R) is for the variable weather conditions, followed by rider's gender, city area and type of motorcycle.
+
+With respect to the effects of variables, the likelihood rate between helmet use and non-helmet use was greater by a factor of 2.788 among women. As for city area, there was a reduction factor of 0.401 in helmet use in the peripheral area compared to the central area of the city. For the variable weather conditions, motorcyclists were eight times more likely to use helmets under "rainy" conditions than under good weather conditions. In regard to the type of motorcycle, a significant reduction in helmet use was seen among users of cross motorcycles and scooters.
+
+ 
+
+DISCUSSION
+
+The study results indicate that helmets were not often used by motorcyclists in the community and show a very low rate of use even when a significant proportion of the riders own helmets. This finding corroborates other previous observational studies in Argentina.
+
+Previous research in cities with low prevalence of helmet use indicates that usage seems to be associated to environmental and individual factors unrelated to safety,1,5 a finding that is also supported by the present study results in several ways. Firstly, the variation in use according to weather conditions is significant and increases considerably under bad weather conditions. Helmets seem to be worn more for weather protection than safety reasons. Furthermore, it was also seen low use in central and peripheral areas of the city. This may be due to police presence in central areas, which serves as a deterrent by increasing the risk of being stopped and ticketed for not using a helmet.
+
+Individual-related variables associated with usage included notably gender differences: helmets were more extensively worn by women, which corroborates previous studies. Similarly, the use varied by type of motorcycle. This could be explained by social and economic differences and/or variations in the purpose or type of use given to the vehicle which may affect the decision of wearing a helmet. Further studies on individual differences through alternative methodologies are needed, such as survey techniques or focus groups, to explore potential motivational and attitudinal aspects related to helmet use. Among the limitations of the present study, a logistic regression model can present some problems when applied in cross-sectional studies, and alternative statistical analyses should be used in these cases. For that reason, the results presented here must be interpreted with caution in terms of associations between variables.
+
+Finally, helmet use is another indicator of safety conditions in a community and of the joint efforts carried out to prevent road traffic injuries. In the present study, the inexistence of road safety policies and comprehensive planning is evident as seen in many other Latin American communities. There is an urgent need for the implementation of actions to increase helmet use and for greater efforts to enforce regulations and promote helmet use among motorcyclists.
+
+ 
+
+REFERENCES
+
+1. Babio GO, Daponte-Codina A. Factors associated with seatbelt, helmet, and child safety seat use in a Spanish high-risk injury area. J Trauma. 2006;60(3):620-6.        [ Links ]
+
+2. Bianco A, Trani F, Santoro G, Angelillo IF. Adolescents' attitudes and behaviour towards motorcycle helmet use in Italy. Eur J Pediatr. 2005;164(4):207-11.        [ Links ]
+
+3. Ferrando J, Plasència A, Orós M, Borrell C, Kraus JF. Impact of a helmet law on two wheel motor vehicle crash mortality in a southern European urban area. Inj Prev. 2000;6(3):184-8        [ Links ]
+
+4. Liu B, Ivers R, Norton R, Blows S, Lo SK. Helmets for preventing injury in motorcycle riders. Cochrane Database Syst Rev. 2004;(2):CD004333.        [ Links ]
+
+5. Skalkidou A, Petridou E, Papadopoulos FC, Dessypris N, Trichopoulos D. Factors affecting motorcycle helmet use in the population of Greater Athens, Greece. Inj Prev. 1999;5(4):264-7.        [ Links ]

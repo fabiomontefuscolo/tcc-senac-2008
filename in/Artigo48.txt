@@ -1,0 +1,257 @@
+Descritores
+
+Animals
+Cyclooxygenase 1
+Disease Models, Animal
+Estrogens
+Female
+Gene Expression
+Gene Expression Profiling
+In Situ Hybridization
+Membrane Proteins
+Oligonucleotide Array Sequence Analysis
+Ovariectomy
+Ovary
+Rats
+Rats, Wistar
+Reverse Transcriptase Polymerase Chain Reaction
+Urinary Tract
+Urologic Diseases
+Vascular Endothelial Growth Factor A
+beta 2-Microglobulin
+
+
+Artigo
+
+Influence of ovarian hormones deprivation on gene expression in the lower urinary tract of rats
+
+ 
+
+ 
+
+Maria A. T. Bortolini; Ismael D. C. Silva; Maria G. Hamerski; Rodrigo A. Castro; Marair G. F. Sartori; Manoel J. B. Girao
+
+Department of Gynecology, Federal University of Sao Paulo, Sao Paulo, SP, Brazil
+
+Correspondence
+
+ 
+
+ 
+
+ABSTRACT
+
+OBJECTIVE: Identify the influence of ovarian hormone deprivation in expression genes on the lower urinary tract of rats.
+MATERIALS AND METHODS: This study deals with gene screening on lower urinary tract of rats. Fifty isogenic rats divided in two groups of twenty–five animals have their lower urinary tract surgically removed: group I, ovariectomized rats 30 days prior to surgery; group II, non–ovariectomized rats. Total RNA was isolated from bladder and urethra, and differential expression of genes was analyzed quantitative, qualitative and comparatively by array technology and RT–PCR.
+RESULTS: A total of 76 candidate genes were identified as differentially expressed between the groups, 26 being lower expressed in group II, and 50 in group I. Among them, differential expression validation was confirmed by RT–PCR for three lower expressed genes in group I: Vascular Endothelial Growth Factor (VEGF), Beta–2 Microglobulin (B2M) and Cytochrome c Oxidase subunit I (COX I).
+CONCLUSION: Ovarian hormone deprivation influences the expression genes on lower urinary tract. We demonstrated that a 30–day period of castration down regulate the expression of VEGF, B2M and COX I in adult rats which are involved in activities of angiogenesis, immune responses and cellular metabolism respectively.
+
+Key words: ovary; hormone; urinary tract; microarray analysis; gene
+
+ 
+
+ 
+
+INTRODUCTION
+
+The climacterium, a period of decline in ovarian activity, is characterized by a variety of symptoms, in particular urogenital ones (1). Studies demonstrated a high incidence of urogenital symptoms in the climacterium and postmenopausal period, associating them to estrogen deficiency as the etiologic factor. Iosif & Bekassy (1), on studying 902 patients, observed approximately 29% urinary incontinence, 27% urge incontinence, 13% repeated infections of the urinary tract and 48% other symptoms due to urogenital atrophy, such as dysuria, dyspareunia, nocturia, micturition urgency.
+
+It was believed sexual hormones deprivation would cause, among other modifications, urinary mucosa and muscle layer atrophy, increase in collagen/smooth muscle ratio in the urinary tract, decrease in pelvic vascularization, decrease in the protecting glycosaminoglycan layer in the vesical wall, modifications of the vaginal flora and pH, alterations in the cellular and humoral immunologic responses (2–10). These findings had supported estrogen deprivation as the origin of urinary disorders on postmenopausal women. In fact, for many years, estrogen preparations have been used to treat urinary symptoms and they are no longer a treatment option for urinary incontinence (11,12).
+
+Presently, the identification of some medicines starts by recognizing the genes that might be involved in pathological processes that, therefore, could be qualified as targets for future pharmacological interventions (13,14). In order to understand the way genes regulate cell function, the best procedure is by monitoring the set of gene activities in the cells (15). Microarray technology appeared in the last decade and constitutes an instrument able to quantitatively, qualitatively and simultaneously monitor hundreds or even thousands of genes (16,17). The use of arrays allows the global statistical analysis of the behavior of the different genes in certain evaluated situations and permits a dynamic analysis of the target tissue, since it compares expressions of the several genes among themselves (18,19).
+
+We studied the influence of ovarian hormones deprivation on gene expression in the lower urinary tract, attempting to correlate biomolecular findings with mechanisms involved in urogynecologic diseases.
+
+ 
+
+MATERIALS AND METHODS
+
+Specimens – Rattus novergicus albinus (Rodentia Mammalia – Wistar EPM–1) from the animal house of the Federal University of São Paulo/EPM were kept in environmentally controlled, clean–air rooms with a 12–h light/dark cycle. They were fed Labina–Purina–SP–BR pellets and tap water ad libitum. Fifty virgin rats, 2–3 months old, were divided into 2 groups of twenty–five animals: Group I, rats that had their bladder and urethra removed 30 days after ovariectomy; Group II, non–ovariectomized rats that had their lower urinary tract removed 30 days afterwards. At the above indicated time, the corresponding animals were anesthetized; lower urinary tracts were rapidly frozen in liquid nitrogen for RNA extraction. This study received full Institutional Review Board approval.
+
+RNA Extraction and Reverse Transcription – Total RNA was extracted from samples using TRIZOL (InVitrogen, São Paulo) according to the manufacture's instructions. The total RNA quality was checked by formaldehyde/agarose gel electrophoresis. Prior to reverse transcriptions, two pools of RNA were obtained by mixing 2 µg of total RNA from each individual case in two tubes representing Group I and II. In order to obtain radiolabeled cDNA probes, the two RNA pools, containing 50 µg RNA each, were reverse transcribed in the presence of oligodT primers and a–[33P] dATP (2000 Ci/mmoL) by using kit Superscript II (InVitrogen) following the manufacture's instructions. Probes were purified by Probe Quant G50 microcolumns (Amersham Pharmacia Biotech).
+
+cDNA Arrays and Hybridization Conditions – To analyze different gene expressions between group I and II, two Atlas rat cDNA expression array membranes (Clontech, Palo Alto, CA, USA) containing 1176 genes were used (two times). Hybridization took place at 42ºC in an overnight reaction containing 20X standard saline citrate (SSC), 50X Denhardt's solution, 50% formamide, 10x sodium dodecyl sulphate (SDS) and 100 µg/mL salmon–sperm DNA. The filters were washed at 50ºC in 1x SSC/0, 1% SDS for 15 minutes. Images were obtained by scanning the membrane in a storage phosphor system (Cycloneä – Packard BioScience Company, Meriden, CT, USA). DNA targets on the arrays were located using grid overlays and spot intensities were subsequently measured (Diracom Bioinformática – São Paulo/Brazil).
+
+Statistical Usage – Signs generated by hybridization of radioactive probes were processed and normalized using the digital software ArrayLab (Diracom Bioinformática – São Paulo, Brazil), by means of a superposing digital grid instrument on the cDNA spots marked on the nylon membranes. Thus, the expression of each gene was quantified by the calculation of the radiation volume (three–dimensional) emitted by the previously known spots of the membranes, consequently obtaining the numeric value corresponding to the images, on a logarithmic basis. We obtained the difference (DIF) of the expression of the same gene in the two groups (I and II) by the formula: DIF = log2(II–I). Values of DIF > 1 or < 1 were considered differentially expressed, that is, twice the difference in expression between the genes. The housekeeping genes of the membranes, glyceraldehyde–3–phosphate dehydrogenase (GAPDH), cytoplasmic beta actin (ACTB) and ubiquitin C had values of expression difference between the groups within the interval –1 < DIF < 1.
+
+RT–PCR – Validation of array data by semi–quantitative RT–PCR was performed by pooling equal amounts of total RNA from each group; pools were then submitted to reverse transcription by using Superscript II RNAse H reverse transcriptase (InVitrogen) in a final volume of 20 µL according to the manufacture's instructions. Primers were designed by Prime3 program–http://www–genome.wi.mit.edu/cgi–bin/primer/primer3.cgi/primer3_www.cgi). Cytoplasmic beta actin (ACTB) gene was used to normalize the reactions. Two microliters of the reverse transcribed cDNA was amplified in a final volume of 100 µL by PCR under standard conditions: 1.5 mM MgCl2, 125 µM dNTP and 2.5 U Taq polymerase using specific primers at 10 µM concentration.
+
+Cytoplasmatic beta actin: 375 bp; 32 cycles (94ºC, 1 min / 55oC, 30 sec / 72ºC, 30 sec) S: 5'– cgtgacattaaggagaagctg –3'; AS: 3'– ctcaggaggagcaatgatcttga –5'
+
+Beta–2 microglobulin: 225 bp; 25 cycles (94ºC, 1 min / 55ºC, 30 sec / 72ºC, 30 sec) S: 5'– gaattcacacccaccgagac –3'; AS: 3'– ccggatctggagtaaactgg –5'
+
+Cytochrome oxidase subunit I: 238 bp; 32 cycles (94ºC, 1 min / 55ºC, 30 sec / 72ºC, 30 sec) S: 5'– tcgcatcaaaacgagaagtg –3'; AS: 5'– gggttcgaatccttcctttc –3'
+
+Vascular endothelial growth factor: 370 / 450 / 500 / 600 bp; 35 cycles (94ºC, 1 min / 58ºC, 30 sec / 72ºC, 30 sec) S: 5'– tgcacccacgacagaaggc –3'; AS: 3'– tcacccccttggcttgtcacat –5'
+
+The amplified PCR products were separated on 2% agarose gel containing 0.1 µg/mL ethidium bromide. The visualized bands were analyzed semi–quantitatively using image–scanning densitometry (Kodak EDAS 120).
+
+ 
+
+RESULTS
+
+Using the genetic cDNA screening microarray method with membranes of 1176 gene we observed that 76 presented a differential expression of at least two times between the two groups, of which 50 genes with lower expression in the group of castrated rats (I) and 26 in the group of non–castrated rats (II). These genes are involved in several steps of biomolecular and cellular processes (Table–1 and 2).
+
+The analyses of the images of agarose gel electrophoresis of the RT–PCR products confirm the data of differential gene expression in the two groups observed with microarrays for beta–2 microglobulin (b2M) and cytochrome c oxidase subunit I (COX I) genes (Figure–1) The two genes were less expressed in group I, the differences (DIF) between the groups being 1.54 and 1.65, respectively.
+
+ 
+
+ 
+
+The difference in expression (DIF) in the arrays for the cytoplasmic beta actin housekeeping gene (ACTB), used in RT–PCR, was 0.12, proving membrane normalization.
+
+We performed RT–PCR for amplification of the vascular endothelial growth factor (VEGF) in both groups and observed a lower expression of this gene in group I rats (Figure–1).
+
+ 
+
+COMMENTS
+
+We believe that depth in study of genes, biomolecular and cellular control mechanisms, as well as interaction of endogenous and exogenous factors with the genetic material of the cells would help our understanding of the pathophysiological processes that give rise to urogynecological diseases.
+
+After screening 1176 genes with the help of the cDNA microarray technology, we identified 76 differential expression genes between the groups. In practice, it is not easy to distinguish the real differences in gene expression where there is a difference due to artifacts of technical variations. We considered differentially expressed genes with a difference in expression of at least two times between the groups, a value recommended by the statistical literature on array analysis, whose estimated error rate is 1% (20–22).
+
+Gene screening allowed us to prove the influence of thirty–day castration of rats on gene expression in the organs of the lower urinary tract. The identified genes are involved in different cell activities: regulation of the cell cycle, turnover and translation of proteins and extracellular signaling, growth and cell metabolism, neurotransmission.
+
+Among the genes identified as differentially expressed, we chose two genes, COX I and b2M, to be confirmed by RT–PCR, in view of the complexity of the used methodology.
+
+We also analyze the expression of VEGF gene by RT–PCR, faced to the importance of the vascularization in the maintenance of urinary continence (2) and the demonstration of serum VEGF level decrease after menopause with the loss of ovarian function (23).
+
+The VEGF gene is involved in the process of tissular angiogenesis (24) and thus, as with other growth factors, has its expression modulated by sexual steroids (25).
+
+The VEGF protein is a polypeptide with a specific effect on cells of the vascular endothelium and vascular permeability and is the most potent mitogenic and proliferation factor of endothelial cells (26).
+
+Experiments demonstrated serum levels of VEGF decreased after menopause with loss of ovarian function (23) and some authors described quantitative variations in VEGF according to the hormonal status. Andrade et al. (17) observed a significant decrease in levels of messenger RNA for VEGF in the endometrium of castrated adult rats when compared to the group of rats with estrogen replacement.
+
+Agrawal et al. (27), using Doppler velocimetry in postmenopausal women, showed an increase in pulsatility indexes in carotid and uterine arteries, reflecting a higher vascular resistance in this phase, a process that was reversed after estrogen therapy with a subsequent increase in serum VEGF concentrations.
+
+Zucchi et al. (28) observed protein expression of VEGF gene in the bladder, vesical–urethral junction and urethra of castrated and non–castrated rats had been verified significantly decrease of VEGF in castrated rat bladders compared to another group. There was also protein decrease in vesical–urethral junction even though not as accentuated as in the bladder.
+
+Our observation of lower VEGF gene expression in urinary tract in castrated rats with ovarian hormones deficient could be associated to local blood vessel formation decrease. It would possibly contribute to the appearance of undesirable urinary symptoms such as irritating bladder and urethral symptoms, urinary incontinence and urinary infection, too common in postmenopausal women, by decreasing local circulation, oxygen offer and immunological defense.
+
+COX I is a gene of mitochondrial DNA which encodes for cytochrome c oxidase subunit I that belongs to the respiratory complex IV and involved in the process of oxidative phosphorylation of cell (29).
+
+It was suggested postmenopausal would have reduced capacity to perform prolonged intensive exercises after evidence of decrease of cytochrome oxidase activity by 40%, consequently, decrease of oxidase phosphorilation to obtain energy in muscles of ovariectomized rats exposed into stimulation (30).
+
+Abelenda & Puerta (31) suggested ovarian sex hormones regulate oxidative capacity by studying ovariectomized animals. They concluded estrogen deprivation analyzed with ovariectomized rats exposed to low temperature increases cytochrome oxidase activity in whole body thermogenic tissues, such as adipose tissue, soleus muscle, hearth, striated muscles, liver and kidneys. In the same study, authors did not observe alteration in enzyme complex activity in uterus after ovariectomy.      
+
+Tong–Long Lin et al. (32) studied the effect of age on mitochondrial enzyme activity in rat bladders while evaluating the following enzyme activities: citrate synthetase, malate dehydrogenase, NADH–cytochrome c reductase, succinate–cytochrome c reductase and cytochrome c oxidase, in addition to phosphocreatine and ATP concentrations in bladders of 24–month–old female rats. The authors observed significantly lower phosphocreatine and ATP levels and significantly lower enzyme activities, mainly of citrate synthetase, in bladders of old rats. They concluded that age reduced the activity of mitochondrial enzymes of rat bladders, resulting in less ability of energy production that could explain some micturition disorders frequent in elderly patients.
+
+Adequate energy supply is a prerequisite for good vesical functioning, muscle contraction and vesical emptying. Cell energy, in the form of ATP originating from mitochondrial oxidative phosphorylation is the immediate energy used for contraction of detrusor muscles and other cell activities (32). Levin et al. (33) demonstrated that interruption of the oxidative metabolism abolished the plateau component of detrusor muscle contraction, resulting in decrease in the ability of vesical empting.
+
+Our result demonstrated reduced expression of Cytochrome c oxidase subunit I gene in castrated rats. Thus, decrease in expression of genes of cell respiration may be one of the mechanisms by which ovarian sex hormones deficiency promote alteration in urinary tract metabolism and alterations in energy acquisition by cells needed for physiological activities such detrusor contraction.
+
+The b2M gene encodes for the protein of the same designation that is a component of HLA antigens (histocompatibility antigens), being essential for their expression. It is structurally similar to the amino acid sequences of immunoglobulins and is implied in immunologic functions (34,35).
+
+b2M function has not been completely clarified yet. How ever, it is postulated that b2M would be a link between antibodies or IgG and histocompatibility antigens. Therefore, it would have the function of cellular recognition of antigens and interaction of the cellular and humoral immune systems, by interaction between T and B lymphpocytes (35).
+
+Several evidences support the hypotheses of regulation of immunologic functions by gonadal steroids: different behavior of immune system between men and women, alterations in immune response after gonadectomy, estrogen replacement and in women during pregnancy. Even so, hormone steroids receptors are identified in immune system organs (36).
+
+Most scientific evidence demonstrates that particularly estrogens act as stimulators of the humoral immune response and as inhibitors of the cellular immune response (37).
+
+Some authors studied different system immune compounds under ovarian hormones deficit. Kamada et al. (38) on studying T cell function in menopausal women observed lower quantity of Th1 cytokines, inducers of the cellular immune response, and imbalance in the relationship between the latter and Th2 cytokines, inducers of the humoral immune response.
+
+Giglio et al. (39) detected reduced number of T CD4+ and B lymphocytes in postmenopausal period compared to young women. The same result for T lymphocytes weren't observed by Yang et al. (40), that also related NK cells toxicity were decreased in postmenopause, situation reverted by estrogen therapy.
+
+Flory et al. (41) analyzed some parameters of immunological response as toxicity number and mitogenic response of NK cells in women treated with GnRH agonist and estrogen replacement thereafter. Temporary suppression of ovarian function in addition to estrogen therapy did not alter those parameters. Authors postulated immunological suppression findings are temporarily stable and possibly related to age, life style, associated diseases.
+
+In our study 30 days period of castration were enough to reduce b2M gene expression. Maybe, system immune alterations after menopause observed by some authors can be at least partially mediated by b2M expression. It is possible that decreased expression of b2M in lower urinary tract is associated to increase of urinary infection.
+
+However, the real function of b2M protein in immune responses, its association with infectious processes and the participation of the immune system specifically in the genesis of urinary infections in the postmenopausal period have to be better elucidated.
+
+In our experience, cDNA microarray technology is a good screening method of genes of the lower urinary tract and is also efficient in the studies on molecular alterations induced by estrogen deficiency.
+
+The high prevalence of urinary disorders in postmenopausal women justifies all efforts for their better understanding, treatment and prophylaxis, in the insisting attempt for a better quality of life.
+
+This study deals with gene screening, and innumerable genes and protein still have to be evaluated and confirmed. Thus, on the basis of knowledge on genomics and pharmacogenomics, perhaps in the future we may identify new targets for drug action and make available therapeutic options for urinary disorders.
+
+ 
+
+CONFLICT OF INTEREST
+
+None declared.
+
+ 
+
+REFERENCES
+
+1. Iosif CS, Bekassy Z: Prevalence of genito–urinary symptoms in the late menopause. Acta Obstet Gynecol Scand. 1984; 63: 257–60.        [ Links ]
+
+2. Rud T, Andersson KE, Asmussen M, Hunting A, Ulmsten U: Factors maintaining the intraurethral pressure in women. Invest Urol. 1980; 17: 343–7.        [ Links ]
+
+3. Suguita M, Girao MJ, Simoes MJ, Sartori MG, Baracat EC, Rodrigues de Lima GR: A morphologic and morphometric study of the vesical mucosa and urethra of castrated female rats following estrogen and/or progestogen replacement. Clin Exp Obstet Gynecol. 2000; 27: 176–8.        [ Links ]
+
+4. Girao MJ, Jarmy–Di Bella ZI, Sartori MG, Baracat EC, Lima GR: Doppler velocimetry parameters of periurethral vessels in postmenopausal incontinent women receiving estrogen replacement. Int Urogynecol J Pelvic Floor Dysfunct. 2001; 12: 241–6.        [ Links ]
+
+5. Sartori MG, Girao MJ, de Jesus Simoes M, Sartori JP, Baracat EC, Rodrigues de Lima G: Quantitative evaluation of collagen and muscle fibers in the lower urinary tract of castrated and under–hormone replacement female rats. Clin Exp Obstet Gynecol. 2001; 28: 92–6.        [ Links ]
+
+6. Murakumo M, Ushiki T, Abe K, Matsumura K, Shinno Y, Koyanagi T: Three–dimensional arrangement of collagen and elastin fibers in the human urinary bladder: a scanning electron microscopic study. J Urol. 1995; 154: 251–6.        [ Links ]
+
+7. de Deus JM, Girao MJ, Sartori MG, Baracat EC, Rodrigues de Lima G, Nader HB, et al.: Glycosaminoglycan profile in bladder and urethra of castrated rats treated with estrogen, progestogen, and raloxifene. Am J Obstet Gynecol. 2003; 189: 1654–9.        [ Links ]
+
+8. Horam MA, Parker SG: Infections, aging and the host defense. In: Horan MA, Little RA (eds.), Injury in the aging. Cambridge, Cambridge University Press. 1998; pp. 126–146.         [ Links ]
+
+9. Cardozo L, Lose G, McClish D, Versi E, de Koning Gans H: A systematic review of estrogens for recurrent urinary tract infections: third report of the hormones and urogenital therapy (HUT) committee. Int Urogynecol J Pelvic Floor Dysfunct. 2001; 12: 15–20.        [ Links ]
+
+10. Collas DM, Malone–Lee JG: Age–associated changes in detrusor sensory function in women with lower urinary tract symptoms. Int Urogynecol J Pelvic Floor Dysfunct. 1996; 7: 24–9.        [ Links ]
+
+11. Robinson D, Cardozo LD: The role of estrogens in female lower urinary tract dysfunction. Urology. 2003; 62: 45–51.        [ Links ]
+
+12. Hendrix SL, Cochrane BB, Nygaard IE, Handa VL, Barnabei VM, Iglesia C, et al.: Effects of estrogen with and without progestin on urinary incontinence. JAMA. 2005; 293: 935–48.        [ Links ]
+
+13. Ferentz AE: Integrating pharmacogenomics into drug development. Pharmacogenomics. 2002; 3: 453–67.        [ Links ]
+
+14. Pagliarulo V, Datar RH, Cote RJ: Role of genetic and expression profiling in pharmacogenomics: the changing face of patient management. Curr Issues Mol Biol. 2002; 4: 101–10.        [ Links ]
+
+15. Chen JJ, Wu R, Yang PC, Huang JY, Sher YP, Han MH, et al.: Profiling expression patterns and isolating differentially expressed genes by cDNA microarray system with colorimetry detection. Genomics. 1998; 51: 313–24.        [ Links ]
+
+16. Lander ES: The new genomics: global views of biology. Science. 1996; 274: 536–9.        [ Links ]
+
+17. Andrade PM, Silva ID, Borra RC, de Lima GR, Baracat EC: Estrogen regulation of uterine genes in vivo detected by complementary DNA array. Horm Metab Res. 2002; 34: 238–44.        [ Links ]
+
+18. Johnson KF, Lin SM: Microarray analysis: a comparative approach. Mol Cancer Ther. 2002; 1: 237–8.        [ Links ]
+
+19. Kaminski N, Friedman N: Practical approaches to analyzing results of microarray experiments. Am J Respir Cell Mol Biol. 2002; 27: 125–32.        [ Links ]
+
+20. Claverie JM: Computational methods for the identification of differential and coordinated gene expression. Hum Mol Genet. 1999; 8: 1821–32.        [ Links ]
+
+21. Lipshutz RJ, Fodor SP, Gingeras TR, Lockhart DJ: High density synthetic oligonucleotide arrays. Nat Genet. 1999; 21: 20–4.        [ Links ]
+
+22. Visco AG, Yuan L: Differential gene expression in pubococcygeus muscle from patients with pelvic organ prolapse. Am J Obstet Gynecol. 2003; 189: 102–12.        [ Links ]
+
+23. Torry DS, Holt VJ, Keenan JA, Harris G, Caudle MR, Torry RJ: Vascular endothelial growth factor expression in cycling human endometrium. Fertil Steril. 1996; 66: 72–80.        [ Links ]
+
+24. Mueller MD, Vigne JL, Minchenko A, Lebovic DI, Leitman DC, Taylor RN: Regulation of vascular endothelial growth factor (VEGF) gene transcription by estrogen receptors alpha and beta. Proc Natl Acad Sci USA. 2000; 97: 10972–7.        [ Links ]
+
+25. Soares R, Reis–Filho JS, Gartner F, Schmitt FC: Vascular endothelial growth factor, transforming growth factor–alpha, and estrogen receptors: possible cross–talks and interactions. Am J Pathol. 2002; 160: 381–2; author reply 382–3.        [ Links ]
+
+26. Berger DP, Herbstritt L, Dengler WA, Marme D, Mertelsmann R, Fiebig HH: Vascular endothelial growth factor (VEGF) mRNA expression in human tumor models of different histologies. Ann Oncol. 1995; 6: 817–25.        [ Links ]
+
+27. Agrawal R, Prelevic G, Conway GS, Payne NN, Ginsburg J, Jacobs HS: Serum vascular endothelial growth factor concentrations in postmenopausal women: the effect of hormone replacement therapy. Fertil Steril. 2000; 73: 56–60.        [ Links ]
+
+28. Zucchi EVM, Monteiro NC, Sartori MGF, Silva IDC, Girão MJBC, Baracat EC, et al.: Avaliação dos níveis de RNAm do fator de crescimento vásculo–endotelial na bexiga e uretra de ratas normais, castradas e sob reposição estrogênica [CD–ROM]. In: 49º Congresso Brasileiro de Ginecologia e Obstetrícia. Anais [resumo 57]. São Paulo: Frôntis Editorial; 2001.        [ Links ]
+
+29. Kadenbach B, Jarausch J, Hartmann R, Merle P: Separation of mammalian cytochrome c oxidase into 13 polypeptides by a sodium dodecyl sulfate–gel electrophoretic procedure. Anal Biochem. 1983; 129: 517–21.        [ Links ]
+
+30. Roth Z, Argov Z, Maris J, McCully KK, Leigh JS Jr, Chance B: Effects of ovariectomy on energy metabolism in exercising rat muscle studied by 31P–NMR. J Appl Physiol. 1989; 67: 2060–5.        [ Links ]
+
+31. Abelenda M, Puerta M: Dual control of cytochrome–c oxidase activity by female sex steroids. Eur J Endocrinol. 1999; 141: 630–6.        [ Links ]
+
+32. Lin AT, Hsu TH, Yang C, Chang LS: Effects of aging on mitochondrial enzyme activity of rat urinary bladder. Urol Int. 2000; 65: 144–7.        [ Links ]
+
+33. Levin RM, Ruggieri MR, Gill HS, Haugaard N, Wein AJ: Studies on the biphasic nature of urinary bladder contraction and function. Neurourol Urodyn. 1987; 6: 339–350.        [ Links ]
+
+34. Cunningham BA, Wang JL, Berggard I, Peterson PA: The complete amino acid sequence of beta 2–microglobulin. Biochemistry. 1973; 12: 4811–22.        [ Links ]
+
+35. Marx, JL: Immunology: role of beta–2–microglobulin. Science 185: 428–429, 1974.        [ Links ]
+
+36. Van Itallie CM, Dannies PS: Estrogen induces accumulation of the mitochondrial ribonucleic acid for subunit II of cytochrome oxidase in pituitary tumor cells. Mol Endocrinol. 1988; 2: 332–7.        [ Links ]
+
+37. Grossman CJ: Interactions between the gonadal steroids and the immune system. Science. 1985; 227: 257–61.        [ Links ]
+
+38. Kamada M, Irahara M, Maegawa M, Ohmoto Y, Murata K, Yasui T, et al.: Transient increase in the levels of T–helper 1 cytokines in postmenopausal women and the effects of hormone replacement therapy. Gynecol Obstet Invest. 2001; 52: 82–8.        [ Links ]
+
+39. Giglio T, Imro MA, Filaci G, Scudeletti M, Puppo F, De Cecco L, et al.: Immune cell circulating subsets are affected by gonadal function. Life Sci. 1994; 54: 1305–12.        [ Links ]
+
+40. Yang JH, Chen CD, Wu MY, Chao KH, Yang YS, Ho HN: Hormone replacement therapy reverses the decrease in natural killer cytotoxicity but does not reverse the decreases in the T–cell subpopulation or interferon–gamma production in postmenopausal women. Fertil Steril. 2000; 74: 261–7.        [ Links ]
+
+41. Flory JD, Matthews KA, Sistilli CG, Caggiula AR, Berga SL, Owens JF: Short–term suppression of ovarian function and immune measures in healthy women. Psychoneuroendocrinology. 2002; 27: 749–68.        [ Links ]

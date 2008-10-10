@@ -1,0 +1,201 @@
+Descritores
+
+Adult
+Aged
+Case-Control Studies
+Diabetes Mellitus, Type 2
+Diabetic Nephropathies
+Female
+Genetic Markers
+Genetic Predisposition to Disease
+Genotype
+Humans
+Male
+Membrane Proteins
+Middle Aged
+Pilot Projects
+Polymorphism, Genetic
+Promoter Regions (Genetics)
+
+
+Artigo
+
+A pilot study on genetic variation in purine-rich elements in the nephrin gene promoter in type 2 diabetic patients
+
+ 
+
+RODRIGO GONZÁLEZ1, ARES TIRADO1, MONSERRAT BALANDA1, MIRIAM ALVO2, INÉS BARQUÍN3, PILAR DURRUTY4, SERGIO LOBOS1 and DANIELA SEELENFREUND1
+
+1 Laboratorio de Bioquímica, Departamento de Bioquímica y Biología Molecular, Facultad de Ciencias Químicas y Farmacéuticas, Universidad de Chile, Santiago, Chile.
+2 Sección de Nefrología, Hospital Clínico, Universidad de Chile, Santiago.
+3 Centro Cardiovascular, Hospital Clínico de la Universidad de Chile, Santiago, Chile.
+4 Departamento de Diabetes, Facultad de Medicina Occidente, Universidad de Chile, Santiago, Chile.
+
+Dirección para correspondencia
+
+ABSTRACT
+
+Diabetic nephropathy (DN) is one of the major complications of type 2 diabetes and is associated with coronary disease. Nephrin, a protein mainly expressed in glomeruli, is decreased in DN and other kidney diseases. Since insulin levels are misregulated in type 2 diabetes, a possible connection between DN and its decreased nephrin expression could be the presence of regulatory elements responsive to insulin in the nephrin gene (NPHS1) promoter region. In this work, using bioinformatic tools, we identified a purine-rich GAGA element in the nephrin gene promoter and conducted a genomic study in search of the presence of polymorphisms in this element and its possible association with DN in type 2 diabetic patients. We amplified and sequenced a 514 bp promoter region of 100 individuals and found no genetic variants in the purine-rich GAGA-box of the nephrin gene promoter between groups of patients with diabetes type 2 with and without renal and coronary complications, control patients without diabetes and healthy controls.
+
+Key terms: GAGA box, gene promoter, nephrin, polymorphism.
+
+INTRODUCTION
+
+Diabetic nephropathy (DN) is one of the major complications of chronic diabetes, greatly affecting the quality of life and survival of diabetic patients. As global prevalence of type 2 diabetes is steadily increasing, the social and economic impact of patients with renal complications is an ever growing burden on health systems. DN is now the leading cause of end stage renal disease (ESRD), a disease that is reaching epidemic proportions and whose growing incidence is associated to diabetes (ADA, 2004, Wolf et al., 2005 and Jones et al., 2005).
+
+DN is explained in part by a poor metabolic control and high arterial blood pressure. Yet, there is also evidence for a genetic involvement in the pathogenesis of diabetic nephropathy. Risk factors include constitutional factors such as low birthweight; haemodynamic factors, including activation of the renin-angiotensin system (RAS) and hypertension, metabolic factors such as hyperglycaemia, genetic and additional factors such as urinary albumin excretion rate (AER) and smoking (Rossing, 2006). Among the genetic factors, the involvement of several candidate genes in the development of DN has been studied, namely diabetes susceptibility genes, nephrin gene, growth factor genes, glucose metabolism genes and genes of the RAS, such as angiotensin converting enzyme (ACE); nevertheless no clear picture has yet emerged from these studies (Rossing, 2006).
+
+NPHS1 codes for nephrin, a protein that is expressed mainly in the kidney (Routsalainen et al., 1996; Holthofer et al. 1999; Holzman et al., 1999), but also in pancreas (Zanone et al, 2005) and in the central nervous system (Beltcheva et al., 2003). In the kidney, nephrin is expressed in glomeruli and is located at the slit diaphragm, where it plays a crucial role in the renal filtration barrier at the foot processes of podocytes (Routsalainen et al., 1996, Kestila et al., 1998). The human nephrin gene NPHS1 was mapped on chromosome 19ql3.1 (Kestilá et al., 1994) and found to cause the Finnish type congenital nephrotic syndrome (CNF) (Lenkkeri et al., 1999). At least 60 disease-causing mutations in the nephrin gene have been identified and result in a lack of functional protein, some of them leading to massive proteinuria already in utero (Lenkkeri et al., 1999; Beltcheva et al., 2001; Liu etal., 2001).
+
+Exonic polymorphisms in the nephrin gene have been associated with diverse acquired proteinuric kidney diseases and failure at the glomerular slit diaphragm (Kim et al., 2002, Koop et al., 2003), as well as ectopic glomerular nephrin expression in different pathogenic conditions (Doublier et al., 2001). The FinnDiane study of the three non-synonymous polymorphisms (E117K, R408Q and N1077S searched for an association of polymorphisms of the nephrin gene with DN; it however found no involvement of these particular coding regions in this disease in a large Finnish population of type 1 diabetic patients (Petterson-Fernholm et al., 2003).
+
+Another study showed that two silent and one intronic polymorphism on the nephrin gene are associated with type 2 diabetes in a Japanese population, suggesting that these variations may have a functional influence on nephrin expression in the pancreas (Daimon et al., 2006).
+
+DN is clinically characterized by proteinuria and progressive renal insufficiency and diagnosed through the measurement of albuminuria (Durruty, 2003). The presence of albuminuria >30 mg/24 hrs indicates renal damage and is also associated with functional changes in the filtration barrier (Wolf et al., 2005). In general, nephrin protein production is decreased in most proteinuric kidney diseases (Koop et al., 2003), and also an impairment of nephrin assembly with other podocyte proteins, such as podocin and C2AP, has been reported (Benigni et al., 2004). In diabetic patients, nephrin mRNA is significantly reduced in the kidney compared to control subjects (Toyoda et al., 2004). The decreased expression of the nephrin gene in DN suggests that its regulation at a transcriptional level could be impaired. A purine-rich element has been described as an important transcriptional control region in the insulin gene promoter (Kennedy and Rutter, 1992). Since insulin levels are misregulated in type 2 diabetes, a possible connection between DN and its decreased nephrin expression could be the presence of regulatory elements responsive to insulin in the NPHS1 promoter region.
+
+In this work we identified a purine-rich GAGA element in the nephrin gene promoter and conducted a genomic study on 100 individuals in search of the presence of polymorphisms in this element and its possible association with DN in type 2 diabetic patients.
+
+MATERIALS AND METHODS
+
+Patients
+
+Blood samples were taken from 100 type 2 diabetic patients from the Diabetes Reference Centre at the San Juan de Dios Hospital, Santiago de Chile. From these patients, we selected 20 normoalbuminuric patients who presented no coronary disease and 20 macroalbuminuric patients with coronary disease. As controls, blood samples were taken from 20 non-diabetic patients with proteinuric nephropathies, and 20 non-diabetic patients with coronary disease, from the Nephrology Unit and the Cardiovascular Centre of the Clinical Hospital of the University of Chile, Santiago. A third group of 20 healthy individuals was also included. Subjects with body mass index (BMI) over 35 kg/m2, over 80 years old, minors and pregnant women were excluded from this study. Relevant clinical and biochemical parameters were measured in all subjects participating in the study, as indicated in table I. We screened a total of DNA samples from 100 individuals from the Chilean population (with mixed Hispanic/Caucasian descent, as 90% of the subjects in this study have two Spanish family names), in general agreement with the structure of the population in Santiago (Valenzuela et al., 1987).
+
+
+Informed consent was obtained from all participants specifically explaining the use of blood samples for DNA extraction and analysis of the nephrin gene. The study protocol followed the principles of the Declaration of Helsinki and approval of the study was given by the Ethics Committee of the clinical hospital of the University of Chile and from the San Juan de Dios Hospital (Servicio de Salud Metropolitano Occidente).
+
+Classification of type 2 diabetes
+
+Diabetic patients were classified as normo-, or macro-albuminuric according to their AER. The inclusion criteria for the group of diabetic patients with macroalbuminuria were: persistent albuminuria defined by an AER over 300 mg/g in at least two out of three morning urine samples taken during a period of less than 6 months and a diabetes duration of more than 5 years. Normo-albuminuric patients were defined by albuminuria of less than 30 mg/g under the same conditions. Measurements were performed in the absence of urinary tract infections, fever or menstrual period using a Bayer-DCA 2000 system based on monoclonal antibodies with a sensitivity and specificity of over 90% and an intra-assay variation of less than 6.6%. Albuminuria (A) is expressed in relation to excreted creatininuria (C), where A/C = albuminuria mg/creatininuria g. Patients receiving ACE inhibitors did not suspend their treatment during this study. Absence of coronary disease in healthy control subjects and normoalbuminuric diabetic patients was assessed by physical examination, a standard ECG, and a normal MIBI-dipiridamol test.
+
+Bioinformatics analysis
+
+The 5' flanking sequence of the NPHS1 gene was obtained from the Orthodisease Database resource (Karolinska Institute, Sweden) corresponding to the genomic coordinates 40982732-41034579 bp on chromosome 19 (Ensembl Gene ID: ENSG00000161270). Analysis of the NPHS1 promoter sequence was carried out using the web tools Transcription Element Search Software (TESS) (see Reference) and TRANSFAC v4.0 (Biobase Gmbh) in order to predict putative binding sites for transcription factors. We also performed transcription factor binding site predictions using the software tool Matlnspector (Genomatix Software GmbH).
+
+Genotyping
+
+Genomic DNA was purified from human leucocytes obtained from whole blood using the QIAmp DNA blood minikit (QIAGEN) according to manufacturer's instructions. Two ml of peripheral blood was collected from each subject and DNA was extracted from 200 µL of blood leukocyte samples, regularly yielding 60 µg of pure DNA (DO260 nm/280 nm 1 -6-1.9).
+
+A 1026 bp amplicon of the nephrin gene promoter was obtained to screen all DNA samples using primers FW1 5'-AGCCTGAGCAACAGAGCAAGAC and REVI 5'-AGAGAAGCCCTGAGCGTCGT -3', as shown in Figure 1 (lower panel). For sequencing reactions the primer FW2 5'-TGTGAGAATGAGCTCAAGCTGGGT-3' and the same REVI primer were used, yielding a 694 bp sequence when assembled, including 514 bp of the proximal promoter. All samples were sequenced at Macrogen (Seoul, Korea).
+
+
+Figure 1: Proximal promoter region of the human NPHS1 gene.
+
+Upper panel: In silico search of regulatory elements using the TESS web tool
+Lower panel: Arrows indicate primers, boxed areas show the GAGA box, the shaded G nucleotide within GAGA box indicates heterozygous position in one diabetic patient (see text). +1 indicates the transcription start point. Lightly shaded nucleotides indicate known SNPs and their corresponding reference numbers. The dark shaded area corresponds to the first 20 codons of the nephrin protein.
+
+RESULTS
+
+Identification of purine-rich GAGA boxes in the nephrin gene promoter
+
+Analysis of a 1000 bp region upstream from the nephrin start codon revealed the existence of numerous basal regulatory elements such as SP1, octamer sites and sequences recognized as specific transcription elements such as GATA-, sterol and homeobox, among many other putative binding sites for transcriptional regulators. Interestingly, purine-rich stretches referred to as GAGA boxes were identified, which are also present in the promoter of the rat insulin gene and which have been described as important transcriptional regulation elements of insulin expression (Kennedy and Rutter, 1992). A canonical TATA box was not found in the region upstream of the start codon (Figure 1, upper panel).
+
+Polymorphisms in the GAGA region of the NPHSI promoter
+
+To test the hypothesis that alterations in the GAGA elements in the proximal regulatory region of the nephrin gene are genotypic risk factors, we examined 400 bp upstream from the translational start codon. Two distinct 300 bp amplicons from the promoter region studied were assayed with the Single Strand Conformational Polymorphism (SSCP)-PCR technique, but no clear differences were identified between samples.
+
+We then examined a 514 bp region of the proximal promoter (Figure 1, lower panel). Sequence analysis of this region of the nephrin promoter in 100 individuals (including all healthy subjects, diabetic patients and non-diabetic patients with proteinuric nephropathies or coronary disease) presented no difference at any positions within the GAGA element. Only one individual revealed a heterozygous substitution of a G to C in the dinucleotide GA-rich tract of the GAGA region at position 550 (see Figure 1, shaded nucleotide within GAGA box). Interestingly, this sample corresponded to a diabetic patient with macroalbuminuria and coronary disease. This same patient also presents a second G to C substitution, or polymorphism, at position 556 (in a GAGA context), not included in the GAGA element according to the TESS analysis. The polymorphisms were confirmed by sequencing of both strands. None of the other 39 diabetic patients, nor any other healthy controls or patients presented these genetic variations.
+
+For comparative purposes, the frequency of the nearest known polymorphism to the GAGA element was scored, specifically SNP rs 4805144, at position 661 (see Figure 1). The allelic frequencies for this polymorphism were estimated at 65% for the G variant and 35% for the C variant. In conclusion, sequence analysis of 20 healthy individuals, 20 patients with non-diabetic nephropathies, 20 non-diabetic subjects with coronary disease, 20 normoalbuminuric diabetic type 2 patients without coronary disease and 19 macroalbuminuric diabetic type 2 patients with coronary disease, indicated that the GAGA elements did not present polymorphisms, suggesting a lower level of heterogeneity than surrounding regions.
+
+DISCUSSION
+
+Insulin levels in diabetic patients are misregulated, therefore altering the expression of genes targeted by this hormone. Cis-acting GAGA elements responsive to insulin were identified through a systematic mutational screening of the insulin gene. Mutations of this element resulted in a significant loss of transcriptional activity, thus suggesting that GAGA boxes are important regulatory control regions (Kennedy and Rutter, 1992). Participation of this regulatory element in insulin dependent transcriptional regulation was also assessed by EMSA assays, which demonstrated that specific protein complexes are formed at these sites (Kennedy and Rutter, 1992).
+
+GAGA boxes have been described also in genes targeted by insulin, such as in the promoter of the gene coding for the human type 1 angiotensin II receptor (AGTR1), a fundamental regulator of kidney function. In the AGTR1 promoter these elements are necessary for basal and growth factor mediated gene expression (Wyse, 2000).
+
+A search of GAGA elements in the NPHS1 gene promoter might provide a link between insulin levels and DN. A tentative approach to investigate genetic risk factors involved in the development of DN could be to search for putative polymorphisms in this GAGA region, which would therefore confer a differential susceptibility to insulin levels.
+
+It has been noted that persistent proteinuria in diabetic patients is a risk factor for coronary disease. Moreover, the presence of DN increases the risk of coronary disease 8-15 fold, and mortality rates related to cardiovascular events are 37 times greater in DN patients than in the general population (Donahue and Orchard, 1992). Therefore, albuminuria is not only a biochemical parameter to diagnose DN, but an independent risk factor for coronary disease as well (Kopyt, 2005). Although these facts have been known to exist for years, the relation between these pathologies is unknown.
+
+A new strategy to identify genes linked to specific diseases is to asses the co-regulation of their expression through the in silico analysis of their promoters (Dohr et al., 2005). The underlying hypothesis is that similarities in the organization of regulatory elements result in the coordinated regulation of complex structures and processes. An interesting example of this prediction is the study of functionally related gene products that are part of the glomerular slit diaphragm, a complex and unique functional structure (Cohen et al., 2006). In this case the authors identify a conserved promoter framework in the following co-regulated genes: nephrin, ZO-1, and cadherin-5, all of which are expressed in the same functional unit of the podocyte (Cohen et al., 2006). This approach allows the identification of genes that share a regulatory network, even though their coupling or association may not be apparent.
+
+The presence of GAGA elements in the nephrin promoter as well as in the promoters of the insulin and AGTR1 genes reported in the literature is interesting in this context and the functional role of this as well as other regulatory elements should be explored in relation to diabetes and DN.
+
+The databases report the presence of three SNPs within the proximal promoter of the NPHS1 gene (see Figure 1, lower panel), none located within the GAGA region. The results of this study indicate that the analyzed individuals did not present polymorphisms within this region. However, the fact that one diabetic patient with macroalbuminuria and coronary disease showed a genetic variation, might suggest an association. The number of cases analyzed does not allow us to draw conclusions of statistical significance.
+
+Nonetheless, a future study of the relatives of this individual or within a larger population of diabetic patients with macroalbuminuria and coronary disease could be conducted to assess if the reported polymorphism may contribute to the genetic background of DN.
+
+ACKNOWLEDGMENTS
+
+This work was supported by grant DI MULT 04/21-2 from the University of Chile.
+
+ 
+
+REFERENCES
+
+AMERICAN DIABETES ASSOCIATION (2004). Nephropathy in diabetes. Diabetes Care 27: S79-S83
+
+BELCHEVA O, KONTUSAARI S, FETISSOV S, PUTAALA H, KILPELÁINEN P, HÓKFELT T, TRYGGVASON K (2003) Alternatively used promoters and distinct elements direct tissue-specific expression of nephrin. J Am Soc Nephrol 14: 352-358
+
+BELTCHEVA O, MARTIN P, LENKKERI U, TRYGGVASON K (2001) Mutation spectrum in the nephrin gene (NPHS1) in congenital nephrotic syndrome. Human Mutation 17: 368-373
+
+BENIGNI A, GAGLIARDINI E, TOMASONI S, ABBATE M, RUGGENENTI P, KALLURI R, REMUZZI G (2004) Selective impairment of gene expression and assembly of nephrin in human diabetic nephropathy. Kidney Int 65: 2193-2200
+        [ Medline ]
+
+COHEN CD, KLINGENHOFF A, BOUCHEROT A, NITSCHE A, HENGER A, BRUNNER B, SCHMID H, MERKLE M, SALEEM MA, ROLLER KP, WERNER T, GRÓNE HJ, NELSON PJ, KRETZLER M (2006) Comparative promoter analysis allows de novo identification of specialized cell junction-associated proteins. Proc Nati Acad Sci 103: 5682-5687
+
+DAIMON M, JI G, OIZUMI T, KIDO T, JIMBU Y, KAMEDA W, SUSA S, YAMAGUCHI H, MURAMATSU M, KATO T (2006) Association of nephrin gene polymorphisms with type 2 diabetes in a Japanese population. The Funagata Study. Diabetes Care 29, 1117-1119
+        [ Medline ]
+
+DONAHUE RP, ORCHARD TJ (1992) Diabetes mellitus and macrovascular complications. An epidemiological perspective. Diabetes Care 15: 1141-1155
+        [ Medline ]
+
+DÓHR S, KLINGENHOFF A, MAIER H, HRABÉ DE ANGELIS M, WERNER T, SCHNEIDER R (2005) Linking disease-associated genes to regulatory networks via promoter organization. Nucleic Acids Res. 33: 864-872
+
+DOUBLIER S, RUOTSALAINEN V, SALVIDIO G, LUPIA E, BIANCONE L, CONALDI PG, REPONEN P, TRYGGVASON K, CAMUSSI G (2001) Nephrin redistribution on podocytes is a potencial mechanism for proteinuria in patients with primary acquired nephrotic syndrome. Am J Pathol 158: 1723-1731
+
+DURRUTY P (2003) Laboratorio en Diabetes mellitus. In: GARCIA DE LOS RÍOS M, DURRUTY P (eds) Diabetes Mellitus, 2nd edition, Santiago de Chile: Arancibia Hnos. pp: 77-86
+
+HOLTHOFER H, AHOLA H, SOLIN ML et al. (1999) Nephrin localizes at the podocyte filtration slit area and is characteristically spliced in the human kidney. Am J Pathol 155: 1681-1687
+        [ Medline ]
+
+HOLZMAN LB, ST JOHN PL, KOVARI IA, VERMA R, HOLTHOFER H, ABRAHAMSON DR (1999) Nephrin localizes to the slit pore of the glomerular epithelial cell. Kidney Int 56: 1481-1491
+        [ Medline ]
+
+JONES CA, KROLEWSKI AS, ROGUS J, XUE JL, COLLINS A, WARRAM JH (2005) Epidemic of end-stage renal disease in people with diabetes in United States population: do we know the cause? Kidney Int 67: 1684-1691
+        [ Medline ]
+
+KENNEDY GC, RUTTER WJ (1992) Pur-1, a zinc-finger protein that binds to purine-rich sequences, transactivates an insulin promoter in heterologous cells. Proc Nat Acad Sci USA 89: 11498-11502
+        [ Medline ]
+
+KESTILÄ M, LENKKERI U, MÄNNIKKÖ M, LAMERDIN J, MCCREADY P, PUTAALA H, RUOTSALAINEN V, MORITA T, NISSINEN M, HERVA R, KASHTAN CE, PELTONEN L, HOLMBERG C, OLSEN A, TRYGGVASON K (1998) Positionally cloned gene for a novel glomerular protein - nephrin - is mutated in congenital nephrotic syndrome. Mol Cell 1: 575-582
+        [ Medline ]
+
+KESTILÄ M, MÄNNIKKÖ M, HOLMBERG C, GYAPAY G, WEISSENBACH C, SAVOLAINEN ER, PELTONEN L (1994) Congenital nephrotic syndrome of the Finnish type maps to the long arm of chromosome 19. Am J Hum Genet 54: 757-764
+        [ Medline ]
+
+KIM BK, HONG HK, KIM JH, LEE HS (2002) Differential expression of nephrin in acquired proteinuric diseases. Am J Kidney Dis 40: 964-973
+
+KOOP K, EIKMANS M, BAELDE HJ, KARACHI H, DE HEER E, PAUL LC, BRUIJN JA. (2003) Expression of podocyte-associated molecules in acquired human kidney diseases. J Am Soc Nephrol 14: 2063-2071
+        [ Medline ]
+
+KOPYT NP (2005) Slowing progression along the renal disease continuum. J Am Osteopathic Assoc 105: 207-215
+
+LENKKERI U, MÄNNIKKÖ M, MCCREADY P, LAMERDIN J, GRIBOUVAL O, NIAUDET P, ANTIGNAC C, KASHTAN CE, HOLMBERG C, OLSEN A, KESTILÁ M, TRYGGVASON K (1999) Structure of the gene for congenital nephrotic syndrome of the finnish type (NPHS1) and characterization of mutations. Am J Hum Genet 64: 51-61
+        [ Medline ]
+
+LIU L, DONÉ SC, KHOSHNOODI J, BERTORELLO A, WARTIOVAARA J, BERGGREN PO, TRYGGVASON K (2001) Defective nephrin trafficking caused by missense mutations in the NPHS1 gene: insight into the mechanisms of congenital nephritic syndrome. Human Molec Genet 10: 2637-2644
+
+PETTERSON-FERNHOLM K, FORSBLOM C, PEROLA M, GROOP P-H (2003) Polymorphisms in the nephrin gene and diabetic nephropathy in type 1 diabetic patients. Kidney Int 63: 1205-1210
+
+ROSSING P (2006) Prediction, progression and prevention of diabetic nephropathy. Diabetologia 49: 11-19
+        [ Medline ]
+
+ROUTS ALAINEN V, LJUNDBERG P, WARTIOVAARA J, KESTILÄ M, JALANKO H, HOLMBERG C, TRYGGVASON K (1996) Nephrin is specifically located at the slit diaphragm of glomerular podocytes. Proc Nati Acad Sci USA 96: 7962-7967
+
+TESS: URL: http://www.cbil.ipenn.edu/tess
+
+TOYODA M, SUZUKI D, TOMOTA U, GORO U, MARUYAMA M, HONMA M, SAKAI T, SAKAI H (2004) Expression of human nephrin mRNA in diabetic nephropathy. Nephrol Dial Transplant 19: 380-385
+        [ Medline ]
+
+VALENZUELA C, ACUÑA M, HARB Z (1987) Gradiente sociogenética en la población chilena. Rev Med Chile 115: 295-299
+
+WOLF G, CHEN S, ZIYADEH FN (2005). From the periphery of the glomerular capillary wall toward the center of disease. Podocyte injury comes of age in diabetic nephropathy. Diabetes 54: 1626-1634
+        [ Medline ]
+
+WYSE BG, LINAS SL, THEKKUMKARA TJ (2000). Functional role of a novel cis-acting element (GAGA box) in human type 1 angiotensin II receptor gene transcription. J Mol Endocrinol 25: 97-108
+        [ Medline ]
+
+ZANONE MM, FAVARO E, DOUBLIER S, LOZANOSKA-OCHSER B, DEREGIBUS MC, GREENING J, HUANG GC, KLEIN N, CAVALLO PERIN P, PEAKMAN M, CAMUSSI G (2005) Expression of nephrin by human pancreatic islet endothelial cells. Diabetologia 48: 1789-1797
+        [ Medline ]
