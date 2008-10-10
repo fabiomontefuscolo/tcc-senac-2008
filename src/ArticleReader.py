@@ -46,6 +46,7 @@ class ArticleReader():
         self.conteudo = self.conteudo.split()
         
     def compare(self,listaDesc,listaSin,janela):
+        self.descritores = {}
         for i in range(len(self.conteudo)):
             word = ""
             for j in range(janela):
