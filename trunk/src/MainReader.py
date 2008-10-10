@@ -74,7 +74,8 @@ scielo = ArticleScielo()
 precisao = 0.0
 cobertura = 0.0
 total =0.0
-for i in range(1,4):
+
+for i in range(1,51):
     print "Leitura do artigo ",i
     #nome = "./in/Artigo"+str(i)+".txt"
     scielo.extrair_conteudo(r'../in/Artigo'+str(i)+'.txt')
@@ -86,13 +87,15 @@ for i in range(1,4):
     ar.filter_desc()
     print "Descritores Pre-definidos: ",scielo.descritores_definidos
     print "Descritores Obtidos: ", ar.descritores
-    
+    print "Descritores Pre-definidos existentes no texto: ", scielo.descritores_existentes(scielo.artigo)
+    print len(scielo.descritores_existentes(scielo.artigo)) , " de " , len(scielo.descritores_definidos)
     precisao += scielo.precisao(ar.descritores)
     print "Precisao do artigo: ", scielo.precisao(ar.descritores)
     cobertura += scielo.cobertura(ar.descritores)
     print "Cobertura do artigo: ", scielo.cobertura(ar.descritores)
     total=i
     print ""
+    #raw_input()
 
 print "\nPrecisao geral do programa para",total,"documentos:",precisao/total
 print "\nCobertura geral do programa para",total,"documentos:",cobertura/total
