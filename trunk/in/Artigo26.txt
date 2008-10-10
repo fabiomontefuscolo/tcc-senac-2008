@@ -1,0 +1,185 @@
+Descritores
+
+Adult
+Aged
+Brazil
+Chronic Disease
+Clinical Competence
+Cross-Sectional Studies
+Dysmenorrhea
+Endometriosis
+Female
+Gynecology
+Humans
+Logistic Models
+Male
+Middle Aged
+Pelvic Pain
+Physician´s Practice Patterns
+Physician-Patient Relations
+Questionnaires
+
+
+Artigo
+
+Current practice in the management of symptoms of endometriosis: a survey of Brazilian gynecologists
+
+ 
+
+Práticas e condutas em relação a sintomas de endometriose: pesquisa com ginecologistas Brasileiros
+
+ 
+
+ 
+
+Carlos A. Petta*; Alessandra M. Matos; Luis Bahamondes; Daniel Faúndes
+
+ 
+
+ 
+
+SUMMARY
+
+OBJECTIVE: The purpose is to assess current medical practice in the diagnosis of endometriosis by Brazilian gynecologists.
+METHODS: A Cross-sectional study using questionnaires was sent to all gynecologists of the São Paulo State Ob/Gyn Association.
+RESULTS: A total of 1,660 (31.8%) replies was received. Multiple logistic regression showed that physicians who stated that endometriosis can affect women of all ages was the variable significantly associated with suspicion of endometriosis. Diagnosis was delayed less than 12 months after the first consultation when patients complained of: infertility (OR = 1.81, 95% CI 1.01-3.22), dysmenorrhea (OR = 2.16, 95% CI 1.18-3.93) or chronic pelvic pain (CPP) (OR = 2.17, 95% CI 1.17-4.00). Time until diagnosis was shorter when the complaint was dysmenorrhea (OR = 1.33, 95% CI 1.05-1.69) or CPP (OR = 1.51, 95% CI 1.19-1.91) and when physicians had participated in congresses and lectures on gynecological endoscopy and endometriosis.
+CONCLUSION: Gynaecologists who are better informed suspect and diagnose endometriosis at an early stage.
+
+Key words: Endometriosis; Delay; Diagnosis; Survey.
+
+RESUMO
+
+OBJETIVO: O objetivo deste estudo é conhecer as práticas de ginecologistas brasileiros em relação ao diagnóstico da endometriose.
+MÉTODOS: Estudo de coorte transversal utilizando questionários enviados a ginecologistas do Estado de São Paulo.
+RESULTADOS: Um total de 1.660 respostas foram recebidas (31,8%). A análise de regressão logística mostrou que médicos que acreditam que a endometriose pode ocorrer em qualquer idade foi a variável, associada a suspeita precoce de endometriose por parte do médico quando a paciente se queixa de: infertilidade (OR = 1.81, 95% IC 1.01-3.22), dismenorréia (OR = 2.16, 95% IC 1.18-3.93) ou dor pélvica crônica (OR = 2.17, 95% IC 1.17-4.00). O tempo até a indicação de um procedimento diagnóstico foi menor para médicos que participaram em congressos e aulas sobre endoscopia ginecológica e endometriose, e quando a queixa da paciente era de dismenorréia (OR = 1.33, 95% IC 1.05-1.69) ou dor pélvica crônica (OR = 1.51, 95% IC 1.19-1.91).
+CONCLUSÃO: Ginecologistas mais informados suspeitam de endometriose mais precocemente.
+
+Unitermos: Endometriose; Diagnóstico; Entrevista; Pesquisa.
+
+ 
+
+ 
+
+INTRODUCTION
+
+Although much has been published on the epidemiology of endometriosis, little is known about management of the disease in medical practice. Some studies report a long delay between the onset of symptoms and diagnosis of endometriosis1-6 mainly due to the physician's delay to indicate a diagnostic procedure. However, no data was found in medical literature to explain this delay, which may have serious consequences for the patient. Women with symptomatic endometriosis claim that their general health was impaired by the delay to reach a diagnosis7. In addition, women complain that although physicians had several opportunities to reach an early diagnosis, these were often ignored8. In general, the delay in diagnosis was greater in young women and those complaining of pelvic pain than in women with infertility3, 9.
+
+Most surveys on endometriosis have been conducted with patients, although the importance of evaluating medical attitudes has been emphasized by endometriosis association groups and the international scientific community. Endometriosis is considered an enigmatic disease and is still a challenge for gynecologists because diagnosis depends on a surgical procedure and there is a worldwide lack of consensus about the therapeutic management 10, 11.
+
+A survey was conducted among Brazilian gynecologists to assess current medical practices in the diagnosis of endometriosis in infertile women and those with pelvic pain. A fuller understanding of these practices may help to identify the characteristics that would lead a gynecologist to consider endometriosis so as to reach a diagnosis and begin treatment without long delays.
+
+ 
+
+METHODS
+
+The study was conducted at the Human Reproduction Unit, Department of Obstetrics and Gynecology, School of Medicine, Universidade Estadual de Campinas (UNICAMP), Campinas, Brazil and the protocol was approved by the Internal Review Board of that institution. The invitation letter was used as an informed consent form.
+
+In this cross-sectional study, a questionnaire was sent to 5,218 gynecologists, members of the São Paulo State Obstetrics and Gynecology Association (SOGESP). A short, self-administered, structured and pre-tested questionnaire was used. To maximize the response rate, a stamped, addressed envelope with the questionnaire was enclosed A second letter five months later, again invited those who had passed up the first opportunity to reply. This questionnaire aimed to define the social and demographic characteristics of gynecologists in the state of São Paulo, to ascertain which characteristics of patients lead physicians to suspect endometriosis, and to determine current practice for reaching diagnosis. Physicians were asked to provide information regarding their attitude towards performing or requesting exams to confirm a diagnosis of endometriosis.
+
+Letters containing the questionnaires were mailed in March and again in June 2005 and deadline for replies was October 2005. The second batch of letters was sent because only 996 questionnaires had been returned. Since the questionnaire did not reveal the respondent's identity it was impossible to know which physicians had replied; therefore, the questionnaire was again sent to all gynecologists. Those who had replied to the first letter were asked to disregard the second one. Upon arrival responses were coded, reviewed, and entered into a database by two different computer operators. The entire database was then checked for consistency.
+
+Considering a sampling error of 2% between the population and sample proportion, a level of significance of 5% and assumed maximum variability (p = 50%), in a population of 5,218, sample size was estimated at 1,645. Variables regarding knowledge about endometriosis were correlated with time between onset of symptoms and diagnosis, which was categorized as < 12 months and > 12 months and analyzed using multivariate logistic regression with a stepwise selection of variables12.
+
+ 
+
+RESULTS
+
+From a total of 5,218 questionnaires, 1,660 replies were received (31.8%). Ten questionnaires were returned blank and 45 were returned because of wrong address or because the physician had moved. These questionnaires were excluded from the analysis. The mean age of physicians in the studied sample was 45.4 ± 10.5 years (range 25-89); 918 (55.3%) were male and 1,201 (72.3%) were married. Mean time since graduation was 20.2 ± 10.1 years (range 1-59). Many of the gynecologists (89%) had completed medical residency (n =1,477), while 1,232 (74.2%) were registered specialists in obstetrics and gynecology and 1,523 (91.8%) had participated in congresses or courses related to gynecology in the preceding year.
+
+When asked about the subjects that interested them at congresses or courses, the majority of respondents (76.7%) mentioned general gynecology (n = 1,168), 58.3% mentioned general obstetrics (n = 888), and 63.3% cited menopause (n = 964). Conferences on subjects such as infertility, endometriosis, and gynecological endoscopy were attended respectively by 33.4% (n = 508), 46.0% (n = 701) and 25.6% (n = 390) of the respondents.
+
+Most gynecologists (77.3%) replied that it is not normal for women to complain frequently of dysmenorrhea (n = 1,284). In addition, 97.3% (n = 1,615) of the gynecologists suspect that women have endometriosis when they complain of infertility, 95% (n = 1,577), dysmenorrhea, 96.2% (n = 1,597) and chronic pelvic pain (CPP), 87.1% (n = 1,446) as well as when CA-125 testing is abnormal, and 88.1% (n = 1,463) when an abnormality is seen at imaging. A total of 1,509 physicians (90.9%) request imaging to evaluate presence of endometriosis, while 1,335 (80.4%) always or almost always request transvaginal ultrasound, and 44.7% (n = 742) always or almost always request CA-125 when endometriosis is suspected. Table 1 shows the distribution of respondents with respect to the frequency CA-125 test requests.
+
+ 
+
+ 
+
+A total of 1,274 respondents (76.7%) replied that endometriosis can affect women between 20 and 29 years of age; while 1,110 respondents (66.9%) believe that it affects women of 30 to 39 years of age. Only 5.1% (n = 84) stated that endometriosis can affect women of all ages and 17.3% (n = 288) believed that endometriosis can occur in adolescence.
+
+When physicians suspect endometriosis, they request a surgical procedure principally when infertility is present (77.2%, n = 1,282), when CPP is present (74%, n = 1,232), and in cases of adnexal cysts (67.2%, n = 1,116). A large proportion of physicians (80.5%) never or rarely begin any clinical treatment prior to surgical diagnosis of endometriosis (n = 1,335), (Table 1).
+
+When questioned about how they would manage the first attempt to treat adolescents with dysmenorrhea, 809 gynecologists (48.7%) replied that they would prescribe non-steroidal anti-inflammatory drugs, while 567 (34.2%) preferred combined oral contraceptives (COC). Fifty-nine physicians (1.2%) stated that they would not request laparoscopic evaluation; however, when asked directly if they considered a laparoscopy in adolescents, 33.9% (n = 562) replied that they would not.
+
+Length of time between onset of symptoms and suspicion of endometriosis varied according to symptomatology. When the symptom was infertility, time was 13.8 ± 6.4 months; with dysmenorrhea, time was 8.9 ± 6.4 months, and in cases of CPP, time was 8.7 ± 6.6 months (Table 2). When women complained of dysmenorrhea, CPP or dyspareunia, gynecologists performed surgical procedures or referred patients to colleagues within approximately 10 months. The surgical procedure indicated is laparoscopy in 7.5 of every 10 patients.
+
+ 
+
+ 
+
+Table 3 presents the multiple logistic regression analysis of the variables significantly associated with suspicion of endometriosis, when the time lapse between onset of symptoms and suspicion of endometriosis is less than 12 months and the complaint is infertility, dysmenorrhea or CPP. When asked to comment about the indication of laparoscopy, respondents, who suspected endometriosis and indicated the procedure in less than 12 months after the onset of symptoms, at congresses preferred subjects such as gynecological endoscopy and endometriosis (OR = 1.54, 95% CI 1.19-2.00). Physicians, who treat 1 to 5 of every 10 patients clinically when they suspect endometriosis and when no surgical diagnosis has been made, tend to reach a diagnosis later (OR = 0.68, 95% CI 0.54-0.87).
+
+ 
+
+ 
+
+DISCUSSION
+
+Attitudes and practices of physicians in relation to endometriosis have not yet been fully assessed. This study evaluated a large sample of gynecologists for the purpose of defining these practices. There is usually a very long delay in diagnosing endometriosis. Although this survey was performed in a developing country, previous reports showed similar results in both developing and developed countries, hence much of this data may probably be extrapolated to other settings1-4, 6.
+
+São Paulo is the wealthiest state in Brazil, with 40 million inhabitants. Although the survey may not represent the opinion of gynecologists throughout the country, the sample is probably more homogeneous because income is high in the state and it has a good education system both in the private and public sector. As such, data may also promote a better understanding of medical attitudes from an international perspective.
+
+A recent survey performed in the United Kingdom evaluated the practice of physicians with respect to laparoscopic diagnosis and treatment of endometriosis. The survey evaluated the surgical procedure, whether ablation or cauterization of the lesions was used. To our knowledge, this study is the first to evaluate gynecologists and their attitudes regarding symptoms of endometriosis and procedures involved in its diagnosis13.
+
+In general, gynecologists in this study suspected endometriosis and indicated a diagnostic procedure within one year for cases of infertility, dysmenorrhea, and CPP, when abnormalities were detected at imaging (88.1%) or when CA-125 testing was abnormal. These findings show that the disease is well-known among these professionals, however, this is not representative of the patient's real situation, when the lapse from onset of symptoms to diagnosis may be up to seven years3. Basically this is caused by the physicians' attitude, since these patients had sought medical treatment.
+
+CA-125 testing is requested in all or almost all cases by 44.7% of the respondents, probably because 87.1% of them believe that a woman with endometriosis has an abnormal CA-125 test. This finding showed that physicians prefer to request a serum marker rather than an invasive diagnostic procedure such as laparoscopy.
+
+These gynecologists did not believe that endometriosis could occur in adolescents and in the menopausal transition. Most gynecologists usually consider the possibility of endometriosis in patients with 20 to 39 years of age and these data agree with findings from a previous study14. Since only 5.1% of respondents stated that endometriosis may affect women of all ages, this explains why gynecologists often delay the diagnosis in adolescents. Arruda et al.3 showed that the median time from first consultation to a diagnosis was longer when symptoms began during adolescence than at the age of 30 or more.
+
+The delay in diagnosing endometriosis is known to be long in young women1-4, 6, 14, however the majority of gynecologists (77.3%) considered frequent painful menstruation as not normal. In addition, physicians prefer to treat patients clinically with non-steroidal anti-inflammatory drugs or COC than to indicate a surgical procedure such as laparoscopy. When asked if they considered requesting laparoscopy in the case of an adolescent, one-third stated that they would not. This finding indicates that gynecologists question if adolescents can have endometriosis and do not consider dysmenorrhea a symptom of endometriosis at this age. To disseminate awareness that young women may also be affected by the disease may change this attitude.
+
+Most of the gynecologists interviewed (80.4%) request vaginal ultrasound to help diagnosis of endometriosis. Although it is well-accepted that ultrasound can be helpful, a normal exam, usually performed at the early stages of the disease may lead the physician to believe that the patient does not have endometriosis and feel uncomfortable to indicate laparoscopy.
+
+Our results showed that gynecologists who believed that endometriosis can occur at any age suspect endometriosis earlier, whether in cases of infertility, dysmenorrhea, or CPP. These gynecologists also indicate surgical diagnostic procedures in less than 12 months after onset of symptoms, and attend conferences on gynecological endoscopy and endometriosis at congresses or courses. More informed gynecologists require less time to suspect endometriosis. Moreover, variables significantly associated with earlier suspicion of endometriosis in cases of infertility were: living in a city with more than 500,000 inhabitants and working in the private sector. This may occur because in large cities and in the private sector, there are more gynecologists with the necessary skills to perform laparoscopy, and there may be better access to laparoscopy services. Nevertheless, Arruda et al. 3 found that in private clinics delay was longer than in teaching hospitals. This, however, involves other issues concerning services within the universities.
+
+Although some publications have supported the concept that endometriosis is a progressive disease9, 15, whether the delay in treatment is associated with progression of the disease remains controversial. However, women with symptomatic endometriosis have claimed that their general health was impaired by the delayed diagnosis7.
+
+One possible criticism of our study may be the bias in the questionnaire, which is an important issue in public health studies16. We tried to minimize this bias by avoiding ambiguous or open questions. In addition, questions on behavior may be more accurate than hypothetical ones. We elected to use a predominantly vertical format of response options and responses aligned on the left, which is better for listing options in self-administered questionnaires and easier for the respondent. For mailed surveys, respondents may tend to choose the first response options on the list (primary bias) and we tried to minimize these effects by reducing the number of categories. Completing a questionnaire can be a learning experience for the respondent and may affect subsequent replies. In addition this was a cross-sectional survey which can only establish association not causation; however, this report evaluated gynecological practice in diagnosing endometriosis.
+
+With regard to the reporting bias, respondents may have a greater interest or expertise in endometriosis and may not, therefore, be representative of gynecologists in general. Nevertheless, studies examining the demographics of survey respondents based on delay of response found that those answering the first mailing of a survey did not differ from later respondents17. In conclusion, our study suggests the need to stimulate professional education, perhaps by creating continued medical education programs and other educational activities. Providing gynecologists with more information may lead to an early diagnosis of endometriosis and, consequently, earlier detection of severe disease, thereby preventing infertility and permitting better pain control, while simplifying management of the disease and increasing patient satisfaction.
+
+ 
+
+ACKNOWLEDGMENTS
+
+This study received financial support from the Fundação de Amparo a Pesquisa do Estado de São Paulo, Brazil, award nº 04/10879-0. The authors thank Verônica Barros and Adriana Barros for their help in management of this study, and Sirlei Siani Morais for the statistical analysis and Sociedade de Obstetricia e Ginecologia de São Paulo (SOGESP).
+
+Conflict of interest: none
+
+ 
+
+REFERENCES
+
+1. Lamb K, Ballweg ML. Data bank results are in! Endo Assoc Int Newslett. 1983;4:1-9.         [ Links ]
+
+2. Hadfield R, Mardon H, Barlow D, Kennedy S. Delay in the diagnosis of endometriosis: a survey of women from the USA and the UK. Hum Reprod. 1996;11:878-80.         [ Links ]
+
+3. Arruda MA, Petta CA, Abrão MS, Benetti-Pinto CL. Time elapsed from onset of symptoms to diagnosis of endometriosis in a cohort study of Brazilian women. Hum Reprod. 2003;18:756-9.         [ Links ]
+
+4. Ballweg ML. Big picture of endometriosis helps provide guidance on approach to teens: Comparative historical data show endo starting younger, is more severe. J Pediatr Adolesc Gynecol. 2003;16:S21-S6.         [ Links ]
+
+5. Husby GK, Haugen RS, Moen MH. Diagnostic delay in women with pain and endometriosis. Acta Obstet Gynecol Scand. 2003;82:649-53.        [ Links ]
+
+6. Ballweg ML. Impact of endometriosis on women's health: comparative historical data show that the earlier the onset, the more severe the disease. Best Pract Res Clin Obstet Gynaecol. 2004;18:201-18.         [ Links ]
+
+7. Kennedy SH. What is important to the patient with endometriosis? Br J Clin Pract Suppl. 1991;72:8-10.         [ Links ]
+
+8. Ballweg ML. Women report chronic pelvic pain not taken seriously. Endo Assoc Int Newslett. 2003;24:2-3.         [ Links ]
+
+9. Dmowski WP, Lesniewicz R, Rana N, Pepping P, Noursalehi M. Changing trends in the diagnosis of endometriosis: a comparative study of women with pelvic endometriosis presenting with chronic pelvic pain or infertility. Fertil Steril. 1997;67:238-43.         [ Links ]
+
+10. Zondervan KT, Cardon LR, Kennedy SH. What makes a good case-control study? Hum Reprod. 2002;17:1415-23.         [ Links ]
+
+11. Fauconnier A, Chapron C. Endometriosis and pelvic pain: epidemiological evidence of the relationship and implications. Hum Reprod Update. 2005;11:595-606.         [ Links ]
+
+12. Altman DG. Practical statistics for medical research. London: Ed Chapman & Hall. 1991.         [ Links ]
+
+13. Moses SH, Clark TJ. Current practice for the laparoscopic diagnosis and treatment of endometriosis: a national questionnaire survey of consultant gynaecologists in UK. Br J Obstet Gynaecol. 2004;111:1269-72.         [ Links ]
+
+14. Abrão MS, Dias Júnior JA, Podgaec S: Histórico e aspectos epidemiológicos da endometriose: uma doença prevalente e de conhecimento antigo. In: Abrão MS, editor. Endometriose: uma visão contemporânea. Rio de Janeiro: Revinter; 2000. p.1-11.         [ Links ]
+
+15. Koninckx PR, Meuleman C, Demeyere S, Lesaffre E, Cornillie FJ. Suggestive evidence that pelvic endometriosis is a progressive disease, whereas deeply infiltrating endometriosis is associated with pelvic pain. Fertil Steril. 1991;55:759-65.         [ Links ]
+
+16. Choi BCK, Pak AWP. A catalog of biases in questionnaires. Preventing chronic disease, public health research, practice and policy. Centers for Disease Control and Prevention. Prev Chhronic Dis.2005;2:1-13.         [ Links ]
+
+17. Kellerman SE, Herold J. Physician response to surveys. Am J Prev Med. 2001;20:61-7.         [ Links ]

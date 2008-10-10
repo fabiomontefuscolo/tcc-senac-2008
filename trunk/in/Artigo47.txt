@@ -1,0 +1,180 @@
+Descritores
+
+Animals
+Aphrodisiacs
+Drug Evaluation, Preclinical
+Male
+Penis
+Phytotherapy
+Plant Components, Aerial
+Plant Extracts
+Random Allocation
+Rats
+Rats, Wistar
+Sexual Behavior, Animal
+Testosterone
+Tribulus
+
+
+Artigo
+
+Free serum testosterone level in male rats treated with tribulus alatus extracts
+
+ 
+
+ 
+
+Walid H. El–Tantawy; Abeer Temraz; Omayma D. El–Gindi
+
+Drug Bioavailability Center, National Organization For Drug Control and Research, Cairo, Egypt, Pharmacognosy Department, Faculty of Pharmacy for Girls, Al–Azhar University, Cairo, Egypt
+
+Correspondence
+
+ 
+
+ 
+
+ABSTRACT
+
+OBJECTIVE: The present study was undertaken to investigate the effect of Tribulus alatus extracts on free serum testosterone in male rats.
+MATERIALS AND METHODS: Free serum testosterone level was measured in male rats treated with alcoholic extracts of the aerial part without fruits, fruits of Tribulus alatus and their fractions.
+RESULTS: All tested extracts showed significant increase in the level of free serum testosterone when compared to that of corresponding control, p < 0.05. Statistical comparison of all groups revealed that the maximum level was found in groups treated with chloroformic and ethanolic fractions of fruits extract.
+CONCLUSION: Tribulus alatus extract appears to possess aphrodisiac activity due to its androgen increasing property.
+
+Key words: Tribulus; testosterone; aphrodisiacs; rats
+
+ 
+
+ 
+
+INTRODUCTION
+
+In traditional medicine a variety of plants have been used as sex stimulants (1). For centuries, Arabs have made use of herbal drugs to improve sexual performance and increase libido (2). In African traditional medicine, especially in Cameroon, Zingiber officinale and Pentadiplan–dra brazzeana are used as aphrodisiac and male sexual stimulation (3). In Egypt, the pollen grains of dates (Phoenix dactylifera) and seeds of hermala (Peganum harmala) are used to restore sexual potency (4).
+
+The genus Tribulus of the Zygophyllaceae comprises ca 20 species that grow as shrubs or herbs in subtropical areas around the world (5).Among the Tribulus species T. terrestris, T. cistoides and T. alatus have been phytochemically investigated and isolation of steroidal saponins from these plants was reported (6–8).
+
+The present study was undertaken to investigate the effect of Tribulus alatus extracts on free serum testosterone in male rats.
+
+ 
+
+MATERIALS AND METHODS
+
+Plant Material and Preparation of Extracts
+
+Samples of Tribulus alatus were collected from Al Azhar University, Nasr–city, Cairo and were kindly identified by Department of Botany, Faculty of science, Cairo University. A voucher specimen (number 3978/1) was deposited at Herbarium Horti Botanici Pisani (Flora Aegyptiaca), Pisa, Italy.
+
+The dried aerial parts and fruits (400g and 100g, respectively) of Tribulus alatus were finely powdered and were macerated separately in 70% methanol. The alcoholic extract was evaporated to dryness under vacuum. The residues were combined, weighted (90g and 20g, respectively) suspended in distilled water and successively extracted with chloroform, ethylacetate and n–butanol saturated with water. Each extract was collected and evaporated to dryness under vacuum to give chloroformic extract (4g and 2.1g, respectively ) ethylacetate extract (3.2g and 1.5g, respectively) and n–butanolic extract (8g and 3.8g, respectively) then the water was evaporated to dryness and the residue was macerated in absolute ethanol several times. The alcoholic extracts were combined and evaporated to dryness under vacuum to give ethanolic extract (30g and 8g, respectively)
+
+Animals
+
+Healthy, adult male Wistar albino rats weighing 200–250g, aged 4–5 months were used in this study. The animals had free access to a standard commercial diet, water and were kept in rooms maintained at 25 ± 1ºC. The animals were divided randomly into different groups; each group consisted of six rats. Control groups treated with distilled water (2 mL/kg p.o.) only.
+
+Toxicity Study
+
+On the basis of the toxicity study, the LD50 value of the extract of the aerial part without fruits in mice was 812 and was 868 mg/kg body weight for the extract of fruits. On the other hand, LD50 value for extract of different fractions ranged from 155–200 mg/kg body weight. The experiment was carried out on three steps.
+
+First Step
+
+Control group: treated with distilled water (2 mL/kg p.o.). Group 1: received 70% alcoholic extract of aerial part without fruits (n = 6). Group 2: received 70% alcoholic extract of fruits (n = 6). Group 3: received 70% alcoholic extract of total herb (n = 6). Reference group: treated with 0.45 mg mestrolone (n = 6).
+
+In the first step, groups received extracts (suspended in water using Tween 20 as a surfactant) at a dose of 50 mg / kg body weight orally by orogastric catheter once a day for 40 days. A reference group was treated with 0.45 mg mestrolone once a day for 40 days orally by orogastric catheter. After 40 days, blood samples were collected from the tail veins of the rats at the same time of the day and serum was separated.
+
+Second Step
+
+Control group: treated with distilled water (2 mL/kg p.o.). Group 4: received chloroformic fraction of aerial part without fruits (n = 6). Group 5: received ethylacetate fraction of aerial part without fruits (n = 6). Group 6: received butanolic fraction of aerial part without fruits (n = 6). Group 7: received ethanolic fraction of aerial part without fruits (n = 6). Reference group: treated with 0.45 mg mestrolone (n = 6).
+
+Third Step
+
+Control group: treated with distilled water (2 mL/kg p.o.). Group 8: received chloroformic fraction of fruits (n = 6). Group 9: received ethylacetate fraction of fruits (n = 6). Group 10: received butanolic fraction of fruits (n = 6). Group 11: received ethanolic fraction of fruits (n = 6). Reference group: treated with 0.45 mg mestrolone (n = 6).
+
+On the other hand, in the second and third steps the groups received dose 12.5 mg / kg body weight orally by orogastric catheter once a day for 40 days. A reference group was treated with 0.45 mg mestrolone once a day for 40 days orally by orogastric catheter. After 40 days, blood samples were collected from the tail veins of the rats at the same time of the day and serum was separated.
+
+Determination of Free Serum Testosterone
+
+The level of free serum testosterone was measured by Enzyme–linked immunosorbant assay (ELISA) according to (9), KAPD29:040318/2KAPD2924 IN VITRO DIAGNOSTIC USEenBioSource Europe SA – Nivelles, Belgium.
+
+Statistical Analysis
+
+Data were presented as the mean ± SE (n = 6). Statistical analysis used Student's t–test to compare differences between groups and the control. One–way analysis of variance (ANOVA) was applied for comparison between different treatments. Differences were considered statistically significant at P < 0.05.
+
+ 
+
+RESULTS
+
+Table–1 represents mean free serum testosterone level (pg/ mL) among group of rats treated with 70 % alcoholic extracts of Tribulus alatus. Testosterone level was significantly increased among all groups, when compared to that of their corresponding control, P < 0.05. The highest level was found in the group treated with the reference drug followed by the group treated with fruits extract, followed by the one treated with the aerial part without fruits and the lowest level was found in the group treated with total herb.
+
+Table–2 illustrates mean free serum testosterone level (pg/mL) among groups of rats treated with different fractions of 70% alcoholic extracts of the aerial part without fruits of T. alatus. Testosterone level showed significant increase among all groups, when compared to that of their corresponding control, p < 0.05.
+
+The level of testosterone in the group treated with the reference drug showed a significant increase when compared to that of all other groups. The level of testosterone in–group (5) showed a significant increase when compared to that of other groups including that treated by total aerial parts extract, group (1).
+
+Table–3 illustrates mean free serum testosterone level (pg/mL) among groups of rats treated with different fractions of 70 % alcoholic extracts of the fruits of T. alatus. Testosterone level showed significant increase among all groups, when compared to that of their corresponding control, p < 0.05.
+
+Testosterone level showed significant increase in groups 8 and 11. As compared with that of other fractions, total fruits extract and the group treated with the reference drug.
+
+ 
+
+COMMENTS
+
+Some causes that are responsible for low testosterone levels, include congenital problems such as deficiencies of male hormones and rare malformation syndromes, and acquired problems such as aging, chronic illness, drugs, starvation, stress, head trauma, infections, cancers, surgeries, alcoholism, removal or trauma to the testicles, and infection or twisting of the testicles in their sack.
+
+The use of testosterone is widespread in the treatment of many problems including infertility, athletic enhancement, erectile dysfunction and libido problems. Its application can have grave consequences if not used properly. Androgen, or more specifically testosterone, is widely utilized to treat erectile dysfunction (10).
+
+Various neurotransmitters and their inter/intracellular signaling are responsible for the relaxation of corpus cavernosal smooth muscle. Androgens influence these neurotransmitters and contribute to the regulation of penile erection. The classic theory about testosterone treatment is that it stimulates the sex drive and, by doing so, restores erectile functioning (11).
+
+Once a man is diagnosed as hypogonadic, or having a low testosterone level, the next step is to choose which form of treatment to utilize. As with all medications, benefits should be evaluated against potential risk. Age is one important factor in making this decision.
+
+In men less than fifty years old, the goal is to restore libido and erections. Testosterone also improves strength, physical stamina, and health status (10). Many people are now relying on herbal medicines for health care (12). Since other treatments applied are becoming more expensive and often carry serious side effects, there should be scientific dissemination of information on the therapeutic efficacy of these plants. Aphrodisiacs are substances that enhance sex drive and/or sexual pleasure or can arise sexual desire or libido (13). They are also agents that can be used to modify impaired sexual functions.
+
+Studies have implicated the saponin component of plants in enhancing aphrodisiac properties due to their stimulatory effect of androgen production (11).
+
+A survey concerning the secondary metabolites of genus Tribulus showed that steroidal saponins are the typical constituents of the genus, and in particular of T. terrestris (14). Saponins have been implicated as possible bioactive agent responsible for the aphrodisiac effect in Tribulus terrestris extract (11). These saponins were found to increase the levels of testosterone and luteinizing hormone (15).
+
+It was reported that Tribulus alatus contained steroidal saponins (8), which might contribute to increasing endogenous testosterone levels by raising the level of luteinizing hormones (LH) as reported for saponins isolated from T. terrestris (15).
+
+In the present study, the significant increase in the level of free serum testosterone is an indication of the aphrodisiac potential of Tribulus alatus extract.
+
+ 
+
+CONCLUSION
+
+The alcoholic extracts of both parts of Tribulus alatus produced a significant increase in the level of free serum testosterone at dose 50 mg/Kg body weight. Also different fractions of both parts of the plant revealed significant increase in the level of free serum testosterone at dose 12.5 mg/Kg body weight when compared to their corresponding controls. It is concluded that Tribulus alatus extract appears to possess aphrodisiac activity due to its androgen increasing property.
+
+ 
+
+CONFLICT OF INTEREST
+
+None declared.
+
+ 
+
+REFERENCES
+
+1. Islam MW, Tariq M, Ageel AM, al–Said MS, al–Yhya AM: Effect of Salvia haematodes on sexual behaviour of male rats. J Ethnopharmacol. 1991; 33: 67–72.        [ Links ]
+
+2. Puri HS: Vegetable aphrodisiacs of India. Q J Crude Drug Res. 1971; 11: 1742–1748.        [ Links ]
+
+3. Noumi E, Amvan ZPH, Lontsi D: Aphrodisiac plants used in Cameroon. Fitotherapia 1998; 69: 125–34.        [ Links ]
+
+4. Amin ES, Awad O, El–Samad MA, Iskander MN: Pharmacological studies on pollen grains of dates (Phoenix dactylefera). Phytochemistry. 1969; 8: 295–8.        [ Links ]
+
+5. Hegnauer R: Chemotaxonomie der Pflanzen. Basel, Birkhäuser–Verlag. 1973; 6: 707.        [ Links ]
+
+6. Mahato SB, Sahu NP, Ganguly AN, Miyahara K, Kawasaki TJ: Steroidal glycosides of Tribulus terrestris Linn. J Chem Soc Perkin Trans I. 1981; 1: 2405–10.        [ Links ]
+
+7. Achenbach H, Hubner H, Brandt W, Reiter M: Cardioactive steroid saponins and other constituents from the aerial parts of Tribulus cistoides. Phytochemistry. 1994; 35: 1527–43.        [ Links ]
+
+8. Temraz A, El Gindi OD, Kadry HA, De Tommasi N, Braca A: Steroidal saponins from the aerial parts of Tribulus alatus Del. Phytochemistry. 2006; 67: 1011–8.        [ Links ]
+
+9. McCann D, Kirkish L: Evaluation of Free Testosterone in serum. J Clin Immunoassay. 1985; 8: 234–6.        [ Links ]
+
+10. www.testosterones.com (access in August 2005).
+
+11. Gauthaman K, Adaikan PG, Prasad RN: Aphrodisiac properties of Tribulus Terrestris extract (Protodioscin) in normal and castrated rats. Life Sci. 2002; 71: 1385–96.        [ Links ]
+
+12. Tyler VE: A textbook of Herbs Of Choice: The Therapeutic Use Of Phytomedicinals. Norwood, Haworth Pr Inc. 1994; P 1.        [ Links ]
+
+13. Rosen RC, Ashton AK: Prosexual drugs: empirical status of the "new aphrodisiacs". Arch Sex Behav. 1993; 22: 521–43.        [ Links ]
+
+14. De Combarieu E, Fuzzati N, Lovati M, Mercalli E: Furostanol saponins from Tribulus terrestris. Fitoterapia. 2003; 74: 583–91.        [ Links ]
+
+15. Koumanov F, Bozadjieva E, Andreeva M, Platonva E, Ankov V: Clinical trial of Tribestan. Experiment Med. 1982; 2–4.        [ Links ]

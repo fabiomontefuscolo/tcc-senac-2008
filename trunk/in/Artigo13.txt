@@ -1,0 +1,271 @@
+Descritores
+
+Acute Disease
+Amylases
+Animals
+Body Temperature
+Caerulein
+Disease Models, Animal
+Edema
+Hyperthermia, Induced
+Inflammation Mediators
+Interleukin-1beta
+Interleukin-6
+Pancreatitis
+Rats
+Rats, Wistar
+Statistics, Nonparametric
+Tumor Necrosis Factor-alpha
+
+
+Artigo
+
+Effect of hyperthermia on experimental acute pancreatitis
+
+ 
+
+Efeito da hipertermia na pancreatite aguda experimental
+
+ 
+
+ 
+
+José Luiz Jesus de AlmeidaI; José JukemuraI; Sandra Nassa SampietreII; Rosely Antunes PatzinaIII; José Eduardo Monteiro da CunhaI; Marcel Cerqueira César MachadoII
+
+IDepartments of Gastroenterology
+IISurgery
+IIIPathology, University of São Paulo, Medical School, São Paulo, SP, Brazil
+
+Address for correspondence
+
+ 
+
+ 
+
+ABSTRACT
+
+BACKGROUD: Recent studies indicate that hyperthermia can change inflammatory mechanisms and protect experimental animals from deleterious effects of secretagogue-induced acute pancreatitis
+AIM: To evaluate the effects of hyperthermia post-treatment on cerulein-induced acute pancreatitis in rats
+METHODS: Twenty animals were divided in two groups: group I (n = 10), rats with cerulein-induced acute pancreatitis undergone hyperthermia, and group II (n = 10), animals with cerulein-induced acute pancreatitis that were kept normothermic. In all groups, amylase serum levels, histologic damage, vascular permeability and pancreatic water content were assessed. Acute pancreatitis was induced by administration of two cerulein injections (20 mcg/kg). A single dose of Evans' blue dye was administered along with the second dose of cerulein. All animals also received a subcutaneous injection of saline solution. After this process, animals undergone hyperthermia were heated in a cage with two 100 W lamps. Body temperature was increased to 39.5ºC and maintained at that level for 45 minutes. Normothermia rats were kept at room temperature in a second cage
+RESULTS: Control animals had typical edema, serum amylase activity and morphologic changes of this acute pancreatitis model. Hyperthermia post-treatment ameliorated the pancreatic edema, whereas the histologic damage and the serum amylase level remained unchanged
+CONCLUSIONS: The findings suggest a beneficial effect of the thermal stress on inflammatory edema in experimental acute pancreatitis.
+
+Headings: Pancreatitis, acute. Fever. Caerulein. Edema. Rats.
+
+RESUMO
+
+RACIONAL: Estudos recentes indicam que a hipertermia pode modificar mecanismos inflamatórios e proteger animais experimentais dos efeitos deletérios da pancreatite aguda induzida por secretagogos
+OBJETIVO: Avaliar a eficácia da hipertermia como tratamento da pancreatite aguda induzida por ceruleína em ratos
+MÉTODOS: Vinte animais foram divididos em dois grupos: grupo I (n = 10), ratos com pancreatite aguda induzida por ceruleína e submetidos a hipertermia, e grupo II (n = 10), animais com pancreatite aguda induzida por ceruleína mantidos em normotermia. Em todos os grupos foram medidos níveis séricos de amilase, histologia, permeabilidade vascular e conteúdo de água do pâncreas. A pancreatite aguda foi induzida através da administração de duas injeções de ceruleína (20 mcg/ kg). Dose única do corante azul de Evans foi administrada juntamente com a segunda injeção de ceruleína. Todos os animais também receberam 5 mL de solução salina subcutânea. Após a indução, os animais do grupo hipertérmico foram aquecidos com duas lâmpadas de 100 W em gaiola parcialmente isolada. A temperatura corporal foi aumentada para 39,5ºC e mantida neste nível por 45 minutos. Os animais controle foram mantidos em uma segunda gaiola em temperatura ambiente
+RESULTADOS: Os animais controle tiveram edema, danos histológicos e níveis de amilase típicos do modelo de pancreatite aguda leve com ceruleína. O tratamento com hipertermia melhorou o edema pancreático porém não teve efeito nos nível séricos de amilase e no dano histológico pancreático
+CONCLUSÕES: Os resultados sugerem efeito benéfico da hipertermia no edema inflamatório da pancreatite aguda leve experimental.
+
+Descritores: Pancreatite aguda. Febre. Ceruleína. Edema. Ratos.
+
+ 
+
+ 
+
+INTRODUCTION
+
+Acute pancreatitis (AP) is a disease with wide clinical expression. Its incidence is about 40 cases/100,000(34). The largest part of cases (85%-95%) are mild and self-limited. However, some patients can present as severe disturbance with high rates of complications and mortality(5, 7, 22).
+
+The pancreatic inflammation is characterized by acinar cell necrosis, interstitial edema and infiltration of inflammatory cells. The pathophysiology of this process is not completely understood. Nevertheless, it is known that after activation of intracellular digestive enzymes, an inflammatory response proportional to severity of lesions occurs(7, 32, 36).
+
+The severity and the prognosis of this disturbance is directly connected to intensity of tecidual damage(30). In the cases of severe pancreatic damage, the patient may present with respiratory, cardiovascular, renal or immunologic distress. In this situation, mortality rate might reach 80%, with higher rates in cases with necrosis and infection. These patients will need intensive care for a long time and multiples surgical approaches.
+
+Evidences suggest that proinflammatory cytokines such as IL-1b, TNF-a and IL-6 could act as mediators of local and systemic manifestations of AP(10, 26, 28, 31). The activated inflammatory cells release this peptides in response to local tissue damage. Many reports demonstrate a better outcome in AP when these mediators are blocked(14, 17, 25, 27). The temperature is an important factor that might change the course of the inflammatory response and modify the expression of these cytokines. In a study performed by MATSUOKA et al.(23), hypothermia was found to improve the course of experimental AP by reduction of cytokines serum levels.
+
+ELLINGSSON and CLARK(8) demonstrated that the mortality of rabbits infected by Streptococcus pneumoniae was increased in comparison to control animals when body temperature of these animals was elevated from 1.5ºC by external heating. Similarly, JIANG et al.(19) reported that the elevation of central core temperature of mice to 39.5ºC alter the expression of systemic TNF-a in response to lipopolyssaccharide. Another report(16) showed that hyperthermia induces alterations in inflammatory mediators soluble receptors in patients with heatstroke. In summary, the changes caused in inflammatory response by temperature still remain controversial.
+
+The aim of this paper was to evaluate the effect of hyperthermia on experimental cerulein-induced acute pancreatitis in rats.
+
+ 
+
+MATERIAL AND METHODS
+
+All the experiments were performed according to protocols previously approved by ethic local committee. Twenty male Wistar rats, weighing about 250 g, provided by Medical Investigation Laboratory (LIM-37) of the University of São Paulo Medical School, São Paulo, SP, Brazil, were divided in two groups.
+
+Group I (n = 10)
+
+Rats with cerulein-induced acute pancreatitis undergone hyperthermia.
+
+Group II (n = 10)
+
+Rats with cerulein-induced acute pancreatitis kept at room temperature.
+
+Tissue water content, Evans' blue dye extravasation, histologic edema and amylase serum levels were determined in all groups.
+
+Acute pancreatitis induction
+
+The model of experimental AP were developed in our laboratory by ABDO et al.(1) from LAMPEL and KERN's model(20). This model is based on supramaximal stimulation of the pancreas with cerulein. Two doses (20 mcg/kg) were injected, with 1 hour interval, subcutaneous and intravenously, respectively.
+
+Hyperthermia
+
+Hyperthermia was obtained, under general anesthesia, using a cage provided with two lamps partially thermo-isolated, over 1 hour. Body temperature was monitored using a rectal thermometer and was kept at 39.5ºC.
+
+The hyperthermia process was started right after the second dose of cerulein. All animals received 5 mL of saline SC to prevent dehydration.
+
+Sacrifice
+
+Immediately after the end of hyperthermia period, the rats, under general anesthesia, were underwent median laparotomy and cardiac puncture for blood pool.
+
+The portal vein was clamped, pancreas was exposed and removed in two parts: proximal and distal. The organ was dissected and set free of all lymphonodi and adjacent fat tissue (Figure 1).
+
+ 
+
+ 
+
+Serum amylase levels
+
+Serum amylase levels were assessed by cholorimetric method of BERNFELD(3) and modified by JAMIESON et al.(18).
+
+Pancreas water content
+
+Pancreata was weighed on an analytic balance (fresh weight) and dehydrated by heating at 56ºC during 48 hours (dry weight). Water content was calculated according to the formula:
+
+[ (fresh weight - dry weight) / dry weight ] x 100
+
+and expressed in total weight percentage.
+
+Vascular permeability evaluated by Evans' blue dye extravasation
+
+Pancreata was put on a test tube with 3 mL of formamide, in a dose of 4 micrograms/mg of tissue for 24 h, at room temperature for dye extraction.
+
+The concentration of Evans' blue in formamide was assessed by 620 nm spectrophotometer. The results were compared with standard dye curve (0,5 a 20 mcg/mL) and expressed in microgram of Evans' blue/g of dry tissue.
+
+Histology
+
+Representative tissue samples collected from proximal and distal parts of pancreas were fixed in 10% formalin for 24 h and embedded in paraffin. Five-micrometer-thick sections were stained with hematoxylin and eosin and the degree of tissue lesion graded in a blinded fashion (i.e. no knowledge of the groups) by one single pathologist, using the SCHIMIDT's(33) score system.
+
+Statistical analysis
+
+Results were tested with unpaired t Student test. For nonparametric data, the Mann-Whitney test was used. Significant difference was accepted when P <0.05. GraphPad Prism Software (GraphPad Software, San Diego, CA, USA) was used for statistical analysis.
+
+ 
+
+RESULTS
+
+Vascular permeability was lower in hyperthermic rats, both in proximal pancreas and distal pancreas (Graphics 1, 2).
+
+ 
+
+ 
+
+ 
+
+ 
+
+The percentage of free water was also found to be lower in hyperthermic animals (Graphics 3, 4).
+
+ 
+
+ 
+
+ 
+
+ 
+
+However, the serum levels of amylase did not show any difference between the two groups (Graphic 5). The histologic analysis for edema also did not show difference (Table 1). Hemorrhage, fat necrosis and neutrophilic infiltration were absent in all AP groups.
+
+ 
+
+ 
+
+ 
+
+ 
+
+DISCUSSION
+
+AP is a inflammatory disease whose treatment is predominantly supportive(29). Its pathophysiology is complex and involve a series of different mechanisms which lead to early activation of pancreatic enzymes. The mechanisms by which cerulein induces pancreatitis is still not fully understood. LUTHEN et al.(21) reported that cerulein provokes oxidative stress, lower the ATP acinar pool and diminishes the intracellular levels of glutathione (the main intracellular antioxidant). These effects involve the binding of cerulein with low affinity receptors to cholecystokinin (CCK-A).
+
+Several mechanisms have been proposed to explain the beneficial effects of hyperthermia on cerulein-induced acute pancreatitis. The first of them is that hyperthermia can modify the interaction of cerulein with its receptors. However, in his report, FROSSARD et al.(11) demonstrated that CCK-A receptors of pancreatic acini undergone hyperthermia keep its capability of binding the cerulein. Another suggestion is that hyperthermia might directly prevent the activation of pancreatic enzymes; however, another report showed that kinase activation activity was unaltered after heating procedure(24); nevertheless, this issue is controversial and other studies had demonstrated opposite results(4, 13). Another explanation is that the protective effect afforded by hyperthermia could be mediated by HSPs ("heat shock proteins")(35, 37). It is believed that HSPs act as molecular chaperones, making the final folding of other proteins easier and protecting them from additional injuries. Several reports had showed that when hyperthermia is performed before induction of AP, the lesion caused by cerulein is diminished(37).
+
+In the present report, comparison between the normothermic and hyperthermic group did not show differences regarding serum levels of amylase, although a significant reduction on inflammatory edema was observed, which was evaluated by percentage of free water and Evans' blue dye extravasation. It is important to point out that hyperthermia was performed as a therapeutic procedure, therefore, none of the above mentioned mechanisms could well explain the beneficial effect found in this case.
+
+In our laboratory, ANDRAUS(2) demonstrated that hypothermia increase oxygen free radicals (OFRs) and therefore worse experimental cerulein-induced acute pancreatitis. By analogue mechanisms, it is possible that hyperthermia might reduce intracellular levels of OFRs and prevent additional damage of vascular endothelium, which in turn will reduce interstitial edema. Besides, others authors had showed that changes in temperature influence the expression of certain cytokines. GRISÉ et al.(15) demonstrated a decrease in the expression of some cytokines after hyperthermia. In his report, mice exposed to hyperthermia showed a decrease of IL-6 serum levels. This study suggests that downregulation of inflammatory cytokines prevent activation of local macrophages, thus blocking the release of additional inflammatory mediators. Another report showed that expression of TGF-b is stimulated after hyperthermia(38), and perhaps it could be a additional protective mechanism. In addition, ENSOR et al.(9) showed that expression of TNF-a by mononuclear phagocytes was inhibited after in vitro heating. The through mechanism depends on the reduction of TNF-a mRNA stability. Therefore, an early deactivation of transcription had occurred. In turn, FROSSARD et al.(12) had showed that hyperthermia can also affect NFkB binding activity and then reduce its ability to induce cytokine expression.
+
+The available current data about this issue suggest that there is an intrinsic relationship among cytokine expression modulation, alterations on intracellular redox function and thermal stress(6, 12, 26, 28).
+
+Regarding the conditions of experiments, this report allow us to conclude that hyperthermia, performed after cerulein-induced acute pancreatitis, decreases the inflammatory edema associated with acute pancreatitis. However, further studies are necessary in order to elucidate how this procedure could modulate expression of inflammatory mediators, production of oxygen free radicals, prevent endothelial damage and reduce interstitial edema.
+
+ 
+
+REFERENCES
+
+1. Abdo EE, Coelho AM, Montagnini AL, Kubrusly MS, Leite KM, Sampietre S, Molan NAT, Machado MCC, Pinotti HW. Simplificated model to induce experimental acute pancreatitis with supramaximal dose of secretagogue. Rev Hosp Clin Fac Med S Paulo. 1994;49:204-7.        [ Links ]
+
+2. Andraus W. Efeito da hipotermia na pancreatite aguda experimental. [dissertação]. São Paulo: Faculdade de Medicina da Universidade de São Paulo; 2003.        [ Links ]
+
+3. Bernfeld P. Amylase. Enzimol. 1955;1:149-50.        [ Links ]
+
+4. Bhagat L, Singh VP, Song AM, Van Acker GID, Agrawal S, Steer M, Saluja AK. Thermal stress-induced HSP70 mediates protection against intrapancreatic trypsinogen activation and acute pancreatitis in rats. Gastroenterology. 2002;122:156-65.        [ Links ]
+
+5. Cunha JEM, Machado MCC, Penteado S, Jukemura J, Bacchella T, Pinotti HW. Pancreatic necrosis in Brazil. In: Bradley EL, editor. Acute pancreatitis: diagnosis and therapy. New York: Raven Press; 1994. p.121-5.        [ Links ]
+
+6. Dabrowski A, Gabryelewicz A. Nitric oxide contributes to multiorgan oxidative stress in acute experimental pancreatitis. Scand J Gastroenterol. 1994;29:943-8.        [ Links ]
+
+7. Dervenis C, Johnson CD, Bassi C, Bradley E, Imrie CW, Mcmahon MJ Modlin I. Diagnosis, objective and assessment of severity and management of acute pancreatitis. Santorini Consensus Conference. Int J Pancreatol. 1999;25:195-210.        [ Links ]
+
+8. Ellingson HV, Clark PF. The influence of artificial fever on mechanisms of resistance. J Immunol. 1942;43:65-83.        [ Links ]
+
+9. Ensor JE, Crawford EK, Hasday JD. Warming macrophages to febrile range destabilizes tumor necrosis factor-a mRNA without inducing heat shock. Am J Physiol. 1994;269:1140-6.        [ Links ]
+
+10. Formela LJ, Galloway SW, Kingsnorth AN. Inflammatory mediators in acute pancreatitits. Br J Surg. 1995;82:6-13.        [ Links ]
+
+11. Frossard JL, Saluja A, Lee HS, Bhagat L, Bhatia M, Steer M. Heat shock protein 70 (HSP70) expression reduces the severity of cerulein-induced acute pancreatitis by reducing intrapancreatic active trypsin levels [abstract]. Gastroenterology. 1998;114:1898.        [ Links ]
+
+12. Frossard JL, Pastor CM, Hadengue A. Effects of hypethermia on Nf-KB binding activity in cerulein-induced acute pancreatitis. Am J Physiol Gastrointest Liver Physiol. 2001;280:G1157-62.        [ Links ]
+
+13. Frossard JL, Baghat L, Lee HS, Hietaranta AJ, Singh VP, Song AM, Steer M, Saluja AK. Both thermal and non-thermal stress protect against caerulein induced pancreatitis and prevent trypsinogen activation in the pancreas. Gut. 2002;50:78-83.        [ Links ]
+
+14. Grewal HP, Mohey el-Din A, Gaber L, Kotb M, Gaber AO. Amelioration of the physiologic and biochemical changes of acute pancreatitis using an anti-TNF-a polyclonal antibody. Am J Surg. 1994;167:214-9.        [ Links ]
+
+15. Grisé K, Kim F, Mcfadden D. Hyperthermia induces heat-shock protein expression, reduces pancreatic injury, and improves survival in necrotizing pancreatitis. Pancreas. 2000;21:120-5.        [ Links ]
+
+16. Hammami MM, Bouchama A, Al-Sedairy S, Shail E, Alohaly Y, Mohamed GE. Concentrations of soluble tumor necrosis factor and interleukin-6 receptors in heatstroke and heatstress. Crit Care Med. 1997;25:1263-4.        [ Links ]
+
+17. Hughes CB, Gaber LW, Mohey el-Din AB, Grewal HP, Kotb M, Mann L, Gaber AO. Inhibition of TNF-a improves survival in an experimental model of acute pancreatitis. Am Surg. 1996;62:8-13.        [ Links ]
+
+18. Jamieson AD, Pruitt KM, Caldwell RC. An improved amylase assay. J Dent Res. 1969;48:483.        [ Links ]
+
+19. Jiang Q, DeTolla L, van Rooijen N, Singh IS, Fitzgerald B, Lipsky MM, Kane AS, Cross AS, Hasday JD. Febrile-range temperature modifies early systemic tumor necrosis factor-a expression in mice challenged with bacterial endotoxin. Infect Immun. 1999;67:1539-46.        [ Links ]
+
+20. Lampel M, Kern HF. Acute interstitial pancreatitis in the rat induced by excessive doses of a pancreatic secretagogue. Virchows Arch A Pathol Anat Histol. 1977;373:97-117.        [ Links ]
+
+21. Luthen R, Niederau C, Grendell JH. Intrapancreatic zymogen activation and levels of ATP and glutathione during cerulein pancreatitis in rats. Am J Physiol. 1995;268:G592-604.        [ Links ]
+
+22. Machado MCC, Bacchella T, Cunha JEM, Jukemura J, Penteado S, Giovanoli ACV, Pinotti HW. Evolução das necroses pancreáticas: influência do fator infecção. Rev Hosp Clin Fac Med S Paulo. 1985;40:120-4.        [ Links ]
+
+23. Matsuoka K, Ueno T, Morita K, Kawano H, Yamaguchi, Maekawa T, Tangoku A, Oka M. Effects of hypothermia on cerulein-induced pancreatitis. Pancreas. 2003;26:12-7.        [ Links ]
+
+24. Metzler W, Hofken T, Weber H, Printz H, Göke B, Wagner AC. Hyperthermia, inducing pancreatic heat-shock proteins, fails to prevent cerulein-induced stress kinase activation. Pancreas. 1999;19:150-7.        [ Links ]
+
+25. Norman J, Franz M, Messina M, Riker A, Fabri PJ, Rosemurgy AS, Gower WR Jr. Interleukin-1 receptor antagonist decreases severity of experimental acute pancreatitis. Surgery. 1995;117:648-55.        [ Links ]
+
+26. Norman JG, Fink GW, Messina J, Carter G, Franz MG. Timing of tumor necrosis factor antagonism is critical in determining outcome in murine lethal acute pancreatitis. Surgery. 1996;120:515-21.        [ Links ]
+
+27. Norman J. The role of cytokines in the pathogenesis of acute pancreatitis. Am J Surg. 1998;175:76-83.        [ Links ]
+
+28. Norman JG. New approaches to acute pancreatitis: role of inflammatory mediators. Digestion. 1999;60 (Suppl 1):57-60.        [ Links ]
+
+29. Ojetti V, Migneco A, Manno A, Verbo A, Rizzo G, Gentiloni Silveri N. Management of acute pancreatitis in emergency. Eur Rev Med Pharmacol Sci. 2005;9:133-40.        [ Links ]
+
+30. Ranson JHC. Stratification of severity for acute pancreatitis. In: Bradley EL, editor. Acute pancreatitis: diagnosis and therapy. New York: Raven Press; 1994. p.13-20.        [ Links ]
+
+31. Rongione AJ, Kusske AM, Kwan K, Ashley SW, Reber HA, McFadden DW. Interleukin-10 reduces the severity of acute pancreatitis in rats. Gastroenterology. 1997;112:960-7.        [ Links ]
+
+32. Sarner M. Pancreatitis definitions and classification. In: Go VLW, Dimagno EP, Gardner JD, Scheele GA, editors. The pancreas: biology, pathobiology and disease. 1993 New York: Raven Press; 1993. p.575-80.        [ Links ]
+
+33. Schmidt J, Rattner DW, Lewandrowski K, Compton CC, Mandavilli U, Knoefel WT, Warshaw AL. A better model of acute pancreatitis for evaluation therapy. Ann Surg. 1992;215:44-56.        [ Links ]
+
+34. Sinclair MT, Mcarthy A, Mckay C, Sharples CE, Imrie CW. The increasing incidence and high mortality rate from acute pancreatitis in Scotland over the last ten years. Gastroenterology. 1997;112:482.        [ Links ]
+
+35. Strowski MZ, Sparmann G, Weber H, Fiedler F, Printz H, Jonas L, Göke B Wagner AC. Caerulein pancreatitis increases mRNA but reduces protein levels of rat pancreatic heat shock proteins. Am J Physiol Gastrointest Liver Physiol. 1997;273:G937-45.        [ Links ]
+
+36. Uhl W, Buchler M, Ran B, Beger HG. Bacterial infection and the role of fine needle aspiration. In: Beger HG, Buchler M, editors. Standards in pancreatic surgery. Berlin: Springer-Verlag; 1993. p.101-14.        [ Links ]
+
+37. Wagner ACC, Weber H, Jonas L, Nizze H, Strowski M, Fiedler F, Printz H, Steffen H, Göke B. Hyperthermia induces heat shock protein expression and protection against cerulein-induced pancreatitis in rats. Gastroenterology. 1996;111:1333-42.        [ Links ]
+
+38. Weber H, Wagner ACC, Jonas L, Merkord J, Höfken T, Nizze H, Leitzmann P, Goke B, Schuff-Werner P. Heat shock response is associated with protection against acute intersticial pancreatitis in rats. Dig Dis Sci. 2000;45:2252-64.        [ Links ]

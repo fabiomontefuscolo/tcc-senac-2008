@@ -1,0 +1,219 @@
+Descritores
+
+Adolescent
+Adult
+Aged
+Antiviral Agents
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Epidemiologic Methods
+Female
+Genotype
+Hepatitis C, Chronic
+Humans
+Interferon Alfa-2a
+Interferon Alfa-2b
+Male
+Middle Aged
+Patient Acceptance of Health Care
+Reverse Transcriptase Polymerase Chain Reaction
+Ribavirin
+Treatment Outcome
+Viral Load
+
+
+Artigo
+
+Daily interferon induction regimen using different manufactured interferons (alpha-2a or alpha-2b) in combination with ribavirin for treatment of chronic hepatitis C: a prospective randomized study
+
+ 
+
+Esquema de indução diário com interferon alfa 2-a ou alfa 2-b em combinação com ribavirina para tratamento da hepatite crônica C: estudo prospectivo randomizado
+
+ 
+
+ 
+
+Eduardo Lorens BragaI, II; André Castro LyraI, II; Lourianne NascimentoII; Eduardo NettoI; Luciano KalabrikIII; Luiz Guilherme Costa LyraI, II
+
+IDivision of Gastro-Hepatology, Federal University of Bahia
+IIDivision of Gastro-Hepatology, São Rafael Hospital - Monte Tabor Foundation
+IIIOswaldo Cruz Foundation, Fiocruz-BA – Salvador, BA, Brazil
+
+Address for correspondence
+
+ 
+
+ 
+
+ABSTRACT
+
+BACKGROUD: Studies on hepatitis C virus kinetics showed that serum levels of interferon fall 48 h after drug administration, when viral load is increasing again. Previously to the availability of pegylated interferon, daily induction therapy with standard interferon was under evaluation.
+AIMS: To evaluate the safety and efficacy of interferon alpha daily induction regimen in combination with ribavirin.
+PATIENTS AND METHODS: A randomized trial including 93 patients with chronic hepatitis C was carried out. On satisfying all eligibility criteria, patients were randomly allocated to two different treatment groups: 44 individuals in treatment arm A: IFN 3 MU thrice weekly + ribavirin 1.0-1.2 g daily for 48 weeks (IFN TIW) and 49 individuals in treatment arm B: IFN 3 MU daily + ribavirin 1.0-1.2 g daily for 12 weeks followed by IFN 3 MU thrice weekly + ribavirin 1.0-1.2 g daily, until completion of 48 weeks of therapy (IFN QD). HCV genotyping was obtained in 85 subjects. A negative HCV-RNA 6 months after cessation of therapy was considered a sustained virological response
+RESULTS: Eighty three patients completed treatment, five dropped out (one from IFN TIW and four from IFN QD) and in five patients therapy was discontinued due to medical request (two from IFN TIW and three from IFN QD). There was no statistically significant difference between groups with respect to therapy interruption. The frequency of cirrhosis was 29%, similar in both groups. In the "intention to treat" analysis the overall sustained virological response was 39.8%. There was no significant difference in sustained virological response rate between both treatment strategies (36.4% IFN TIW vs 42.9% IFN QD). In the 83 patients who finished the trial, sustained virological response was 44.6%. Among subjects with HCV genotype-1, the sustained virological response was 42% (40.9% IFN TIW vs 42.9% IFN QD) and among patients with HCV genotype 2 or 3, the sustained virological response was 55.6% (50% IFN TIW vs 63.6% IFN QD)
+CONCLUSIONS: Combination therapy had an overall sustained virological response rate of 39.8% ("intention to treat analysis"). There was no difference with respect to sustained virological response rates between patients who used daily induction schedule compared to standard regimen. Adverse events, even more frequent in the daily induction group, did not interfere with the treatment strategies.
+
+Headings: Hepatitis C. Interferon alfa 2-a. Interferon alfa-2b. Ribavirin.
+
+RESUMO
+
+RACIONAL: Estudos em cinética viral na hepatite C demonstraram que há uma queda dos níveis séricos de interferon 48 h após a sua administração, quando a carga viral do vírus C volta a se elevar. Antes da disponibilidade do interferon peguilado, diversos ensaios clínicos investigaram a terapia de indução com interferon standard
+OBJETIVOS: Avaliar a segurança e eficácia do esquema de indução diário com interferon alfa associado à ribavirina.
+PACIENTES E MÉTODOS: Noventa e três pacientes com hepatite crônica C foram incluídos. Através de randomização, foram alocados em um de dois braços terapêuticos: 44 indivíduos no grupo A: IFN 3MU três vezes por semana + ribavirina 1,0-1,2 g diariamente por 48 semanas e 49 indivíduos no grupo B: IFN 3MU diariamente por 12 semanas, seguindo-se por IFN 3MU três vezes por semana até completar 48 semanas + ribavirina 1,0-1,2 g diariamente por 48 semanas. A genotipagem do vírus C foi realizada em 85 indivíduos. Considerou-se resposta virológica sustentada a persistência do HCV-RNA negativo 6 meses após o término da terapia
+RESULTADOS: Oitenta e três pacientes completaram o tratamento. Houve cinco abandonos (um do grupo A e quatro do grupo B) e em cinco pacientes a terapia foi retirada devido a efeitos adversos (dois do grupo A e três do grupo B). Não houve diferença estatisticamente significante entre os grupos quanto à interrupção do tratamento. A freqüência de cirrose foi 29%, semelhante entre os grupos. Na análise "intention to treat" a resposta virológica sustentada foi 39,8%. Não houve diferença estatística na taxa de resposta virológica sustentada entre ambas as estratégias terapêuticas (36,4% grupo A vs 42,9% grupo B). Nos 83 pacientes que finalizaram o estudo, a resposta virológica sustentada foi 44,6%. Entre os pacientes com genótipo 1, a resposta virológica sustentada foi 42% (40,9% grupo A vs 42,9% grupo B) e entre os pacientes com genótipo 2/3, a resposta virológica sustentada foi 55,6% (50% grupo A vs 63,6% grupo B)
+CONCLUSÕES: A taxa de resposta virológica sustentada foi 39,8% para a terapia combinada (análise "intention to treat"). Não houve diferença entre as taxas de RVS do grupo de indução comparado ao regime padrão. Efeitos adversos, mesmo mais freqüentes no grupo de indução, não interferiram nas estratégias terapêuticas.
+
+Descritores: Hepatite C. Interferon alfa 2-a. Interferon alfa 2-b. Ribavirina.
+
+ 
+
+ 
+
+INTRODUCTION
+
+It has been demonstrated that the sustained virological response (SVR), defined by the absence of detectable HCV-RNA in the serum 24 weeks after treatment is completed, is the optimal end point of therapy for chronic hepatitis C(7). The combination of standard interferon-alpha (STD-IFN) and ribavirin (RBV) resulted in SVR rates of 38% to 43% (48 weeks of therapy)(13). The use of pegylated interferon (PEG-IFN) and RBV increased the overall response rate to 54%-56%(11, 12, 17, 19).
+
+Before the use of PEG-IFN, several studies about viral kinetics showed that hepatitis C virus (HCV) replicates rapidly, has a dose-dependent effect of IFN and occur very early, generally within the first day(9). Indeed, serum levels of IFN decrease 48 h after drug administration, when the HCV viral load is re-increasing. This suggests a possible increased antiviral effect of daily induction therapy(10).
+
+Results from a meta-analysis of randomized trials demonstrated benefits in increasing dosage and duration of IFN monotherapy(16). Combination of IFN induction therapy and ribavirin for naïve patients was evaluated. FERENCI et al.(8) compared two treatment groups receiving high IFN doses during the first weeks of therapy with a control group. Although overall sustained virological response rates were not different among them, an improvement in the SVR rate was observed in genotype-1 infected patients. TASSOPOULOS et al.(18) demonstrated that combination of IFN and ribavirin for 48 weeks was more effective when IFN was administered daily for the first 24 weeks; low baseline viral load and HCV genotype non-1 were associated with higher SVR rates. In a multicenter randomized trial with 625 individuals, CARITHERS et al.(5) observed a more rapid viral clearance with induction therapy, although this treatment protocol did not result in an increase in SVR rates.
+
+Since similar SVR rates for genotypes 2 or 3 are achieved using both therapeutic regimens and considering that PEG-IFN is much more expensive, the possibility of using STD-IFN + RBV in patients infected with HCV genotypes 2 or 3 should be considered.
+
+Before the availability of PEG-IFN in Brazil, we conducted this randomized prospective trial comparing the efficacy and tolerability of an IFN induction regimen plus ribavirin with the "traditional" thrice-weekly IFN regimen plus ribavirin for treatment of naïve patients with chronic hepatitis C.
+
+ 
+
+PATIENTS AND METHODS
+
+In a period of 1 year, 93 patients were randomly allocated to the treatment arms. HCV genotyping was performed in 85 patients: 41 patients were randomized in arm A (IFN TIW - 24 genotype-1, 17 genotype 2 or 3) and 44 in arm B (IFN QD - 32 genotype-1, 12 genotype 2 or 3). All patients started therapy, from which 83 completed treatment.
+
+Selection of patients
+
+Ninety-three naïve patients with chronic hepatitis C, aged between 18 and 70 years, with compensated liver disease, were eligible for the study. They had a detectable HCV-RNA in the serum by a reverse transcriptase-polymerase chain reaction (RT-PCR) test. All of them had persistently elevated serum alanine aminotransferase (ALT) level, at least 1.5 times the upper limit of normal (ULN). Liver biopsy was done within 1 year before screening, showing evidence of inflammatory activity and stage of fibrosis F2, F3 or F4 (METAVIR score)(3). Patients with the following characteristics were excluded: decompensated liver disease, human immunodeficiency virus (HIV) or hepatitis B virus (HBV) coinfection, drug or ethanol abuse (greater than 40 g/day), pre-existing psychiatric conditions, seizure disorders and immunologically mediated diseases.
+
+The trial was approved by the ethics review board, according to the Declaration of Helsinki. All patients provided written informed consent before enrolling in the study.
+
+Study design
+
+The study was a prospective, randomized trial. Patients were evaluated at the Hepatology outpatient service of University Hospital "Edgard Santos" from the Federal University of Bahia, Salvador, BA, Brazil. On satisfying of all eligibility criteria, patients were randomly allocated to two different treatment schedules: treatment arm A, IFN 3 MU thrice weekly + ribavirin 1.0-1.2 g daily for 48 weeks (IFN TIW), and treatment arm B, IFN 3 MU daily + ribavirin 1.0-1.2 g daily for 12 weeks, followed by IFN 3 MU thrice weekly + ribavirin 1.0-1.2 g daily, until completion of 48 weeks of therapy (IFN QD). It should be mentioned that IFN alpha-2a or IFN alpha-2b could be administered to all patients, depending on the availability of the drug, even for the same patient during the study.
+
+All patients were assessed as outpatients before beginning treatment and at weeks 2, 4, 6, 8, and, then followed-up monthly, until 6 months after completion of treatment (72 weeks). Hematological and biochemical tests were performed using standard laboratory methods. Qualitative HCV-RNA by RT-PCR testing was performed at baseline and at weeks 24, 48 and 72. Genotype testing was done at baseline. Pretreatment biopsy samples were analyzed by a single pathologist.
+
+Depending on the severity of the adverse events, ribavirin or IFN doses could be reduced by 50% or discontinued permanently.
+
+A positive HCV-RNA at 24 weeks was considered as a treatment failure and a negative HCV-RNA at week 72 was considered a SVR.
+
+Endpoints of the study
+
+A biochemical response was defined as normalization of ALT and a virologic response was defined as HCV-RNA negative result.
+
+The primary efficacy end-point was to compare the rates of sustained virologic response at week 72, between the two treatment groups. Secondary end-point was the assessment of tolerability of the daily interferon regimen.
+
+Statistical analysis
+
+The estimated sample of 93 patients was based on a type I error rate of a < 0.05 and a power of 0.80. A simple random method of sampling for allocation of patients was used. The randomization list was obtained using the software Statistical Package for Social Sciences (SPSS). All patients started treatment and those who did not complete the study were analyzed as failures ("intention-to-treat"). Baseline characteristics of the patients were compared by the Chi-square test (for discrete variables), the t-test or the Mann-Whitney test for continuous variables, as appropriate. Comparisons of biochemical and virological response rates between the two treatments were made by Chi-square test with Yates' correction. Multivariate logistic regression analysis was used to identify variables that are independent predictors of SVR. As a sensitivity analysis, the comparisons of biochemical and virological response rates between the two treatments were also carried out, using data from patients who had completed the treatment period ("as-treated analysis").
+
+ 
+
+RESULTS
+
+Characteristics of the patients
+
+The majority of the patients were males (69.1%) with a mean (SD) age of 40.7 (13.2) years. No significant differences were found between the two treatment groups regarding age, sex, baseline ALT, source of infection or genotype. Cirrhosis was present in 29% of the individuals. The frequency of this finding was similar in both groups (P = 0.42).
+
+Sustained virological response
+
+The overall SVR ("intention to treat") was 39.8% (95% CI 29.9%-50.5%) and 44.6% ("as-treated analysis") when only the 83 patients who finalized the trial were analyzed. There was no significant difference in the SVR rate between the two groups (36.4% IFN TIW vs 42.9% IFN QD; P = 0.58) (Table 1).
+
+ 
+
+ 
+
+Among the 56 patients infected with genotype-1, the SVR was 42% (40.9% IFN TIW vs 42.9% IFN QD; P = 0.88). Among the 29 patients infected with HCV genotypes 2 or 3, 55.6% had SVR (50% IFN TIW vs 63.6% IFN QD; P = 0.38). There was no significant difference with respect to SVR between HCV genotypes (P = 0.25)(Table 2).
+
+ 
+
+ 
+
+Treatment discontinuation
+
+Therapy was discontinued in 10 patients: 5 due to medical request (2 from IFN TIW and 3 from IFN QD) and 5 due to non-adherence to the scheduled visits (1 from IFN TIW and 4 from IFN QD). Among those related to medical request, one patient developed autoimmune arthritis, two severe depression, one serious mucocutaneous allergic reaction and one ischemic hearth disease. There was no statistically significant difference between groups with respect to therapy interruption. In IFN QD, 54.7% of individuals reported improvement in the severity of adverse effects from IFN (malaise, headache, myalgia, fever), after changing from IFN daily use to thrice weekly. Dose reduction was not necessary for any patient.
+
+ 
+
+DISCUSSION
+
+In order to obtain better therapeutic results, several trials have been carried out to investigate new approaches for treating naïve subjects with chronic hepatitis C. The administration of alpha IFN three times weekly, in combination with ribavirin for 24 or 48 weeks, results in a SVR that ranges from 31% to 43%, which is considered a suboptimal response(13).
+
+Pegylated interferon in combination with ribavirin resulted in SVR rates of 54%-56%(11, 12, 17, 19), with particulary benefits for HCV genotype-1 patients(12).
+
+The rate of virion production is very high in HCV infected patients and serum levels of interferon decrease 48 h after the drug administration. Treatment failure may be associated with high genetic variability of HCV and development of mutations and new quasispecies variants. It has been demonstrated that the use of interferon three times a week may induce greater quasispecies diversity(9). Combination therapy with induction treatment can enhance antiviral activity, avoiding the emergence of new quasispecies variants(9, 14, 15).
+
+Several studies have evaluated the effect of interferon induction therapy in combination with ribavirin for treating naïve patients with chronic hepatitis C, with contradictory results. De LEDINGHEN et al.(6) have not found an increase in the rate of sustained virologic clearance with the use of interferon induction regimen (3 MU QD for 12 weeks) in combination with ribavirin, comparing with the standard combination regimen. CARITHERS et al.(5), in a large trial with 625 individuals, have shown an earlier viral clearance among patients who received induction therapy, especially those infected with HCV genotype-1, although it did not result in an increase of SVR rates. FERENCI et al.(8) have compared 2 groups receiving high IFN doses during the first weeks of therapy in combination with ribavirin to a control group and have found improved SVR rates in genotype-1 infected individuals, but not in non-1 HCV genotype infected patients. ABBAS et al.(1) demonstrated that a daily IFN regimen was associated to higher SVR. TASSOPOULOS et al.(18) have shown that the use of daily interferon doses of 5 MU for the first 24 weeks followed by a TIW administration for another 24 weeks, combined with ribavirin, resulted in a higher SVR rate than a combination regimen where interferon was administered TIW throughout the treatment period. BEKKERING et al.(4) estimated that daily doses of 5 or 10 MU of IFN in association with ribavirin have to be administered for at least 4 weeks in order to maximize the number of individuals who achieve viral clearance by 12 weeks of therapy, a variable highly predictive of sustained response.
+
+In the present study, patients received a combination treatment of ribavirin with either IFN 3MU TIW for 48 weeks or IFN 3MU QD for 12 weeks, followed by IFN 3 MU TIW for 36 weeks. Adverse events did not interfere with the treatment strategies. Daily scheme was well tolerated and treatment discontinuation rates were similar between the two groups, as it was also reported in the trial conduced by TASSOPOULOS et al.(18).
+
+In Brazil, combined therapy for chronic hepatitis C is offered by the Ministry of Health, in association with local health departments. According to local availability of the drug, subjects could have received IFN alfa-2A or IFN alfa-2B manufactured by different drug companies and the same patient could use both types of IFN STD during the study.
+
+In our patients, the overall SVR was 39.8% ("intention to treat") and 44.6% ("as-treated analysis"), similar to a non-controlled trial conduced by ACRAS et al.(2), in the city of Curitiba, PR, Brazil. These authors, using different IFN STD alfa + ribavirin for chronic hepatitis C, found a SVR of 32.1% ("intention to treat") and 35% ("as-treated analysis")(2). Interestingly, these data are in agreement with those described in multicentric international trials using standard IFN alpha-2A or standard IFN alpha-2B.
+
+Among the 93 subjects in the study, HCV genotyping could be obtained in 83, the majority of which was infected with HCV genotype-1. As expected, there was a trend for higher overall SVR rates in subjects infected with HCV genotype 2 or 3, compared with genotype-1.
+
+SVR rate was similar for HCV genotype-1 between the two treatment groups (40.9% IFN TIW vs 42.9% IFN QD; P = 0.88). It should be mentioned that there was also no statistically significant difference between the two SVR treatment groups in patients infected with HCV genotype 2 or 3 possibly because of the small sample size.
+
+Regarding related benefits results related in some studies using induction regimen, we did not find higher sustained response rates in the daily interferon regimen group, compared with the standard strategy.
+
+ 
+
+CONCLUSIONS
+
+Daily interferon induction regimen, with doses up to 3 MU for the first 12 weeks, followed by TIW administration for another 36 weeks in combination with ribavirin for treatment of chronic hepatitis C, did not result in higher SVR rates, compared to the use of a standard regimen of interferon 3 MU TIW combined with ribavirin throughout the treatment period.
+
+ 
+
+ACKNOWLEDGEMENTS
+
+The authors wish to thank the Secretary of Health of Bahia and UCI-Farma for providing ribavirin.
+
+ 
+
+REFERENCES
+
+1. Abbas Z, Hamid S, Tabassum S. High sustained response to daily dosing of interferon with ribavirin in chronic hepatitis C patients naïve to therapy. J Gastroenterol Hepatol. 2002;17:577-81.        [ Links ]
+
+2. Acras RN, Pedroso ML, Caum LC, Pisani JC, Amarante HM, Carmes ER. The sustained response rates for chronic hepatitis C patients undergoing therapy with the several interferons and ribavarins supplied by Brazilian's Health Ministry is comparable to those reported in the literature. Arq. Gastroenterol. 2004;41:3-9.        [ Links ]
+
+3. Bedossa P, Poynard T. An algorithm for the grading of activity in chronic hepatitis C. The METAVIR Cooperative Study Group. Hepatology. 1996;24:289-93        [ Links ]
+
+4. Bekkering FC, Stalgis C, McHutchison JG, Brouwer JT, Perelson AS. Estimation of early hepatitis C viral clearance in patients receiving daily interferon and ribavirin therapy using a mathematical model. Hepatology. 2001;33:419-23.        [ Links ]
+
+5. Carithers RL Jr, Zeuzem S, Manns M, McHutchison JG, Perrillo RP, Bailey R, Ling MH, Cohard-Radice M, Albrecht JK. Multicenter, randomized, controlled trial comparing high dose daily interferon plus ribavirin versus standard interferon alfa-2b plus ribavirin. Hepatology. 2000;32:317A.        [ Links ]
+
+6. de Ledinghen V, Trimoulet P, Winnock M, Bernard PH, Bourliere M, Portal I, Remy AJ, Szostak N, Levy S, Tran A, Abergel A, Chene G, Fleury H, Couzigou P, French Multicenter Study Group. Daily or three times a week interferon alfa-2b in combination with ribavirin or interferon alone for the treatment of patients with chronic hepatitis C. J Hepatol. 2002;36:672-80.        [ Links ]
+
+7. EASL International Consensus Conference on Hepatitis C. Paris, Consensus Statement, 26-28, February 1999. European Association for the Study of the Liver. J Hepatol. 1999;30:956-61.        [ Links ]
+
+8. Ferenci P, Brunner H, Nachbaur K, Datz C, Gschwantler M, Hofer H, Stauber R, Hackl F, Jessner W, Rosenbeiger M, Munda-Steindl P, Hegenbarth K, Gangl A, Vogel W, Australian Hepatitis Study Group. Combination of interferon induction therapy and ribavirin in chronic hepatitis C. Hepatology. 2001;34:1006-11.        [ Links ]
+
+9. Gretch DR, Sullivan DG, Lam N. Influence of therapeutic regimens on rates of HCV quasi-species diversification [abstract]. Hepatology. 1998;28(4 pt 2):939A.        [ Links ]
+
+10. Lam NP, Neumann AU, Gretch DR, Wiley TE, Perelson AS, Layden TJ. Dose-dependent acute clearance of hepatitis C genotype 1 virus with interferon alpha. Hepatology. 1997;26:226-31.        [ Links ]
+
+11. Lindsay KL, Trepo C, Heintges T, Shiffman ML, Gordon SC, Hoefs JC, Schiff ER, Goodman ZD, Laughlin M, Yao R, Albrecht JK, Hepatitis Interventional Therapy Group. A randomized, double-blind trial comparing pegylated interferon alfa-2b to interferon alfa-2b as initial treatment for chronic hepatitis C. Hepatology. 2001;34:395-403.        [ Links ]
+
+12. Manns MP, McHutchison JG, Gordon SC, Rustgi VK, Shiffman M, Reindollar R, Goodman ZD, Koury K, Ling M, Albrecht JK. Peginterferon alfa-2b plus ribavirin compared with interferon alfa-2b plus ribavirin for initial treatment of chronic hepatitis C: a randomized trial. Lancet. 2001;358:958-65.        [ Links ]
+
+13. McHutchison JG, Poynard T. Combination therapy with interferon plus ribavirin for the initial treatment of chronic hepatitis C. Semin Liver Dis. 1999;19:57-65.        [ Links ]
+
+14. Neumann AU, Lam NP, Dahari H, Gretch DR, Wiley TE, Layden TJ, Perelson AS. Hepatitis C virus dynamics in vivo and the antiviral efficacy of interferon therapy. Science. 1998;282:103-7.        [ Links ]
+
+15. Orito E, Mizokami M, Suzuki K, Ohba K, Ohno T, Mori M, Hayashi K, Kato K, Iino S, Lau JY. Loss of serum HCV-RNA at week 4 of interferon alpha therapy is associated with more favourable long term response in patients with chronic hepatitis C. J Med Virol. 1995;46:109-15.        [ Links ]
+
+16. Poynard T, Leroy V, Cohard M, Thevenot T, Mathurin P, Opolon P, Zarski JP. Meta-analysis of interferon randomized trials in the treatment of viral hepatitis C: effects of dose and duration. Hepatology. 1996;24:778-89.        [ Links ]
+
+17. Reddy KR, Wright TL, Pockros PJ, Shiffman M, Everson G, Reindollar R, Fried MW, Purdum PP 3rd, Jensen D, Smith C, Lee WM, Boyer TD, Lin A, Pedder S, DePamphilis J. Efficacy and safety of pegylated (40-kd) interferon alpha-2a compared with interferon alpha-2a in noncirrhotic patients with chronic hepatitis C. Hepatology. 2001;33:433-8.        [ Links ]
+
+18. Tassopoulos NC, Ketikoglou I, Tsantoulas D, Raptopoulou M, Hatzis G, Vafiadis I, Sidiropoulos L, Kanatakis S, Anagnostopoulos G, Sypsa V, Hatzakis A, Hellenic Viral Hepatitis Research Network. A randomized trial to assess the efficacy of interferon-alpha daily in combination with ribavirin in the treatment of naive patients with chronic hepatitis C. J Viral Hepat. 2003;10:383-9.        [ Links ]
+
+19. Zeuzem S, Feinman SV, Rasenack J, Heathcote EJ, Lai MY, Gane E, O'Grady J, Reichen J, Diago M, Lin A, Hoffman J, Brunda MJ. Peginterferon alfa-2a in patients with chronic hepatitis C. N Engl J Med. 2000;343:1666-72.        [ Links ]

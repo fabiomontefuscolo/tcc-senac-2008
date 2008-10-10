@@ -1,0 +1,174 @@
+Descritores
+
+Adult
+Chi-Square Distribution
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Patient Satisfaction
+Penile Erection
+Penile Induration
+Penis
+Postoperative Period
+Quality of Life
+Questionnaires
+Suture Techniques
+Treatment Outcome
+Urologic Surgical Procedures, Male
+
+
+Artigo
+
+Long–term patient satisfaction after surgical correction of penile curvature via tunical plication
+
+ 
+
+ 
+
+Alvaro PaezI; Juan MejiasII; Jorge VallejoI; Ignacio RomeroIII; Miguel de CastroIV; Fernando GimenoIV; on Behalf of Grupo Urologico del Suroeste Madrileno (GUSOM)
+
+IDepartment of Urology
+IIFuenlabrada Hospital, Madrid, Spain, Department of Urology
+IIISevero Ochoa Hospital, Madrid, Spain, Department of Urology
+IVGetafe University Hospital, Madrid, Spain, Department of Urology
+Mostoles Hospital, Madrid, Spain
+
+Correspondence
+
+ 
+
+ 
+
+ABSTRACT
+
+OBJECTIVE: To assess patient satisfaction and functional results at long term follow–up after surgical correction for Peyronie's disease (PD) and congenital penile curvature (CPC) with the technique of tunical plication.
+MATERIALS AND METHODS: One hundred and two men operated for PD (n = 76) or CPC (n = 26) in four different departments of urology in public hospitals agreed to answer a six–question telephone questionnaire about treatment satisfaction. Tunica albuginea plication procedures represented the standard surgical approach. Subjects under investigation were correction of the deformity, feeling of bumps under the skin, pain during erection, penile sensory changes, development of erectile dysfunction (ED) and postoperative ability for complete vaginal intromission. Subjective response rates were compared using the chi square test on the basis of the etiology of the disease (CPC or PD).
+RESULTS: Significant differences (p < 0.05) between patients with CPC and PD were noticed in the prevalence of postoperative penile deformity, sensory changes, ED and ability to complete vaginal intromission, PD patients always showing a more pessimistic view. No significant differences (p = ns) were detected in terms of unpleasant nodes under the penile skin or pain during erection.
+CONCLUSIONS: Long–term outcome after surgical correction for PD and CPC with the technique of tunical plication can be poor. Probably patient expectations are above the real performance of surgical techniques. Preoperative information should be more exhaustive.
+
+Key words: penis; Peyronie's disease; surgery; erectile dysfunction
+
+ 
+
+ 
+
+INTRODUCTION
+
+Peyronie's disease (PD) and congenital penile curvature (CPC) are the most frequent causes of penile deformity. PD is an acquired disorder of the tunica albuginea of the penis characterized by the formation of a plaque of fibrotic tissue, which may be associated to penile deformity, pain on erection and erectile dysfunction (ED). PD affects up to 9% of men (1,2). CPC is caused by asymmetry in compliance of tunica albuginea of the corpora cavernosa due to developmental arrest during embryogenesis (3). Mostly, ventral and/or lateral deviation of erected penis occurs. The reported prevalence of this condition is 0.04 – 0.6% (4,5).
+
+Pharmacologic therapy has limited efficacy in both entities. Surgical treatment is necessary when significant curvature does not allow coitus. Rarely, penile deformity is also associated with psychological problems in adults with PD disease, but this is a frequent concern in younger patients.
+
+While postoperative satisfaction is the rule, a number of patients find some side effects of surgical procedures unacceptable; apart of residual curvature, frequent reasons for dissatisfaction are unpleasant feeling of bumps under the skin (6), penile sensory changes and penile shortening (7), among others.
+
+The aim of our questionnaire–based study was to assess patient satisfaction and functional results at long–term follow–up after surgical correction for PD and CPC using tunical plication procedures.
+
+ 
+
+MATERIALS AND METHODS
+
+Two hundred and forty men operated for PD or CPC throughout a 16–year period (January 1990–December 2005) using tunical plication techniques were contacted by telephone and invited to answer a six questions questionnaire about treatment satisfaction.
+
+For different reasons (wrong telephone numbers, patient or spousal reluctancy) telephone contact was impossible in 124 cases. Eventually contact was substantiated in 118 cases. One hundred and two patients (102/240, 42.5%) agreed to participate.
+
+Difficulty with intercourse was the most frequent preoperative complaint (82/102, 80.4%). Poor self–image accounted for the rest of consultations (20/102, 19.6%). At the time of surgery, the disease was stable for at least 1 year, and there was no pain.
+
+The diagnosis of PD was based on a palpable penile plaque or acquired penile curvature. Preoperatively the deformity was assessed from self–photographs. Degree of angulation was not recorded. No reliable records on preoperative potency were available. Nevertheless, it is not our policy to use plication procedures in PD or CPC patients also diagnosed with ED; it could be indirectly induced that patients in our study were potent before surgery.
+
+Thirty–one different urologists in four different public hospitals participated in operations. Circumcision was performed to avoid postoperative edema and paraphimosis. After penile degloving, a tourniquet was applied at the base of the penis to facilitate artificial erection injecting saline into the corpora cavernosa through small gauge butterfly needles. Tunica albuginea plication procedures represented the standard surgical approach; briefly, Buck's fascia opposite to the point(s) of maximal curvature was incised to expose the tunica albuginea. No major differences between PD and CPC cases in terms of tissue dissection could be accounted. Care was taken to avoid injury to neurovascular structures. Transversal or longitudinal (Yachia's modification for treatment of CPC) plication sutures of unabsorbable materials (mainly polyester) were placed through the full–thickness of the tunica albuginea. A new artificial erection was created at the end of the procedure to confirm that penile straightening was adequate. Once correction was achieved, the penis was closed in layers and a light compression dressing applied.
+
+A specialized clerk assistant contacted all patients. Subjects under investigation were postoperative correction of the deformity (yes/no), feeling of bumps or lumps under the skin (yes/no), pain during erection (yes/no), penile sensory changes (yes/no), diminished erection (yes/no) and inability to complete vaginal intromission due to penile deformity (yes/no).
+
+Subjective response rates were compared using the chi square test on the basis of the etiology of the disease (congenital or acquired). A commercial software (SPSS v.11.5) was used for statistical treatment. Confidence intervals (CI) of 95% were used for all comparisons.
+
+ 
+
+RESULTS
+
+Median time from the intervention to the interview was 56 months (min 1, max 194). Mean age at surgery was 48.6 years (SD 15.4, min. 12, max. 69). Table–1 shows the principal patients' characteristics at diagnosis.
+
+According to the patient answers, correction of the curvature was only achieved in 50% of the cases (51/102). Similarly, 41 patients (41/102, 40.2%) complained of suture–related complications as unpleasant feeling of bumps under the skin; in 24.5% of the cases (25/102), pain was present during erection while 56% (57/102) suffered penile sensory changes. Forty–eight patients (48/102, 47.1%) declared some degree of postoperative ED while 46 out of 82 (46/82, 56.1%) preoperatively unable to have vaginal penetration due to penile deformity were eventually able to complete sexual intercourse.
+
+A significant difference (chi square = 0.006) was noticed in terms of subjective improvement in penile deformity between patients with CPC (19/26, 73.1%) and PD patients (32/76, 42.1%). Also, postoperative sensory changes were significantly more prevalent (chi square = 0.001) among PD patients (50/76, 65.8%) compared to patients with CPC (7/26, 26.9%). Different degrees of postoperative ED were significantly more prevalent among PD patients (60.5% and 7.7% for PD and CPC patients, respectively). The proportion of men with CPC able to complete vaginal intromission after surgery (15/17, 88.2%) was significantly higher (chi square = 0.003) compared to the results in PD patients (31/65, 47.7%). No significant differences (p = 0.21) were detected in terms of unpleasant nodes under the penile skin or pain during erection. Table–2 summarizes this phase of the study.
+
+ 
+
+COMMENTS
+
+Treatment end points after surgical correction for penile curvature include erection that is pain–free, coitus comfortable for patient and partner, and deformity that does not interfere with vaginal intromission.
+
+Overall, the reported success rate with tunica albuginea plication procedures is 85–100% (8–11); in our experience, patient dissatisfaction was the rule. Why such discrepancy? Most studies dealing with postoperative outcome rely on non–validated questionnaires thus making comparisons pointless (12,13). It is generally agreed that self–applied validated questionnaires should be used when possible. Nevertheless, there is no well–structured questionnaire for penile curvature correction. The present study was based in a telephone interview using a 6–questions questionnaire elaborated ad hoc. It is difficult to disclose to what extent it really reflects the domain of patient post–operative satisfaction; it might well be mirroring dissatisfaction with the medical establishment or translating couple frustration. In our four centers, tunical plication procedures are considered "low complexity" surgical interventions; this is why mainly general urologists participated in surgical interventions. It remains a matter of speculation if technical aspects were responsible for the current results. In spite of this limitation, a clear difference in outcomes was detected between patients with congenital and acquired disease. It has been suggested that after tunica albuginea plication procedures the force of penile erection might allow the sutures to cut through the albuginea layers thus partially explaining a number of failures. This hypothesis does not explain the differences detected in the present study between PD and CPC patients. Actually, our results are in contradiction with already published material, using absorbable sutures where younger patients (< 24 yr) had a higher chance of suture failure than elder patients (14).
+
+Long–term results of plication techniques in the pediatric setting are rarely reported, but success seems to be the rule (8,9,15,16). In our experience, the long–term degree of subjective satisfaction among patients with CPC was remarkable and supports the philosophy of corporoplasty in this setting.
+
+In our study, more than half of the PD patients declared unresolved difficulties for complete vaginal intromission after surgery; again, the degree of satisfaction of patients with CPC in this topic was higher, perhaps reflecting a better long–term anatomical result.
+
+Some authors have raised concerns about the possibility of postoperative loss of glanular sensation (7,10,11). In our study, penile sensory changes were more prevalent in PD patients. While the surgical principles were identical for both PD patients and patients with CPC, it is unlikely that technical aspects could explain those differences. Indeed, most of CPC were ventral thus deserving dorsal plicatures, which theoretically could result in a higher rate of damage to the dorsal sensory nerves. Anyway, diminished postoperative penile sensitivity due to irritation and/or damage of the dorsal neurovascular bundles can be avoided by careful attention to spare the penile dorsal nerves.
+
+A common problem after plication procedures is the formation of granulomas around the sutures at the plication sites. Palpable induration and irregularity have been noted by patients in previous studies (6,12,15). In this study, postoperative induration was highly prevalent. Probably this was one of the most objective questions in our questionnaire thus ending in similar results both for patients with congenital and acquired (PD) penile curvature.
+
+Postoperative de novo pain during erection is a frequent complaint after plication procedures (17–19). It can act against full sexual activity in up to 60% of the patients (17,19). In this experience, while highly prevalent, no major differences between patients with CPC and PD were noticed. It is also remarkable the prevalence of different degrees of subjective impotence among PD patients. Due to the nature of the study –questionnaire–based and focused in overall results of plication procedures– it cannot be clarified if the reported incidence of different degrees of ED really translates late side–effects of curvature correction or it simply mirrors naturally occurring events. What is evident is that CPC patients' answers to question #6 were significantly more optimistic.
+
+In general, comparisons between men operated for CPC and PD yield interesting findings. In previous studies, satisfaction results were almost identical in both settings (16,20). In our experience, the differences affected all aspects including those related to the curvature correction, perhaps reflecting a better performance of plication techniques in the management of totally stable deformity, as in congenital curvatures; in other words, it might be that patients with PD presumed stable were still in progression. Otherwise, it is difficult to explain why plication techniques were more successful in patients with CPC in terms of mere curvature correction. Given most of them presented with ventral deformities, it could be argued that Nesbit procedures are more effective in this particular type of curvature. This has not been proven yet. Another hypothesis to explain the differences detected in this study is that younger patients could have a more optimistic approach to the postoperative outcome. It has been reported elsewhere that quality of life issues heavily depend on age (21,22).
+
+Anyway, achieving a good correction at the end of the case (as shown in all cases in our study by creating an artificial erection) represents a subjective criterion for clinical success that does not necessarily means that patients will be satisfied in the long run (11). Quality of life is multifactorial and aspects related with sexual life can be even more complicated. Subjectivity could be playing a very important role in this study. A more elaborated approach to the performance of tunical plication procedures in the field of penile deformity correction is needed.
+
+ 
+
+CONCLUSIONS
+
+Long–term results of surgical correction for penile deformity, via tunica plication, in the hands of general urologists – irrespectively of patient's age at surgery and etiology – can be poor. Patient expectations are above the real performance of surgical techniques. Probably, preoperative information should be more exhaustive.
+
+ 
+
+CONFLICT OF INTEREST
+
+None declared.
+
+ 
+
+REFERENCES
+
+1. Lindsay MB, Schain DM, Grambsch P, Benson RC, Beard CM, Kurland LT: The incidence of Peyronie's disease in Rochester, Minnesota, 1950 through 1984. J Urol. 1991; 146: 1007–9.        [ Links ]
+
+2. Sommer F, Schwarzer U, Wassmer G, Bloch W, Braun M, Klotz T, et al.: Epidemiology of Peyronie's disease. Int J Impot Res. 2002; 14: 379–83.        [ Links ]
+
+3. Catuogno C, Romano G: Androstanolone treatment for congenital penile curvature. Eur Urol. 2001; 39 Suppl 2: 28–32.        [ Links ]
+
+4. Ebbehoj J, Metz P: Congenital penile angulation. Br J Urol. 1987; 60: 264–6.        [ Links ]
+
+5. Yachia D, Beyar M, Aridogan IA, Dascalu S: The incidence of congenital penile curvature. J Urol. 1993; 150: 1478–9.        [ Links ]
+
+6. Gholami SS, Gonzalez–Cadavid NF, Lin CS, Rajfer J, Lue TF: Peyronie's disease: a review. J Urol. 2003; 169: 1234–41.        [ Links ]
+
+7. Carrier S, Lue TF: For Peyronie's disease, act conservatively. Contemp Urol. 1994; 6: 53–65.        [ Links ]
+
+8. Yachia D: Modified corporoplasty for the treatment of penile curvature. J Urol. 1990; 143: 80–2.        [ Links ]
+
+9. Baskin LS, Lue TF: The correction of congenital penile curvature in young men. Br J Urol. 1998; 81: 895–9.        [ Links ]
+
+10. Hsieh JT, Huang HE, Chen J, Chang HC, Liu SP: Modified plication of the tunica albuginea in treating congenital penile curvature. BJU Int. 2001; 88: 236–40.        [ Links ]
+
+11. Savoca G, Scieri F, Pietropaolo F, Garaffa G, Belgrano E: Straightening corporoplasty for Peyronie's disease: a review of 218 patients with median follow–up of 89 months. Eur Urol. 2004; 46: 610–4.        [ Links ]
+
+12. Gholami SS, Lue TF: Correction of penile curvature using the 16–dot plication technique: a review of 132 patients. J Urol. 2002; 167: 2066–9.        [ Links ]
+
+13. Usta MF, Bivalacqua TJ, Sanabria J, Koksal IT, Moparty K, Hellstrom WJ: Patient and partner satisfaction and long–term results after surgical treatment for Peyronie's disease. Urology. 2003; 62: 105–9.        [ Links ]
+
+14. Hsieh JT, Liu SP, Chen Y, Chang HC, Yu HJ, Chen CH: Correction of Congenital Penile Curvature Using Modified Tunical Plication with Absorbable Sutures: The Long–Term Outcome and Patient Satisfaction. Eur Urol. 2007 (in press).        [ Links ]
+
+15. Lee SS, Meng E, Chuang FP, Yen CY, Chang SY, Yu DS, et al.: Congenital penile curvature: long–term results of operative treatment using the plication procedure. Asian J Androl. 2004; 6: 273–6.        [ Links ]
+
+16. Chertin B, Koulikov D, Fridmans A, Farkas A: Dorsal tunica albuginea plication to correct congenital and acquired penile curvature: a long–term follow–up. BJU Int. 2004; 93: 379–81.        [ Links ]
+
+17. Mantovani F, Patelli E, Castelnuovo C, Nicola M: 'Straightening–reinforcing' technique for congenital curvature and Peyronie's disease. Urol Int. 2005; 75: 201–3.        [ Links ]
+
+18. Raimoldi A, Berti GL, Giola V, Longoni E, Paccaduscio A, Pozzoni F, et al.: Our experience in the treatment of penile curvature. Arch Ital Urol Androl. 2004; 76: 66–8.        [ Links ]
+
+19. Van Der Horst C, Martinez Portillo FJ, Seif C, Alken P, Juenemann KP: Treatment of penile curvature with Essed–Schroder tunical plication: aspects of quality of life from the patients' perspective. BJU Int. 2004; 93: 105–8.        [ Links ]
+
+20. Levine LA, Estrada CR, Storm DW, Matkov TG: Peyronie disease in younger men: characteristics and treatment results. J Androl. 2003; 24: 27–32.        [ Links ]
+
+21. Wagner JA, Abbott G, Lett S: Age related differences in individual quality of life domains in youth with type 1 diabetes. Health Qual Life Outcomes. 2004; 2: 54.        [ Links ]
+
+22. Schwarz R, Hinz A: Reference data for the quality of life questionnaire EORTC QLQ–C30 in the general German population. Eur J Cancer. 2001; 37: 1345–51.        [ Links ]

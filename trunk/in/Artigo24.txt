@@ -1,0 +1,197 @@
+Descritores
+
+Adolescent
+Adolescent Behavior
+Brazil
+Cross-Sectional Studies
+Depressive Disorder
+Employment
+Female
+Humans
+Life Style
+Logistic Models
+Male
+Mental Health
+Occupational Health
+Prevalence
+Socioeconomic Factors
+Stress, Psychological
+Students
+Workplace
+
+
+Artigo
+
+Factors associated with depression symptoms in high school students in São Paulo, Brazil
+
+ 
+
+Fatores associados a sintomas depressivos em estudantes do ensino médio de São Paulo, Brasil
+
+ 
+
+ 
+
+Zinn-Souza LCI; Nagai RI; Teixeira LRI; Latorre MRDOI; Roberts RII; Cooper SPIII; Fischer FMI
+
+IDepartamento de Saúde Ambiental. Faculdade de Saúde Pública. Universidade de São Paulo. SP, Brasil
+IIHealth Science Center. School of Public Health. University of Texas. Houston, USA
+IIISan Antonio Regional Campus. School of Public Health. University of Texas. Houston, USA
+
+Correspondence
+
+ 
+
+ 
+
+ABSTRACT
+
+OBJECTIVE: To assess factors associated with depression symptoms in high school students.
+METHODS: A cross-sectional study involving high school students was conducted in the city of São Paulo, Brazil, 2001. A total of 724 students aged 14–18 years answered questionnaires on life and health conditions. Another questionnaire was applied to working (44.8%) and unemployed (22.9%) students to collect information on working conditions. Factors associated to depressive disorders were analyzed using multiple logistic regression controlled for occupational status.
+RESULTS: Overall prevalence rate of depression was 7.5%. Rates according to gender were 39 (10.3%) in females and 15 (4.3%) in males. The multiple logistic regression analysis showed that factors associated with depressive disorders were: poor self-perception of health (OR=5.78), being female (OR = 2.45), and alcohol consumption (OR=2.35).
+CONCLUSIONS: The study results showed that sociodemographic, lifestyle and health variables were associated with symptoms of depression in this population. These ndings suggest that it is important to have mental health professionals available in high schools for early detection of mental conditions and student counseling.
+
+Key words: Depression. Adolescents. Mental Health. Teenage workers. High school students.  
+
+RESUMO
+
+OBJETIVO: Investigar os fatores associados a sintomas depressivos em estudantes do ensino médio.
+MÉTODOS: Foi realizado estudo transversal com estudantes residentes no Município de São Paulo, Brasil, em 2001. O total de 724 estudantes com idades entre 14 e 18 anos preencheram questionários de condições de vida e saúde. Dentre eles, os estudantes trabalhadores (44,8%) e desempregados (22,9%) também responderam a um outro questionário de condições de trabalho. A regressão logística foi utilizada para determinar os fatores associados para apresentar distúrbios depressivos, utilizando-se a "situação ocupacional" para ajustar o modelo.
+RESULTADOS: A prevalência dos sintomas depressivos na população estudada foi de 7,5%; as taxas de acordo com o sexo foram de 39 (10,3%) e 15 (4,3%) nos adolescentes dos sexos feminino e masculino, respectivamente. A regressão logística mostrou que os fatores associados aos distúrbios depressivos são: baixo escore na auto-avaliação da saúde (OR=5,78), ser do sexo feminino (OR=2,45) e consumo de bebidas alcoólicas (OR=2,35).
+CONCLUSÕES: Os resultados mostraram que variáveis sociodemográficas, de estilo de vida e de saúde estavam associadas aos distúrbios depressivos. Esses achados sugerem a importância de que profissionais de saúde mental em escolas de ensino médio efetuem rastreio para reconhecer precocemente problemas mentais e fornecer aconselhamento aos estudantes.
+
+Descritores: Depressão. Adolescentes. Saúde mental. Adolescentes trabalhadores. Estudantes do ensino médio.
+
+ 
+
+ 
+
+INTRODUCTION
+
+Adolescence is a critical stage of life when physical, psychological and social changes occur. Depression in this group is currently considered to be common, debilitating and recurrent involving high morbidity and mortality, and it is a major public health concern, albeit it is not often recognized and treated.2,16 In addition, depressive symptoms have been shown to be three times as often among adolescent and young adult population as in children and adults.9,10
+
+Although depression is a worldwide concern with high rates among adolescents, data on youths in Brazil are scarce. In a recent review of literature on depressive symptom epidemiology in adolescents, Bahls2 found an annual prevalence of major depression ranging from 3.3% to 12.4%. In Brazil, depression prevalence rates among adolescents are 2.8% in Brasilia, the capital city, and 10.2% in Porto Alegre, in Southern Brazil.1,13
+
+Manifestations of depression in adolescents (aged 12 years or older) usually include symptoms similar to those found in adults but there are also noteworthy phenomenological characteristics that are typical of depressive disorder at this stage of life. Depressed adolescents are not always sad; they are mainly irritable and unstable, and their behavior may include explosions of rage.2 Peculiar characteristics of this phase of life are: impairment in school achievement, low self-esteem, thoughts of suicide, and serious behavior problems, especially alcohol and drug abuse.23
+
+While depressive feelings are more common among boys before adolescence, depressive disorders are more frequent among girls after puberty. Starting from adolescence depressive disorders are twice as prevalent among women as men.6,12,23
+
+Entering and remaining in the labor market contribute to adolescents' transitions to adulthood, but early employment may be related to negative and/or positive consequences in their development.19 Work substantially contributes to the construction of adolescents' identity in the family, gender roles, and occupational domains and this identity becomes part of an individual's self-concept throughout life.15
+
+According to Sarriera et al,22 the individual-society employment provides a sense of participation and usefulness. Work structures identity when it provides young people a sense of life and facilitates making professional choices as it can be a source of information and learning. Work can also allow new social contacts, enlarging their set of friends and social life. On the other hand, work reduces the time children and adolescents have available for leisure, family life, and education. It also reduces opportunities to establish relationships with their peers and other people in the community.
+
+In view of the dearth of data on adolescent depression in Brazil, the present study had the purpose of assessing the prevalence of depression in a Brazilian community and its associated factors, particularly employment status and working conditions among those who work.
+
+ 
+
+METHODS
+
+Cross-sectional study involving high school students living in the city of São Paulo, southeastern Brazil, who attended morning and evening classes at a public school in 2001.
+
+Of 1,148 students enrolled in both morning and evening classes, 840 were in the target age range of 14–18 years old. There were 13.8% of losses, which was assumed to be acceptable, as three attempts to contact each student were made in order to reduce such non-participation. This rate was due to transfers to other schools, dropouts, inadequate enrollment, excessive school absences, refusals to participate, and maternity leave. Thus the sample size was reduced to 724 students, and subjects' age was 16.3 years old, 379 females and 345 males. Of them, 44.8% reported currently working, 32.3% had never worked, and 22.9% were unemployed for at least the past three months.
+
+A questionnaire comprising 60 questions was applied to collect data on the following sociodemographic, lifestyle and living conditions: age, gender, number of people living in the household, parent's marital status, regular smoking (yes/no), regular alcohol drinking (yes/no), physical activities (yes/no), family problems (using a four-point scale from "none" to "a lot"), school problems (in test grades), extracurricular activities (duration), time spent in leisure activities, relationship between students and teachers (using a four-point scale from "none" to "a lot"), financial problems, and health status. This questionnaire was used in a previous study conducted with adolescents at public schools in the State of São Paulo.6 A pilot study was performed to test its adequacy to the study population.
+
+Depression was assessed using the Patient Health Questionnaire (PHQ) depression module developed by Spitzer et al.24 This questionnaire was translated and adapted to Portuguese by Santana et al20 after evaluation of adequacy through back translation and reliability test of psychiatric diagnosis. Nine questions were used to assess depression symptoms as follows: "Over the past two weeks, how often have you:" a) had little interest or pleasure in doing things; b) felt down, depressed or without future; c) had sleeping problems, d) felt tired or having little energy; e) had loss of appetite or increased appetite; f) felt bad about yourself; g) had trouble concentrating, h) felt restless or being slowed; i) had thoughts of suicide. The four answer options: not at all; several days; more than half the days; and nearly every day. Cases of depression were considered when student's answer was "more than half the days" in items (a) and/or (b), and "more than half the days" at least in four out of the seven remaining questions. This scale ranged from zero to 27; the higher the score, the greater the severity of depressive symptoms.22
+
+The sleep problems scale was designed by Roberts et al.18 It was translated and adapted to Portuguese by Zinn1 after evaluation of adequacy through back translation. Internal consistency of this scale was assessed using Cronbach's alpha and the coefficient was = 0.75. Investigation of sleep problems in the past month included seven questions focusing on insomnia (difficulty in initiating and maintaining sleep), plus six questions regarding daytime sleepiness and fatigue, and school activities. Score ranged from zero to 39, with high scores indicating significant sleep problems.18
+
+The scale of family financial problems was designed by Roberts et al.18 It was translated and adapted to Portuguese by Zinn1 after evaluation of adequacy through back translation. Internal consistency of this scale was assessed by Cronbach's alpha, and the coefficient was a=0.73.
+
+Financial problems were investigated through six questions posed as follows: "In the past year, how many times didn't your family have enough money to: a) buy clothes; b) buy medicines; c) pay doctors' visits and hospital stays; d) pay the rent or installments; e) buy food, and f) buy school supplies and pay your parent-teacher association. The three options for the answer were: never or hardly ever; sometimes; and often. The score ranged from zero to 12; the higher the score, the more severe the family financial problems.
+
+Students answered a questionnaire on previous and current jobs, job contract (yes, no, self-employment), reasons to enter labor force, tasks, workplace features, work stressors, work injuries, work-related health problems, and interferences in school activities due to work.
+
+Statistical analyses were performed using independent sociodemographic, living and working conditions variables. Descriptive statistics were used to summarize data. Quantitative variables were checked for normal distribution using the Shapiro-Wilk test in order to select the appropriate tests for the statistical analyses. Correlations between the variable "depression" and other study variables were assessed through the Pearson's chi-square test (c2). All continuous variables were divided into tertiles.
+
+Multivariate analysis using a logistic regression model was performed. Analyses were carried out using SPSS software v.12.0 with a 5% significance level. Potential confounders were extracted from the literature and also empirically identified examining their relationship with each of the main independent variables. The occupational variable that best fitted the model was working status (working/unemployed) and it was added as a potential confounder. Association of precarious and/or unsafe working conditions with depression was also tested. The adequacy of the final model was assessed by the Homer-Lemeshow test.3
+
+The study was approved by the Ethics Committee of Faculdade de Saúde Pública of Universidade de São Paulo. Students were recruited through written invitation, and students and their parents signed an informed consent form prior to their participation in the study. The study results were presented to all subjects.
+
+ 
+
+RESULTS
+
+Depression as measured in the PHQ was seen in 7.5% of the study population. Out of 379 female students, 39 (10.3%) had depressive disorders compared to 15 (4.3%) of male subjects (345).
+
+Results of c2 tests are presented in Tables 1 and 2. The factors significantly associated with depression symptoms were: being female, family problems, financial problems, smoking, alcohol consumption, lack of physical activity, poor self-perception of his/her own health, sleep problems (insomnia), and early quitting school/work due to health problems. None of the reported work stressors was associated with depression symptoms, except inadequate workplace lighting and difficulty to concentrate at work (Table 2).
+
+Multiple logistic regression analyses showed that independent factors associated with depressive disorders were low scores in self-evaluation of health (0–5) (adj OR=5.78), being female (adj OR=2.45), and alcohol consumption (adj OR=2.35) (Table 3). The variable "occupational status," with the possible answers employed (adj OR=0.66) and unemployed (adj OR=0.53), was not statistically significant but was included to adjust the logistic model as it was a potential confounder.
+
+ 
+
+DISCUSSION
+
+Depression prevalence rates according to gender were 10.3% (39/379) in females and 4.3% (15/345) in males and these results are consistent with literature.7,12,23
+
+Some factors associated with depression symptoms are also factors for substance abuse, especially alcohol. Examples of these factors are current behavior problems, poor coping ability, parent-adolescent conflicts and school dissatisfaction.12 In the present study significantly more students (12.9%) with depression symptoms also reported regular alcohol drinking. This finding is consistent with Khantzian's11 report from clinical observations showing that substance abuse frequently occurs concomitantly with depressive disorders.
+
+Insomnia is known to be highly associated with depression. In the present study 53 out of 54 adolescents with depressive symptoms also reported insomnia (Table 1). Roberts et al.18 examined the association between sleep disorders and adolescent's functioning, particularly the cumulative effects on functioning across multiple life domains. According to these authors,18 the factors correlated to insomnia were: disturbed mood, fatigue, and suicidal ideation.
+
+It is understandable that some students had not considered themselves to be healthy. This may be due to exposure to psychosocial stressors, besides lack of time to undertake sports and extracurricular activities, particularly among those who work, as those factors may affect their health and well-being resulting in poor self-perception.5,21
+
+In addition to the typical conflicts of adolescence and financial hardships, adolescents who work may face situations that cause emotional distress, such as inadequate working conditions, poor family relations, lack of opportunities for professional capacity building and limited time for leisure activities/sports, and fatigue.14,25 Surprisingly, of the reported work stressors examined, only inadequate lighting was associated with depression symptoms. The reported effect of difficulty in concentrating at work is probably due to the double burden caused by working and studying. Studying and working have a significant impact on several activities reported by high school students, workers or not. It affects sleep and nap duration as well as time spent in school and extra-curricular activities.25
+
+In the present study, 14.3% of the adolescents with depressive symptoms also reported work-related injuries compared to 7.1% in uninjured workers but this result was not statistically significant (borderline between non-significant and significant values) (p=0.07). Peele & Tollerud17 explored the relationship between occupational injury and depression and reported that injured workers were not more likely to be depressed than a comparison group of uninjured workers. On the other hand, Frone8 studied the predictors of work injuries in a sample of 319 adolescents aged 16 to 19 and reported that both poor health and depression were found to be related to occupational injury. In the present study, although odds ratios were controlled for employment status, they were similar in both adjusted and non-adjusted models.
+
+In regard to the study limitations, a cross-sectional design does not allow to establishing cause-effect associations, in part due to the lack of ability to determine temporality, which may lead to spurious associations or interpretations. Another limitation of the study is that the adolescent sample assessed as having depressive disorders may be under or overestimated since only one depression scale (Spitzer's24) was applied. There were neither further investigations nor psychological follow-up of the adolescents. Roberts19 has noted that different results are generated by different assessment strategies, in particular when comparing results from symptom scales and diagnostic procedures. In Brazil, only Santana et al20 used the Portuguese version of the Spitzer's depression measurement but it has been used in numerous international studies.4,17
+
+Data were colleted in a large traditional public school, including worker, non-worker and unemployed students. It cannot be ruled out that the study school bears some sociodemographic features that might differ from other public schools in São Paulo, thereby limiting the study generalizability.
+
+These ndings suggest the need for mental health professionals' screenings for early detection of mental problems and counseling to high school students and their parents and teachers.
+
+Longitudinal studies would allow to determining cause-effect associations with depression and other mental health disturbances, as well as an opportunity to target appropriate interventions among youth. It remains to be confirmed whether the present study findings can be generalized to adolescents in other urban settings in Brazil.
+
+ 
+
+REFERENCES
+
+1. Almeida Filho N, Mari JJ, Coutinho E, França JF, Fernandes J, Andreoli SB, et al. Brazilian multicentric study of psychiatric morbidity methodological features and prevalence estimates. Br J Psychiatr. 1997;171:524-9.        [ Links ]
+
+2. Bahls SC. Epidemiologia de sintomas depressivos em adolescentes de uma escola pública em Curitiba, Brasil. Rev Bras Psiquiatr. 2002;24(2):63-7.        [ Links ]
+
+3. Dawson B, Trapp RG. Basic & clinical biostatistics. United States of America: Lange Medical Books; 2000.        [ Links ]
+
+4. Fann JR, Bombardier CH, Dikmen S, Esselman P, Warms CA, Pelzer E, et al. Validity of the patient health questionnaire-9 in assessing depression following traumatic brain injury.J Head Trauma Rehabil. 2005;20(6):501-11.        [ Links ]
+
+5. Fischer FM, Oliveira DC, Nagai R, Teixeira LR, Lombardi Jr M, Latorre MRDO, et al. Controle, exigências, apoio social no trabalho e efeitos na saúde de trabalhadores adolescentes. Rev Saude Publica. 2005;39(2):245-53.        [ Links ]
+
+6. Fischer FM, Martins IS, Oliveira DC, Teixeira LR, Latorre MDOR, Cooper SP. Acidentes do trabalho em estudantes do ensino fundamental e médio do estado de São Paulo. Rev Saude Publica. 2003;37(3):351-6.        [ Links ]
+
+7. Flemming JE, Offorf DR. Epidemiology of childhood depressive disorders: a critical review. J Am Acad Child Adolesc Psychiatry. 1990;29(4):521-80.        [ Links ]
+
+8. Frone MR. Predictors of work injuries among employed adolescents. J Appl Psychol. 1998;83(4):565-76.        [ Links ]
+
+9. Horwath E, Johnson J, Klerman GL, Weissman MM. Depressive symptoms as relative and attributable risk factors for first-onset major depression. Arch Gen Psychiatry. 1992;49(10):824-30.        [ Links ]
+
+10. Kashani JH, Carlson GA, Beck NC, Hoeper EW, Corcoran CM, McAllister JA, et al. Depression, depressive symptoms and depressed mood among a community sample of adolescents. Am J Psychiatry. 1987;144(7):931-4.        [ Links ]
+
+11. Khantzian EJ. The self-medication hypothesis of substance use disorders: a reconsideration and recent applications. Harv Rev Psychiatry. 1997;4(5):231-44.        [ Links ]
+
+12. Lewinsohn PM, Gotlib IH, Seeley JR. Adolescent psychopathology: IV. Specificity of psychosocial risk factors for depression and substance abuse in older adolescents. J Am Acad Child Adolesc Psychiatric. 1995;34(9):1221-9.        [ Links ]
+
+13. Lima MS. Epidemiologia e impacto social. Rev Bras Psiquiatria. 1999;21(supl 1):1-5.        [ Links ]
+
+14. Mauro MLF, Giglio JS, Guimarães LAM. Saúde mental do adolescente trabalhador. In: Guimarães LAM, Grubits S, organizadores. Série saúde mental e trabalho, 1. 2.ed. São Paulo: Casa do Psicólogo; 2000. p.110-27        [ Links ]
+
+15. Minayo-Gomez C, Meirelles ZV. Crianças e adolescentes trabalhadores: um compromisso para a saúde coletiva. Cad Saude Publica. 1997;13(supl 2):135-40.        [ Links ]
+
+16. Mirza KAH, Michael A. Major depression in children and adolescents. Br J Hosp Med. 1996;55(1-2):57-61.        [ Links ]
+
+17. Peele PB, Tollerud DJ. Depression and occupational injury: results of a pilot investigation. J Occup Environ Med. 2005;47(4):424-7.        [ Links ]
+
+18. Roberts RE, Roberts CR, Chen IG. Impact of insomnia on the future functioning of adolescents. J Psychosom Res. 2002;53(1):561-9.        [ Links ]
+
+19. Roberts RE. Depression and suicidal behaviors among adolescents: the role of ethnicity. In: Cuellar I, Paniagua FH, editores. Handbook of multi-cultural mental health. San Diego: Academic Press; 2000. p.360-80.        [ Links ]
+
+20. Santana VS, Almeida Filho N, Roberts R, Cooper S. Skin color, perception of racism and depression among adolescents in urban Brazil. Child and adolescent mental health. 2007;12(3):125-31.        [ Links ]
+
+21. Santana VS, Cooper SP, Roberts RE, Araújo Filho JB. Adolescent students who work: gender differences in school performances and self-perceived health. Int J Occup Environ Health. 2005;11(3):294-301.        [ Links ]
+
+22. Sarriera JC, Câmara SG, Schwarcz C, Bem LA, Garandilla MA. Bem-estar psicológico dos jovens porto-alegrenses. Psico. 1996;27(2):79-95.        [ Links ]
+
+23. Scivioletto S, Tarelho LG. Depressão na infância e adolescência. Rev Bras Med. 2002;59(8):555-8.        [ Links ]
+
+24. Spitzer RL, Kroenke K, Williams JB. Validation and utility of a self-report version of Prime-MD: the patient health questionnaire (PHQ) primary care study. JAMA. 1999;282(18):1737-44.        [ Links ]
+
+25. Teixeira LR, Fischer FM, Nagai R, Turte Sl. Teen at work: the burden of a double shift on daily activities. Chronobiol Int. 2004;21(6):845-58.        [ Links ]

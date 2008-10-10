@@ -1,0 +1,242 @@
+Descritores
+
+Amylases
+Biliary Tract Diseases
+C-Reactive Protein
+Capsule Endoscopes
+Catheterization
+Cholangiopancreatography, Endoscopic Retrograde
+Common Bile Duct
+Duodenoscopy
+Female
+Follow-Up Studies
+Humans
+Lipase
+Male
+Middle Aged
+Pancreatitis
+Punctures
+Time Factors
+Treatment Outcome
+
+Artigo
+
+Suprapapillary needle puncture for common bile duct access: laboratory profile
+
+ 
+
+Punção suprapapilar por agulha para acesso ao ducto biliar comum: perfil laboratorial
+
+ 
+
+ 
+
+Everson L. A. Artifon; Paulo Sakai; Guilherme Z. Cardillo; Shinichi Ishioka
+
+Address for correspondence
+
+ 
+
+ 
+
+ABSTRACT
+
+BACKGROUD: Biliary cannulation to perform endoscopic retrograde cholangiopancreatography may be difficult due to technical reasons and often is necessary to perform papillotomy, where complications as pancreatitis and perforation may occur
+AIM: To show minimal complications by a new model of biliary access by means of the suprapapillary needle puncture and its laboratory profile.
+PATIENTS AND METHODS: After the approval of the protocol by the Scientific Ethics Committee of the institution a free and informed consent was signed by all patients participating in the study. From July 2003 to August 2004, fulfilling the inclusion and exclusion criteria, 30 patients were selected for endoscopic retrograde cholangiopancreatography, using the suprapapillary puncture technique. All patients remained hospitalized, fasting and with basal hydroelectrolytic replacement, were clinically followed up and samples for the determination of serum amylase, lipase and C-RP (C-reactive protein) were collected before and 4 h, 12 h and 24 h after the procedure and reevaluated 60 days after the procedure. Laboratory parameters were submitted to statistical study using analysis of variance for repeated measurements. Multiple comparisons were made based on Wald's statistics
+RESULTS: The technique was successful in 93.4% (28/30) of the patients. No statistically significant difference regarding to the laboratory profile were observed. Complications related to the technique of papillary puncture occurred in 1/28 patients by not using the guide wire and in 1/28 where mild hemorrhage after dilation of the papillary fistula occurred. Regarding complications related to therapeutic procedures, there were 2/28 retroduodenal perforations, with one (1/30) following unsuccessful puncture and another due to the passage of Dormia's basket through the dilated fistula path. All patients submitted to diagnostic puncture and evaluated 60 days after the procedure presented with the major duodenal papilla of normal aspect. The patients with dilation of the suprapapillary fistula showed the fistula continuing to drain clear bile
+CONCLUSION: Suprapapillary puncture allows investigative and therapeutic procedures without significant increases in amylase, lipase and C-RP. Patients submitted to diagnostic puncture present complete recovery of the papilla, while dilation of the fistula maintains it pervious later on, but without complications.
+
+Headings: Cholangiopancreatography, endoscopic retrograde. Pancreatitis. Catheterization. Hemorrhage.
+
+RESUMO
+
+RACIONAL: A cateterização para acesso às vias biliares na colangiopancreatografia retrógrada pode apresentar dificuldades técnicas, sendo necessário freqüentemente efetuar-se papilotomia, procedimento não isento de complicações como perfuração e pancreatite
+OBJETIVOS: Demonstrar menor incidência de complicações a partir do perfil laboratorial, através de nova técnica desenvolvida, a punção suprapapilar
+MATERIAL E MÉTODOS: Após aprovação pelo Comitê de Ética em Pesquisa da instituição, 30 pacientes foram selecionados no período de julho de 2003 a agosto de 2004. Preenchidos os critérios de inclusão e exclusão, os pacientes, após explicação do protocolo e a assinatura do consentimento livre e esclarecido, foram submetidos a colangiopancreatografia retrógrada pela técnica de punção suprapapilar. Após o procedimento, foi feito seguimento com o paciente internado para avaliar possíveis complicações, bem como determinação dos níveis séricos da amilase, lipase e proteína C reativa nas 4 h, 12 h e 24 h subseqüentes e reavaliados 60 dias após. O estudo estatístico foi feito por análise de variância para medidas múltiplas e comparações múltiplas foram feitas por meio do teste de Wald
+RESULTADOS: O sucesso da técnica ocorreu em 93,4% (28/30) dos pacientes. Não foram observadas alterações estatisticamente significantes no perfil laboratorial. Complicações relacionadas à técnica de punção ocorreram em dois pacientes: um pelo não uso do fio guia e em outro por hemorragia, após dilatação da papila. Relacionadas ao procedimento, ocorreram duas perfurações retroduodenais: uma decorrente de punção e outra após passagem do cesto de Dormia pela fístula dilatada. Após seguimento de 60 dias, nenhuma complicação foi observada
+CONCLUSÃO: Punção suprapapilar permite procedimentos investigativos e terapêuticos sem aumento significativo da amilase, lipase e proteína C reativa. Na punção diagnóstica ocorre reepitelização completa da papila, enquanto na dilatação da fístula mantém-se a perviedade, porém sem complicações.
+
+Descritores: Pancreatocolangiografia retrógrada endoscópica. Pancreatite. Cateterismo. Hemorragia.
+
+ 
+
+ 
+
+INTRODUCTION
+
+Biliary cannulation by means of the transpapillary access is the initial and fundamental step to perform endoscopic retrograde cholangiopancreatography (ERCP), but on cannulation attempts of the major duodenal papilla complications such as pancreatitis, hemorrhage and perforation may occur. Acute pancreatitis after ERCP occurs in 4% to 27% of the cases and is the most frequent complication(5, 8, 11).
+
+During attempts to cannulate the biliary duct through the papillary ostium a mechanical injury may occur leading to edema of the pancreatic duct ostium next to the ampulla of Vater and thus its obstruction and acute pancreatitis(8). In cases of difficult cannulation of the biliary duct, alternative techniques as pre-cut or fistulotomy may be used. However, there is involvement of an electric current in these techniques which may cause thermal injury and acute pancreatitis.
+
+In this study the authors show the laboratory profile of a new model of biliary access(1, 2, 3) with the possibility of using diagnostic and therapeutic procedures of minimal mechanic and thermal injury. The technique consists of the use of a catheter with a large-caliber needle in order to puncture the major duodenal papilla directed towards the common bile duct, described by ARTIFON et al.(1), in 2004.
+
+ 
+
+PATIENTS AND METHODS
+
+Patients
+
+Thirty patients were selected for ERCP from July 2003 to August 2004, using the suprapapillary puncture technique, but in two patients with intradiverticular papilla the procedure could not be carried out. The protocol was authorized by the Scientific Ethics Committee of the institution and a free and informed consent was signed by all patients participating in the study. All procedures were performed by an experienced endoscopist. In order to perform ERCP with a minimally invasive technique patients at high risk for pancreatitis (previous history of acute biliary pancreatitis, young and female patients) and who presented a distal choledochus of at least 8 mm diameter on computerized abdominal tomography (CT-scan) were included. Patients with severe coagulopathy and/or those who refused to participate in the study, as well as those with a previous history of gastric surgery such as total gastrectomy or Billroth II gastrectomy were excluded.
+
+All patients remained hospitalized, fasting and with basal hydroelectrolytic replacement, were clinically followed up by the staff and fellows of the Department of Gastroenterology; samples for the determination of serum amylase, lipase and C-RP (C-reactive protein) were collected before and 4 h, 12 h and 24 h after the procedure.
+
+Complications
+
+Pancreatitis after ERCP was characterized by a three-fold increase of the maximum value of the limit of normality, clinical findings of abdominal pain, continuous nausea/vomiting up to 6 hours after the procedure and complemented by helical CT-scan with double contrast in order to evaluate the presence of pancreatic edema.
+
+Retroperitoneal perforation was considered when there was an image of leakage of contrast medium in the retroperitoneum after injection through a false route obtained on biliary cannulation attempts.
+
+Exteriorized blood due to hematemesis or enterorrhagia with serum hemoglobin (Hb) levels less than 8 mg/dL and needing blood transfusion characterized a hemorrhagic complication.
+
+Accessories
+
+A therapeutic videoduodenoscope Olympus® TJF-140 model and papillary puncture needle catheter model Artifon® catheter (SCITECH®, Goiânia, Goiás, Brazil) were used. This catheter is made of polyethylene, with an 18-gauge needle covered by a flexible metallic sheath at the distal end. Usual accessories of biliary-pancreatic manipulation including guide thread with a hydrophilic 0.025/0.0018-inch extremity, catheter, biliary balloon dilator, plastic and expandable metal stents were used.
+
+Technique
+
+With the duodenoscope positioned and rectified at the second duodenal portion, the papillary puncture catheter is exteriorized to the duodenal lumen and in a position that allows craniolateral direction corresponding to the normal position of the biliary axis. Puncture is performed at a point corresponding to the proximal third of the line between the transversal fold and the papillary ostium. Biliary aspiration is then performed followed by passage of the 0.025/0.0018-inch guide wire. At this moment an easy ascension of the used guide wire parallel to the spine is important. In the case this does not occur, gentle lateralization movements should be carried out with simultaneous attempts to pass the guide wire. Diagnostic procedures were considered when the puncture occurred without suprapapillary dilation and if its occurred with or without endobiliary procedures we considered a therapeutic procedure. In this study the number of five unsuccessful biliary access attempts was considered as failure of the method. In this case classical fistulotomy was indicated.
+
+Injection of a medium contrast allows to obtain a cholangiogram. Therapeutic procedures included placement of plastic and metal biliary prostheses, removal of gallstone, dilation of the suprapapillary fistula.
+
+Late follow-up
+
+All patients were evaluated 60 days after the procedure. Videoduodenoscopy was performed and persistence of the suprapapillary fistula pathway was verified.
+
+During the late follow-up, duodenoscopy was complemented using cholangiopancreatography in the presence of pain with alterations in canalicular enzymes.
+
+Statistics
+
+The study of amylase, lipase and C-RP along the evaluations (before and 4, 12 and 24 hours after the procedures) was performed using analysis of variance for repeated measurements. Multiple comparisons were made based on Wald's statistics. Assumption of normality of the data was analyzed with the Shapiro-Wilk test and the probability normal graph. Because of lack of normal distribution of the variables, the data were transformed using logarithmic function.
+
+ 
+
+RESULTS
+
+The results of this study show the laboratory and technical profile of the suprapapillary puncture with special interest of the authors to characterize the microinvasive aspect of the method through the evidence of responses of pancreatic enzymes and serum markers of inflammation. The success of the technique occurred in 93.4% (28/30) of the patients. The mean age was 47.23 years and the female/male ratio was 18/10.
+
+Technical data
+
+Regarding number of punctures, stratified from 1 to 3 and 4 or 5, correlating the complication rate, no statistical difference was observed (P = 0.445). Diameter of the choledochus (8 mm–12 mm; mean 8.91 mm ± 0.72) did not present significant correlation with the number of punctures (P = 0.5635).
+
+Presence of choledocolithiasis did not significantly interfere in amylase determination and C-RP but serum lipase determination performed 24 h after the procedures presented a significant increase (P = 0.0305).
+
+Laboratory data
+
+Amylase - Serum determinations, ranging from 21 to 383 U/L (mean: 91.37 ± 87.18), remained within normality standards at times 4, 12 and 24 h after the procedure. But there occurred significant proportional increases at 4 and 12 h (Pbefore – 4 h)/P4 h–12 - = 0,0297) (Table 1).
+
+ 
+
+ 
+
+Regarding the diagnostic (D) or therapeutic (T) procedures, a statistical difference was observed only in the 12-h sample (P4-12 h = 0.04801) (Table 2).
+
+ 
+
+ 
+
+As concerns the frequency of punctures stratified in 1-3 and 3 or 4, no statistical difference was observed for all times after the procedures (Graph 1).
+
+ 
+
+ 
+
+Lipase - After the procedure, values ranged from 27 to 823 U/L (mean: 116.27 ± 121.39); proportional increase in mean lipase occurred only at 4 h (Pbefore - 4 h = 0.0004) (Table 3).
+
+ 
+
+ 
+
+Regarding the diagnostic (D) or therapeutic (T) procedures, there was no statistical difference between the groups (Table 4). The same occurred as regards puncture frequency (Graph 2).
+
+ 
+
+ 
+
+ 
+
+ 
+
+C-reactive protein - The mean of serum C-RP ranged from 0.18 to 49.99 µg/mL (mean: 6.71 ± 5.18); a significant increase was observed regarding the determinations at 4 h (P before - 4 h < 0.001) and 12 h after the procedure (P 4-12 h = 0.0173), with a significant decrease in the levels determined at 24 hours (Table 5).
+
+ 
+
+ 
+
+The diagnostic or therapeutic procedures presented proportional and not significant increases in serum C-RP levels (Table 6). The same occurred regarding number of punctures stratified in 1 and 3 and 3 or 5 (Graph 3).
+
+ 
+
+ 
+
+ 
+
+ 
+
+Complications
+
+Regarding complications related to the technique of papillary puncture, they occurred in 1 of 28 patients with injection in papillary submucosa due to technical negligence by not using the guide wire and in this patient conventional ERCP was repeated after 7 days. In 1/28 mild hemorrhage after dilation of the papillary fistula occurred. Hemostasis was obtained with millesimal adrenaline solution.
+
+Concerning complications related to therapeutic procedures, there were 2/28 retroduodenal perforations, with one (1/30) following unsuccessful puncture and another due to the passage of Dormia's basket through the dilated fistula path. These patients were treated conservatively and discharged after 5 and 7 days, respectively, without late complications.
+
+Late follow-up
+
+All patients submitted to diagnostic puncture and evaluated 60 days after the procedure presented with the major duodenal papilla of normal aspect.
+
+The patients with dilation of the suprapapillary fistula showed the fistula continuing to drain clear bile.
+
+ 
+
+DISCUSSION
+
+The procedure which demands manipulation of the ostium of the major duodenal papilla is a determinant of complications, among which pancreatitis predominates.
+
+The occurrence of pancreatitis after ERCP is directly correlated with the mechanical and thermal injuries during cannulation and papillary section attempts, respectively(6). Post-ERCP pancreatitis occurs on average in 7% of the cases and includes several predictors which may be superposed on thermal and mechanical traumas increasing the incidence up to 27%(5, 6, 8).
+
+On application of the procedure to the first cases, papillary submucosal injection occurred but with extremely careful passage of the guide wire after puncture, this complication did not occur in the subsequent cases in our initial experience. In fact, a very important point is that to perform this new procedure achieving success in the common bile duct access, experience and appropriate knowledge about pancreatic biliary endoscopy are required.
+
+With the exception of very rare cases of biliary-pancreatic anatomic alterations, directed puncture towards the biliary axis of usual placement allows safe biliary access without complications as shown in this study where a successful procedure occurred in 28/30 patients. So that, the safe and efficient possibility of accessing the distal choledochus without requiring EUS and without thermal trauma rendering the procedure feasible for diagnostic and therapeutic purposes. In the future a thorough profile of the cost involved in the different alternative methods of biliary access should be established, including access through papillary puncture.
+
+The number of punctures required to obtain the biliary access, the diameter of the choledochus and presence of choledocholithiasis did not significantly interfere in the complication rates.
+
+The investigative and therapeutic procedures present similar profiles regarding mean of amylase, lipase and C-RP normality. This justifies the conclusion that thermal trauma is one of the most important factors causing post-ERCP pancreatitis.
+
+The number of punctures did not significantly increase amylase, lipase and C-RP values. Thus the exact number of punctures which would limit the method is not yet well-established and requires further controlled studies. In most patients (75%, 21/28), the bile duct access occurred with 1 to 3 puncture attempts.
+
+In the present study no previous conventional cannulation was attempted and thus normal mean serum amylase, lipase and C-RP levels were obtained. Therefore we believe that the papilla manipulated through unsuccessful biliary cannulation attempts may overestimate those cases submitted to later fistulotomy. With the technical and laboratory profile obtained by this study, the safe and rational application of papillary puncture to patients at risk for post-ERCP pancreatitis becomes clear.
+
+Historically, transpapillary biliary access occurs through the ostium, but the anatomic detail of the hepatopancreatic junction at the level of the major duodenal papilla is an important factor in determining obstruction of the pancreatic duct followed by mechanical trauma due to biliary access attempts(4, 9, 11). Thus, papillary puncture is presented as an alternative procedure for biliary access without manipulation of the ampulla of Vater and consequently leading to less occurrence of post-ERCP pancreatitis. In this study we emphasize the lack of occurrence of pancreatitis and evidence that the mean of serum amylase, lipase and C-RP levels remained normal in the serially collected samples after the procedure(2, 7, 10).
+
+On the other hand, it would be adequate to perform a randomized and comparative study between classic endoscopic fistulotomy and suprapapillary puncture regarding technical success, complications, laboratory profile and late follow-up.
+
+ 
+
+CONCLUSION
+
+Suprapapillary puncture allows investigative and therapeutic procedures without significant increases in amylase, lipase and C-RP. Patients submitted to diagnostic puncture present complete recovery of the papilla, while dilation of the fistula maintains it pervious later on, but without complications.
+
+ 
+
+REFERENCES
+
+1. Artifon ELA, Furuya CK, Sakai P, Hondo FY, Ishioka S. Fistulopapilotomia por punção suprapapilar – um novo método de acesso biliar microinvasivo. Gastren. 2004;16(3):223.        [ Links ]
+
+2. Artifon ELA, Hondo FY, Sakai P, Ishioka S. A new approach of bile duct through papillary roof needle puncture. Endoscopy. 2005;37:1138.        [ Links ]
+
+3. Demling L, Koch H, Classen M. [Endoscopic papillotomy and removal of gallstones: animal experiments and first clinical results]. Dtsch Med Wochenschr. 1974;99:2255-7.        [ Links ]
+
+4. Freeman ML. Adverse outcomes of endoscopic retrograde cholangiopancreatography: avoidance and management. Gastrointest Endosc Clin N Am. 2003;13:775-98.        [ Links ]
+
+5. Freeman ML, Guda NM. Prevention of post-ERCP pancreatitis: a comprehensive review. Gastrointest Endosc. 2004;59:845-64.        [ Links ]
+
+6. Kawai K, Akasaba Y, Murakami K. Endoscopic sphincterotomy of the ampulla of Vater. Gastrointest Endosc. 1974;20:148-51.        [ Links ]
+
+7. Masci E, Mariani A, Cuioni S, Testoni A. Risk factors for pancreatitis following endoscopic retrograde cholangiopancreatography: a meta-analysis. Endoscopy. 2003;35:830-4.        [ Links ]
+
+8. Mavrogiannis C, Liatsos C, Romanos A. Needle-knife fistulotomy versus needle-knife precut papillotomy for the treatment of common bile duct Stones. Gastrointest Endosc. 1999;50:334-9.        [ Links ]
+
+9. McCune WS, Shorb PE, Moscovitz H. Endoscopic cannulation of the ampulla of Vater: a preliminary report. Ann Surg. 1968;167:752-6.        [ Links ]
+
+10. Schapira L, Khawaja FL. Endoscopic fistulo-sphincterotomy: an alternative method of sphincterotomy using a new sphincterotome. Endoscopy. 1982;14:58-60.        [ Links ]
+
+11. Vandervoort J, Soetikno RM, Tham TC. Risk factors for complications after performance of ERCP. Gastrointest Endosc. 2002;56:652-6.        [ Links ]

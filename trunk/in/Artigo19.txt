@@ -1,0 +1,271 @@
+Descritores
+
+Ascites
+Body Weights and Measures
+Creatinine
+Diet Surveys
+Female
+Humans
+Liver Cirrhosis
+Male
+Middle Aged
+Nutritional Status
+Outpatients
+Protein-Energy Malnutrition
+Severity of Illness Index
+Sex Distribution
+Statistics, Nonparametric
+
+
+Artigo
+
+Evaluation of nutritional status of nonhospitalized patients with liver cirrhosis
+
+ 
+
+Avaliação em ambulatório do estado nutricional em pacientes com cirrose hepática
+
+ 
+
+ 
+
+Luciana Carvalho; Edison Roberto Parise
+
+Gastroenterology Section, Federal São Paulo University – UNIFESP, São Paulo, SP, Brazil.
+
+Address for correspondence
+
+ 
+
+ 
+
+ABSTRACT
+
+BACKGROUD: Protein-calorie malnutrition is a frequent finding in patients with chronic liver disease, but investigations of nutritional status have been rarely performed in individuals seen at outpatient clinics
+AIM: To evaluate the nutritional status of patients with alcoholic and nonalcoholic cirrhosis, attended for the first time at a reference outpatient clinic for liver diseases.
+PATIENTS AND METHODS: A total of 300 consecutive patients attended at the outpatient clinics of a reference center for liver diseases were investigated. Anthropometric evaluation was performed by the usual parameters: triceps skinfold, arm circumference and arm muscle circumference. Biochemical parameters included creatinine/height index, serum albumin and lymphocytes count. The nutritional diagnosis was based on the PCM score proposed by Mendenhall et al. Food intake was retrospectively evaluated using 24-hour dietary recall data.
+RESULTS: About 71% of the patients studied were chronic alcohol abusers, whereas in 29% cirrhosis was of nonalcoholic etiology. Independently of the disease etiology 75.3% of the patients showed some degree of protein-calorie malnutrition, which was moderate or severe in 38.3% of them. More advanced protein-calorie malnutrition degrees were associated with lower energy and protein intake. The prevalence of moderate or severe protein-calorie malnutrition was higher in patients classified as Child-Pugh C than in patients classified as Child-Pugh A (21% x 58%, respectively). Regarding sexual differences, fat reserves, evaluated by triceps skinfold, were more depleted in females than in males (48.6% x 26.6%) regardless of the etiology of the cirrhosis, whereas muscle reserves (arm muscle circumference) were more depleted in males (43.4% x 13.4%) regardless of the etiology of cirrhosis. In contrast, cirrhosis of alcoholic etiology was determinant in reducing arm muscle circumference in females (20% x 9.1%)
+CONCLUSIONS: These data highlight the high prevalence of protein-calorie malnutrition occurring early in the natural history of the disease and accompanying functional hepatic deterioration. In addition, attention should be paid to the different gender patterns of response to protein-calorie malnutrition in these patients.
+
+Headings: Nutritional status. Liver cirrhosis. Outpatients.
+
+RESUMO
+
+RACIONAL: A desnutrição calórica e protéica é achado freqüente em pacientes com doença hepática. Poucas investigações da desnutrição calórica e protéica têm sido realizadas em pacientes atendidos em ambulatório
+OBJETIVO: Avaliar o estado nutricional de pacientes com cirrose hepática (alcoolistas e não-alcoolistas), atendidos na primeira consulta em ambulatório de referência para doenças hepáticas.
+PACIENTES E MÉTODOS: Trezentos pacientes consecutivamente atendidos pela primeira vez em ambulatório de doenças hepáticas foram incluídos neste estudo. Os mesmos foram submetidos a avaliação nutricional que constou de antropometria: dobra cutânea do tríceps, circunferência do braço e circunferência muscular do braço, e bioquímica: índice creatinina/altura, albumina sérica e contagem total de linfócitos. O diagnóstico do estado nutricional foi baseado pelo escore de desnutrição calórica e protéica proposto por Mendenhall e colaboradores e a ingestão alimentar por recordatório de 24 h
+RESULTADOS: Setenta e um porcento dos pacientes cirróticos estudados foram de causa alcoólica e 29% não-alcoólica. Independentemente da causa, a prevalência de desnutrição calórica e protéica foi de 75,3%, sendo que 38.3% deles já a apresentavam moderada e grave. Os pacientes com desnutrição calórica e protéica moderada e grave apresentavam pior ingestão de proteína e energia. A prevalência de moderada e grave foi mais elevada nos pacientes classificados como Child-Pugh C do que nos pacientes classificados como Child-Pugh A (21% x 58%, respectivamente). Em função das variáveis sexo e causa, as reservas de gordura, avaliadas pela dobra cutânea do tríceps, estiveram mais depletadas em mulheres cirróticas que nos homens cirróticos (48,6% x 26,6%). Já as reservas musculares, avaliadas por circunferência muscular do braço, estiveram mais depletadas em homens cirróticos (43,4% x 13,4%), independentemente da causa da cirrose. Em contraste, mulheres cirróticas alcoólicas apresentaram maior redução de circunferência muscular do braço que nas mulheres não-alcoólicas (20% x 9,1%)
+CONCLUSÕES: Os pacientes cirróticos já apresentavam elevada prevalência de desnutrição calórica e protéica na primeira consulta em ambulatório, principalmente nos pacientes com piora da função hepática. A variável sexo é outro aspecto que deve ser enfocado pois influenciou aspectos antropométricos (circunferência muscular do braço e dobra cutânea do tríceps) nesses pacientes.
+
+Descritores: Estado nutricional. Cirrose hepática. Pacientes ambulatoriais.
+
+ 
+
+ 
+
+INTRODUCTION
+
+A frequent finding in patients with liver cirrhosis is protein-calorie malnutrition (PCM), leading to severe consequences to the general state and clinical evolution of the patient(8, 25, 27). It has been demonstrated that PCM is an independent risk factor for death among patients with chronic hepatic disease, contributing to the emergence of more severe complications in cirrhotic patients, such as ascites, hepatic encephalopathy and infections(21).
+
+Multiple factors which are common to the underlying disease directly contribute to malnutrition, among them, anorexia, nausea, deficient food intake and absorption and catabolic state(16, 32). In addition, the many dietary restrictions used to control symptoms and specific complications, such as ascites and hepatic encephalopathy, aggravate the nutritional status, predisposing the patients to infections and worsening of the functional hepatic status(21, 34, 37).
+
+The measurement of anthropometric parameters has been considered to be a reliable and safe method to assess nutritional status even in patients with cirrhosis, but most of these studies evaluate patients with cirrhosis who have been hospitalized, in general as a consequence of hepatic decompensation(17, 19, 28, 38).
+
+In the present study we prospectively evaluate the nutritional status of patients with alcoholic and nonalcoholic cirrhosis, attended for the first time at a reference outpatient clinic for liver diseases. We correlated the anthropometric findings with patient sex and etiology and functional status of hepatic disease.
+
+ 
+
+PATIENT AND METHODS
+
+A total of 300 patients with cirrhosis of the liver of different etiologies, attended consecutively for the first time at the reference outpatient clinic for hepatic diseases of the Federal University of São Paulo, SP, Brazil, were included in this study.
+
+The diagnosis of cirrhosis was confirmed in 65% of the cases by liver biopsy. In the remaining cases the diagnosis was established by usual clinical and laboratory criteria(12), besides abdominal ultrasonography and digestive endoscopy. Functional status was classified according to the Child-Pugh criteria(33). The patients were divided into two groups according to etiology of the disease:
+
+    * Group I - alcoholic cirrhotic: 213 patients with alcoholic cirrhosis of the liver due to intake of at least 80 g ethanol/day for males and 60 g ethanol/day for females for a minimal period of 5 years.This group consisted of 183 males and 30 females patients, with a mean (mean + SD) age of 49.9 ± 10.1 years. Investigation of serum markers for hepatitis B and C virus showed that 22% of these patients presented positive serology for HBsAg or anti-HCV antibodies.
+    * Group II - nonalcoholic cirrhotic: 87 patients ingesting less than 20 g alcohol/day with cirrhosis of different etiologies, such as hepatitis B and C virus, autoimmune hepatitis, primary and secondary biliary cirrhosis and cryptogenic cirrhosis. This group consisted of 43 male and 44 female patients, with a mean age of 51.2 ± 14.9 years.
+
+Exclusion criteria were: presence of localized or systemic infection, current digestive hemorrhage or hemorrhage during the last 3 months, evident renal failure or patient abandonment of the follow treatment at the outpatient clinic before completing the etiological investigation.
+
+The patients were submitted to a nutritional evaluation on the first visit by means of assessment of food intake parameters, anthropometric and biochemical parameters.
+
+Food intake was retrospectively evaluated using 24-h our dietary recall data reported by the patients themselves or by the accompanying persons. These calculations were based on a standardized 24-h recall method(2). The daily intake of both energy and proteins was measured in kcal and in g/kg of ideal weight/d(9). The value of ethanol energy was not taken into account since practically all patients denied alcohol intake when arriving at the outpatient clinic.
+
+The anthropometric evaluation was performed on the first visit. All measurements were performed with the patient in the supine position according to the usual parameters: height, weight, triceps skinfold (TSF), arm circumference (MAC) and arm muscle circumference (MAMC) measured on the right arm, using established methods. The triceps skinfold was calculated as the mean of three measurements using the Lange skinfold caliper midway between the acromion and tip of the olecranon. Arm circumference was evaluated at the right arm, at a midpoint equidistant from the acromion and olecranon, with the patient in the upright position and the arm flexed at 90°. The arm muscle circumference was calculated by the formula MAMC (cm) = MAC – [ p x TSF(cm)]. The creatinine/height index was calculated using the formula: CHI = 24-h urinary creatinine/ideal urinary creatinine x 100, with a urine volume never less than 500 mL/24-h of a patient not in use of diuretics. Ideal urinary creatinine was obtained by the formulas: 23 mg x ideal weight, for male; 18 mg x ideal weight, for female(13, 14).
+
+Blood and 24-h urinary creatinine and lymphocyte count were obtained using an automated method. Albumin values were obtained by cellulose acetate electrophoresis.
+
+For the nutritional diagnosis, the anthropometric parameter and biochemical values(4, 13, 14) were compared with FRISANCHO'S reference standards(11). The values obtained according to percentage of adequacy were classified using the PCM score proposed by MENDENHALL et al.(23):
+
+The score values were classified into: no malnutrition (>100%), mild malnutrition (99.9%-80%), moderate malnutrition (60%-79.9%) and severe malnutrition (<60%) according to the recommendation of BLACKBURN et al.(3).
+
+Nonparametric tests were used for statistical analysis of the results. The Kruskal-Wallis' test and chi square test complemented by Fisher's test when necessary were used for the comparison of means and frequencies within each group, respectively. The level of significance was set at 5%(39).
+
+All patients were instructed regarding the purpose of the research and gave written informed consent to participate in the study. The protocol was approved by the Ethics Committee of the Federal University of São Paulo.
+
+ 
+
+RESULTS
+
+A total of 300 patients, 226 males and 74 females, age mean of 50.9 years, were enrolled in the study. Seventy-one percent of the patients had cirrhosis of alcoholic etiology (with or without concomitant investigation of hepatitis B and C virus), whereas 29% had cirrhosis of nonalcoholic etiology. The patients were functionally classified according to the Child-Pugh criteria.
+
+As can be seen in Table 1, the groups were comparable regarding age and functional hepatic status, differing only in terms of larger number of females in the nonalcoholic groups, as expected.
+
+ 
+
+ 
+
+On the first visit at the outpatient clinic, 75.3% of the patients already showed some degree of PCM with 38.3% of them presenting moderate and severe PCM. A higher prevalence of eutrophic patients and with mild PCM was observed among Child A patients than among patients classified as Child B and C (Table 2).
+
+ 
+
+ 
+
+No significant differences were observed between alcoholic patients with or without association with hepatitis B and C virus (data not shown).
+
+The prevalence of PCM among alcoholic and nonalcoholic cirrhotic patients was 74.2% and 78.2%, respectively, with no significant differences in the classification of the nutritional status as a function of the etiology. The prevalence of PCM was 74.8% in males and in 77%, females, without significant differences between alcoholic and nonalcoholic cirrhotic patients according to the sex variable (Table 3).
+
+ 
+
+ 
+
+On the first visit at the outpatient clinic no significant differences were observed between the nutrients: energy, protein, carbohydrates and total fat in alcoholic and nonalcoholic cirrhotic patients (Table 4).
+
+ 
+
+ 
+
+A progressive decrease in energy and protein intake by the patients was observed with worsening of nutritional status. However, only the comparison the energy and protein intake between normally nourished and malnutrition patients reached statistical significance. No significant differences were observed between the various degrees of PCM, except for the percentage of adequacy of protein requirements which was higher in patients with mild malnutrition than in patients with moderate and severe malnutrition (Figure 1).
+
+ 
+
+ 
+
+Alteration of the anthropometric and biochemical parameters of the cirrhotic patients
+
+Based on TSF values, the groups already presented a 50% loss of fat reserves regardless of the etiology of the disease. However, this loss was more significant in females (46.6% presented a moderate to severe TSF loss) than in males (26.5%). This difference was maintained when the patients were divided according to sex and etiology, that is, there was a significantly greater TSF loss in female alcoholic and nonalcoholic cirrhotic patients when compared with males of the same group (Table 5).
+
+ 
+
+ 
+
+The MAMC values were significantly more affected in the male than in female cirrhotic patients regardless of the etiology of the disease. The alcoholic cirrhotic patients presented signs of malnutrition more frequently than the nonalcoholic patients, but when these patients were compared according to etiology, no significant differences were observed between alcoholic and nonalcoholic males (Table 6). In contrast, the use of alcohol by females was accompanied by a more significant MAMC loss than observed in females of the nonalcoholic cirrhotic group (Table 7).
+
+ 
+
+ 
+
+ 
+
+ 
+
+DISCUSSION
+
+PCM is a frequent finding in cirrhosis of the liver, with severe consequences for the general status and the clinical evolution of the patient(10, 18, 30). Investigations of nutritional status have been preferentially performed on hospitalized patients but there are a few studies on PCM prevalence and on consequences of the early nutritional status to the recovery of these patients with liver diseases. In the present study the prevalence of PCM was investigated only in cirrhotic outpatients seen at a secondary reference service. Thus most patients arrived with a disease already diagnosed having already received medical care, and 25% had already some dietary restriction.
+
+Among the causes of chronic liver disease there was a high prevalence of alcoholic etiology and most of the patients were males. The mean age of approximately 50 years also agreed with observations made in other studies(22, 26).
+
+Because of the difficulty to assess separately each of the anthropometric and biochemical parameters, several methods have been advocated for the classification of PCM(1, 20, 22, 30, 36, 40). In the present study, the nutritional diagnosis was made using the PCM score proposed by MENDENHALL et al.(23) which assigns value to the whole set of parameters used(23, 24).
+
+Evaluation of the nutritional status in the study population showed a PCM prevalence of 75.3%, similar to that observed in hospitalized patients with cirrhosis of the liver. These results emphasize the fact that impairment of nutritional status in patients with cirrhosis of liver occurs even in the absence of the most severe complications of the disease.
+
+Despite its limitations the 24-h dietary recall indicated a deficient protein-energy intake by these patients, in addition to the fact that they tend to overestimate food intake when this intake is deficient(5, 7). In the present study, mean protein-energy intake, when corrected for unit of ideal weight, did not satisfy the nutritional requirements of these patients which are 45 kcal and 1.5 g protein(5, 18, 26, 29). In patients with moderate and severe PCM, mean protein intake did not reach 70% of the patients' requirements. Considering that most of the present patients with cirrhosis of the liver were alcoholics and had discontinued the use of ethyl alcohol at the time of the visits, it is possible that these data, in fact, represented an overestimate of the protein intake by these patients during the disease.
+
+This study also confirms the important relationship between PCM and liver function already observed by others(17, 22, 30). While only 21% of Child A patients presented moderate or severe PCM, this was observed in approximately 52% of Child B and 58% of Child C patients. No correlation was found between Child-Pugh numeric classification and protein-energy intake.
+
+The association of a deteriorated nutritional status with advance hepatic disease has been attributed to anorexia and to the dietary restrictions imposed on the patients as a function of the complication of chronic disease such as ascites and hepatic encephalopathy. In addition, due to these complications and to the high prevalence of infections, these patients are in an important hypermetabolic state(22, 23). The changes explain the nutritional differences observed in this study and in others(19) among patients with compensated (Child A) and patients with more advanced disease (Child B and C). In addition, also in agreement with data reported by others(15), 21% of Child A patients evaluated already presented moderate or severe PCM, indicating that factors other than those mentioned earlier may influence the nutritional status of these cirrhotic patients.
+
+A deteriorated nutritional status in advanced liver disease has been associated with a more restrictive diet due to major complications of cirrhosis, such as ascites and encephalopathy, that can also be associated with anorexia and weight loss. These patients also are hypermetabolic due to these complications and to the increased incidence of infections(22, 23).
+
+As also reported by others(15, 17, 19, 22, 30), we did not detect significant differences in nutritional status between alcoholic and nonalcoholic cirrhotic patients. In alcoholics, anorexia, gastrointestinal disorders, malabsorption of nutrients and intestinal alterations are some aspects which may lead to malnutrition. In order to study the impact of alcohol intake, the cirrhotic patients were divided into two groups according to the presence or absence of previous alcohol abuse in their clinical history. Since the groups did not differ regarding the functional status of the disease, they could be compared in terms of possible differences in nutritional status. The absence of a difference between the groups studied is in agreement with other reports(7, 19, 36). In studies in which the prevalence of PCM was higher in alcoholics than in nonalcoholics, this difference could be attributed to a higher frequency of patients with advanced hepatic dysfunction in the former group.
+
+About 20% of our patients have concomitant viral infection due to hepatitis B or C. Hepatic biopsies from such patients showed that some of them were, in fact, patients with liver cirrhosis due to viral infection and not to alcoholic liver disease. As also done by others(19, 20, 23, 24) we decided to assign to a single group all patients with a history of alcoholism. In addition, all of these patient were heavy drinkers consuming large doses of alcohol which can cause PCM of themselves, as extensively demonstrated in the literature(15, 22, 24, 29). On the other hand, the results obtained after excluding these patients did not differ significantly from those obtained for the group as a whole.
+
+Among the anthropometric parameters, only muscle reserves, evaluated by MAC and MAMC, were found to be more significantly affected in alcoholic cirrhotic patients when compared with nonalcoholic patients(20, 21, 22). This frequent reduction in muscle mass in patients with cirrhosis of alcoholic etiology is probably related to a direct effect of alcohol on skeletal muscle metabolism(6, 31, 35). It is important to mention that the patients studied here were comparable regarding liver function, nutritional status evaluation and protein-calorie intake.
+
+Regarding sexual differences, fat reserves, evaluated by TSF, were more depleted in females (48.6%) than in males (26.6%), regardless of the etiology of the cirrhosis. On the other hand, muscle reserves evaluated by MAMC were more depleted in males (43,4%). These alterations were independent of the etiology of cirrhosis since MAMC values did not differ between alcoholic and nonalcoholic males. In contrast, in females the alcohol factor was determinant in reducing MAMC (20% against 9.1% in nonalcoholics). These results are similar to those observed in a study performed in Italy(15) on hospitalized patients with cirrhosis of the liver and in a study by CAMPILLO et al.(6) on alcoholic and nonalcoholic patients without cirrhosis of the liver. These data point to important differences in the form of PCM presentation between males and females with cirrhosis of the liver. It is possible that, as suggested by LOLLI et al.(19), these differences are due only to a larger amount of fatty tissue in females which will progressively be utilized to supply the metabolic requirements of the body and thus would spare the muscle reserve for more advanced stages when the fat reserves have been fully consumed(15).
+
+The present study demonstrated that the nutritional loss of patients with cirrhosis of the liver precedes their hospitalization, occurring early in the natural history of the disease and accompanying the functional hepatic deterioration. Evaluation of the nutritional status of these patients should be part of the routine of outpatient clinic attendance regardless of the etiology of the disease. In addition, attention should be paid to the different patterns of response to PCM between males and females with cirrhosis of the liver.
+
+ 
+
+REFERENCES
+
+1. Abad-Lacruz A, Cabre E, Gonzalez-Huix F, Fernandes-Banares F, Esteve M, Planas R, Llovet JM, Quer JC, Gassull MA. Routine tests of renal function, alcoholism, and nutrition improve the prognostic accuracy of Child-Pugh score in nonbleeding advanced cirrhotics. Am J Gastroenterol. 1993;88:382-7.        [ Links ]
+
+2. Ançao MS, Sustovich D, Ajzen H, Sigulem D, Cuppari L, Draibe AS. Dietetic calculations and computerized nutritional assessment system. In: Conferência Internacional sobre Informática, 2, La Habana, Cuba, 1988. Temas Livres.        [ Links ]
+
+3. Blackburn GL, Bistrian BR, Maini BS, Schlamm HT, Smith MF. Nutritional and metabolic assessment of the hospitalized patient. JPEN J Parent Enteral Nutr. 1977;1:11-22.        [ Links ]
+
+4. Blackburn GL, Harvey KB. Nutritional assessment as a routine in clinical medicine. Postgrad Med. 1982;71:46-63.        [ Links ]
+
+5. Bories PN, Campillo B. One-month regular oral nutrition alcoholic cirrhotic patients. Changes of nutritional status, hepatic function and serum lipid pattern. Br J Nutr. 1994;72:937-46.        [ Links ]
+
+6. Campillo B, Richardet JF, Scherman E, Bories PN. Evaluation of nutritional practice in hospitalized cirrhotic patients: results of a prospective study assessing nutritional status. Nutrition. 2003;19:515-21.        [ Links ]
+
+7. Cornu KA, McKiernan J, Kapadia AS, Neuberger JM. A prospective randomized study of preoperative nutritional supplementation in patients awaiting elective orthotopic liver transplantation. Transplantation. 2000;69:1364-9.        [ Links ]
+
+8. DiCecco SR, Wieners EJ, Wiesner RH, Southorn PA, Plevak DJ, Krom RAF. Assessment of nutritional status of patients with end-stage liver disease undergoing liver transplantation. Mayo Clin Proc. 1989;64:95-102.        [ Links ]
+
+9. FAO/OMS/ONU. Resumale de las necessidades de energia y de proteínas. In: Necessidades de energia y de proteínas. Ginebra: FAO/OMS/ONU; 1985. (Série de Informes Técnicos, 724).        [ Links ]
+
+10. Figueiredo FAF, Perz RM, Kondo M. Effect of liver cirrhosis on body composition: evidence of significant depletion even in mild disease. J Gastroenterol Hepatol. 2005;20:209-16.        [ Links ]
+
+11. Frisancho AR. New norms of upper limb fat and muscle areas for assessment of nutritional status. Am J Clin Nutr. 1981;34:2540-5.        [ Links ]
+
+12. Garcia-Tsao G, Grace ND, Groszmann RJ, Conn HO, Bermann MM, Patrick, MGC, Morse SS, Alberts JL. Short-term effects of propanolol on portal venous pressure. Hepatology. 1986;6:101-6.        [ Links ]
+
+13. Grant JP. Patient selection. In: Grant JP. Handbook of total parenteral nutrition. Philadelphia: WB Saunders; 1980. p.7-42.        [ Links ]
+
+14. Grant JP, Custer PB, Thurlow J. Current techniques of nutritional assessment. Surg Clin North Am. 1981:61:437-63.        [ Links ]
+
+15. Italian Multicentre Cooperative Project on Nutrition in Liver Cirrhosis. Nutritional status in cirrhosis. J Hepatol. 1994;21:317-25.        [ Links ]
+
+16. Latifi R, Killam RW, Dudrick SJ. Nutritional support in liver failure. Surgl Clin North Am. 1991;71:567-78.        [ Links ]
+
+17. Lautz HU, Selberg O, Korber J, Burger M, Muller MJ. Protein-calorie malnutrition in liver cirrhosis. Clin Invest. 1992;70:478-86.        [ Links ]
+
+18. Levinson MJ. A practical approach to nutritional support in liver disease. Gastroenterologist. 1995;3:234-40.        [ Links ]
+
+19. Lolli R, Marchesini G, Bianchi G, Fabbri A, Bugianesi E, Zoli M, Pisi E. Anthropometric assessment of the nutritional status of patients with liver cirrhosis in an Italian population. It J Gastroenterol. 1992;24:429-35.        [ Links ]
+
+20. Madden AM, Morgan MY. Resting energy expenditure should be measured in patients with cirrhosis, not predicted. Hepatology. 1999;30:655-64.        [ Links ]
+
+21. McCullough AJ, Mullen KD, Smanik EJ, Tabbaa M, Szauter K. Nutritional therapy and disease. Gastroenterol Clin North Am. 1989;18:619-43.        [ Links ]
+
+22. Mendenhall CL, Anderson S, Weesner RE, Goldberg SJ, Crolic KA. Veterans Administration Cooperative Study Group on Alcoholic Hepatitis: protein-calorie malnutrition associated with alcoholic hepatitis. Am J Med. 1984;76:211-22.        [ Links ]
+
+23. Mendenhall CL, Tosch T, Weesner RE, Garcia-Pont P, Goldberg SJ, Kiernan T, Seeff LB, Sorell M, Tamburro C, Zetterman R, et al. VA cooperative study on alcoholic hepatitis. II: Prognostic significance of protein-calorie malnutrition. Am J Clin Nutr. 1986;43:213-8.        [ Links ]
+
+24. Mendenhall CL, Moritz TE, Roselle GA, Morgan TR, Nemchausky BA, Tamburro CH, Schiff ER, McClain CJ, Marsano LS, Allen JI, et al. Protein energy malnutrition in severe alcoholic hepatitis: diagnosis and response to treatment. The VA Cooperative Study Group #275. JPEN J Parenter Enteral Nutr. 1995;19: 258-65.        [ Links ]
+
+25. Merli M, Romiti A, Riggio O, Capocaccia L. Optimal nutritional index in chronic liver disease. JPEN J Parenter Enteral Nutr. 1987;11(suppl.5):S130-4.        [ Links ]
+
+26. Merli M, Nicolini G, Angeloni S, Riggio O. Malnutrition is a risk factor in cirrhotic patients undergoing surgery. Nutrition. 2002;18:978-86.        [ Links ]
+
+27. Morgan AG, Kelleher J, Walker BE, Losowsky MS. (1976). Nutrition in cryptogenic cirrhosis and chronic aggressive hepatitis. Gut. 1976;17:113-8.        [ Links ]
+
+28. Nauveau S, Belda E, Borotto E, Genuist F, Chaput C. Comparison of clinical judgment and anthropometric parameters for evaluating nutritional status in patients with alcoholic liver disease. J Hepatol. 1995;23:234-5.        [ Links ]
+
+29. Nielsen K, Kondrup J, Martinsen L, Stilling B, Wikman B. Nutritional assessment and adequacy of dietary intake in hospitalized patients with alcoholic liver cirrhosis. Br J Nutr. 1993;69:665-79.        [ Links ]
+
+30. Nompleggi DJ, Bonkovsky HL. Nutritional supplementation in chronic liver disease: an analytical review. Hepatology. 1994;19:518-33.        [ Links ]
+
+31. Plauth M, Merli M, Kondrup J, Weimann A, Ferenci P, Muller J. ESPEN guidelines for nutrition in liver disease and transplantation. Clin Nutr. 1997;16:43-55.        [ Links ]
+
+32. Porayko MK, DiCecco SR, O'Keefe SJD. Impact of malnutrition and its therapy on liver transplantation. Semin Liver Dis. 1991;11:305-14.        [ Links ]
+
+33. Pugh NH, Murray-Lyon IM, Dawson JL, Pietroni MC, Williams R. Transection of the oesophagis for bleeding oesophageal varices. Br J Surg. 1973;60:646-9.        [ Links ]
+
+34. Riggio O, Angeloni S, Ciuffa L, Nicolini G, Attili AF, Albanese C, Merli M. Malnutrition is not related to alterations in energy balance in patients with stable liver cirrhosis. Clin Nutr. 2003;22:553-9.        [ Links ]
+
+35. Riordan SM, Williams R. Nutrition and liver transplantation. J Hepatol. 1999;31:955-62.        [ Links ]
+
+36. Roongpisuthipong C, Sobhonslidsuk A, Nantiruj K, Songchitsomboon S. Nutritional assessment in various stages of liver cirrhosis. Nutrition. 2001;17:761-5.        [ Links ]
+
+37. Runyon BA. Management of adult patients with ascites caused by cirrhosis. Hepatology. 1998;27:264-72.        [ Links ]
+
+38. Selberg O, Bottcher J, Tusch G, Pichlmayr R, Henkel E, Muller MJ. Identification of high-and low-risk patients before liver transplantation: a prospective cohort study of nutritional and metabolic parameters in 150 patients. Hepatology. 1997;3:652-7.        [ Links ]
+
+39. Siegel S. Estatística não paramétrica: para ciências do comportamento. São Paulo: Mc Graw-Hill; 1976.        [ Links ]
+
+40. Tajika M, Kato M, Mohri H, Miwa Y, Kato T, Ohnishi H, Moriwaki H. Prognostic value of energy metabolism in patients with viral liver cirrhosis. Nutrition. 2002;18:229-34.        [ Links ]

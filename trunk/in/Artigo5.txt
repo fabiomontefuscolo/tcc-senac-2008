@@ -1,0 +1,208 @@
+Descritores
+
+Cells, Cultured
+Chromatography, Gas
+Dermis
+Fibroblasts
+Humans
+Organic Chemicals
+Principal Component Analysis
+Volatilization
+
+
+Artigo
+
+Volatile Organic Compounds Produced by Human Skin Cells
+
+ 
+
+CRISTIAN A. ACEVEDO1, ELIZABETH Y. SÁNCHEZ1, JUAN G. REYES2 and MANUEL E. YOUNG1
+
+1  Universidad Técnica Federico Santa María, Biotechnology Center, Av. España 1680. Valparaíso, Chile.
+2 Chemistry Institute. Pontificia Universidad Católica de Valparaíso. Av. Brasil 2950, Valparaíso, Chile.
+
+Dirección para correspondencia
+
+ABSTRACT
+
+Skin produces volatile organic compounds (VOCs) released to the environment with emission patterns characteristic of climatic conditions. It could be thought that these compounds are intermediaries in cell metabolism, since many intermediaries of metabolic pathways have a volatile potential. In this work, using gas chromatography, we answered the question of whether VOC profiles of primary cultures of human dermal fibroblasts were affected by the type of culture conditions. VOCs were determined for different types of culture, finding significant differences between skin cells grown in classical monolayer culture -2D- compared with 3D matrix immobilized cultures. This indicates that VOC profiles could provide information on the physiological state of skin cells or skin.
+
+Key terms: GC/MS, Skin cells, SPME, Volatile organic compounds.
+
+INTRODUCTION
+
+Skin is the largest human organ responsible for multiple functions, from being a physical protection barrier to being a site of sense perception or vitamin synthesis. The release of organic volatile compounds (VOCs) through the skin, generating the characteristic odors of the human body is part of our daily experience. These VOCs include a large number of volátiles that can be listed as carboxylic acids, aldehydes, alcohols or ketones (Bernier et al., 2000). These volatile compounds are organized into emission patterns that vary with climatic conditions, among other parameters (Zhang et al., 2005). It can be speculated that these compounds are intermediaries in cell metabolism since many intermediaries of metabolic pathways have similar structure and volatile potential. However, these compounds can also be part of a sophisticated system of intercellular signals, similar to the pheromones in mammalian communication (Mombaerts, 1999), or the emission of terpenoids in plants (Paré and Tumlinson, 1999).
+
+It is important to emphasize, that the VOCs emission pattern released by whole skin is different in winter compared to spring (Zhang et al., 2005). These differences can be an adjustment response of metabolism to the environmental changes. In addition, it has been reported that alterations of the metabolic balance produced by pathologies (like cancer), can also cause modifications in the human VOC profile obtained from different sources (blood or breath) (Deng et al., 2004).
+
+In current studies with skin cells cultured in vitro, scientific effort has been centered on the cell and the soluble compounds secreted into the culture medium or the production of extracellular matrix components. Nevertheless, in these cell cultures, a volatile phase always coexists that has not yet been systematically investigated. In cell cultures, very few compounds have been extensively studied in the gas phase, mainly: the presence of 02, C02 and NO gases (Tokuda et al., 2000; Chakrabarti and Chakrabarti, 2001; Shekhter et al., 2005), all of them being part of well known metabolic pathways.
+
+VOCs in human samples have been analyzed since 1971 (Pauling et al., 1971) using gas chromatography. A recent approach used solid phase micro-extraction (SPME) for the sampling of VOCs (Grote and Pawliszyn, 1997). This analytical technique has been applied for VOCs in cell culture (Poli et al., 2004) and also to analyze alcohol, pesticides and hexanes in human fluids (Namiesnik et al., 2000).
+
+In this work, we explore the VOC profiles of primary cultures of human dermal fibroblasts cultured in flasks in traditional monolayers, or encapsulated in alginate beads that better resemble the dermal matrix, finding significant differences that open interesting possibilities for monitoring cell cultures based on VOC profiles, especially, associated with novel chromatographic techniques.
+
+MATERIALS AND METHODS
+
+Chromatography
+
+The technique to analyze human blood samples by means of GC/MS-SPME/HS (Gas chromatography / Mass spectrum -Solid phase micro extraction / Head space) proposed by Deng et al. (2004) with some modifications, was used to measure the VOCs. Four ml of culture medium were deposited in HS vials with 15 ml of HS. Carboxen-PDMS fiber (Supelco) was exposed in the vial head space for 30 minutes at 60°C. The fiber was then injected in a CG/MS HP 6890 (with a HP MD5973 quadrupole mass spectrometer) in split-less mode (2 minute). Separation was performed in a HP-5MS (Agilent) column. The fiber was exposed for desorption at the port of the chromatograph for 5 minutes at 250°C.
+
+The identification of individual VOCs was performed on the basis of the standard mass spectrum NIST-02 library, considering a fit value less than 85% as not fully identified (Zhang et al., 2005). The fit value indicates the degree at which the target spectrum matches the standard spectrum in the NIST-02 library (100% meaning a perfect fit).
+
+Siloxanes were discarded from the analysis since they are generally considered in the literature as main background interferences, apparently stemming from the capillary column stationary phase (Zhang et al., 2005). In addition, the compounds extracted from samples of fresh PBS (phosphate buffered saline) were discarded in the analysis, being considered contaminants from the laboratory environment.
+
+Skin cell culture
+
+Human dermal fibroblasts were obtained under informed consent from the foreskin of healthy donors and processed using standard protocols including mechanical and enzymatic (trypsin and collagenase) separation (Freshney, 2000; Karmiol, 2002). The cultures obtained were tested for the presence of mycoplasma using a commercial PCR assay (Biological Industries, Israel). Only mycoplasma negative cultures were used.
+
+For VOCs measurement, 105 cells per flask were cultured in 25 cm2, Falcon flasks with closed cap, in DMEM/F12 (1:1) with FBS (10%) and HEPES (25 mM), at 37°C. Cultured medium was extracted at 120 hrs (no evidence of acidification or damaged cells was found).
+
+Encapsulation procedure
+
+Following the trypsinization and counting procedure where a hemacytometer was used, a known number of cells were suspended in an appropriate volume of alginate solution (0.5%) to achieve a concentration of 105 cells per gram of alginate solution, and microencapsulated by dropping the cell suspension onto a sterile solution of CaCl2 (50 mM) (Kierstan and Bucke, 1977; Abuzzo et al., 2001; Yang and Wright, 2002). Microcapsules were collected, carefully washed with DMEM/ F12, and routinely examined for physical appearance under a microscope (10X).
+
+One gram of capsules with cell density of 105 cells per gram was added per flask, for VOCs measurement, same culture conditions as the monolayer culture, in DMEM/F12 (1: 1) with FBS (10%) and HEPES(25mM),at37°C.
+
+Statistics analysis
+
+Multivariate analysis (Principal component analysis and Contribution analysis) was performed with SIMCA-P software (UMETRICS) (Eriksson et al., 2006). Basic statistics analysis (t-test) was performed using Microsoft Excel.
+
+RESULTS
+
+Fibroblasts appeared with a rounded morphology when cultured within the capsules as compared to the relatively extended morphology of the cells cultured on monolayers (Figure 1). These cell shape differences were most likely associated to a change in cell function related to attachment conditions, as suggested by the VOC profiles shown below.
+
+
+	  	
+
+Figure 1: Optical micrographs of cell cultures (scale bar: 100 mm)
+
+A, Fibroblast monolayer grown on a polystyrene culture flask. B, Fibroblast encapsulated in alginate spheroids (arrow indicate the alginate capsule border). C, Detail of single cell inside an alginate capsule. Note the spherical shape of encapsulated fibroblasts and the spindle shape of fibroblasts grown on a plastic substrate.
+
+Thus, the VOC profile obtained using the chromatographic GC/MS-SPME/HS technique described in the methods section, allowed separation of 13 compounds with retention times between 5 and 12 minutes (Table 1 and Figure 2). Six of these compounds were fully identified. Four of these compounds (styrene, benzaldehyde, ethylhexanol and acetophenone) are reported in the literature as present in whole human skin and also in human blood samples. There was also indication of the presence of other seven compounds present in small amounts, three of them representing less than 1% of the chromatographic area. These "trace" compounds were not reliably identified by the NIST-02 library, giving fits for putative compounds such as alcohols or ketones (Deng et al., 2004; Zhang et al., 2005).
+
+
+
+Figure 2: VOC Chromatograms obtained using the GC/MS-SPME/HS method.
+
+A, Fresh PBS (blank). B, Fresh medium. C, Fresh medium incubated without cells. D, Monolayer cell culture. E, Capsules incubated without cells. F, Cell culture encapsulated in alginate matrix.
+
+Table 2 shows the chromatographic areas of the identified compounds under different culture conditions. It can be appreciated that clear differences exist in pattern profiles between fresh medium and culture medium incubated with and without skin cells. Similar differences exist when skin cells were cultured in monolayer (Figure 2, D) compared with microencapsulated cells (Figure 2, F).
+
+
+To give statistical meaning to these qualitative observations, Principal Component Analysis (PCA, multivariate statistic) (Brereton, 2003) on the data of the chromatograms presented in Figure 2 was performed, taking abundance (magnitude of the signal shown in the chromatogram) for all retention times as the variables (with time windows of 0.3 s between retention times), which means the whole chromatographic spectrum was taken as variables and the different culture conditions and medium as observations. The result is presented in Figure 3, showing the monolayer (2D) and microencapsulated (3D) VOCs data profiles (Figure 3, B and C) located in separate clusters, therefore fully indicating different pattern behaviors. Two independent cell cultures grown on monolayer cluster close together showing similar PC A profiles, a similar pattern occurs for the two independent microencapsulated cells cultured in alginate matrix. The VOCs profile of fresh medium was different after 120 hours of incubation without cells (Figure 3, A and D). It is likely then, that the VOCs found in long term incubations (37°C) are products released by the culture materials with time. Even though belonging to the same cluster in the Principal Component analysis, the location for each culture is not the same due to slight differences in the compounds profile. To account for these differences, a Contribution Analysis was performed.
+
+
+Figure 3: Principal component analysis of VOCs chromatograms.
+
+Variables considered were abundance (magnitude of the signal shown in the chromatogram) of retention time between 5 and 12 minutes, taking time windows of 0.3 s. Observations were cell culture and culture medium. Three significant components were obtained (PCI, PC2 and PC3).
+
+A, Fresh medium. B, Skin cell on monolayer -2D- (two different cultures). C, Skin cell encapsulated in alginate matrix -3D- (two different cultures). D, Fresh medium incubated without cells (with and without alginate beads).
+
+Contribution Analysis, commonly used to illustrate the factors that contributed the most to significant differences for different experimental observations, was based on the two first principal components, with the chromatographic area as the variable for each identified VOC (multivariate statistics) (Eriksson et al., 2006). This analysis, indicated that ethylhexanol and benzaldehyde are the compounds that contributed most to the variability of the cell cultures under different conditions (monolayer and encapsulated). In Figure 4, the height of the bar (in absolute value) represents the discriminator level of the VOC as a possible marker to separate two culture situations.
+
+
+Figure 4: Contribution analysis using areas of identified VOCs.
+
+Variables considered were the chromatographic areas of identified VOCs. Observations were: fresh medium, monolayer culture, encapsulated culture, fresh medium incubated without cells (with and without alginate beads). Two first principal components were used (pi and p2) in contribution score mode. The bar represents the importance of the respective VOC as a source of variability for the given culture conditions (taken as an absolute value).
+
+A, Compounds contribution plot between two monolayer cell cultures. B, Compounds contribution plot between monolayer and encapsulated cell cultures. C, Compounds contribution plot between two encapsulated cell culture.
+
+DISCUSSION
+
+The cell shape differed remarkably between cells grown as monolayer on plastic, and cells encapsulated in the alginate matrix. In our case, the rounded shape cells predominated inside the capsules, similarly to skin cells in contact with fibrin matrix (Weiss et al., 1998), or fibroblasts encapsulated in alginate (Paek et al., 2006). This matrix-induced change in the morphology suggests also a possible change in cell function. From a physical perspective, the encapsulated cells constitute a better model of a tissue due to their 3D structure similar to the skin, in contrast to the 2D system, typical of monolayer cultures (Yang, et al., 2001). In vivo, the cells are immersed in the extracellular matrix, where nutrients, oxygen and metabolic products must diffuse from the circulatory system. Similarly, in the encapsulated culture the access of the cells to the culture medium is diffusion limited. (Muschleretal.,2004).
+
+The statistical analysis of the results indicate that ethylhexanol and benzaldehyde are the VOCs that contributed most in the comparative study when cells were cultivated under different attachment conditions, i.e., as a two dimensional superficial monolayer or inside a three dimensional encapsulated matrix that resembles an actual tissue (Yang, et al., 2001). These compounds have also been identified in human skin, and ethylhexanol has being selected as a marker that contributes in discriminating the VOCs released by whole human skin under different environmental conditions (Zhang et al., 2005). Our data indicate that these chemicals are the main compounds that account for the differences between preparations, suggesting that they reflect the characteristic metabolism of the cells from each individual.
+
+Cyclohexanol and 1,3-di-tert- butylbenzene, present in fresh culture medium, were not detected in incubated culture medium, regardless of the presence of cells. This fact suggests that these VOCs disappear during incubation, most likely by a non-biological mechanism such as evaporation at 37°C (vapor pressure of cyclohexanol 83 mmHg; Perry and Green, 1997). Cyclohexanol being an organic solvent commonly used in petrochemical and organic chemical industries, could be present in the package processing environment of culture reagents and flask factories. Cyclohexanol was not present in the laboratory environment, because this compound was not present in the environmental blank. 1,3-di-feri-butylbenzene was reported as a chemical appearing as a decomposition product from the radiolysis processes related to polymer container sterilization, therefore it was not unexpected to find it in the sterilized plastic flasks used in cell cultures (Welle et al, 2002).
+
+Styrene was not present in fresh medium, but appeared in media incubated in culture flasks with cells. This finding suggests that styrene can be a degradation product derived from the polystyrene flask. Styrene diffusion into foods has been reported in some food packaging processes (Choi et al., 2005) and has also been reported to be present in human blood (Deng et al., 2004). In principle, polystyrene resists acid, alkalis and alcohol, but it can be attacked by some organic solvents. The possible biodegradation of polystyrene by mammalian cells has not been described in the literature.
+
+The amount of styrene in monolayer cells culture was significantly lower than its control (p<0.05, t-test). However, when cells were cultured microencapsulated, the difference of styrene content in the medium compared to the control culture was not significant (p>0.05, t-test). These findings suggest that fibroblasts in monolayers could be metabolizing styrene degraded from the culture flask, as others mammalian cells do (Hynes et al., 1999; Carlson, 2000). However, in the case of microencapsulated cultures, the presence of the alginate matrix could create a physical barrier affecting the diffusion of styrene inside the microcapsule or styrene metabolism by encapsulated cells is lower than that of cells grown on monolayer. A protective effect of microcapsules has been described by other authors as well, showing that nutrients and oxygen diffuse into the microcapsule but substances of higher molecular weight would only slowly diffuse into it (Orive et al., 2002). A pathway for styrene degradation has been described in some prokaryotes, but not in humans. Nevertheless, the oxidoreductase that catalyzes styrene to styrene cis-glycol (EC. 1.13.11.) in the styrene degradation pathway, was reported present in some metabolic pathways in humans (e.g.: tryptophan metabolism), and the gene (ALOXE3) that codes for this protein is expressed in skin cells (Jobard et al., 2002).
+
+Benzaldehyde and acetophenone, which were not present in fresh culture medium, were detected when the medium was incubated in culture flasks, suggesting that they could be released from the culture flasks. However, these compounds were not present in monolayer cell cultures indicating that they were probably metabolized by the cells. In the case of encapsulated cells the protective diffusion mechanism already mentioned, could also be protecting these compounds from cell degradation. Zhang et al. (2005) detected these two compounds in human skin suggesting that they could be part of the normal skin metabolism. In addition, acetophenone and styrene are intermediaries in the metabolic pathway of ethylbenzene degradation in humans (Kegg, 2007).
+
+In summary, we found that for different skin cell culture conditions VOCs are released into the culture medium generating profiles with significant statistical differences, indicating that those VOCs and their profiles could provide useful information on the physiological state of skin or skin cells. The VOCs found in culture media can have different sources, VOCs released from the culture materials, VOCs released from the culture materials and metabolized by the cells, or VOCs produced by the cell metabolism. As a whole, their pattern appears to reflect the metabolic and functional state of cells in culture and could be used for their characterization.
+
+ACKNOWLEDGMENTS
+
+The authors wish to thank CONICYT by: FONDEF Grant (# DO2I1009) and Doctoral fellowship for Cristian A. Ace vedo (# D-21050588).
+
+ 
+
+REFERENCES
+
+ABRUZZO T, CLOFT H, SHENGELAIA G, WALDROP S, KALLMES D, DION J, CONSTANTINIDIS I, SAMBANIS A (2001) In vitro effects of transcatheter injection on structure, cell viability, and cell metabolism in fibroblast-impregnated alginate microspheres. Radiology 220: 428-435
+        [ Medline ]
+
+BERNIER U, KLINE D, BARNARD D, SCHRECK E, YOST R (2000) Analysis of Human Skin Emanations by Gas Chromatography/Mass Spectrometry. 2. Identification of Volatile Compounds That Are Candidate Attractants for the Yellow Fever Mosquito (Aedes aegypti). Anal Chem 72: 747-756
+        [ Medline ]
+
+BRERETON R (2003) Chemometrics: data analysis for the laboratory and chemical plant. Chichester UK: John Wiley & Sons Ltda. pp: 183-269
+
+CARLSON G (2000) Metabolism of styrene oxide to styrene glycol in enriched mouse clara-cell preparations. J Toxicol Environ Health A 61: 709-17
+
+CHAKRABARTI R, CHAKRABARTI R (2001). Novel role of etracellular carbon dioxide in lymphocyte proliferation in culture. J Cell Biochem 83: 200-203
+
+CHOI J, JITSUNARI F, ASAKAWA F, SUN LEE D (2005). Migration of styrene monomer, dimers and trimers from polystyrene to food simulants. Food Addit Contam 22: 693-969
+        [ Medline ]
+
+DENG C, ZHANG X, LI N (2004). Investigation of volatile biomarkers in lung cancer blood using solid-phase microextraction and capillary gas chromatography-mass spectrometry. J Chromatography B 808: 269-277
+
+ERICSSON L, JOHANSSON E, KETTANEH-WOLD N, TRYGG J, WIKSTROM C, WOLD S (2006). Multi and megavariate data analysis, part I, basic principles and applications. Third edition. Umea: Umetrics Academy. Pp: 171-194
+
+FRESHNEY R. (2000) Culture of animal cells: a manual of basic technique. Fourth edition. New York: John Wiley & Sons, Inc., Publication, pp 149-175
+
+GROTE C, PAWLISZYN J (1997) Solid-phase microextraction for the analysis of human breath. Anal Chem. 69: 587-596
+        [ Medline ]
+
+HYNES D, DENICOLA D, CARLSON G (1999) Metabolism of styrene by mouse and rat isolated lung cells. Toxicol Sci 51: 195-201
+        [ Medline ]
+
+JOBARD F, LEFEVRE C, KARADUMAN A, BLANCHET-BARDON C, EMRE S, WEISSENBACH J, OZGUC M, LATHROP M, PRUDHOMME J, FISCHER J (2002) Lipoxygenase-3 (ALOXE3) and 12(R)-lipoxygenase (ALOX12B) are mutated in non-bullous congenital ichthyosiform erythroderma (NCIE) linked to chromosome 17p 13.1. Hum Mol Genet 11: 107-13
+        [ Medline ]
+
+KARMIOL S (2002) Cell isolation and selection. In: ATALA A, LANZA R (eds) Methods of tissue engineering. San Diego: Acedemic Press, pp 19-35
+
+KEGG (2007) Kyoto encyclopedia of genes and genomes, http://www.genome.jp/kegg/
+
+KIERSTAN M, BUCKE C (1977) The immovilization of microbial cells, subcellualar organelles, and enzymes in calcium alginate gels. Biotechnology and Bioengineering 19: 387-397
+
+MOMBAERTS P (1999) Seven-transmembrane proteins as odorant and chemosensory receptors. Science 286: 707-711
+        [ Medline ]
+
+MUSCHLER G, NAKAMOTO C, GRIFFITH L (2004) Engineering principles of clinical cell-based tissue engineering. The Journal of Bone and Joint Surgery 86-A: 1541-1558
+
+NAMIESNIK J, ZYGMUNT B, JASTRZEBSKA A (2000) Application of slid-phase microextraction for determination of organic vapors in gaseous matrices. J. Chromatography A 885: 405-418
+
+ORIVE G, HERNÁNDEZ R, GASCÓN A, IGARTA M, PEDRAZ J (2002) Encapsulated cell technology: from research to market. Trends in Biotechnology 20: 382-387
+        [ Medline ]
+
+PAEK H, CAMPANER A, KIM J, GOLDEN L, AARON R, CIOMBOR D, MORGAN J, LYSAGHT M (2006) Microencapsulated cells genetically modified to overexpress human transforming growth factor-betal: viability and functionality in allogeneic and xenogeneic implant models. Tissue Eng 12: 1733-1739
+        [ Medline ]
+
+PARÉ P, TUMLINSON J (1999) Plant volátiles as a defence against insect herbivores. Plant Physiol 121: 325-331
+
+PAULING L, ROBINSON A, TERANISHIT R, CARY P (1971) Quantitative Analysis of Urine Vapor and Breath by Gas-Liquid Partition Chromatography Partition. PNAS 68: 2374-2376
+
+PERRY R, GREEN D (1997) Perry's chemical engineers' handbook. 7th edition. New York: Mc Graw-Hill Book Co
+
+POLI D, VETTORI M, MANINI P, ANDREOLI R, ALINOVI R, CECCATELLI S, MUTTI A (2004) A Novel Approach Based on Solid Phase Microextraction Gas Chromatography and Mass Spectrometry to the in Cells Cultures: Styrene Oxide. Chem Res Toxicol 17: 104-109
+        [ Medline ]
+
+SHEKHTER A, SEREZHENKOV V, RUDENKO T, PEKSHEV A, VANIN A (2005) Beneficial effect of gaseous nitric oxide on the healing of skin wounds. Nitric Oxide 12: 210-219
+        [ Medline ]
+
+TOKUDA Y, CRANE S, YAMAGUCHI Y, ZHOU L, FALANGA V (2000) The levels and kinetics of oxygen tension detectable at the surface of human dermal fibroblast cultures. J Cell Physiol 182: 414-420
+        [ Medline ]
+
+WEISS E, YAMAGUCHI Y, FALABELLA A, CRANE S, TOKUDA Y, FALANGA V (1998) Un-cross-linked fibrin substrates inhibit keratinocyte spreading and replication: correction with fibronectin and factor XIII cross-linking. J Cell Physiol 174: 58-65
+        [ Medline ]
+
+WELLE F, MAUER A, FRANZ R. (2002) Migration and sensory changes of packaging materials caused by ionizing radiation. Radiation Physics and Chemistry 63: 841-844
+
+YANG H, WRIGHT J (2002) Microencapsulated methods: alginate (Ca2+ induced gelation). In: ATALA A, LANZA R (eds) Methods of tissue engineering. San Diego: Acedemic Press, pp 787-801
+
+YANG S, LEONG KF, DU Z, CHUA CK (2001) The design of scaffolds for use in Tissue Engineering. Part I. Traditional Factors. Tissue Eng 7: 679-689
+        [ Medline ]
+
+ZHANG Z, CAI J, RUAN G, LI G (2005) The study of fingerprint characteristics of the emanations from human arm skin using the original sampling system by SPME-GC/MS. J Chromatography B 822: 244-252.

@@ -1,0 +1,172 @@
+Descritores
+
+Aged
+Bixaceae
+Double-Blind Method
+Humans
+Male
+Middle Aged
+Peru
+Phytotherapy
+Placebos
+Plant Extracts
+Plant Leaves
+Prospective Studies
+Prostatic Hyperplasia
+Prostatism
+Treatment Outcome
+Urinary Bladder Neck Obstruction
+
+
+Artigo
+
+Double–blind randomized placebo–controlled study of bixa orellana in patients with lower urinary tract symptoms associated to benign prostatic hyperplasia
+
+ 
+
+ 
+
+Luis Zegarra; Abraham Vaisberg; Cesar Loza; Roxana L. Aguirre; Miguel Campos; Irma Fernandez; Oscar Talla; Leon Villegas
+
+Department of Surgery, Faculty of Medicine Alberto Hurtado, Peruvian University Cayetano Heredia and Section of Urology, National Hospital Cayetano Heredia and Department of Pharmaceutical Sciences, Department of Microbiology, Laboratories of Investigation and Development, Faculty of Sciences and Philosophy Alberto Cazorla Talleri, Peruvian University Cayetano Heredia, Lima, Peru
+
+Correspondence
+
+ 
+
+ 
+
+ABSTRACT
+
+OBJECTIVE: To determine the efficacy of Bixa Orellana (BO) in patients with benign prostatic hyperplasia (BPH) presenting moderate lower urinary tract symptoms (LUTS).
+MATERIALS AND METHODS: It is a prospective double–blind randomized placebo–controlled study. One thousand four hundred and seventy eight patients presenting moderate LUTS associated to BPH were interviewed, from whom we selected 136 to fulfill the criteria of inclusion and exclusion. Assignation was performed at random in blocks of four to receive B0 at a dose of 250 mg 3 times a day or placebo (Pbo) for 12 months, 68 patients were assigned to each group. From the patients in the study we obtained data of demographic, epidemiologic, symptom score, uroflowmetry and post void residual urine variables.
+RESULTS: Basically both groups were compared clinically, demographically and biochemically. Throughout the study variations of symptom score, mean delta symptom score during each visit and the final average delta were similar for both groups (BO – 0.79 ± 1.87 and Pbo – 1.07 ± 1.49) (p = 0.33). Similarly variations of Qmax mean, Qmax average delta and final average delta were similar (BO 0.44 ± 1.07 and Pbo 0.47 ± 1.32) (p = 0.88). Variations of post void residual urine mean, post void residual urine average delta in each visit and the final average delta were similar for both groups (BO 4.24 ± 11.69 and Pbo 9.01 ± 18.66) (p = 0.07). No differences were found in the answers of clinically significant improvement assessed with relative risk and risk differences, even though the proportion of adverse effects was similar for both groups.
+CONCLUSION: Patients with BPH that present moderate LUTS did not show any benefit receiving BO when compared to placebo.
+
+Key words: prostatic hyperplasia; bladder outlet obstruction; phytotherapy; Bixa orellana
+
+ 
+
+ 
+
+INTRODUCTION
+
+The term benign prostatic hyperplasia (BPH) indicates the growth of the gland without the presence of urinary obstruction. The increase in the size of the prostate only occur in men older than 40 years old, existing a well established association between prostatic growth and urinary obstruction in older men (1). More than half of men are affected by this condition throughout their lives and from those at least 25% seek medical assistance. Investigations performed in countries such as the United States and Scotland show a significant increase in the prevalence according to age differently from what was found in Japan and China where prevalence is low (2). Currently many such patients are initially treated with alpha blockers or 5 alpha–reductase inhibitors, who have demonstrated that they improve the symptoms and objective parameters associated to BPH (3–5); the inconvenience of these drugs is that they should be used permanently, for if they are suspended the symptoms recur (6). At the same time, phytotherapy as an alternative therapy, has been used since ancient times being very popular all over the world, especially in Europe, China and Japan. It is estimated that today phytotherapeutic agents constitute approximately 50% of all medicines prescribed for BPH in Italy (7) and almost 90% in Germany and Austria (8). This popularity is based on the fact that they are advertised as natural elements, therefore not harmful, even though they are not free from adverse effects. Their popularity is also due to the fact that they can be acquired without any medical prescription (9). Many plant extracts have been used in the treatment of patients with BPH that present LUTS, some of them derive from roots, seeds, cork and plant fruits such as alfalfa, fodder cereal, Saw Palmetto berry, African plum, pollen extract, aspen leaves, African potato, Urcubia pepo seed and purple coneflower root (9,10).
+
+Currently we count on studies performed with pollen extract, Saw Palmetto berry (SPB), Rye pollen and African plum, however the results are not conclusive (11–15). These evidences show the need of conducting studies, such as double–blind placebo–controlled, with phytotherapeutic agents in the long term, in order to determine their efficacy and safety (12,16).
+
+In Peru, the use of medicinal plants is known since the Incas. An important proof of the contribution that Peruvian traditional medicine brought to the world is the discovery of Peruvian bark or quinine to the treatment of malaria (17). Traditionally in Peru, plants with therapeutic properties are used and in the specific case of LUTS caused by the "prostate", it is popular all over the country the consumption of achiote (Bixa orellana – BO) in preparations, extracts or spray of achiote leaf, presentations that are sold without medical prescription under the name of Achiotec and Achiote. There are no clinical tests that demonstrate the efficacy and safety of BO in patients with BPH that present LUTS, a fact that led us to conduct the present study.
+
+ 
+
+MATERIALS AND METHODS
+
+A double–blind randomized placebo–controlled study was conducted from November 2002 to August 2004 in the Urology Service of the National Hospital Cayetano Heredia, Lima – Peru, to evaluate the efficacy and safety of BO in patients with BPH that presented moderate LUTS. The study counted on the approval of the Peruvian University Cayetano Heredia (UPCH) ethics committee, and a written informed consent was signed. The study was designed to have duration of 12 months with a temporary cut, at the time the last patient enrolled ended 6 months of treatment. To be able to enroll the study the patients should fulfill the following inclusion criteria: to have between 50 and 70 years of age, good physical and mental condition judging by his clinical history, physical exams and laboratory data. Experience at least 2 obstructive urinary symptoms, have a maximum urinary flow (Qmax) in average from 5 to 15 mL/sec, a post void residual urine inferior to 250 mL, an increased volume of the prostatic gland according to digital rectal examination, as well as prostatic specific antigen (PSA) less than 10 ng/mL. They should also fulfill the following criteria of exclusion: presence of dysuria or hematuria, abnormalities in laboratory determinations, have a maximum urinary flow > 15 mL/sec, a prostatic gland with reduced volume at digital rectal examination, PSA > 10 ng/mL, allergies, drug abuse, chronic use of medicine with antiandrogenic properties, history of diseases that predispose to urethral stenosis, urinary infection, invasive interventions for BPH treatment, evidence of prostate cancer, history of intermittent catheterization and neurogenic bladder. We have interviewed 1,478 patients presenting moderate LUTS associated to BPH, from who we selected 136 patients to fulfill the criteria for inclusion and exclusion. Together with the reading of the informed consent, we explained about the study and after they accepted the conditions, they signed in. A routine clinical history and physical exam was performed and they all answered the symptom score questionnaire in writing. Basic hematologic, renal function, hepatic function, biochemistry and urine analysis were performed. In addition, a transrectal echography of the prostate, uroflowmetry and post void residual urine measurement were performed. Selected patients were assigned randomly in groups of four and for such effect, 17 groups were chosen (17 x 4), each group was randomly chosen exchanging for four assignations, 2 for placebo and 2 for Bixa orellana. This procedure allowed balancing the groups, in a way that 68 patients received Bixa orellana and 68 placebo. According to the randomization it was administered orally, Bixa orellana one capsule of 250 mg or placebo, 3 times a day. The capsules of Bixa orellana were prepared in the following way; one ton of leaves of the plant of BO was gathered, the leaves were dried at environment temperature for 30 days, the BO leaves were lyophilized obtaining 10 bags of 1 Kg, they were further encapsulated by a pharmaceutical laboratory, 250 mg for each capsule. The capsules of placebo were carefully prepared by the same laboratory so that they have the similar form, color, smell and flavor of Bixa orellana. Evaluations started with patient selection visits (V0), followed by a treatment visit one month after (V1) and the following ones were every two months until they reached visit 7 (V7) to the 12 months of study. In every visit, the patient answered the AUA symptom score questionnaire. A Qmax measure was also performed with the Uro Flor Monitor 6030 as well as the post void residual urine with the Bladder Scan 3000. After 6 and 12 months of treatment an echographic control of the prostatic volume was repeated, performed with a 6.5 MH transducer. The physical exam was performed and it included measurement of vital signs and digital rectal examination of the prostate. The effects reported spontaneously were considered as adverse such as those reported by the patient when he was asked if he had presented any health problem since his last visit The results of the LUTS, Qmax and post void residual urine tests were compared by 2–way ANOVA, aiming at demonstrating the variations between means of each visit within each group and among groups. In the same way the measurements deltas within each group and between both groups in each visit by t–test were compared. Calculation of such deltas were performed aiming at evaluating more precisely if there was an improve or deterioration of the variables studied. Afterwards, the mean delta of all the visits for each group was estimated and compared to the means between both by the t–test. Positive deltas meant an increase in the values of the data of the variables and negative delta a decrease in the values of the data of the variables. The improvement of the patients was defined as the patients that presented an improvement > 30% or > 3 mL/sec in relation to the initial Qmax, decrease > 30% in the total score of symptoms and decrease < 30% of the initial post void residual urine (18,19). The relative risk (RR) was calculated as well as the risk differences (RD) to evaluate the clinical response, assessing the improvement of the symptoms, of the Qmax and of the post void residual urine. The size of the sample was calculated to determine advantages in the order of 30% of improvement in the symptoms score, for such effect both proportions were compared, bearing in mind the probability to make a mistake type I (a) of 0.05 and mistake type II (b) of 20%, with a power of 80% resulting in a sample size of 136. It was considered as statistically significant a p < 0.05. Data were analyzed in SPSS vs. 7.5 y STATA v.7.
+
+ 
+
+RESULTS
+
+From the 136 patients studied, with 68 in each group of treatment, we found that clinical, demographic and biochemical characteristics, prostate volume Qmax and post void residual urine in both groups were comparable (Table–1). A total of 30 patients left the study due to the fact that they did not come back to control visits. From those patients 14 (20.6%) were from the BO group and 16 (23.5%) from the Placebo group (p = 0.4). In the Analysis, in the best and worst scenarios (the intention–to–treat analysis), losses modify the results in favor of the placebo. In this study there was a rate of 22% of losses in follow–up, those losses may have affected the results. Throughout the study, variations in the measures of symptom scores were similar for both groups showing a trend to decrease (Figure–1). When we evaluated the delta variation of the means of symptom scores during each visit, we observed a trend to decrease and the final mean delta was similar for both groups (BO 0.79 ± 1.87 and Pbo 1.07 ± 1.49) (p = 0.33). Qmax mean variations were similar showing a trend to increase (Figure–2). In each visit the variations of the Qmax mean delta showed a trend to increase and the final mean delta was similar for both groups (BO 0.44 ± 1.07 and Pbo 0.47 ± 1.32) (p = 0.88). Even though post void residual urine mean variations was also similar in both groups with a trend to increase (Figure–3) and post void residual urine mean delta variations in each visit showed a trend to increase, the final mean delta was similar for both (BO 4.24 ± 11.69 and Pbo 9.01 ± 18.66) (p = 0.07). The answers of clinically significant improvements evaluated with RR and RD were similar for both groups. For symptom scores; BO vs. Pbo: RR: 0.97, RD: – 0.015 (– 0.18 — 0.15). For Qmax improvement; BO vs. Pbo: RR: 0.85, RD: – 0.059 (– 0.21 — 0.10). For post void residual urine improvement; BO vs. Pbo: RR: 1.14, RD: 0.044 (– 0.11 — 0.20) (Table–2).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Regarding adverse effects, we found that the patients of the BO group presented constipation (2.94%) and one form the Pbo group presented light gastritis (1.47%). This fact did not impede those patients from continuing in the study. When the last patient to enter the study completed 6 months of treatment, an external revising committee performed a temporary cut and when the results were disclosed the study was retained due to the fact that it demonstrated that the effect of BO was similar to that of the Pbo.
+
+ 
+
+COMMENTS
+
+There is not enough evidence to accept phytotherapy as an alternative to the urologist to treat patients presenting LUTS associated to BPH. The US National Institute of Health (NIH) has been conducting studies to determine the role of these agents even though in Germany and France some plant extracts have been registered to treat those patients (20). The WHO does not recommend phytotherapy as an appropriate treatment, mainly because there is little information available on well designed clinical trials utilizing placebo as a control. There are no studies with adequate sample size and segments to define the efficacy and tolerability in the long term of those plant extracts (21,22). Even though the US Department of Health and Human Services manifests that phytotherapeutic agents and other dietetic supplements are used in the whole world as treatment for patients with LUTS associated to BPH, the mechanism of action, effectiveness and security of such agents have not been well documented in multicentric clinical trials (6). One of the last publications shows the efficacy of a plant extract in the treatment of patients presenting LUTS associated to BPH, as equivalent to tamsulosin. This clinical trial was performed in 704 patients, from who 354 received Tamsulosin 0.4 mg/day and 350 Saw Palmetto berry (SPBE) 320 mg/day for a period of 12 months. The results show a decrease in the symptom score of 4.4 scores for both groups and an increase in the Qmax of 1.8mL/sec for those that received SPBE and 1.9 mL/sec for the ones that received Tamsulosin. The conclusions of this study show that SPBE and Tamsulosin are equivalent. In our opinion and coinciding with the editorial comments this conclusion is controversial, due to the fact that there is not a previous study with the same design that compares SPBE with Pbo. Under this circumstance it is not possible to differentiate the results of this study with that of Pbo (23). In relation to the mean symptom score, the patients from the BO had a decrease of 5.5 scores and those from the Pbo group of 7.5 scores, with a mean delta variation of symptom score for BO of – 0.79 ± 1.87 and Pbo – 1.07 ± 1.49 (p = 0.33) reaffirming the trend to decrease the symptom score in both groups (Figure–1). The decrease of the score in percentage showed an effect for BO equivalent to 54.4% and for the Pbo group to 55.9% (p = 0.89). The other variables showed the same trend and we could not find a coherent relation in the results; for example, the Qmax increased in both groups showing some benefit, but the post void residual urine had also increased showing a deleterious obstructive effect, those contradictory results reflect the absence of significant differences between interventions. Various clinical trials have demonstrated that adrenergic alpha blockers such as terazosin, doxazosin and tamsulosin improve LUTS associated to BPH (24–29). Those evidences document the effect of the efficacy of alpha–adrenergic blocking agents in the treatment of patients presenting LUTS associated to BPH, information that is reinforced with the publications where it is revealed that surgeries related to BPH have decreased (30). We hope that BO has the same effects, as a product of our observation in the daily clinical practice, but in the light of these results, it is shown that there is no evidence that BO offers any therapeutic advantage to those patients. Thus, we emphasize that this product should not be used as phytotherapeutic in patients presenting moderate LUTS associated to BPH.
+
+ 
+
+CONCLUSION
+
+Bixa orellana compared with placebo in patients presenting moderate LUTS associated to BPH showed similar results in relation to symptom score, Qmax and post void residual urine.
+
+ 
+
+ACKNOWLEDGMENTS
+
+Doctors Raul Medina, Weymar Melgarejo and Alfonso Del Castillo, staff of the Section of Urology, National Hospital Cayetano Heredia, collaborated with the study.
+
+ 
+
+CONFLICT OF INTEREST
+
+Study sponsored by Galenica Pharmaceuticals, Inc.
+
+ 
+
+REFERENCES
+
+1. Lawson RK: Etiología de la Hiperplasia Prostática Benigna. In: Lepor H & Lawson RK, (eds.), Enfermedades de la Próstata. Madri, Médica Panamericana. 1994; pp. 107–115.        [ Links ]
+
+2. Kirby RS, Christmas TJ: Epidemioloy and Natural History. In: Kirby RS, Christmas TJ (eds.), Benign Prostatic Hyperplasia. London, Mosby International. 1997; pp. 3–6.         [ Links ]
+
+3. Roehrborn CG, Oesterling JE, Auerbach S, Kaplan SA, Lloyd LK, Milam DE, et al.: The Hytrin Community Assessment Trial study: a one–year study of terazosin versus placebo in the treatment of men with symptomatic benign prostatic hyperplasia. HYCAT Investigator Group. Urology. 1996; 47: 159–68.        [ Links ]
+
+4. Nickel JC, Fradet Y, Boake RC, Pommerville PJ, Perreault JP, Afridi SK: Efficacy and safety of finasteride therapy for benign prostatic hyperplasia: results of a 2–year randomized controlled trial (the PROSPECT study). PROscar Safety Plus Efficacy Canadian Two year Study. CMAJ. 1996; 155: 1251–9.        [ Links ]
+
+5. Dreikorn K, Richter R, Schonhofer PS:[Conservative, non–hormonal treatment of benign prostatic hyperplasia]. Urologe A. 1990; 29: 8–16; discussion 17–8. Review. German.        [ Links ]
+
+6. AUA Practice Guidelines Committee: AUA guideline on management of benign prostatic hyperplasia (2003). Chapter 1: Diagnosis and treatment recommendations. J Urol. 2003; 170: 530–47.        [ Links ]
+
+7. Di Silverio F, Flammia GP, Sciarra A, Caponera M, Mauro M, Buscarini M, et al.: Plant extracts in BPH. Minerva Urol Nefrol. 1993; 45: 143–9. Review.        [ Links ]
+
+8. Buck AC: Phytotherapy for the prostate. Br J Urol. 1996; 78: 325–36. Review.         [ Links ]
+
+9. Thompson IM: Alternative Medicine and Benign Prostatic Hyperplasia. AUA News, 1998. pp. 3.        [ Links ]
+
+10. Fitzpatrick JM and Lyncch TH: Phytotherapeutic agents. In: Kirby R, McCConnell JD, Fitzpatrick JM (eds.) Textbook of Benign Prostatic Hiperplasia. Oxford, Jarrold Book. 1996; 30: 332–9.        [ Links ]
+
+11. Lowe FC: Saw palmetto berry in the treatment of benign prostatic hyperplasia. Clin Res Reg Affairs. 1997; 14: 53–66.        [ Links ]
+
+12. Lowe FC, Fagelman E: Phytotherapy in the treatment of BPH: an update. Urology. 1999; 53: 671—678.        [ Links ]
+
+13. Plosker GL, Brogden RN: Serenoa repens (Permixon). A review of its pharmacology and therapeutic efficacy in benign prostatic hyperplasia. Drugs Aging. 1996; 9: 379–95.         [ Links ]
+
+14. Dutkiewicz S: Usefulness of Cernilton in the treatment of benign prostatic hyperplasia. Int Urol Nephrol. 1996; 28: 49–53.        [ Links ]
+
+15. Buck AC, Cox R, Rees RW, Ebeling L, John A: Treatment of outflow tract obstruction due to benign prostatic hyperplasia with the pollen extract, cernilton. A double–blind, placebo–controlled study. Br J Urol. 1990; 66: 398–404.        [ Links ]
+
+16. Tun S, Krieg M: Alterations in the intraprostatic hormonal metabolism by the pollen extract Cernilton. In: Vahlensieck W, Rutishauser G (eds.), Benign prostatic desease. Stuttgart, Thieme Medical Publisherrs. 1992; pp. 109–114.         [ Links ]
+
+17. Suardo JA: Diario de Lima (1629 — 1634). En: Manuscrito por Rubén Vargas Ugarte (ED.), Consejo Provincial de Lima. 1935.        [ Links ]
+
+18. Barry MJ, Fowler FJ Jr, O'Leary MP, Bruskewitz RC, Holtgrewe HL, Mebust WK, et al.: The American Urological Association symptom index for benign prostatic hyperplasia. The Measurement Committee of the American Urological Association. J Urol. 1992; 148: 1549–57; discussion 1564.        [ Links ]
+
+19. McConnell JD, Barry MJ, Bruskewitz RC: Benign Prostatic Hyperplasia: Diagnosis and Treatment. Clin Pract Guid, #8. AHCPR Publication #94–0582. Agency for Health Care Policy and Research, Public Health Service, U.S. Deparment of Health and Human Services. February. Rockville. Maryland. 1994.        [ Links ]
+
+20. Kaplan SA, McConnell JD, Fitzpatrick JM: Medical Management of BPH: view of the Future. 98th Annual Meeting American Urological Association, Chicago–2003.        [ Links ]
+
+21. Chapple C: Introducción y Conclusiones. Eur Urol. 2000; 38 (suppl 1): 1–6.        [ Links ]
+
+22. Marks LS, Partin AW, Epstein JI, Tyler VE, Simon I, Macairan ML, et al.: Effects of a saw palmetto herbal blend in men with symptomatic benign prostatic hyperplasia. J Urol. 2000; 163: 1451–6.        [ Links ]
+
+23. Debruyne F, Koch G, Boyle P, Da Silva FC, Gillenwater JG, Hamdy FC, et al.: Comparison of a phytotherapeutic 23. agent (Permixon) with an alpha–blocker (Tamsulosin) in the treatment of benign prostatic hyperplasia: a 1–year randomized international study. Eur Urol. 2002; 41: 497–506; discussion 506–7.        [ Links ]
+
+24. Lepor H, Williford WO, Barry MJ, Brawer MK, Dixon CM, Gormley G, et al.: The efficacy of terazosin, finasteride, or both in benign prostatic hyperplasia. Veterans Affairs Cooperative Studies Benign Prostatic Hyperplasia Study Group. N Engl J Med. 1996; 335: 533–9.        [ Links ]
+
+25. Lepor H, Williford WO, Barry MJ, Haakenson C, Jones K: The impact of medical therapy on bother due to symptoms, quality of life and global outcome, and factors predicting response. Veterans Affairs Cooperative Studies Benign Prostatic Hyperplasia Study Group. J Urol. 1998; 160: 1358–67.        [ Links ]
+
+26. Roehrborn CG, Siegel RL: Safety and efficacy of doxazosin in benign prostatic hyperplasia: a pooled analysis of three double–blind, placebo–controlled studies. Urology. 1996; 48: 406–15.        [ Links ]
+
+27. Lepor H: Phase III multicenter placebo–controlled study of tamsulosin in benign prostatic hyperplasia. Tamsulosin Investigator Group. Urology. 1998; 51: 892–900.        [ Links ]
+
+28. De Mey C: Alpha1–blocker therapy for lower urinary tract symptoms suggestive of benign prostatic obstruction: what are the relevant differences in randomized controlled trials? Eur Urol. 2000; 38 Suppl 1: 25–39.        [ Links ]
+
+29. Christensen MM, Bendix Holme J, Rasmussen PC, Jacobsen F, Nielsen J, Norgaard JP, et al.: Doxazosin treatment in patients with prostatic obstruction. A double–blind placebo–controlled study. Scand J Urol Nephrol. 1993; 27: 39–44.        [ Links ]
+
+30. Holtgrewe HL, Bay–Nielsen H, Carlsson P, Coast J, Vallancien G: The economics of the management of lower urinary tract symptoms and benign prostatic hyperplasia. In: Denis L, Griffiths K, Chatelain C, Murphy G, (eds.), The Fourth International Consultation of Benign Prostatic Hyperplasia. Paris, Health Publication. 1998; pp. 63–81.        [ Links ]

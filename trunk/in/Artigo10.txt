@@ -1,0 +1,156 @@
+Descritores
+
+Cetrimonium Compounds
+DNA, Complementary
+Gene Expression Regulation, Plant
+Genetic Techniques
+Microarray Analysis
+RNA, Plant
+Reproducibility of Results
+Reverse Transcriptase Polymerase Chain Reaction
+Trees
+
+
+Artigo
+
+A micromethod for high throughput RNA extraction in forest trees
+
+ 
+
+GREGOIRE LE PROVOST1*, RAÚL HERRERA2*, JORGE AP PAIVA1,3,4, PHILIPPE CHAUMEIL1, FRANCK SALIN1 AND CHRISTOPHE PLOMION 1**
+
+1  INRA, UMR1202 Biodiversity Genes & Communities, F-33610 Cestas.
+2  Instituto Biología Vegetal y Biotecnología, Universidad de Talca, 2 Norte 685, Talca, Chile.
+3  Plant Cell Biotechnology Lab., IBET/ITQB, Quinta do Marques, 2780 Oeiras, Portugal.
+4  Present address: Tropical Research Institute of Portugal (IICT), Forestry and Forest Products Centre, Tapada de Ajuda, 1349-017, Lisboa, Portugal
+
+ABSTRACT
+
+A large quantity of high quality RNA is often required in the analysis of gene expression. However, RNA extraction from samples taken from woody plants is generally complex, and represents the main limitation to study gene expression, particularly in refractory species like conifers. Standard RNA extraction protocols are available but they are highly time consuming, and not adapted to large scale extraction. Here we present a high-throughput RNA extraction protocol. This protocol was adapted to a micro-scale by modifying the classical cetyltrimethylammonium (CTAB) protocol developed for pine: (i) quantity of material used (100-200 mg of sample), (ii) disruption of samples in microtube using a mechanical tissue disrupter, and (iii) the use of SSTE buffer. One hundred samples of woody plant tissues/organs can be easily treated in two working days. An average of 15 \ig of high quality RNA per sample was obtained. The RNA extracted is suitable for applications such as real time reverse transcription polymerase chain reaction, cDNA library construction or synthesis of complex targets for microarray analysis.
+
+Key terms: RNA extraction, micromethod, forest trees
+
+INTRODUCTION
+
+Large scale expression analysis (array technologies, Q-PCR) that are used to study transcript accumulation in numerous tissues, conditions or genotypes, require the availability of high-throughput, little-time, and low-labour consuming high quality RNA extraction protocols.
+
+Although RNA isolation is considered a routine protocol, the extraction from woody plants and in particular from conifer tissues could be critical, due to the presence of large amounts of polysaccharides, polyphenols and other secondary metabolites which limit RNA extraction yield and further enzymatic reaction (Wang et al., 2000). To reduce the effect of polyphenolic compounds and carbohydrates which are normally co-purified with RNA, some compounds like poly vinyl pyrrolidone, poly vinyl polypyrrolidone, cesium chloride, guanidine thiocyanate have been used in different protocols (Wang and Rhee, 2001). Precipitation steps have also been added in some protocols to obtain high quality RNA (Gasic et al., 2004).
+
+The most classical technique to extract RNA from pine samples is based on CTAB extraction buffer (Chang et al., 1993). Nevertheless, this macro-scale protocol is highly time- and labour-consuming, allowing RNA extraction from a limited number of samples per working day.
+
+Here, we report on a high-throughput, micro-scale extraction protocol with a high yield of good quality RNA. The extracted RNA is suitable for an array of applications such as gene expression analysis, including library construction (e.g. Suppressive Subtractive hybridisation library, Diatchenko et al., 1996), complex probe labelling and Q-PCR analysis.
+
+MATERIALS AND METHODS
+
+Plant material
+
+Total RNA was extracted from pedunculate oak (pistil, root and xylem tissue), from young (1 year-old) maritime and radiata pine seedlings (stem, roots and needles), and from differentiating xylem collected on an adult maritime pine tree. We have also used material from eucalyptus (young/old leaves and root tips) and chestnut (young/ old leaves) to test the robustness of the RNA extraction. High throughput RNA extraction was done following this protocol:
+
+Solutions and reagents
+
+Diethyl pyrocarbonate (DEPC)-treated water was used for all solutions.
+
+Extraction buffer - 2% CTAB, 2% polyvinylpyrrolidone (PVP) K-30 (soluble), 100mM TRIS-HCL (pH 8.0), 25mM EDTA, 2.0 M NaCl, 0.5 g/1 spermidine (free acid) HRS, 2% (ß-mercaptoethanol (added just before use).
+
+CIA (24:1 [V/V])
+10 M LiCl
+5 M NaCl
+DEPC treated Water
+
+Day 1
+
+1. 	Samples of 100 mg-200 mg weight were placed in an Eppendorf tube containing two 1.5 mm iron bullets.
+2. 	The tubes were placed in a Teflon grind adaptor (Qiagen, Valencia, CA, USA) previously frozen in liquid nitrogen. With this adaptor up to 48 samples can be ground simultaneously. Grind tissues in a tissue disrupter, using 4 pulses (30s each) at frequency of 30 hz.
+3. 	Extraction buffer (1mL) was added, previously heated to 65°C and containing 20 µL of (ß-mercaptoethanol per milliliter of extraction buffer, to the ground material and vortexed vigorously (15s).
+4. 	The mixture was incubated 10 min in a water bath at 65°C and mixed gently by inverting tubes every 3 min.
+5. 	For purification 1 volume of Chloroform-isoamyl-alcohol (CIA) 24:1 was added and mixed by inverting tubes.
+6. 	The mixture was centrifuged at 9,500g for lOmin at room temperature.
+7. 	The supernatant was transferred to a clean Eppendorf tube, adding 1 volume of CIA and mixing by inverting tubes.
+8. 	The mixture was centrifuged at 9,500g for 10 min at room temperature. The supernatant was transferred to a clean Eppendorf tube.
+9. 	Finally, 1/4 volume of LiCl 10M was added to the supernatant. Mixed by inverting tubes and incubated overnight at 4°C.
+
+Two series of 48 samples were treated during the first day.
+
+Day 2
+
+10. 	The solution was centrifuged at 9,000g for 20 min at 4°C. The supernatant was removed and the pellet dried out by inverting the tube on towel paper.
+11. 	The pellet was resuspended with 500 µL of resuspension buffer STE [SSTE Buffer (Chang et al,. 1993) without SDS], previously preheated to 65°C.
+12. 	450 µLof CIA was added, mixing by inverting tubes.
+13. 	Centrifuged at 9,500g for 15 min at 4°C, the supernatant transferred to a clean 2 mL Eppendorf tube and stored on ice.
+14.  	150 µl of STE buffer to the organic phase for re-extraction of remaining RNA in the interface was added. Mixed well by inverting tubes and centrifuged at 9,500g for 15 min at 4°C. The supernatant was transferred to the 2 mL Eppendorf tubes previously used (step 15).
+15.  	For final precipitation 100 µL of NaCl (5M) or 60 µL sodium acetate (3M) was added and 2.5 volumes of cold absolute ethanol (-20°C), mixed well by inverting tubes. Incubate 2h at -20°C or 30 min at -80°C.
+16. 	The mixture was centrifuged at 9,500g for 20 min at 4°C. The supernatant was discarded.
+17. 	To wash the material 400 µL of cold (-20°C) 70% ethanol was added and mixed gently.
+18.  	The mixture was centrifuged at 9,500 rpm for 10min at 4°C. The supernatant removed, the pellet dried out, and re-suspended in 30 µL of DEPC-water.
+19. 	The genomic DNA was removed by treating samples with DNase (1U/10µL). Finally, the treated RNA was purified with RNeasy extraction kit (Qiagen), following the manufacturer's instructions.
+
+Real-time reverse transcription polymerase chain reaction (Q-PCR)
+
+First-strand cDNA synthesis was done using Improm II reverse transcriptase (Promega, Madison, WI, USA) according to manufacturer's instructions. PCR reactions were performed in a Chromo4 thermocycler (Biorad, Hercules, CA, USA). PCR was done with primers targeted against the oak alcohol dehydrogenase gene with the following primers: ADH-F (5'GGGACACC AACGAGTACAGC3'), ADH-R (5'CCCA AAAGACCATGACAAGC3'). All PCR reactions were prepared by using 0.2 µL of first-strand cDNA and IQ SYBR green supermix (Biorad) according to the manufacturer's instructions.
+
+SSH libraries construction
+
+cDNA synthesis was performed using the SMART® PCR cDNA synthesis kit (Clontech Laboratories, Palo Alto, CA, USA) according to the manufacturer's instructions. SSH libraries were constructed using PCR-select™ cDNA substraction kit (Clontech). Differentially expressed genes were cloned onto TOPO-TA cloning vector (Invitrogen, Carlsbad, CA) and the verification of inserts was determined by PCR amplification using Ml3 sequences as primers.
+
+RESULTS AND DISCUSSION
+
+High quality total RNA from maritime pine (root, stems, needles and differentiating xylem) and oak (pistil, male flower, root and xylem) tissue were extracted (Fig. 1) using this micro-scale method. The RNA integrity was assessed by the visualization of ribosomal RNA bands on 1.2% agarose gels. For all RNA samples tested, distinct 28S and 18S rRNA bands without degradation were observed. Additionally, quantity and quality of extracted RNA was estimated using spectrophotometer analysis. For all samples the A260/A280 ratio was higher than 1.8 indicating that the RNA presented high purity without protein contamination. An average of 15 µg of total RNA was obtained using this procedure. Spectrophotometer analysis revealed that yield was a function of the tissue studied and the stage of development (data not shown). The highest yield was obtained for pistil, young needles and white roots albeit the lowest was found for differentiating xylem. Alternatively, a commercial protocol was used (Qiagen Plant extraction method), nevertheless, the yield was very low (see Fig. 1). This result emphasizes that the CTAB protocol is the most efficient technique to extract RNA from forest trees. Moreover this protocol was widely used by researchers working with forest trees like eucalyptus (Paux et al. 2004), oak (Derory et al., 2006), poplar (Bhalerao et al., 2003) and pine (Le Provost et al., 2003). On the other hand, the analyses of progenies or transcript studies from massive numbers of individuals are limited because extraction procedure is time-consuming. In this sense, the micromethod permits 100 samples to be extracted within two days work with a high quality RNA as product.
+
+This method also allowed successful extraction of total RNA from specific and small tissues such as pistil and male flower (Fig. 1). Moreover, the possibility to extract RNA from specific and small organs would allow the monitoring of gene expression at a higher tissue resolution (Brandt et al., 1999). Consequently, this micro-scale method offers the possibility to study specific gene expression during developmental processes (i.e. flower, bud development). The same method has been applied for other tissues like fruits where the RNA was used to build SSH libraries and to clone specific genes. In this case, several plant fruit species were used like apricot, mountain papaya, apples, pears, strawberry, and goldenberry. At the same time, in mountain papaya other tissues besides fruits were used for RNA extraction, like flowers, stem and roots (unpublished results).
+
+
+Figure 1: Total RNA extracted using the micromethod from (A) Maritime pine (differentiating xylem, young stem, needles and root tips), (B) Radiata pine (stem, root tips and needles), (C) European oak (xylem, roots, male flower and pistil), (D) Eucalyptus (young/old leaves and root tips), (E) Chestnut (young and old leaves) and (F) Pine, eucalyptus, oak and chestnut leaves using a commercial protocol.
+
+Q-PCR analysis (Riedy et al., 1995) and SSH libraries were performed to test the quality of total RNA extracted using this method. Q-PCR analysis (RNA from oak root) was successfully performed (Fig. 2). Three SSH libraries were built using the micro-extraction method. SSH libraries were constructed using total RNA extracted from differentiating xylem of maritime pine. Approximately, 500 clones were obtained. Insert size ranged from 200 to 1,500 pb with a mean of approximatively 500 pb (data not shown). No difference in the number of clones isolated and in insert size were observed compared to classical RNA extraction method (Chang et al., 1993).
+
+
+Figure 2: Q-PCR Analysis using total RNA extracted using the micro-scale method. (A) Verification of amplified product on 2% agarose gel. (B) Fluorescent plot obtain using Chromo4 thermocycler. The expression data are means of 3 replicates, normalized to relative abundance, using ß-actin as control calibrator sample, and expressed in arbitrary units (RQ) ± SD.
+
+Using this high throughput method one hundred samples were extracted in 2 working days (Fig. 3). To our knowledge, no study in forest trees has reported such a massive extraction method. This strategy offers the possibility to extract RNA from hundreds of individuals allowing the study of transcript variations in natural populations. In forest trees, several studies reported the identification of expressional candidate genes for drought stress (Dubos et al., 2003; Watkinsson et al., 2003) and wood quality (Le Provost et al., 2003; Sterky et al., 1998). The validation of these candidate genes by estimating the correlation between transcript accumulation and phenotypic diversity (Fay et al., 2004) will be now possible using micro-scale RNA extraction method and real time Q-PCR.
+
+
+Figure 3: Total RNA extracted from 60 genotypes of maritime pine using the micro-scale method. The 60 samples were extracted simultaneously in two working days as referred in Materials and Methods.
+
+ACKNOWLEDGEMENTS
+
+J.P. was supported by fellowships from Fundaçao para a Ciencia e a Tecnología (SFRH/BD/3129/2000) and (SFRH/BPD// 26552/2006). R.H. was supported by Project ALFA-EU II-0266-FA (GEMA) and Enlace-Fondecyt (DPI-UTALCA). Authors thank Jean-Marc Gion (CIRAD) and Valerie Léger (INRA) for RNA extraction from eucalyptus and chestnut. This research was also supported by grants from ANR Génoplante (GENOQB, GNP05013C) and the Aquitaine region.
+
+ 
+
+REFERENCES
+
+BHALERAO R, KESKITALO J, STERKY F, ERLANDSSON R, BJORKBACKA H, BIRVE SJ, KARLSSON J, GARDERSTROM P, GUSTAFSSON P, LUNDEBERG J, JANSSON S (2003) Gene expression in autumn leaves. Plant Physiol 131, 430-442
+        [ Medline ]
+
+BRANDT S, KEHR J, WALZ C, IMLAU A, WILLMITZER L, FISHAN J (1999) A rapid method for detection of plant genes transcripts from single epidermal, mesophyll and companion cells of intact leaves. The plant Journal 20: 245-250
+
+CHANG S, PUR YEAR J, CARNEY J (1993) A simple and efficient method for isolating RNA from pine trees. Plant Mol. Biol. Rep 11:113-116
+
+DUBOS C, LE PROVOST G, POT D, SALÍN F, LALANE C, MADUR D, FRIGÉRIO JM, PLOMION C (2003) Identification and characterization of water-stress-responsive genes in hydroponically grown maritime pine (Pinus pinaster Ait) seedlings. Tree physiol 23: 169-179
+
+DERORY J, LEGER P, GARCIA V, SCHAEFFER J, HAUSER MT, SALIN F, LUSCHNIG C, PLOMION C, GLOESSL J, KREMER A (2006) Transcriptome analysis of bud burst in sessile oak (Quercus petraea). New Phytologist 170 (4) 723-738
+        [ Medline ]
+
+DIATCHENKO LD, LAU Y, CAMPBELL AP, CHENCHIK A, MOQADAM F, HUANG B, LUKYANOV S, GURSKAYA N, SVERDLOV ED, SIEBERT PD (1996) Suppression subtractive hybridization : A method for generating differentially regulated or tissue-specific cDNA probes and libraries. Proc Nati Acad Sci USA 93: 6025-6030
+
+FAY JC, MACCULLOUGH HL, SNIEGOWSKI PD, EISEN MB (2004) Population genetic variation in gene expression is associated with phenotypic variation in Saccharomyces cerevisiae. Gen Biol 5: R26
+
+GASIC K, HERNANDEZ A, KORBAN S (2004) RNA extraction from different apple tissues rich in polyphenols and polysaccharides for cDNA library construction. Plant Mol. Biol. Rep 22:437a-437g
+
+LE PROVOST G, PAIVA J, POT D, BRACH J PLOMION C (2003) Seasonal variation in transcript accumulation in wood forming tissues of maritime pine (Pinus pinaster Ait) with emphasis on a cell wall glycine rich protein. Planta 217: 820-830
+        [ Medline ]
+
+PAUX E, TAMASLOUKHT M, LADOUCE N, SIVADON P, GRIMA-PETTENATI J (2004) Identification of genes preferentially expressed during wood formation in Eucalyptus. Plant Mol Biol 55: 263-280
+        [ Medline ]
+
+RIEDY M, TIMM JRE, STEWART C (1995) Quantitative RT-PCR for measuring gene expression. Biotechniques 18: 70-76
+        [ Medline ]
+
+STERKY F, REGAN S, KARLSSON J, HERTZBERG M, RODHDE A, HOLMBERG A, AMINI B, BHALERAOS R, LARSSON M, VILLARROEL R, VAN MONTAGU M, SANDBERG G, OLSSON O, TEERI T, BOERJAN W, GUSTAFSSON P, UHLÉN M, SUNDBERG B, LUNDEBERG J (1998) Gene discovery in the wood forming tissues of poplar: Analysis of 5,692 expressed sequence tags. Proc Nati Acad Sci USA 95: 13330-13335
+
+WANG MH, RHEE HI (2001) Improved Technique for Isolating RNA from Tobacco Tissues. Plant Mol. Biol. Rep 19: 187a-187f
+
+WANG R, GUEGLER K, LABRIE ST, CRAWFORD NM (2000) Genomic analysis of a nutrient response in Arabidopsis reveals diverse expression patterns and novel metabolic and potential regulatory genes induced by nitrate. Plant Cell 12:1491-1509
+        [ Medline ]
+
+WATKINSON JI, SIOSON AA, VASQUEZ-ROBINET C, SHUKLA M, KUMAR D, ELLIS M, HEATH LS, RAMAKRISHNAN N, CHEVONE B, WATSON LT, VAN ZYL L, EGERSDOTTER U, SEDEROFF RR, GRENE R (2003) Photosynthetic acclimatation is reflected in specific patterns of gene expression in drought-stressed loblolly pine. Plant Physiol 133: 1702-1716

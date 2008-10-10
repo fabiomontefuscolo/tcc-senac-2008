@@ -1,0 +1,186 @@
+Descritores
+
+Adenocarcinoma
+Adult
+Aged
+Aged, 80 and over
+Apoptosis
+Cell Survival
+Female
+Humans
+Immunohistochemistry
+Male
+Middle Aged
+Neoplasm Invasiveness
+Neoplasm Staging
+Proto-Oncogene Proteins c-bcl-2
+Rectal Neoplasms
+Retrospective Studies
+Tumor Markers, Biological
+
+
+Artigo
+
+Bcl-2 expression in rectal cancer
+
+ 
+
+Expressão da proteína bcl-2 no câncer de reto
+
+ 
+
+ 
+
+Paulo C. Contu; Simone S. Contu; Luis F. Moreira
+
+Federal University of Rio Grande do Sul, Faculty of Medicine, Post-graduate Programme in Surgery (Surgical Oncology Section), University Hospital – "Hospital de Clínicas de Porto Alegre" – Porto Alegre, RS, Brazil
+
+Address for correspondence
+
+ 
+
+ 
+
+ABSTRACT
+
+BACKGROUD: Proteins involved in apoptosis process seem to play an important role in colorectal carcinogenesis
+AIM: To determine the prevalence of bcl-2 protein immunohistochemical expression and its relation with clinical and histopathological variables of rectal adenocarcinoma.
+PATIENTS AND METHODS: One hundred and thirty-two patients operated at "Hospital de Clínicas de Porto Alegre", Porto Alegre, RS, Brazil, between 1988 and 1999 were studied through immunohistochemical reaction using a monoclonal antibody anti-bcl-2 on formalin-fixed, paraffin-embedded tissue samples
+RESULTS: The prevalence of bcl-2 protein was 29.5%. There was a significant increased number of positive bcl-2 cases among women as compared to men. There was no significant association between bcl-2 and age, tumour site, histological grade, mucin production, depth of invasion, lymphatic involvement, distant metastasis or stage, despite a trend showing decreased immunoreactivity to bcl-2 among poorly and moderately differentiated tumours, as well as disseminated disease
+CONCLUSIONS: Analysis of bcl-2 protein expression in tumour tissues, as well as other oncoproteins, may have a role in predict therapeutic response and prognosis of colorectal cancer. However, the potential use of bcl-2 protein assessment in the clinical set for management of rectal cancer remains to be determined.
+
+Headings: Rectal neoplasms. Adenocarcinoma. Proto-oncogene proteins c-bcl-2. Immunohistochemistry. Cell survival. Apoptosis.
+
+RESUMO
+
+RACIONAL: As proteínas envolvidas no processo de apoptose parecem desempenhar papel importante na carcinogênese colorretal.
+OBJETIVOS: Determinar a prevalência da expressão imunoistoquímica da proteína bcl-2 e sua relação com variáveis clínicas e histopatológicas do câncer de reto.
+PACIENTES E MÉTODOS: Cento e trinta e dois pacientes operados no Hospital de Clínicas de Porto Alegre, RS, entre 1988 e 1999 foram estudados através de reação imunoistoquímica, utilizando um anticorpo monoclonal anti-bcl-2 em amostras teciduais fixadas em formalina e parafinizadas.
+RESULTADOS: A prevalência da proteína bcl-2 foi de 29,5%. Houve aumento significativo no número de casos bcl-2 positivo entre mulheres quando comparado aos homens. Não houve associação significativa entre bcl-2 e idade, sítio do tumor, grau histológico, produção de muco, profundidade de invasão, envolvimento linfático, metástases distantes ou estágio, apesar de uma tendência demonstrando imunorreatividade ao bcl-2 diminuída entre os tumores pouco e moderadamente diferenciados, bem como para doença disseminada.
+CONCLUSÕES: A análise da expressão da proteína bcl-2 em tecidos tumorais, bem como outras oncoproteínas, pode ter um papel em predizer a resposta terapêutica e o prognóstico do câncer colorretal. Entretanto, o uso potencial da avaliação da proteína bcl-2 na prática clínica no manejo do câncer de reto permanece a ser determinado.
+
+Descritores: Neoplasias retais. Adenocarcinoma. Proteínas proto-oncogênicas c-bcl-2. Imunoistoquímica. Sobrevivência celular. Apoptose.
+
+ 
+
+ 
+
+INTRODUCTION
+
+The prognosis of colorectal carcinoma is still being evaluated by histological features. Recently, several studies on molecular biology have been carried out aiming the identification of new prognostic parameters(18, 20). The factors involved in the cell cycle regulation of growth and cell death mechanisms can affect tumour development(15). Bcl-2 is a gene involved in this regulation by inhibiting apoptosis in some cell systems under physiological and neoplastic conditions. It was detected originally in a common chromosomic translocation, t(14;18)(q32;q21) in non-Hodgkin lymphomas(27). Bcl-2 protein is a 26 kD membrane-associated protein that contains a hydrophobic carbonic end located at the intracellular membrane, with the remainder portion of the protein in the cytosol(11). The majority of bcl-2 in the B cell lineage was located in the mitochondrial membrane. It was also found in the cytoplasmic face of other membranes, such as the endoplasmatic reticulum and nuclear membrane(4, 7, 8), being able to detect damages to these compartments and to modify its behaviour due to changes on the stream of small molecules or proteins(1). A decrease in the levels of bcl-2 can lead cells to death by apoptosis while its overexpression protects epithelial cells against this programmed cell death, turning them "non-perishing" and causing carcinogenic transformation. Many studies have examined the value of the immunohistochemical expression of bcl-2 protein in colorectal cancer, but results have been contradictory.
+
+The aim of this study was to determine the prevalence of immunohistochemical expression of bcl-2 protein and its relation with clinical and histopathological variable of rectal adenocarcinoma.
+
+ 
+
+PATIENTS AND METHODS
+
+A retrospective review of 132 cases of primary sporadic rectal adenocarcinoma submitted to surgical resection as primary treatment at "Hospital de Clínicas de Porto Alegre" (HCPA), Porto Alegre, RS, Brazil, from March 1988 to December 1999 was studied. Cases of patients with other concomitant tumours, subjects with history of previous cancer, except skin carcinoma, cases of synchronous or metachronous colorectal tumours, patients with inflammatory bowel disease, polyposis of any type, familiar history of colorectal cancer and neoadjuvant therapy were excluded.
+
+Slides from paraffin-embedded formalin-fixed blocks of surgical samples were submitted to immunohistochemical evaluation with monoclonal antibody anti-bcl-2 (IgG, Dako Lab., New York, USA) which recognises the bcl-2 protein. To determine the antibody positivity, the ABC method (avidin-biotin-peroxidase complex) was used (ABC kit, Vector Lab, Burlingame, USA or ExtrAvidin Sigma) with diaminobenzidine (DAB) as the chromogenic agent. Bcl-2 protein immunohistochemical reaction provides a picture of fine cytoplasmic granulation and nuclear wrap of a brownish colour produced by DAB with diverse intensity. Cases were considered positive when more than 10% of cells stained on a 400 magnification microscopic field. Spleen samples were used for positive controls while negative controls were obtained by omitting incubation with the primary antibody in spleen samples as well. Lymphoid and basal membrane cells depicting immunoreactivity were used as internal positive controls.
+
+Variables were described by mean values and standard error (se). Comparison of bcl-2 protein expression with sex, age, tumour location, histological grade, lymphatic involvement, invasion and metastasis occurrence were evaluated in contingency tables. Percentiles, prevalence ratio and confident intervals were calculated. To control possible confounding factors, a Cox customised for Breslow(22) model was used. The decision on the significance of the association between the qualitative variables was determined by the application of the chi-square test or Fisher exact test, where appropriate. A value of P less than 0.05 was considered significant. Analysis was calculated using SPSS v 6.0 and STATA v5 programmes.
+
+This study was approved by the Ethical Committee of HCPA.
+
+ 
+
+RESULTS
+
+A total of 132 patients, mainly female (54%), with mean (se) of 61 (14) years, ranging from 19 to 88 years, were studied. The majority (55%) were between 60 and 79 years. Most of the tumours were located up to 7 cm from the anal verge (56%) and were classified as moderately differentiated adenocarcinomas (75%). The TNM staging system indicated that most of the patients had the disease at advanced stages (Table 1).
+
+ 
+
+ 
+
+Cytoplasmatic accumulation of bcl-2 protein was observed in 39 (29.5%) of the 132 cases (Figures 1, 2). There was no significant association between bcl-2 status with age, tumour site, histological degree, mucous production, invasion, lymphatic metastasis or with stage. However, a significant increased number of positive bcl-2 cases was observed among women as compared to men (38% vs 19,7%) (c2 = 5,31; OR = 0,4; 95% CI = 0,17–0,94; P = 0.02). Also, it was observed less bcl-2 positive cases in patients with disseminated disease (9,5% vs 33,3%; OR = 0,21; 95% CI = 0,03–1,02; P = 0,053) and more bcl-2 positive cases among well differentiated tumours (57,1%; P = 0.057; Table 1). There was not any other significant difference according to multivariate analysis (Tables 2, 3).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DISCUSSION
+
+During the past years bcl-2 has moved from a situation of a molecule involved in the lymphoid translocation (t14;18) to an important gene implied in mechanisms that regulate cell death through inhibition of apoptosis. The observation that bcl-2 is not only restricted to hematopoietic cells, but also expressed in a variety of epithelial and nonepithelial tissues, led to an increasing on research directed to clarify the role of this molecule in the pathogenesis and prognosis of several malignancies(10). There is a hypothesis that expression of bcl-2 predisposes to the development of colorectal neoplasms since it may extend survival of cells exposed to carcinogenic agents(21). However, studies on bcl-2 status in colorectal carcinomas have been demonstrating controversial results.
+
+The bcl-2 immunoreactivity patterns are quite variable(4), and this variation can be the result of distinct interpretation methods for immunohistochemical reaction, rather than due to the technique used. Technical differences can be expected for settings, antibodies, methods of antigenic retrieval, staining scores and interpretation criteria. Immunoreactivity can range from less than 10% to nearly 100%, depending on the tissue sample and interpretation criteria of the reaction(2, 4, 6, 10, 12, 16, 17, 19, 24, 26). In this study, 29.5 % of the cases were bcl-2 positive, similar to the results of other authors(6, 10, 24), despite differences on the immunohistochemistry method.
+
+Our results indicated a significant difference between the number of positive bcl-2 cases among women than in men. There is not any reference about this association in the literature. It could be accidental or explained by the distribution and expression of bcl-2 protein among tissues with direct hormonal influence or action and may be the key question for future analysis.
+
+It has been postulated that bcl-2 expression increases cell life span, increasing the risk to acquire other alterations, such as chromosomic abnormalities and viral infections, and resulting in malignant transformation or tumour progression. The bcl-2 overexpression can be an early event in epithelial neoplasm carcinogenesis. These tumours frequently present distinct morphological stages, since benign hyperplasia, dysplasia, in situ carcinoma and finally invasive carcinoma(2, 13). Some papers(2, 4, 6, 9, 10, 16) have indicated that the role of bcl-2 is, probably, more important in the initial development of colorectal tumours, keeping cells alive for late influence of others oncogenes, than in late phases of tumour progression. In the present study, on univariate analysis, a strong trend (P = 0,053) of low percentage of positive bcl-2 cases among tumours with distant metastasis was observed, and this finding partially corroborates that hypothesis.
+
+The bcl-2 protein was considered a determinant factor to predict lymphatic involvement in some studies. SIERRA et al.(25) demonstrated that patients with T1 low-degree breast tumours showing overexpression of bcl-2 and apoptotic loss would benefit from more aggressive therapies, since they had up to 13 folds more probabilities to present lymphatic metastasis. However, the results of KAKLAMANIS et al.(10) in colorectal carcinoma imply a less aggressive pathway on tumour transformation for the bcl-2 positive group. We did not found any association between bcl-2 status and lymphatic metastasis.
+
+Results concerning the role of the bcl-2 protein in relation to prognostic parameters and survival of colorectal cancer are also conflicting. Some authors(3) had demonstrated that bcl-2 overexpression seems to be associated with advanced histological grade, resulting in a more aggressive tumour. Others(2, 4, 9, 14, 24) had showed that patients with bcl-2 positive colorectal carcinoma had a more favourable clinical course. Finally, some studies(5, 12, 16, 19, 23) had failed to demonstrate any correlation between bcl-2 expression and well-known prognostic features, in agreement with our results.
+
+The reason for differences on clinical implications of bcl-2 expression in lung, breast and colon and rectum, among other tumours, must be clarified. It is possible that, in some solid tumours, the expression of bcl-2 may be a biological phenomenon without specific implication on the carcinogenic pathway. On the other hand, these discrepancies could be explained by a diverse interaction of oncogenes and tumour suppressor genes on cell transformation and tumour progression of a particular tissue. The expression of these oncoproteins may have an important role on predicting therapeutic response and prognosis as much bcl-2 as other proteins represent potential targets for new therapeutic agents. Nevertheless, despite some promising studies, the introduction of bcl-2 analysis by immunohistochemistry as a routine laboratory tool in the clinical management of colorectal cancer is still to be determined while variability of results and technique standardisation remain unsolved.
+
+ 
+
+REFERENCES
+
+1. Adams JM, Cory S. The bcl-2 protein family: arbiters of cell survival. Science. 1998;281:1322-6.        [ Links ]
+
+2. Baretton BG, Diebold J, Christoforis G, Vogt M, Müller C, Dopfer K, Schneiderbanger K, Schmidt M, Löhrs U. Apoptosis and immunohistochemical bcl-2 expression in colorectal adenomas and carcinoma. Aspects of carcinogenesis and prognostic significance. Cancer. 1996;77:255-64.        [ Links ]
+
+3. Bhatavdekar JM, Patel DD, Ghosh N, Chikhlikar PR, Trivedi TI, Suthar TP, Doctor SS, Shah NG, Balar DB. Coexpression of bcl-2, c-myc and p53 oncoproteins as prognostic discriminants in patients with colorectal carcinoma. Dis Colon Rectum. 1997;40:785-90.        [ Links ]
+
+4. Bosari S, Moneghini L, Graziani D, Lee AK, Murray JJ, Coggi G, Viale G. Bcl-2 oncoprotein in colorectal hyperplastic polyps, adenomas and adenocarcinomas. Hum Pathol. 1995;26:534-40.        [ Links ]
+
+5. Dursun A, Poyraz A, Suer O, Sezer C, Akyol G. Expression of bcl-2 and c-erbB-2 in colorectal neoplasia. Pathol Oncol Res. 2001;7:24–7.        [ Links ]
+
+6. Flohil CC, Janssen PA, Bosman FT. Expression of Bcl-2 in hyperplastic polyps, adenomas and carcinomas of the colon. J Pathol. 1996;178:393-97.        [ Links ]
+
+7. Hockenbery D, Nuñez G, Milliman C, Schreiber RD, Korsmeyer SJ. Bcl-2 is an inner mitochondrial membrane protein that blocks programmed cell death. Nature 1990;348:334-6.        [ Links ]
+
+8. Hockenbery DM, Oltvai ZN, Yin X-M, Milliman CR, Korsmeyer SJ. Bcl-2 functions in an antioxidant pathway to prevent apoptosis. Cell. 1993;75:241-51.        [ Links ]
+
+9. Ilyas M, Hao X-P, Wilkinson K, Tomlinson IPM, Abbasi AM, Forbes A, Bodmer WF, Talbot IC. Loss of bcl-2 expression correlates with tumour recurrence in colorectal cancer. Gut. 1998;43:383-7.        [ Links ]
+
+10. Kaklamanis L, Savage A, Mortensen N, Tsiotos P, Doussis-Anagnostopoulou I, Biddolph S, Whitehouse R, Harris AL, Gatter KC. Early expression of bcl-2 protein in adenoma-carcinoma sequence of colorectal neoplasia. J Pathol. 1996;179:10-4.        [ Links ]
+
+11. Korsmeyer SJ. Bcl-2 initiates a new category of oncogenes: regulators of cell death. Blood. 1992;80:879-86.        [ Links ]
+
+12. Langlois NE, Justin L, Eremin O, Heys SD. Apoptosis in colorectal carcinoma occurring in patients aged 45 years and under: relantionship to prognosis, mitosis and immunohistochemical demonstration of p53, c-myc and bcl-2 protein products. J Pathol. 1997;182:392-7.        [ Links ]
+
+13. Lu QL, Abel P, Foster C, Lalani EN. Bcl-2: role in epithelial differentiation and oncogenesis. Hum Pathol. 1996;26:102-10.        [ Links ]
+
+14. Meterissian SH, Kontogiannea M, Al-Sowaidi M, Linjawi A, Halwani F, Jamison B, Edwardes M. Bcl-2 is a useful prognostic marker in Dukes' B colon cancer. Ann Surg Oncol. 2001;8:533-7.        [ Links ]
+
+15. Moreira LF, Naomoto Y, Kamikawa Y, Hamada M, Orita K. Assessment of apoptosis in oesophageal carcinoma preoperatively treated by chemotherapy and radiotherapy. Anticancer Res. 1995;15:639-44.        [ Links ]
+
+16. Mosnier J-F, Perret AG, Vindimian M, Dumollard JM, Balique JG, Perpoint B, Boucheron S. An immunohistochemical study of the simultaneous expression of bcl-2 and p53 oncoproteins in epithelial tumours of the colon and rectum. Arch Pathol Lab Med. 1996;120:654-9.        [ Links ]
+
+17. Mueller J, Mueller E, Hoepner I, Jütting J, Bethke B, Stolte M, Höfler H. Expression of bcl-2 and p53 in de novo and ex-adenoma colon carcinoma: a comparative immunohistochemical study. J Pathol. 1996;180:259-65.        [ Links ]
+
+18. Nowell PC. Molecular events in tumor development. N Engl J Med. 1988;319:575-7.        [ Links ]
+
+19. Pereira H, Silva S, Julião R, Garcia P, Perpétua F. Prognostic markers for colorectal cancer: expression of p53 and bcl-2. World J Surg. 1997;21:210-3.        [ Links ]
+
+20. Pricolo VE, Finkelstein SD, Hansen K, Cole BF, Bland KI. Mutated p53 gene is an independent adverse predictor of survival in colon carcinoma. Arch Surg. 1997;132:371-5.        [ Links ]
+
+21. Que FG, Gores GJ. Cell death by apoptosis: basic concepts and disease relevance for the gastroenterologist. Gastroenterology. 1996;110:1238-43.        [ Links ]
+
+22. Rothman K. Multivariate analysis. In: Rothman K. Modern epidemiology. Boston; Little, Brown; 1986. p. 285-310.        [ Links ]
+
+23. Sarela AI, Scott N, Ramsdale J, Markham AF, Guillou PJ. Immunohistochemical detection of the anti-apoptosis protein, survivin, predicts survival after curative resection of stage II colorectal carcinomas. Ann Surg Oncol. 2001;8:305-10.        [ Links ]
+
+24. Schwandner O, Schieck THK, Bruch HP, Duchrow M, Windhoevel U, Broll R. p53 and bcl-2 as significant predictors of recurrence and survival in rectal cancer. Eur J Cancer. 2000;36:348-56.        [ Links ]
+
+25. Sierra A, Castellsagué X, Tórtola S, Escobedo A, Lloveras B, Peinado MA, Moreno A, Fabra A. Apoptosis loss and bcl-2 expression: key determinants of lymph node metastases in T1 breast cancer. Clin Cancer Res. 1996;2:1887-94.        [ Links ]
+
+26. Sinicrope FA, Ruan SB, Cleary KR, Stephens LC, Lee JJ, Levin B. Bcl-2 and p53 oncoprotein expression during colorectal tumorigenesis. Cancer Res. 1995;55:237-41.        [ Links ]
+
+27. Teich NM. Oncogenes and cancer. In: Franks LM, Teich NM, editors. Introduction to the cellular and molecular biology of cancer. 3rd edition. Oxford University Press; 1997. p. 169-201.        [ Links ]

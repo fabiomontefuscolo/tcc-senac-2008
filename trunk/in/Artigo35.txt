@@ -1,0 +1,161 @@
+Descritores
+
+Adult
+Aged
+Brazil
+Cross-Sectional Studies
+Female
+Humans
+Kidney
+Kidney Transplantation
+Living Donors
+Male
+Middle Aged
+Nephrectomy
+Organ Size
+Reference Values
+Regression Analysis
+Sex Factors
+
+
+Artigo
+
+Kidney weight and volume among living donors in Brazil
+
+ 
+
+Massa e volume renal entre doadores vivos no Brasil
+
+ 
+
+ 
+
+Vladimir Tonello de Vasconcelos; Rafael Cauê Katayama; Maria Flavia de Lima Ribeiro; José Osmar Medina-Pestana; José Carlos Costa Baptista-Silva
+
+Department of Surgery, Hospital do Rim e Hipertensão, Universidade Federal de São Paulo (Unifesp), São Paulo, Brazil
+
+Address for correspondence
+
+ 
+
+ 
+
+ABSTRACT
+
+CONTEXT AND OBJECTIVE: The present study was performed to measure kidney weight and volume among living donors of both sexes in Brazil.
+DESIGN AND SETTING: This was a cross-sectional survey carried out between December 2001 and August 2004.
+METHODS: Kidney transplantations from 219 living donors were analyzed for this study. The kidneys were weighed in grams on a single-pan digital balance just after drainage of the perfusion fluid and removal of the perirenal fat. The kidney volume was determined in milliliters by water displacement.
+RESULTS: The mean age at nephroureterectomy was 44 ± 9.5. The donor organs came from the left side in 172 cases and from the right side in 47 cases. The weights and volumes of the right and left kidneys were, respectively, 169.83 ± 29.91 g and 157.38 ± 31.84 ml; and 173.00 ± 33.52 g and 160.34 ± 34.40 ml. The differences between the sides were not significant.
+CONCLUSIONS: According to the present study, kidney weight cannot be the only factor determining the side on which nephroureterectomy is performed, because of the lack of statistical significance between the two sides. On average, females donate lower nephron doses than males do, which could in some transplants result in allograft damage.
+
+KEY WORDS: Living donor. Allograft. Kidney. Kidney transplantation. Organ size.
+
+RESUMO
+
+CONTEXTO E OBJETIVO: O atual estudo foi realizado para medir massa e volume de rins de doadores vivos brasileiros de ambos os sexos.
+TIPO DE ESTUDO E LOCAL: Estudo transversal executado entre dezembro de 2001 e agosto de 2004, foram incluídos no estudo, 219 nefroureterectomias renais de doadores vivos.
+MÉTODOS: O rim do doador foi pesado em gramas em uma balança digital, imediatamente após a retirada da gordura peri-renal e drenagem do fluído perfusional. O volume renal foi determinado em mililitros por deslocamento de água.
+RESULTADOS: A média de idade dos doadores foi de 44 ± 9,5 anos. Foram realizadas 172 (78,54%) nefroureterectomias no lado esquerdo e 47 (21,46%) no lado direito. O peso renal do lado direito foi de 169,83 ± 29,91 g; enquanto que o peso renal do lado esquerdo foi de 173,00 ± 33,52 g. O volume renal do lado direito foi de 157,38 ± 31,84 ml; do lado esquerdo, 160,34 ± 34,40 ml. Não havendo diferença significativa entre os lados.
+CONCLUSÕES: De acordo com o estudo atual, não há diferença significativa entre o peso renal do lado direito e esquerdo, não podendo ser o peso renal um fator de escolha do lado da nefroureterectomia. Além disso, o estudo proporciona uma sobre o peso e volume de rins de brasileiros adultos de ambos os sexos.
+
+PALAVRAS-CHAVE: Doadores vivos. Transplante homólogo. Rim. Transplante de rim. Peso do órgão.
+
+ 
+
+ 
+
+INTRODUCTION
+
+Some studies on kidney weight have been carried out in certain Western countries and also in India1 and Korea.2 The Indian study was done using cadaveric kidneys obtained from medicolegal autopsies, while the Korean study presented data based on kidneys from living organ donors.1,2 It is well known that kidney transplantation from living donors presents a better outcome than do cadaveric kidney allografts.3,4 In addition, grafted kidney function in kidney transplants from living donors is limited by the relative graft functional mass.5,6
+
+ 
+
+OBJECTIVE
+
+The present study was performed to measure kidney weights and volumes among living donors of both sexes in Brazil. Correlations between kidney weight and volume and body weight were investigated. However, it is important to mention that racial stratification was considered to be inappropriate in this study because of the intense miscegenation of the Brazilian population.
+
+ 
+
+METHODS
+
+This was a cross-sectional study carried out between December 2001 and August 2004, in which 219 kidney transplantations from living donors that were performed by one of the present authors (JCCBS) were enrolled. Patients with incomplete data or graft loss were excluded from the study.
+
+Before the nephroureterectomies, all the patients were cleared through conventional preoperative living donor protocols for transplantation. At this point, weight, height, age, gender, relationship between the donor and recipient, blood type and cross-match compatibility were recorded. The immunological evaluation included cytotoxic and flow cytometric cross-matching, and also human leukocyte antigen (HLA) class I and II typing. Renal vasculature and anatomy were evaluated preoperatively by aortography or magnetic resonance imaging (MRI) angiogram. Routine preanesthesia tests (complete blood count, multiple serum analysis, urinalysis and coagulation studies) were also performed at this time.
+
+All the nephroureterectomies were performed by means of an anterior retroperitoneal approach and the incision size was recorded. The kidneys were weighed in grams on a single-pan digital balance (Filizola BP6), just after drainage of the perfusion fluid and removal of the perirenal fat. The kidney volume was determined in milliliters by means of water displacement.
+
+The other variables studied included transplantation history, anastomosis, duration of the operation and volume of blood lost during surgery. All these data were recorded for future studies on long-term patient and graft survival following kidney transplantations.
+
+The data were analyzed using the Statistical Package for the Social Sciences (SPSS) software, version 11.0. Pearson's correlation coefficient was calculated to assess the relationships between kidney volume and body weight and between those parameters and other variables. Single factor analysis of variance (Anova) was used to evaluate differences in mean values among groups. All p-values were two-tailed and p < 0.05 was considered significant.
+
+This project was approved by the Ethics Committee of Universidade Federal de São Paulo.
+
+ 
+
+RESULTS
+
+The overall number of female donors in our series of 219 nephroureterectomies was 137 (63%). The donor organs came from the left side in 172 cases (78.54%), and from the right side in 47 cases. The patients' mean age at the time of nephroureterectomy was 44 ± 9.5 (range: 23 to 72). Their mean weight was 74.49 ± 11.63 kg for males and 65.64 ± 11.43 kg for females. The mean height was 1.68 ± 0.06 m for males and 1.58 ± 0.08 m for females. The donor's body mass index (BMI) ranged from 16.8 kg/m2 to 39.8 kg/m2 (mean: 26.2 kg/m2).
+
+The mean kidney weight and volume were 172.32 ± 32.74 g and 159.70 ± 33.82 ml, respectively. Although the kidney weights and volumes for the two genders were not statistically different between the four age groups (Table 1), this might be explained by the low number of cases in the first age group. On the other hand, the kidney weights and volumes were significantly correlated (p < 0.01) with body weights and BMI (Table 2). There were no significant differences in relation to which side the kidney was from, for any of the parameters (Table 3).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The mean weights of the right and left kidneys were, respectively, 177.43 ± 23.88 g and 187.07 ± 34.69 g for males and 166.61 ± 31.92 g and 163.80 ± 29.44 g for females. A similar pattern was evident for the volumes (Table 4). Except in relation to BMI, right kidney weight and volume, gender differences were significant for all other measurements (Table 4). Also, the differences between the sides in relation to kidney weight, kidney volume, donor weight, donor height and BMI were not significant for either gender (Table 4).
+
+ 
+
+ 
+
+DISCUSSION
+
+At birth, both kidneys weigh between 20 and 35 g. The average adult kidney weight is 10 to 14 times greater than the newborn kidney weight.7 Nyengaard and Bendtsen8 (1992) showed that there is a linear relationship between kidney weight and total glomerular count.
+
+From the present study, it can be seen that kidney weight cannot be the only factor determining the side on which to perform nephroureterectomy, because of the lack of statistical difference between the two sides.
+
+The discrepancy between kidney weights found by several studies (Table 5) can be explained by the different weights and heights of the populations and by the measurement methods. On fixation, kidney weight decreases by up to 10%. According to Saxena et al.,9 kidney volume measurements by means of ultrasonography have limitations because volumes are derived indirectly from two-dimensional measurements. In the present study, intraoperative weight and volume displacement measurements were made in bloodless kidneys, thereby providing more accurate parameters.
+
+ 
+
+ 
+
+It has been suggested that inadequacy of transplanted kidney mass relative to recipient size may be a non-immunological factor that leads to graft loss.10
+
+ 
+
+CONCLUSION
+
+As seen in this study, indirect measurements show that, on average, females donate lower nephron doses than males do, which could in some transplants result in allograft damage. Kidney weight cannot be the only factor determining the side on which nephroureterectomy is performed, because of the lack of statistical significance between the two sides. Moreover, the present study provides baseline data on the weights and volumes of the kidneys of Brazilian adults of both sexes. In addition, the data recorded at the time of transplantation may provide information on the role of glomerular filtration in cases of chronic renal allograft failure.
+
+ 
+
+REFERENCES
+
+1. Sahni D, Jit I, Sodhi L. Weight and measurements of kidneys in northwest Indian adults. Am J Hum Biol. 2001;13(6):726-32.         [ Links ]
+
+2. Kim SI, Kim YS, Kim MS, Moon JI, Park K. True living donor kidney weight-to-recipient body weight ratio influences posttransplant 1-year renal allograft function. Transplant Proc. 1998;30(7):3120.         [ Links ]
+
+3. Baptista-Silva JC, Poli de Figueiredo LF, Camara AL, et al. Outcome of 605 consecutive living donor nephrectomies through an anterior subcostal retroperitoneal approach. Transplant Proc. 2002;34(2):451-2.         [ Links ]
+
+4. Jones KW, Peters TG, Walker GW. Anterior-retroperitoneal living donor nephrectomy: technique and outcomes. Am Surg. 1999;65(3):197-204.         [ Links ]
+
+5. Pourmand G, Taheri M, Mehrsai AR, Nourijelyani K. Impact of donor nephron mass on outcomes in renal transplantation. Transplant Proc. 2001;33(5):2828-9.         [ Links ]
+
+6. Kasiske BL, Snyder JJ, Gilbertson D. Inadequate donor size in cadaver kidney transplantation. J Am Soc Nephrol. 2002;13(8):2152-9.        [ Links ]
+
+7. Crelin ES. Kidneys. In: Crelin ES, editor. Functional anatomy of the newborn. New Haven: Yale University Press; 1973. p. 62-4.        [ Links ]
+
+8. Nyengaard JR, Bendtsen TF. Glomerular number and size in relation to age, kidney weight, and body surface in normal man. Anat Rec. 1992;232(2):194-201.         [ Links ]
+
+9. Saxena AB, Busque S, Arjane P, Myers BD, Tan JC. Preoperative renal volumes as a predictor of graft function in living donor transplantation. Am J Kidney Dis. 2004;44(5):877-85.         [ Links ]
+
+10. Brenner BM, Cohen RA, Milford EL. In renal transplantation, one size may not fit all. J Am Soc Nephrol. 1992;3(2):162-9.        [ Links ]

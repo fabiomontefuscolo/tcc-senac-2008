@@ -1,0 +1,127 @@
+Descritores
+
+Abscess
+Adult
+Complementary Therapies
+Cosmetic Techniques
+Disease Outbreaks
+Drug Contamination
+Female
+Humans
+Injections
+Middle Aged
+Mycobacterium Infections, Atypical
+Mycobacterium chelonae
+Peru
+Skin Diseases, Bacterial
+
+
+Artigo
+
+Outbreak of persistent cutaneous abscesses due to Mycobacterium chelonae after mesotherapy sessions, Lima, Peru
+
+ 
+
+Surto de abscessos cutâneos persistentes por Mycobacterium chelonae pós-mesoterapia, Lima, Peru
+
+ 
+
+ 
+
+César V MunaycoI; Carlos G GrijalvaII; Dante R CulquiI; José L BolarteI; Luis A Suárez-OgnioI; Neyda QuispeIII; Roger CalderonIII; Luis AscenciosIII; Manuel Del SolarIV; Martín SalomónIV; Francisco BravoIV; Eduardo GotuzzoV
+
+IDirección General de Epidemiología. Ministerio de Salud. Lima, Perú
+IIDepartment of Preventive Medicine. Vanderbilt University Medical Center, Nashville, TN, USA
+IIIInstituto Nacional de Salud. Lima, Perú
+IVDepartamento de Enfermedades Infecciosas. Hospital Nacional Cayetano Heredia. Lima, Perú
+VInstituto de Medicina Tropical Alexander Von Humboldt. Universidad Peruana Cayetano Heredia. Lima, Perú
+
+Correspondence
+
+ 
+
+ 
+
+ABSTRACT
+
+Outbreaks of rapidly growing mycobacteria have been occasionally described. The article reports an outbreak of cutaneous abscesses due to Mycobacterium chelonae following mesotherapy in Lima, Peru. From December 2004 through January 2005, 35 subjects who had participated in mesotherapy training sessions presented with persistent cutaneous abscesses. Thirteen (37%) of these suspected cases consented to underwent clinical examination. Skin punch-biopsies were collected from suspicious lesions and substances injected during mesotherapy were analyzed. Suspected cases were mainly young women and lesions included subcutaneous nodules, abscesses and ulcers. Mycobacterium chelonae was isolated from four patients and from a procaine vial. In conclusion, it is important to consider mesotherapy as a potential source of rapidly growing mycobacteria infections.
+
+Key words: Mycobacterium chelonae. Mycobacterium infections, atypical. Disease outbreaks. Peru.
+
+RESUMO
+
+Surtos de micobactérias de crescimento rápido têm sido relatados ocasionalmente. O estudo relata um surto de abscessos cutâneos por Mycobacterium chelonae após sessões de mesoterapia em Lima, Peru. De dezembro de 2004 a janeiro de 2005, 35 pessoas que haviam passado por sessões de mesoterapia apresentaram esses abscessos cutâneos. Treze (37%) desses casos suspeitos concordaram em realizar exames clínicos. Foram realizadas biópsias de punção de pele de lesões suspeitas e examinadas substâncias injetadas durante a mesoterapia. Os casos suspeitos eram predominantemente mulheres jovens e as lesões incluíram nódulos subcutâneos, abscessos e úlceras. Mycobacterium chelonae foi isolada de quatro pacientes e de um frasco de procaína. Em conclusão, é importante considerar a mesoterapia como fonte potencial de infecções de micobactérias de crescimento rápido.
+
+Descritores: Mycobacterium chelonae. Infecções atípicas por Mycobacterium. Surtos de doenças. Peru.
+
+ 
+
+ 
+
+INTRODUCTION
+
+Although rapidly growing mycobacteria (RGM) are ubiquitous, diseases caused by these atypical bacteria are relatively uncommon.1 Among RGM, Mycobacterium chelonae is particularly prominent. Clinical diseases caused by this agent include cutaneous infections ranging from localized cellulitis to osteomyelitis. The precise burden of disease caused by this microorganism is unknown and most available information comes from occasional case reports. Cutaneous infections caused by RGM, including M. chelonae, have been associated with penetrating cutaneous trauma. Common procedures related to RGM-related infections included injections, liposuction, acupuncture and, more rarely, catheter insertions.1
+
+Mesotherapy is an invasive procedure occasionally offered as "alternative medicine". The technique involves the intradermal injection of small amounts of diluted drug(s) and has been used to ameliorate pain and inflammation and to improve "esthetical" conditions.2,5 However, there is a paucity of evidence supporting the efficacy of this procedure and its mechanism of action is unclear.5 As for other invasive procedures, adverse events associated to mesotherapy have been reported, including allergic reactions, atrophy, lipodystrophy, bleeding and systemic and local infections (HIV, hepatitis, atypical mycobacteria and pyodermitis).6
+
+The present report describes the investigation of an outbreak of persistent cutaneous lesions after mesotherapy in Lima, Peru.
+
+ 
+
+METHODS
+
+In December 2004, four patients presenting persistent cutaneous lesions were reported by the Alexander Von Humboldt Tropical Medicine Institute – Cayetano Heredia National Hospital to the General Direction of Epidemiology – Ministry of Health (GDE-MoH), Peru. The hospital laboratory had isolated RGM from lesion samples. All patients had attended mesotherapy training courses.
+
+Two mesotherapy training courses preceded the outbreak onset. Both courses took place in September 2004, approximately four months before the identification of the first case. Each mesotherapy course enrolled approximately 20-25 participants and both training courses included theory and practice sessions in which attendees injected/received injections to/from other attendees. These practices were supervised by a "cosmetologist," who also provided the substances for the injections. Injectable vials recovered during the investigation included: L-carnitine, procaine, organic silicone and ascorbic acid. The procaine and L-carnitine vials had already been opened.
+
+An outbreak investigation was performed from December 2004 through January 2005, in Lima, Peru. A suspected case was defined as a person who had a persistent cutaneous lesion (duration > 2 weeks) and history of exposure to at least one mesotherapy session (as patient or trainee) within the last six months. A case was deemed as confirmed when a positive culture for RGM was obtained.
+
+Through the media, people were alerted on the potential association between mesotherapy and cutaneous lesions and attendees of mesotherapy sessions were encouraged to visit/contact their primary physicians for clinical evaluation. Clinicians of public/private health care centers in Lima were invited to report patients meeting the case definition to the GDE-MoH. A screening process was set up involving telephone contact and home visits by a research team. Suspected cases were interviewed using a structured questionnaire and skin punch-biopsies samples were collected. Suspected cases were invited for a specialized clinical examination and treatment at the Alexander Von Humboldt Tropical Medicine Institute.
+
+Biological samples and injectable "mesotherapy-substances" recovered during the investigation were analyzed at the laboratories of the National Institute of Health. Primary isolation of RGM was performed using BACTEC 460 TB in Middlebrook 12B medium. Growing colonies of RGM were typed based on growth rates and standard biochemical and enzymatic tests. The clonal relationship between five mycobacterial isolates was determined through Enterobacterial Repetitive Intergenic Consensus (ERIC) PCR,6 using ERIC1R 5'-ATGTAAGCTCCTGGGGATTCAC primers. DNA fingerprints cluster analyses of these isolates were performed using Gel Compar II version 4.0 package (Applied Maths, Kourtrai, Belgium).
+
+Protection of patients' privacy was emphasized throughout the study and informed consent was obtained.
+
+ 
+
+RESULTS
+
+Thirty-five suspected cases were identified. In addition to those persons who attended mesotherapy training courses, four additional suspected cases not directly linked to these courses were identified. Two of them had received weight loss mesotherapy treatment by the same "cosmetologist" who directed the training courses and the other two patients had received treatment from mesotherapy course "graduates," but did not disclose the purpose of the received treatment. Overall, 13 (37%) suspected cases consented to participate (including the four cases initially reported to the GDE-MoH). Cultures were performed in samples from nine patients and M. chelonae was isolated from four cases. Among these confirmed cases, three reported having attended the same mesotherapy course and one had attended a previous course (two weeks before) at the same institution.
+
+Most suspected cases (11; 85%) were women and patients' age ranged from 22 to 53 years. The median incubation period was approximately 16 days. The most common symptoms reported were fever (5; 40%), headache (5; 38%) and malaise (4; 33%). Subcutaneous nodules and abscesses were observed in 92% of the cases and skin ulcers in the remaining 8%. By the time of the evaluation, seven patients (54%) had had their abscesses drained and their lesions had turned into ulcers. Most lesions were located in the abdomen (62%) and face (40%) (Figure). The median number of injections received and lesions per subject were 60 and 23, respectively. Organic silicone and procaine were the most commonly injected substances (11; 85%). M. chelonae was isolated from a procaine vial.
+
+ 
+
+ 
+
+According to the amplification patterns (N=5), DNA fingerprints from two isolates obtained from cases who attended the same mesotherapy course were clonally related. The other three isolates (from two cases and the procaine vial) showed similarities ranging from 60% to 85%.
+
+ 
+
+DISCUSSION
+
+The study findings are consistent with previous reports where M. chelonae was identified as the causative agent of similar lesions in mesotherapy patients. Similar infections have also been reported acupuncture treatment and insulin injections.3,7 A similar outbreak was documented during the same time period in the District of Columbia, United States. Cutaneous lesions were similar to the ones described in this report and M. chelonae was also isolated from biological samples.2
+
+The source of contamination remains unclear. Injected substances might have been contaminated before use. In the present study, M. chelonae was isolated from one vial of procaine but this was opened by the time of sample collection and the DNA fingerprint of the isolated strain was not identical to others. Alternatively, RGM might have been inoculated during the injection procedure itself and different subjects were likely infected by bacteria that they were carrying on their skin. Nevertheless, although two of the isolates had identical DNA fingerprints, the remaining three isolates were clearly different. The identification of the actual source of contamination will require further scrutiny.
+
+The present study has some limitations. First, a case-series study does not have a comparison group and the assessment of the putative exposure is usually problematic; therefore further analytical inferences were not possible. Second, the identification of cases was based on a "willing-to-report" basis and moreover, the participation rate was low. Third, RGM are fastidious organisms and few isolates were obtained. However, the study observations are consistent with previous reports in the characteristics of clinical lesions and the isolated microorganism.2,4 The present research suggests a potential association between mesotherapy injections and persistent cutaneous abscesses in Lima, and warrant considerations on the safety of mesotherapy practices.
+
+Information supporting the efficacy of mesotherapy is limited and reports of adverse effects are increasing as this practice gains popularity. Although regulations on mesotherapy practices vary from country to country, it is considered that, in Peru, mesotherapy must be performed by certified health professionals and patients willing to undergo these procedures must be fully informed on the potential risks. It is important to consider mesotherapy as a potential source of RGM-related lesions.
+
+ 
+
+REFERENCES
+
+1. Brown-Elliott BA, Wallace Jr. RJ, Clinical and taxonomic status of pathogenic nonpigmented or late-pigmenting rapidly growing mycobacteria. Clin Microbiol Rev. 2002;15(4):716-46.        [ Links ]
+
+2. Centers for Disease Control and Prevention (CDC). Outbreak of mesotherapy-associated skin reactions-District of Columbia area, January-February 2005. MMWR Morb Mortal Wkly Rep. 2005;54(44):1127-30.        [ Links ]
+
+3. Finucane K, Ambrey P, Narayan S, Archer CB, Dayan C. Insulin injection abscesses caused by Mycobacterium chelonae. Diabetes Care. 2003; 26(8):2483-2484.        [ Links ]
+
+4. Nagore E, Ramos P, Botella-Estrada R, Ramos-Niguez JA, Sanmartin O, Castejon P. Cutaneous infection with Mycobacterium fortuitum after localized microinjections (mesotherapy) treated successfully with a triple drug regimen. Acta Derm Venereol. 2001;81(4):291-3.        [ Links ]
+
+5. Rohrich RJ. Mesotherapy: what is it? Does it work? Plast Reconstr Surg. 2005;115(5):1425.        [ Links ]
+
+6. Sampaio JL, Viana-Niero C, Freitas D, Höfling-Lima AL, Leão SC. Enterobacterial repetitive intergenic consensus PCR is a useful tool for typing Mycobacterium chelonae and Mycobacterium abscessus isolates. Diagn Microbiol Infect Dis. 2006;55(2):107-18.        [ Links ]
+
+7. Woo PC, Leung KW, Wong SS, Chong KT, Cheung EY, Yuen KY. Relatively alcohol-resistant mycobacteria are emerging pathogens in patients receiving acupuncture treatment. J Clin Microbiol. 2002 Apr;40(4):1219-24.        [ Links ]

@@ -1,0 +1,152 @@
+Descritores
+
+Animals
+Diptera
+Larva
+Microscopy, Electron, Scanning
+Ovum
+Rats
+
+
+Artigo
+
+First description of the immature stages of Hemilucilia segmentaria (Diptera: Calliphoridae)
+
+ 
+
+PATRICIA J. THYSSEN 1,2 & ARÍCIO X. LINHARES1
+
+1 Departamento de Parasitología, Instituto de Biologia, Universidade Estadual de Campinas (UNICAMP), C. postal 6109, 13083-970, Campinas, SP, Brazil.
+2E-mail: thyssenpj@yahoo.com.br
+
+Dirección para correspondencia
+
+ABSTRACT
+
+The immature stages oí Hemilucilia segmentaria (Fabricius, 1805) (Diptera: Calliphoridae) are described. Egg morphology and structures such as the cephalopharyngeal skeleton, anterior and posterior spiracles, and the dorsal spines between the prothorax and mesothorax from first, second and third instar larvae are characterized, using light and scanning electron microscopy. This species is abundant in Neotropical forests and, because of its necrophagous behavior, is of substantial medico-legal importance for estimating the postmortem interval in criminal investigations. Information presented herein may be useful to differentiate among eggs and larvae of closely related species and to supplement the database for blowfly identification.
+
+Key terms: Hemilucilia segmentaria, Calliphoridae, immature stages, Forensic Entomology.
+
+INTRODUCTION
+
+The genus Hemilucilia includes six endemic species from Central and South America. Hemilucilia segmentaria (Fabricius, 1805) has been collected in many localities throughout Brazil (Dear, 1985). It is abundant in natural environments, but occurs in reduced numbers or is completely absent from urban areas (Linhares, 1981).
+
+Hemilucilia segmentaria is a necrophagous insect whose larvae usually feed on decaying animal matter. Immature specimens have been found on both pig carcasses, the animal model in Forensic Entomology experiments conducted in outdoor areas of Southeastern Brazil (Carvalho et al., 2000; Carvalho and Linhares, 2001), and in human corpses (Thyssen, unpublished data). Thus, H. segmentaria may be a forensically relevant fly species.
+
+Blowfly eggs, larvae or pupae collected from human corpses have been used as entomological evidence in forensic investigations not only to estimate the postmortem interval (PMI) (Erzinclioglu, 1983; Marchenko, 2001), but also to analyze any toxic substances involved in the cause of death (Smith, 1986). Thus, the identification of fly specimens collected from corpses is a priority in forensic investigations.
+
+Immature insects are generally more difficult to identify to species level, particularly during the early instars. The main reasons for this are intraspecific variation and inconspicuous morphological differences between species, associated with a dearth of morphological information about them. Even with advanced molecular biology techniques, which recently have been used to identify and to differentiate insect species in estimating the PMI (Thyssen et al., 2005), no result could be obtained prior to sound taxonomic evidence.
+
+This study includes morphological descriptions of first, second and third instars, puparium and egg of H. segmentaria, which have not been previously described. Information presented herein may be useful to differentiate among eggs and larvae of other closely related species and to supplement the database for blowfly identification.
+
+METHODS
+
+Samples
+
+Hemilucilia segmentaria adult specimens were collected from carcasses of white laboratory rats (Rattus norvergicus) with a fly net in Santa Genebra Biological Reserve, Campinas, SP, Brazil (22°44'45"S/47°06'33"W). The flies were transported live to the laboratory where they were anesthetized for 90 s using low temperature and then identified and housed in separate plastic cages with nylon vents. The specimens were identified morphologically based on Dear (1985).
+
+These insects were housed on a 12 h photoperiod, at 26 ± 1 °C and 70 ± 10 % relative humidity. They were fed raw bovine liver, sugar and water. Raw ground beef was used as oviposition medium. Eggs were removed from the substrate using a fine brush and transferred to plastic vials. Each vial received 150 eggs and 300 g of raw ground beef (2 g / larva) and all were subsequently transferred to growth chambers kept at the environmental conditions described above for adults. These specimens were followed through all development stages.
+
+A portion of the eggs were separated with NaHS03, rinsed in distilled water and fixed in 80 % ethanol. Each larval instar was washed in distilled water to remove detritus, killed using hot water below boiling point (approximately 70-80 °C) during 3-5 min and transferred to 70 % ethanol for storage. Spine patterns were occasionally difficult to observe when larvae were not fully extended. This was solved by placing the specimen in boiling water and extending them there. The pupae were fixed directly in 70 % ethanol. External features of whole larvae and of puparium (dimensions, color, general shape, position of bands of spines, position of tubercles on last abdominal segment and anal plate) were examined with a Zeiss® stereomicroscope with 40-100 X magnification.
+
+Slide preparations were made for detailed examination of the cephalopharyngeal skeleton and the anterior and posterior spiracles. Some larvae samples were macerated in cold 10 % KOH: whole small larvae were immersed in the solution for 30-60 min; larger larvae were cut into several pieces to facilitate treatment for 12 h or more. Whole small larvae were mounted and individual fragments were mounted separately for larger specimens. After maceration, each larva/fragment was soaked for 5-8 h in 80 % ethanol to remove excess liquid, transferred to absolute ethanol to dehydrate, transferred to clove oil to clear, and mounted in Canada balsam.
+
+Terminology of egg and larval structures followed Ferrar (1987) and She well (1987).
+
+Measurement, Drawing and Scanning Electronic Microscopy (SEM)
+
+All samples were measured with a digital camera connected to a Zeiss® stereomicroscope and the Image-Pro Lite 4.0® program (Media Cybernetics, 1998). All measurements are given in millimeters. The drawings were done with a camera lucida chamber connected to a Zeiss® stereomicroscope.
+
+Scanning electron microscopy (SEM) was used to observe taxonomic structures useful in the identification and recognition of immature stages. For SEM, the specimens were fixed with 2.5 % glutaraldehyde in PBS at a pH of 7.4 at 4 °C for 24 h. They were then rinsed twice with PBS at 10 min intervals and then treated with 1 % osmium tetroxide at room temperature for 3 h for post-fixation. Specimens were then rinsed twice with PBS and dehydrated with increasing concentrations of alcohol as follows: 30 %, 50 %, 70 %, 80 %, 90 % and absolute ethanol. The samples remained in each concentration of ethanol for 12 h. They were then placed in acetone for two 12 h periods. Finally, the specimens were subjected to critical point drying to complete the dehydration process. For observation, samples were first attached with double-stick tape to aluminum stubs so they could be coated with gold in a sputter-coating apparatus before being viewed with a JEOL-JSM840A scanning electron microscope.
+
+RESULTS
+
+Description of the immature stages of Hemilucilia segmentaria (Figs. 1-10)
+
+Type material. Eggs, whole larvae, pupae and puparium, including the mounted slides of internal structures of the first, second and third larval instars, were deposited in the Entomological Collection of the Parasitology Department of the Biology Institute (UNICAMP), Campinas, Sao Paulo State, Brazil.
+
+Egg (Fig. 1). Length 1.51 ± 0.05 (n = 80); width 0.32 ± 0.03 (n = 80). Creamy-white. Elongate with rounded ends, slightly curved, with one end tapering to a sharp point. The surface of the chorion is covered with faint hexagonal reticulations, it seems quite smooth, translucent, allowing the observation of the embryo inside. At the anterior end is a simple micropyle. The plastron is narrow, extends almost the entire length of the egg, and bifurcates near the micropyle to a Y-shape, the "Y" having short arms. Dorsal surface with a hatching line smooth and swollen running for almost the whole length of the egg.
+
+
+Figure 1: Scanning electron micrograph of the egg of Hemilucilia segmentaria where: micropyle (mi), plastron (pi), chorion (ch) and hatching line (hi). Scale equals 100 µm.
+
+First instar (Fig. 2). Length 3.12 ± 0.31 (n = 60); width 0.58 ± 0.1 (n = 60). Creamy-white. Body cylindrical with the anterior end tapering gradually to a slender, pointed head, and the posterior end bluntly rounded. The body comprises 12 apparent segments: a small head (segment I), incompletely divided from a prothorax (segment II), followed by a mesothorax (segment III) and a metathorax (segment IV), followed by 8 abdominal segments (V-XII). A ventral longitudinal furrow separates the head segment into two cephalic lobes, with the mouth opening at the base of the furrow. Segments II-IV with complete spine bands, slightly developed. The first band is composed of ten irregular rows, with single and multi-pointed spines. The other segments (V-XII) with transparent and brown spine bands, composed of 4-5 rows that decrease in number along the longitudinal axis, are interrupted at the dorsum. The last segment of the larval body bears three pairs of poorly defined tubercles. Ventrally on the posterior segment is the anal plate covered by many spines. A pair of rudimentary posterior spiracles (mean spiracular width = 0.1, n = 10) are found on the last abdominal segment, and each spiracle with 1 straight slit, which is surrounded by an incomplete peritreme. Anterior spiracle is absent. Inside the larval head and extending into the thorax is a chitinous cephalopharyngeal skeleton (mean width = 0.72, n = 10). which consists of a number of distinct sclerites: a pair of more curved L-shaped sclerites (= mouthhook); a pair of very short sclerites (= dental) disposed below the mouthhook; one intermediate sclerite H-shaped in dorsal view; a pair of elongate triangular sclerites (= pharyngeal), pointed anteriorly and diverging posteriorly into two separate arms; a pair of inconspicuous accessory dental sclerites.
+
+
+Figure 2: First instar of Hemilucilia segmentaria. (A) dorsal view; (B) ventral view; (C) lateral view; (D) cephalopharyngeal skeleton; (E) posterior spiracles showing incomplete peritreme and one straight slit; and (F) posterior segment showing anal protuberance. Scale equals 0.5 mm (A-C), 0.1 mm (D-E) and 0.25 mm (F).
+
+Second instar (Fig. 3). Length 9.23 ± 0.41 (n = 60); width 1.61 ± 0.36 (n = 60). Creamy white. On the body, spine bands are more sclerotized than those in the first instar, with complete rows until segment VI. Composition of the other segments was similar to those described for the previous instar. The last segment of the larval body bears 6 pairs of tubercles, more defined than those in the previous instar. The anal plate is strongly developed. Posterior spiracles (mean spiracular width = 0.24, n -10) with 2 straight slits, which are surrounded by an incomplete peritreme, larger and more sclerotized than in the first instar. Anterior spiracles (mean width = 0.2, n - 10) are located on each side of the prothoracic segment, they protrude from the body wall and are disposed in a single row of 11-13 finger-like lobes, each with an aperture in its end. Cephalopharyngeal skeleton (mean width = 0.95, n - 10) similar to that of the first instar, although slightly larger and more sclerotized. Accessory dental sclerite is more evident in this instar.
+
+
+Figure 3: Second instar of Hemilucilia segmentaria. (A) dorsal view; (B) ventral view; (C) lateral view; (D) cephalopharyngeal skeleton; (E) posterior spiracles showing incomplete peritreme and two straight slits; (F) anterior spiracle; and (G) posterior segment showing anal protuberance and distribution of tubercles. Scale equals 2 mm (A-C), 0.1 mm (D-F) and 0.5 mm (G).
+
+Third instar (Figs. 4-8). Length 14.86 ± 1.09 (n = 60); width 3.05 ± 0.68 (n = 60). Creamy white to pinkish. Spine bands (Fig. 5) are more sclerotized than those in the second instar, with complete rows until segment VIII. Composition of the other segments was similar to those described for the previous instars. The six pairs of tubercles are well developed and distributed as shown in Figure 6. The anal plate (mean width = 0.9, n - 10) is completely developed and covered by brown spines heavily sclerotized. Posterior spiracles (mean spiracular width = 0.28, n - 10) with three straight slits set roughly parallel to each other, sloping downwards and inwards at about 45° to the vertical axis, with an incomplete peritreme, larger and more sclerotized than in the second instar and without a distinct button (or ecdysial scar). The button is more clear in third instar under SEM than under conventional optical microscopy (Fig. 7). Anterior spiracles (mean width = 0.22, n - 10) with shape similar to those of the previous instar, but more sclerotized and with 11-13 finger-like lobes (Fig. 5), varying in number within the same specimens as well as among different specimens. Cephalopharyngeal skeleton (mean width = 1.24, n = 10) similar to the second instar, larger and more sclerotized. Mouthhook and accessory dental sclerite more curved and conspicuous (Fig. 8).
+
+
+Figure 4: Third instar of Hemilucilia segmentaria. (A) dorsal view; (B) ventral view; (C) lateral view; (D) lateral view of cephalopharyngeal skeleton; (E) dorsal view of cephalopharyngeal skeleton; (F) posterior spiracles showing incomplete peritreme and three straight slits; (G) anterior spiracle; and (H) posterior segment showing anal protuberance and distribution of tubercles. Scale equals 3 mm (A-C), 0.1 mm (D-G) and 0.5 mm (H).
+
+
+	  	Figure 5: Scanning electron micrograph of the Hemilucilia segmentaria third instar larvae. (A) anterior region showing the cephalic lobes (cl), the mouth opening (mo), the anterior spiracles (as) and the spine bands (sb); (B) anterior spiracles showing finger-like lobes; (C) first band with single (sg) and multi-pointed (mp) spines. Scale equals 100 µm (A) and 10 µm (B-C).
+
+
+	  	Figure 6: Posterior segment of Hemilucilia segmentaria. Arrows indicate anal protuberance (an) and distribution of tubercles where: inner dorsal tubercles (idt), median dorsal tubercles (mdt), outer dorsal tubercles (odt), outer ventral tubercles (ovt), median ventral tubercles (mvt) and, inner ventral tubercles (ivt). Scale equals 0.25 mm.
+
+ 
+
+
+Figure 7: Posterior spiracle of Hemilucilia segmentaria: arrow indicates an indistinct button in the incomplete portion of peritreme. Wet mount on slide in (A) and scanning electro micrograph in (B). Scale equals 0.1 mm (A) and 100 µm (B).
+
+
+Figure 8: Wet mount of cephalopharyngeal skeleton of Hemilucilia segmentaria. (A) lateral view; (B) dorsal view. Arrows indicate accessory sclerite. Scale equals 0.25 mm.
+
+Puparium (Fig. 9). Length 9.87 ± 0.94 (n = 60); width 3.60 ± 0.25 (n = 60). Brown to black. Barrel shaped, heavily sclerotized, formed by the hardening of the third instar larval cuticle. Length smaller than in the previous instar. The longitudinal retraction of the body segments is evidenced in the lateral tissues of the body. Anterior region slightly narrower than the posterior region. Anterior spiracles located apically. Spine bands similar to those of the previous instar, with the rows of spines closer together and bent inwards. Pupal respiratory horns are present in segment VIII. Posterior spiracles similar to those of the previous instar, but closer together and more sclerotized.
+
+
+Figure 9: Puparium of Hemilucilia segmentaria. (A) dorsal view; (B) ventral view; (C) lateral view; (D) anterior segment showing anterior spiracles; and (E) posterior segment showing anal protuberance, distribution of tubercles and posterior spiracles. Scale equals 0.5 mm (A-C) and 1 mm (D-E).
+
+DISCUSSION
+
+The characters presented here allow for the differentiation of H. segmentaria from immatures of chrysomyinae, calliphorinae and luciliinae New World blowfly species. Conformation of the peritreme surrounding the posterior spiracle, the presence of accessory dental sclerite and the type of spines are the main characters that identify and differentiate this species according to the key proposed by Greenberg and Szyska (1984). Other features such as geographic distribution and feeding habit are similar to those of other calliphorid species, although this may be a consideration for identification depending on the study area. Hemilucilia segmentaria has been observed to prefer the warmer temperatures and higher humidities of low jungle, and is asynanthropic.
+
+Hemilucilia segmentaria is morphologically similar to Hemilucilia semidiaphana (Rondani, 1850) and was classified as a separate species in recent surveys of necrophagous dipterans. However, immature stages of H. segmentaria have not been described previously, possibly because immature specimens collected on putrid animal matter are laboratory-reared to adult for more accurate identification. The posterior spiracles and the anal plate of H. segmentaria in this study provide further evidence for the separation of the two species. The posterior spiracle peritreme of H. segmentaria is far more sclerotized, while that of H. semidiaphana is moderately sclerotized with delicate peritreme and a more distinguished button. However, the anal plate is more extended in H. semidiaphana than H. segmentaria (Fig. 10).
+
+
+Figure 10. Differences between Hemilucilia segmentaria (A) and Hemilucilia semidiaphana (B) third instar larvae.
+
+Mostly, the eggs of many flies can be classified only to genus level because of the absence of specific diagnostic characters. For example, H. segmentaria eggs resemble those of other species such as H. semidiaphana, Chrysomya albiceps (Wiedemann), Chrysomya putoria (Wiedemann), Cochliomyia macellaria (Fabricius) and Lucilia sericata (Meigen). In light of this, behavior and geographic distribution may be useful alternatives for species-level identification if incorporated in future taxonomic keys.
+
+The present study gives information that will aid in the identification of eggs and larvae of blowfly species of forensic importance. Nevertheless, more research on the bionomics of H. segmentaria is needed since the biological information of this species has not been studied enough.
+
+ACKNOWLEDGEMENTS
+
+This work was supported by São Paulo State Foundation for the Support of Research of (FAPESP), grant n° 00/ 03009-0.
+
+ 
+
+REFERENCES
+
+CARVALHO LML, THYSSEN PJ, LINHARES AX, PALHARES FB (2000) A checklist of arthropods associated with carrion and human corpses in southeastern Brazil. Mem Inst Oswaldo Cruz 95: 135-138
+        [ Medline ]        [ Lilacs ]
+
+CARVALHO LML, LINHARES AX (2001) Seasonality of insect succession and pig carcass decomposition in a natural forest area in Southeastern Brazil. J For Sci 46: 604-608
+
+DEAR JP (1985) A revision of the New World Chrysomyini (Diptera) (Calliphoridae). Rev Bras Zool 3: 109-169
+
+ERZINCLIOGLU YZ (1983) The application of entomology to forensic medicine. Med Sci Law 23: 57-63
+        [ Medline ]
+
+FERRAR P (1987) A guide to the breeding habits and immature stages of Diptera Cyclorrhapha. Copenhagen: Scandinavian Science Press, pp 10-31
+
+GREENBERG B, SZYSKA M (1984) Immature stages and biology of fifteen species of Peruvian Calliphoridae (Diptera). Ann Entomol Soc Am 77: 488-517
+
+LINHARES AX (1981) Synanthropy of calliphoridae and sarcophagidae (Diptera) in the city of Campinas, Sao Paulo, Brazil. Rev Bras Entomol 25: 189-215
+
+MARCHENKO MI (2001) Medicolegal relevance of cadaver entomofauna for the determination of the time of death. For Sci Int 120: 89-109
+
+MEDIA CYBERNETICS (1998) Image-Pro Lite 4.0 for windows 95/net/98. Maryland, USA
+
+SHEWELL GE (1987) Family Calliphoridae. In: MC ALPINE JF, PETERSON BV, SHEWELL GE, TESKEY HJ, VOCKEROTH JR, WOOD DM (eds) Manual of Neartic Diptera, Vol. 2. Ottawa: Research Branch Agriculture Canada
+
+SMITH KGV (1986) A Manual of Forensic Entomology. London/Ithaca, NY: British Museum (Natural History)/ Cornell University Press
+
+THYSSEN PJ, LESSINGER AC, AZEREDO-ESPIN AML, LINHARES AX (2005) The value of PCR-RFLP molecular markers for the differentiation of immature stages of two necrophagous flies (Diptera: Calliphoridae) of potential forensic importance. Neotropical Entomol 34: 777-783

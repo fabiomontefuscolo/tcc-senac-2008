@@ -1,0 +1,220 @@
+Descritores
+
+Apoptosis
+Cells, Cultured
+Epithelial Cells
+Fallopian Tubes
+Female
+Gene Expression Regulation
+Humans
+Neisseria gonorrhoeae
+Oligonucleotide Array Sequence Analysis
+Proto-Oncogene Proteins c-bcl-2
+Receptors, Tumor Necrosis Factor
+Reverse Transcriptase Polymerase Chain Reaction
+Salpingitis
+
+
+Artigo
+
+Apoptosis related genes expressed in cultured Fallopian tube epithelial cells infected in vitro with Neisseria gonorrhoeae
+
+ 
+
+PAZ A. REYES1, MACARENA F. VARGAS1, KATHERINE P. GARCÍA1, PAULINA S. RUBILAR1, PATRICIA A. NAVARRETE1, PAMELA M. FUENTES1, MIGUEL A. RÍOS1, PEDRO A. ORIHUELA1, RENATO H. VARGAS2, VÍCTOR H. RUBIO2, JOHN HECKELS3, MYRON CHRISTODOULIDES3, HUGO CÁRDENAS1 and LUIS A. VELASQUEZ1
+
+1 Laboratorio de Inmunología de la Reproducción, Facultad de Química y Biología, Universidad de Santiago de Chile, Santiago, Chile.
+2 Hospital San José, Santiago, Chile.
+3 Molecular Microbiology and Infection, Division of Infection, Inflammation and Repair, University of Southampton Medical School, Southampton, England.
+
+Dirección para correspondencia
+
+ABSTRACT
+
+Background: Infection of the Fallopian tubes (FT) by Neisseria gonorrhoeae (Ngo) can lead to acute salpingitis, an inflammatory condition resulting in damage primarily to the ciliated cells, with loss of ciliary activity and sloughing of the cells from the epithelium. Recently, we have shown that Ngo infection induced apoptosis in FT epithelium cells by a TNF-a dependent mechanism that could contribute to the cell and tissue damage observed in gonococcal salpingitis. Aim: To investigate the apoptosis-related genes expressed during apoptosis induction in cultured FT epithelial cells infected in vitro by Ngo. Materials and Methods: In the current study, we used cDNA macroarrays and real time PCR to identify and determine the expression levels of apoptosis related genes during the in vitro gonococci infection of FT epithelial cells. Results: Significant apoptosis was induced following infection with Ngo. Macroarray analysis identified the expression of multiple genes of the TNF receptor family (TNFRSF1B, -4, -6, -10A, -10B and -10D) and the Bcl-2 family (BAK1, BAX, BLK, HRK and MCL-1) without differences between controls and infected cells. This lack of difference was confirmed by RT-PCR of BAX, Bcl-2, TNFRS1A (TNFR-I) and TNFRSF1B (TNFR-II). Conclusion: Several genes related to apoptosis are expressed in primary cultures of epithelial cells of the human Fallopian tube. Infection with Ngo induces apoptosis without changes in the pattern of gene expression of several apoptosis-related genes. Results strongly suggest that Ngo regulates apoptosis in the FT by post-transcriptional mechanisms that need to be further addressed.
+
+Key terms: apoptosis, Fallopian tube, Neisseria gonorrhoeae, salpingitis, TNF-a
+
+INTRODUCTION
+
+The female reproductive tract is an immunologically unique site, which must respond to a diverse array of sexually transmitted pathogens and which must also be tolerant to allogeneic sperm and to the conceptus. Pelvic inflammatory disease (PID) is an inflammation of the upper reproductive tract and it is almost always an ascending infection in which pathogenic microorganisms spread from the lower reproductive tract (the cervix and vagina) to involve the endometrium, ovaries, myometrium, parametrium and Fallopian tubes (FT) [Hoyme, 1990; McCormack, 1994].
+
+PID is the most serious complication resulting from a sexually transmitted infection and the etiology is polymicrobial, with Chlamydia trachomatis and Neisseria gonorrhoeae (Ngo) as the causative organisms associated with the majority of cases. Ngo is the etiologic agent of gonorrhea, which is typically manifested as a mucosal infection of the male urethra and the lower genital tract of women. Localized infection with Ngo is frequently asymptomatic in women or results in a mucopurulent cervicitis; however, in approximately 10-25% of untreated women, ascending infection induces a range of inflammatory conditions including endometritis, pelvic (tubal or ovarian) peritonitis, tubal abscess and salpingitis. Long-term sequelae developing in these individuals include tubal damage, ectopic pregnancy, infertility and chronic pelvic pain [Cates et al., 1990; Stacey et al., 1992; Grodstein and Rothman, 1994].
+
+Little is known of the mechanisms involved in the early stages of the inflammatory response that occurs in the FT following ascending Ngo infection. However, several studies have suggested that production of pro-inflammatory cytokines is likely to contribute to the cell and tissue damage observed in gonococcal salpingitis. The early studies of McGee and colleagues with a human FT organ culture model demonstrated that Ngo infection resulted in damage primarily to the ciliated cells with subsequent loss of ciliary activity and sloughing of the cells from the epithelium [McGee et al., 1981; Stephens et al., 1987]. Furthermore, this damage correlated with up-regulated production of TNF-oc by FT epithelium induced by gonococcal infection [McGee et al., 1992; McGee et al., 1999]. More recently, Maisey (2003) demonstrated that Ngo infection of human FT also up-regulated expression of IL-loc, IL-1(3 and IL-8 in addition to TNF-oc.
+
+The studies of McGee and colleagues demonstrated that Ngo infection could induce cell death in FT epithelium. Cell death can occur through necrosis, which is accompanied by an aggressive inflammatory response, and apoptosis, which is an evolutionarily conserved, highly regulated genetic and biochemical process that is required for the development and homeostasis of multicellular organisms [Duvall et al., 1985]. Unlike necrosis, apoptosis does not induce an inflammatory response during the elimination of individual cells. In recent years, activation of human host cell apoptosis has been observed as a response to infection by a wide range of intracellular and extracellular pathogens [Weinrauch and Zychlinsky, 1999; Grassme et al., 2001]. Having an important role in normal development and tissue homeostasis, apoptosis has also been considered a primary defense against viral infection [Antoni et al., 1995]. It has also been demonstrated that apoptosis induction during some bacterial infections can limit the spread of intracellular infection by provoking inflammatory responses or by delivering the intracellular pathogen to professional phagocytes [Molloy et al., 1994; Fratazzi et al., 1997; Gao and Kwaik, 2000; Hacker and Fischer 2002]. In human urethral epithelium Ngo induces anti-apoptotic genes and protects the cells from staurosporine induced apoptosis [Binnicker, 2003]. However, a role for apoptosis during gonococcal salpingitis has not been investigated. In a recent study, Morales (2006), demonstrated that Ngo infection induced apoptosis in FT epithelium cells through a TNF-oc dependent mechanism and in this way could contribute to the cell and tissue damage observed in gonococcal salpingitis. The present study was undertaken to examine the expression of apoptosis-related genes during Ngo infection of tubal epithelial cells in primary culture. Complementary DNA macroarrays and real time PCR were used to determine the expression of 96 human genes involved in apoptosis.
+
+MATERIALS AND METHODS
+
+Culture of primary epithelial cells from human Fallopian tube
+
+Fallopian tubes were obtained, after informed consent, from fertile donors undergoing hysterectomy for reasons unrelated to this study. An exclusion criterion was the occurrence of sexually transmitted disease during the last year and a history of pelvic inflammatory disease. The Ethics Committee of the Universidad de Santiago de Chile approved all protocols. FT was processed immediately after removal as described previously [Morales et al., 2006]. After washing the organ with phosphate buffered saline (PBS), pH 7.4, the lumen was exposed through a longitudinal cut and strips of mucosal folds were dissected. The strips were washed in TC199 medium (Invitrogen, USA) and small pieces of about 1 mm in diameter were dissected and subsequently treated for 10 min at 37°C with a solution of 0.25% (w/v) trypsin prepared in the same medium. The cell suspension was centrifuged at 800 g for 8 min and the pellet washed four times with Hanks balanced salt solution (Invitrogen, USA). The final pellet was resuspended in TC199 medium containing 10% (v/v) fetal calf serum (Invitrogen, USA), insulin (5 mg/ml), glutamine (1 mM) and pyruvate (1 mM). The cells were seeded into 24-well tissue culture plates and incubated at 37°C in an atmosphere of 5% (v/v) C02 in air to allow the rapid attachment of any contaminating fibroblasts. After incubation for lh, the medium containing non-attached cells was removed and seeded into another plate. These epithelial cells were then incubated for at least 3 days to 80-90% confluence (in order to avoid contact inhibition of the cells), and characterized using immunocytochemical staining with antibodies to specific cellular markers including cytokeratin and vimentin, as previously described [Morales et al., 2006]. For cell detection in the plates, epithelial cells were stained with phallotoxins (Molecular Probes, USA) following the supplier's instructions.
+
+Bacterial strain, growth conditions and infection of epithelial cell cultures
+
+Ngo strain P9, variant -17 (Pil+Opa+) [Virji and Heckels, 1986] expressing the red-shift mutant green fluorescent protein (GFP) has been described previously [Christodoulides et al., 2000] and was used for epithelial cell infection experiments. The gonococcal variant was grown routinely on GC agar containing ampicillin (5 mg/ml), overnight at 37°C in 5% (v/v) C02.
+
+Epithelial cells were grown in cell
+
+culture wells (60x15 mm; Orange Scientific) to 80-90% confluence. Since cells from different donors exhibited different rates of proliferation, cell numbers were counted for each experiment prior to the addition of bacteria. Epithelial cells (1.5x104 - 5x105 per well) were infected with Ngo P9-17 resuspended in DMEM (Hyclone, USA) at multiplicity of infection (MOI) of 1. For each individual experiment, double blind assays were carried out.
+
+Detection of apoptosis
+
+Apoptosis in the epithelial cell cultures was investigated with the in situ cell death detection, fluorescein system (Boeringher Mannheim, Germany). The assay is based on the labelling of DNA strand breaks (TUNEL technology) in order to detect and quantify apoptosis at the single cell level. DNA fragmentation was assessed according to the manufacturer's protocol using the enzyme terminal deoxynucleotidyl transferase (TdT), which forms a polymeric tail by catalytically incorporating rhodamine-12-dUTP (TMR) to free 3'-OH DNA ends [Gavrieli et al., 1992] which can be quantified by fluorescence microscopy.
+
+Human FT epithelial cells were cultured on type 1 collagen (PAA Laboratories, England) coated glass cover slips (12mm; Marienfeld, Germany) and infected with MOI 1 of Ngo P9-17. Apoptosis was assessed at the beginning of the experiment (Oh) and at 12h after challenge. Briefly, cells were washed three times with PBS, pH 7.4 (Winkler, Chile) and fixed with 2% (v/v) cold paraformaldehyde in PBS for lh at room temperature. After washing with PBS, cells were incubated in a permeabilization solution (0.1% (v/v) Triton X-100 in 0.1% (w/v) sodium citrate) for 15 min at 37°C. Samples were treated twice, each for 3 min, with PBS containing 5% (w/v) bovine serum albumin and 0.1% (v/v) Triton X-100. The TUNEL reaction mixture, containing enzyme (TdT) and label solution (nucleotide mixture) was prepared according to the manufacturer's instructions, added to permeabilized samples and incubated in a humidified atmosphere for 60 min at 37°C. For negative controls, cells were treated identically, but in the absence of TdT enzyme. As a positive control, cells were treated with DNase I for 10 min at room temperature to induce DNA strand breaks, prior to labeling procedures. Prior to microscopy, the cover slips were dried and mounted in DAB CO.
+
+The percentage of apoptotic cells was determined for control, uninfected cells by counting the number of apoptotic cells present in a field of 200 cells, and a mean percentage was determined for six independent fields. The overall mean levels of apoptosis were calculated from the percent apoptosis data collected from 5 experiments carried out with FT epithelial cell lines derived from 5 donors.
+
+Assessment of cell viability
+
+The viability of FT epithelial cells grown on separate coverslips was also assessed at the beginning (Oh) and end (12h) of each experiment by exclusion of trypan blue (0.4% (w/v); Sigma, USA) as described previously (Phillips and Terryberry, 1957).
+
+Analysis of human apoptosis gene expression by microarray
+
+Preparation of total RNA and preparation of cDNA probes
+
+Total cellular RNA was isolated from the epithelial cell cultures 6h after infection with Ngo MOI 1, using a modification of the guanidinium isothiocyanate technique (TRIzol, Invitrogen, USA). Synthesis of cDNA probes with [oc-32P]-dCTP was then carried out using the GEArray RT-Labeling Kit Protocol (SuperArray, Bethesda, USA), according to the manufacturer's instructions, except for the use of Superscript II reverse transcriptase (Invitrogen, USA). The cDNA probes were then denatured according to the manufacturer's instructions prior to hybridization.
+
+Macroarray assay protocol
+
+The GEArray Q series human apoptosis gene array (SuperArray, USA) was used in this study to profile the expression of 96 key genes involved in apoptosis. Each nylon membrane array consists of 96 coordinates containing specific cDNA fragments spotted in duplicate as well as control sequences (blanks, the 'housekeeping genes' (3-actin, glyceraldehyde-3-phosphate dehydrogenase (GAPDH), cyclophilin A (PPIA), ribosomal protein L13a (RPL13a) and pUC18 as negative control).
+
+Pre-hybridization of the nylon membrane arrays was carried out according to the manufacturer's instructions (SuperArray, USA) using proprietary solutions. For hybridization, the denatured cDNA probe(s) was added to the hybridization tube(s) containing the nylon membrane(s), and incubated overnight at 60°C with continuous agitation at 5-10 r.p.m. Membranes were then washed with solutions 1 (2xSSC, 1% (w/v) SDS) and 2 (0.1% SSC, 0.5% (w/v) SDS) according to the manufacturer's instructions. The array image(s) was captured with a phosphorimager (BioRad G5-525) and was analyzed with the ScanAlyze software (Stanford, USA) and the GEArray analyzer (SuperArray, USA). All raw signal intensities were corrected for background using the software to subtract the signal intensity of the negative control (PUC18) or blank. In addition, all signal intensities were normalized to the housekeeping genes. The data were collected from 5 experiments carried out with FT epithelial cell lines derived from 5 donors.
+
+Real-Time PCR
+
+Total RNA was isolated by using TRIzol reagent (Invitrogen, USA), and complementary DNA synthesis was performed as described in Henriquez (2006). The Corbette Instrument (Corbette Life Science, Australia) was used to quantify relative expression of TNFR-I, TNFR-II, BAX and Bcl-2 genes. We chose cyclophilin A (PPIA) as the reference housekeeping gene. For amplification, Quantimix Easy SYG that contained SYBR Green I (Biotools, Spain) was used. The oligonucleotide sequences used are detailed in Table I. The PCR products were isolated and subjected to automated sequencing by using the ABI Prism310 sequencer as described by Muscillo (2001). The obtained sequences displayed 100% homology for studied genes (data not shown). All realtime PCR assays were run by thermal-cycling parameters that were indicated by the manufacturer. Data are presented as relative median upper quartile after normalization to the housekeeping gene PPIA. Quantitative analysis was based on the relative quantification of each gene of interest in the samples of each group by using the method developed by Livak (2001). The data were collected from the same samples used in the macroarray assay.
+
+
+
+STATISTICS
+
+The data for induction of apoptosis are presented as the means with standard errors of the means (SEM). Overall analyses were performed with the Kruskal-Wallis test, followed by the Mann-Whitney test for pair-wise comparison when overall
+
+significance was detected. The data for real-time PCR are presented as medians with quartile and range. The analyses were performed with t test. In both cases statistical significance was set atp<0.05.
+
+RESULTS
+
+Apoptosis in human FT epithelial cells infected with Neisseria gonorrhoeae
+
+Human FT epithelial cells from different donors were cultured in vitro and infected with Ngo MOI 1. Apoptosis was determined using TUNEL assay and confocal microscopy. For control, uninfected cells derived from the same donors were used. Infection of the cells with MOI 1 of Ngo induced a significant increase (p<0.05) in apoptosis, with approximately 24% of the cells displaying the characteristic phenotype of apoptosis (Figure 1).
+
+
+Figure 1: Apoptosis in human FT epithelial cells challenged in vitro with Neisseria gonorrhoeae. Apoptosis was detected in cultures of primary human FT epithelial cells 12h after challenge with Neisseria gonorrhoeae MOI 1 by TUNEL assay. Each column denotes the mean and SEM (error bar) from 10 experiments carried out with FT epithelial cells derived from 10 donors. MOI 1 vs. control * p<0.05; Kruskal-Wallis test.
+
+Expression of apoptosis genes during gonococcal infection of human FT epithelial cells
+
+The GEArray Q series human apoptosis gene macroarray (SuperArray, USA) was used to analyze the profile the expression of 96 key genes that may be involved in apoptosis of human FT epithelial cells following infection with gonococci. Human FT epithelial cells were infected with an equivalent MOI 1 of Ngo for 6h, and gene expression was compared to control (uninfected cells) by macroarray analysis. In control and infected cells, the expression of several genes of the TNF receptor family (TNFRSF1B, -4, -6, -10A, -10B and -10D), the Bcl-2 family (BAK1, BAX, BLK, HRK and MCL-1) and the p53 and ATM pathway (GADD45A and MDM2), and for individual members of the caspase (CASP14), IAP (BIRC3), TRAF (TRAF1), CARD (BCL10) and death effectors domain (RIPK1) families. No expression was observed for any of the other genes within these families or for genes within the TNF ligand or CIDE domain groups (Figure 2). There were no differences in the pattern of gene expression between control and infected cultures.
+
+
+Figure 2: Determination of apoptosis related genes by macroarrays analysis. Human FT Epithelial cells obtained from 3 independent donors were infected with Ngo (MOI 1) for 6h (A', B', C). Gene expression was compared with uninfected cells obtained from the same donors (A, B, C).
+
+RT-PCR
+
+Messenger RNA levels of Bcl-2, BAX, TNFR-I and TNFR-II genes were determined in epithelial cells of FT. Data obtained for infected samples with Ngo MOI 1 at 6 hours did not show statistical differences compared with control samples, indicating that Ngo does not lead to induction of these genes (Figure 3). Specificity of each PCR product was determined by sequencing and melting curve analysis. Both analyses resulted in only one product for each gene.
+
+
+Figura 3: Determination of level expression of Bcl-2 (Panel A), BAX (Panel B), TNFR-I (Panel C) and TNFR-II (Panel D) in human FT epithelial cells, control and infected with Ngo (MOI 1) by real-time PCR. Ct values were normalized with PPIA (housekeeping gene) and were expressed like 2 -Ct. Each bar represents median, quartile and range.
+
+DISCUSSION
+
+Regulation of host-cell death represents a critical stage in the interaction between a pathogen and its host organism. We have demonstrated that Ngo can induce death of human primary FT epithelial cells by apoptosis (Maisey et al., 2003; Morales et al., 2006). In addition, Ngo infection induces an inflammatory response characterized by the secretion of TNF-a IL-ß, IL-6 and IL-8 (Pfeller K, 2003; Maisey et al., 2003). In the current study, we examined the host cell response in greater detail by using human macroarrays to quantify the expression of genes related to apoptosis. In normal, uninfected FT epithelial cells, 18 genes related to apoptosis were expressed and they belonged principally to the TNF receptor and Bcl-2 families. It is likely that this gene expression is related to normal turnover of cells within the monolayers.
+
+However, challenge with a MOI 1 of Ngo, which induces an apoptotic phenotype and inflammation, did not significantly increase expression of TNF receptor and Bcl-2 family-related genes, which was confirmed by real-time PCR. The exact mechanism(s) by which Ngo induces apoptosis in the absence of increased gene expression of apoptosis-related genes remains unclear. One mechanism may depend on the activity of the PorB porin found in the gonococcal outer membrane. The study of Miiller and colleagues (Miiller et al., 1999) reported that apoptosis of HeLa epithelial cells induced by Ngo infection involved translocation of PorB from the bacterium to the host cell, which was accompanied by a transient increase in cytosolic Ca2+ and subsequent activation of the Ca2+-dependent protease calpain as well as proteases of the caspase family (Miiller et al., 1999). Significantly, blocking the porin channel by ATP eliminated the Ca2+ signal and abolished its pro-apoptotic function.
+
+An alternative mechanism may depend on post-transcriptional regulation of apoptosis-related genes occuring on Ngo infection of FT epithelial cells. Recent advances have shown that cellular activities such as apoptosis are regulated by microRNAs, which are small RNA molecules that act as key regulators of mRNA turnover and translation (Carthew, 2006; Jovanovic and Hengartner, 2006). Notably, microRNAs have been postulated to act in feedback with protein factors to control the fate of cells following signal transduction (Carthew, 2006; Jovanovic and Hengartner, 2006). In the case of Ngo, microRNAs present in FT epithelial cells could act with bacterial protein factors such as the PorB porin as a possible mechanism for regulating the expression of apoptosis -related genes. Future studies would address both these possible mechanisms in Ngo-infected FT epithelial cells.
+
+In summary, Ngo infection did not increase expression of apoptosis-related genes in FT epithelial cells. This observation is likely to confer an advantage to Ngo for infection and colonization of mucosal surfaces. However, apoptosis of infected cells does occur, without up-regulated gene expression, suggesting that alternative pathways to FT epithelial cell death are triggered following bacterial adherence. Understanding the mechanisms involved would inform on the pathogenesis of gonococcal salpingitis and lead to new intervention strategies for treatment of the disease and its complications.
+
+ACKNOWLEDGMENTS
+
+This study was supported by DICYT of Universidad de Santiago de Chile and Fondecyt No. 1030004.
+
+ 
+
+REFERENCES
+
+ANTONI B, SABBATINI A, RABSON and WHITE E (1995) Inhibition of apoptosis in human immunodeficiency virus-infected cells enhances virus production and facilitates persistent infection. J Virol 69: 2384-2392
+        [ Medline ]
+
+BINNICKER M, WILLIAMS R and APICELLA M (2003) Infection of human urethral epithelium with Neisseria gonorrhoeae elicits an upregulation of host anti-apoptotic factors and protect cells from staurosporine-induced apoptosis. Cellular Mirobiology 5(8), 549-560
+
+CARTHEW R (2006) Gene regulation by microRNAs. Current Opinion in Genetics and Development 16: 203-208
+        [ Medline ]
+
+CATES W JR, ROLFS R JR and ARAL S (1990) Sexually transmitted diseases, pelvic inflammatory disease, and infertility: an epidemiologic update. Epidemiol Rev 12: 199-220. Review
+        [ Medline ]
+
+CHRISTODOULIDES M, EVERSON J, LIU B, LAMBDEN P, WATT P, THOMAS E and HECKELS J (2000) Interaction of primary human endometrial cells with Neisseria gonorrhoeae expressing green fluorescent protein. Mol Microbiol 35(1): 32-43
+        [ Medline ]
+
+DUVALL E, WYLLIE A and MORRIS R (1985) Macrophage recognition of cells undergoing programmed cell death (apoptosis) Immunology 56(2): 351-8
+        [ Medline ]
+
+FRATAZZI C, ARBEIT R, CARINI C and REMOLD H (1997) Programmed cell death of Mycobacterium avium serovar 4-infected human macrofages prevents the mycobacteria growth inhibition by freshly added, uninfected macrophages. J Immunol 158: 4320-4327
+        [ Medline ]
+
+GAO L and KWAIK A (2000) The modulation of host cell apoptosis by intracellular pathogens. Trends Microbiol 53: 306-313
+
+GAVRIELI Y, SHERMAN Y, BEN-SASSON S (1992) Identification of programmed cell death in situ via specific labeling of nuclear DNA fragmentation. J Cell Biol 119(3): 493-501
+
+GRASSME H, JENDROSSEK V, GULBINS E (2001) Molecular mechanisms of bacteria induced apoptosis. Apoptosis 6(6): 441-5. Review
+        [ Medline ]
+
+GRODSTEIN F, ROTHMAN K (1994) Epidemiology of pelvic inflammatory disease. Epidemiology 5 (2): 234-42
+        [ Medline ]
+
+HACKER G, FISCHER S (2002) Bacterial anti-apoptotic activities. FEMS Microbiol Lett 21; 211(1): 1-6. Review
+        [ Medline ]
+
+HOYME U (1990) Pelvic inflammatory disease and associated sexually transmitted diseases. Curr Opin Obstet Gynecol 2: 668-674
+        [ Medline ]
+
+JOVANOVIC M and HENGARTNER M (2006) miRNAs and apoptosis: RNAs to die for. Oncogene 25: 6176-6187
+
+LIVAK K and SCHMITTGEN T (2001) Analysis of relative gene expression data using real-time quantitative PCR and the 2??CT method. Methods 25, 402-408
+        [ Medline ]
+
+MAISEY K, NARDOCCI G, IMARAI M, CARDENAS H, RIOS M, CROXATTO H, HECKELS J, CHRISTODOULIDES M and VELASQUEZ L (2003) Expression of proinflammatory cytokines and receptors by human fallopian tubes in organ culture following challenge with Neisseria gonorrhoeae. Infect Immun 71(1): 527-32
+        [ Medline ]
+
+MCCORMACK W (1994) Pelvic inflammatory disease. N Engl J Med 330: 115-119
+        [ Medline ]
+
+MCGEE Z, JOHNSON A and TAYLOR-ROBINSON D (1981) Pathogenic mechanisms of Neisseria gonorrhoeae: observations on damage to human fallopian tubes in organ culture by gonococci of colony type 1 or type 4. J Infect Dis 143(3): 413-22
+        [ Medline ]
+
+MCGEE Z, CLEMENS C, JENSEN R, KLEIN J, BARLEY L and GORBY G (1992) Local induction of tumor necrosis factor as a molecular mechanism of mucosal damage by gonococci. Microb Pathog 12: 333-341
+        [ Medline ]
+
+MCGEE Z, JENSEN R, CLEMENS C, TAYLOR-ROBINSON D, JOHNSON A and GREGG C (1999) Gonococcal infection of human fallopian tube mucosa in organ culture: relationship of mucosal tissue TNF-alpha concentration to sloughing of ciliated cells. Sex Transm Dis 26 (3): 160-5
+        [ Medline ]
+
+MOLLOY A, LAOCHUMROONVORAPONG P and KAPLAN G (1994) Apoptosis but not necrosis, of infected monocytes is coupled with killing of intracellular bacillus Calmette-Guerin. J Exp Med 180: 1499-1509
+        [ Medline ]
+
+MORALES P, REYES P, VARGAS M, RIOS M, IMARAI M, CÁRDENAS H, CROXATTO H, ORIHUELA P, VARGAS R, FUHRER J, HECKELS J, CHRISTODOULIDES M and VELASQUEZ L (2006) Infection of human fallopian tube epithelial cells with Neisseria gonorrhoeae protects cells from tumor necrosis factor alpha-induced apoptosis. Infect Immun 74(6): 3643-50
+        [ Medline ]
+
+MÜLLER A, GÜNTHER D, DÜX F, NAUMANN M, MEYER T and RUDEL T (1999) Neisserial porin (PorB) causes rapid calcium influx in target cells and induces apoptosis by the activation of cysteine proteases. EMBO J 18(2): 339-352
+        [ Medline ]
+
+MUSCILLO F, LA ROSA G, MARIANELLI C, ZANIRATTI S, CAPOBIANCHI MR, CANTIANI L, CARDUCCI A (2001) A new RT-PCR method for the identification of reoviruses in seawater sample. Water Res 35: 548-556
+
+PHILLIPS H and TERRYBERRY J (1957) Counting actively metabolizing tissue cultured cells. Exp Cell Res 13: 341-347
+
+PFELLER K (2003) Biological functions of tumor necrosis factor cytokines and their receptors. Cytokine and Growth Factor Reviews 14: 185-191
+
+STACEY C, MUNDAY P and TAYLOR-ROBINSON D (1992) A longitudinal study of pelvic inflammatory disease. Br J Obstet Gynaecol 99 (12): 994-9
+        [ Medline ]
+
+STEPHENS D, MCGEE Z and COOPER M (1987) Cytopathic effects of the pathogenic Neisseria. Studies using human fallopian tube organ cultures and human nasopharyngeal organ cultures. Antonie Van Leeuwenhoek 53(6): 575-84
+        [ Medline ]
+
+VIRJI M, HECKELS J (1986) The effect of protein II and pili on the interaction of Neisseria gonorrhoeae with human polymorphonuclear leucocytes. J Gen Microbiol 132(2): 503-12
+        [ Medline ]
+
+WEINRAUCH Y and ZYCHLINSKY A (1999) The induction of apoptosis by bacterial pathogens. Annu Rev Microbiol 53: 155-87 Review
+        [ Medline ]

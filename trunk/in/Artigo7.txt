@@ -1,0 +1,211 @@
+Descritores
+
+Animals
+Area Under Curve
+Female
+Gonadotropin-Releasing Hormone
+Gonads
+Leuprolide
+Luteinizing Hormone
+Male
+Pregnancy
+Prenatal Exposure Delayed Effects
+Sheep
+Testosterone
+Time Factors
+
+
+Artigo
+
+Prenatal testosterone treatment alters LH and testosterone responsiveness to GnRH agonist in male sheep
+
+ 
+
+SERGIO E. RECABARREN1, ALEJANDRO LOBOS1, YARA FIGUEROA1, VASANTHA PADMANABHAN2 DOUGLAS L FOSTER3, and TERESA SIR-PETERMANN4
+
+1  Laboratory of Animal Physiology and Endocrinology, Faculty of Veterinary Medicine, University of Concepción, Chillan, Chile.
+2 Reproductive Sciences Program, Departments of Obstetrics and Gynecology, Pediatrics and Molecular and Integrative Physiology, University of Michigan, Ann Arbor, MI 48109, USA.
+3  Reproductive Sciences Program, Departments of Obstetrics and Gynecology, Ecology and Evolutionary Biology, University of Michigan, Ann Arbor, MI 48109, USA.
+4 Laboratory of Endocrinology and Metabolism, Western School of Medicine, University of Chile, Santiago, Chile.
+
+Dirección para correspondencia
+
+ABSTRACT
+
+Although evidence is accumulating that prenatal testosterone (T) compromises reproductive function in the female, the effects of excess T in utero on the postnatal development of male reproductive function has not been studied. The aim of this study was to assess the influence of prenatal T excess on age-related changes in pituitary and gonadal responsiveness to GnRH in the male sheep. We used the GnRH agonist, leuprolide (10 µg/kg), as a pharmacologic challenge at 5, 10, 20 and 30 weeks of age. These time points correspond to early and late juvenile periods and the prepubertal and postpubertal periods of sexual development, respectively. LH and T were measured in blood samples collected before and after GnRH agonist administration. The area under the response curve (AUC) of LH increased progressively in both controls and prenatal T-treated males from 5 to 20 weeks of age (P<0.01). The LH responses in prenatal T-treated males were lower at 20 and 30 weeks of age compared to controls (P<0.05). AUC-T increased progressively in control males from 5 through 30 weeks of age and prenatal T-treated males from 5 to 20 weeks of age. The T response in prenatal T-treated males was higher at 20 weeks compared to controls of same age but similar to controls and prenatal T-treated males at 30 weeks of age (P <0.05). Our findings suggest that prenatal T treatment advances the developmental trajectory of gonadal responsiveness to GnRH in male offspring.
+
+Key terms: fetal programming, IUGR, Pituitary sensitivity
+
+INTRODUCTION
+
+Prenatal exposure to excess testosterone (T) leads to number of adverse consequences in adult life. In animal studies, prenatal T treatment leads to intrauterine growth retardation (IUGR) (Manikkam et al. 2004, Steckler et al. 2005), infertility (Abbott et al. 2002; Clarke et al 1997, Birch et al. 2003, Padmanabhan et al., 2006), insulin resistance (Eisner et al 2000, Recabarren et al. 2005a) and male typical behavior (Fabre-Nys and Venier 1991, Wolf et al. 2002) in adult females. In the sheep model of PCOS, exposure of female fetuses to excess T during early to mid gestation reduces hypothalamic sensitivity to steroid negative feedback (Foster et al. 2006; Padmanabhan et al., 2006; Sarma et al. 2005; Wood and Foster 1998) and pituitary sensitivity to GnRH (Flak et al. 2005). In addition, prenatal T treatment disrupts the ability of the female sheep to respond to the stimulatory feedback action of estrogen (Sharma et al. 2002; Unsworth et al. 2005; Wood and Foster, 1998). This disruption is manifested as abolishment of an experimentally-induced LH surge in the ovariectomized estradiol-clamped Suffolk females (Wood and Foster 1998), a delayed and severely dampened LH surge in ovary intact Suffolk females (Sharma et al. 2002) and absent surges in Dorset females (Unsworthetal2005).
+
+In humans, the most relevant example of prenatal T excess is women with classical 21-hydroxylase deficiencies. During prenatal life, the excessive androgen produced by the fetal adrenal gland results in increased exposure of the fetuses to T. In postnatal life, this culminates in ambiguous genitalia, progressive virilization, menstrual irregularities, reduced fertility and aggressive behavior (Berenbaum et al. 2000; New 2001; New et al. 2001). In contrast to the detailed investigations carried out with the female offspring, the effects of prenatal T excess on the growth and reproductive trajectories of the male are not well-studied. The present study investigated the impact of fetal exposure to excess T on the development of the reproductive function in the male sheep. Specifically, we evaluated the developmental trajectory of pituitary-gonadal axis responsiveness to GnRH agonist, a pharmacologic challenge routinely used in clinical settings (Ghizzoni et al. 1996; Rosenfield et al. 1996; Street et al. 2002).
+
+MATERIALS AND METHODS
+
+General procedures
+
+Forty adult Suffolk female sheep were mated at a synchronized estrus following treatment with intravaginal progestagen pessaries (Eazy Breed, Pharmacia & Upjohn Limited Company, Auckland, New Zealand) and prostaglandin (Genestran, Drug Pharma, Chile), during the breeding season (Cox et al, 2002). Pregnant females were allocated randomly to two treatments. One group of 20 pregnant sheep received intramuscularly 60 mg of T propionate (Sigma, St Louis, MO, USA) dissolved in vegetable oil biweekly, from 30 to 90 days of pregnancy, while other 20 pregnant sheep received the vehicle. The duration of T treatment is based on earlier studies, which resulted in severe reproductive perturbations in the female (Clarke et al. 1977; Manikkam et al. 2004; Manikkam et al. 2006; Sarma et al. 2005; Sharma et al., 2002, Unsworth et al.2005; Wood and Foster 1998). The dose administered is 60% of that used in most of the above studies.
+
+The sheep were maintained under regular husbandry protocols at the sheep facility of the Faculty of Veterinary Medicine, University of Concepción, Chillan, Chile. Pregnancy duration was 147 ±1.8 and 147± 1.5 days in control and T-treated female, respectively. Newborns remained with their mothers until 8 weeks of age, when they were weaned. After weaning, lambs were given free access to water, pasture and supplemented twice daily with pelleted food consisting of oat, corn, wheat, gluten feed, gluten meal, soybean meal, fish meal, sunflower meal and mineral salts. The pelleted ration provided 18% protein, 11% crude fiber, 2% fat and 2450 Kcal /kg (Glovigor, Santiago, Chile). Seven age-matched singleton males from each group were used in these studies.
+
+Developmental responses to a GnRH analog. The pituitary LH response to a GnRH analog was conducted at 5,10, 20 and 30 weeks of age. These times represent the postnatal, prepubertal and postpubertal period of sexual development in the male sheep. Two to three days before each evaluation, the males were moved to individual crates indoors, and were provided with free access to pelleted food and water. To collect blood samples, an indwelling jugular vein catheter was placed under local anesthesia as described previously (Recabarren et al. 1995). Blood samples were collected the day before the experiment, at regular intervals, to allow males to adapt to the blood collection procedures and to minimize stress. Lights remained on during the blood sample collections at night as the reproductive neuroendocrine system of the developing male sheep does not respond to changes in day length as is the case for the developing female (Wood & Foster 1998). An intravenous dose of 10 µg leuprolide acetate/kg (Lupron, Abbott Laboratories, Chile), a pharmacologic challenge, was administered at each age to test pituitary responsiveness and gonadal T response. The GnRH analog dose is based on earlier studies in humans (Ghizzoni et al. 1996; Rosenfield et al 1996; Street et al. 2002). Blood samples (2.0 ml) were collected before, and 3, 6, 9, 12, 18, 24, 30, 36, 42 and 48 hours after the agonist injection at 5 and 10 weeks of age. At 20 and 30 weeks of age, in addition to the above samples, a sample was taken every 30-minute for the first 3h. Blood samples were collected in heparinized tubes kept in ice. Plasma was separated and kept frozen until later for LH and T determinations by radioimmunoassay (RIA). All procedures described in this study were approved by the local ethical committee on animal research at the Faculty of Veterinary Medicine of the University of Concepción.
+
+Hormone assays. Plasma concentrations of LH were determined by RIA as previously described (Recabarren et al. 1996) using ovine LH CSU 204 antibody, LER 1374-A ovine LH for iodination, and ovine NIH-LH S-25 as standard. Intra- and inter-assay coefficients of variation were 5 and 7% respectively. Minimal detectable limit, defined as 90% of buffer control, was 0.1 ng/ml. Plasma T concentrations were determined by RIA using commercial kits validated for ovine plasma (DSL, Webster TX, USA). Intra- and inter-assay coefficients of variance were 3 and 7% respectively. Minimal detectable limit corresponding to 90% of buffer control was 0.05 ng/mL.
+
+Statistical analysis. The effect of the GnRH agonist on LH and T in each group was determined by the area under the response curve (AUC) obtained after leuprolide administration. To facilitate comparison across ages only comparative time points were used from 20 and 30 weeks of age. These data and plasma T/LH ratio were analyzed by ANOVA for repeated measures with treatment as the main factor and age as the repeated measure using the GB-Stat v6.5 statistical program. Pairwise post-hoc comparisons were made by the Newman-Keuls test. Differences were considered statistically significant at a level of P< 0.05. Results are shown as mean ±SEM.
+
+RESULTS
+
+The birth weights of control (4.9 ±0.3 kg) and prenatally T-treated males (4.5 ±0.4 kg) were similar. Body weight of control and prenatal T-treated males, when the GnRH agonist tests were conducted at 5, 10, 20 and 30 weeks, were similar (Figure 1) except at 20 weeks of age when the weight of prenatal T-treated males was greater than control males (p<0.05).
+
+
+	  	Figure 1: Body weight of control (open bars) and prenatally T-treated (closed bars) males at 5, 10, 20 and 30 weeks of age. Asterisk indicates significant difference between control and prenatally-T-treated male lambs.
+
+Profiles of plasma LH concentrations in response to the GnRH agonist are presented in Figure 2. Circulating levels of LH before the GnRH agonist were similar between treatment groups at all ages studied. At 5 and 10 weeks of age, the maximal LH response in both groups of males was evident at 3h, the first sample taken after GnRH agonist injection (P<0.01) (Figure 2). At 20 and 30 weeks of age, when more frequent samples were taken, maximal LH increase was evident 2 hours after GnRH agonist administration. There was no treatment effect on peak LH concentrations achieved at 5 and 10 weeks of age. On the contrary, at 20 and 30 weeks of age, peak LH concentrations achieved in response to GnRH analog challenge were lower in prenatally T-treated males compared to control males (Figure 2).
+
+
+Figure 2: Plasma LH concentrations in response to leuprolide (10 µg/kg BW) in control (open circles) and prenatal T-treated (closed circles) males at 5, 10, 20 and 30 weeks of age.
+
+Circulating T concentrations before the GnRH agonist treatment were below detection limit of the assay in all males at 5 and 10 weeks of age with the exception of one male lamb in each group at both ages (Figure 3). At 5 and 10 weeks, peak T concentrations were seen in the first sample collected after the GnRH agonist injection. At 20 and 30 weeks, when more frequent samples were taken, peak T concentrations were evident by 2 hours after the GnRH agonist administration in both groups of males, a time point when peak LH increase weas also evident (Figure 2). Peak T responses increased progressively from 5 to 30 weeks of age in both groups of animals (Figure 3). Peak levels of T achieved were higher in prenatal T-treated males than in control males at 20 and 30 weeks of age (P<0.05).
+
+
+Figure 3: Plasma T concentrations in response to leuprolide (10 µg/kg BW) in control (open circles) and prenatal-T-treated (closed circles) males at 5, 10, 20 and 30 weeks of age.
+
+The AUC of LH and T response to GnRH agonist challenge is presented in Figure 4. AUC of LH increased from 5-weeks of age to 20-weeks of age in both control and prenatally T-treated males (Figure 4, top panel). In controls, the AUC of LH at 30 weeks of age was similar to that of 20 weeks. In prenatally T-treated males, the AUC of LH at 20- and 30-weeks was reduced (P<0.01) compared to controls (Figure 4, top panel). In prenatally T-treated males, the AUC of LH at 30 weeks of age was less than at 20-weeks (P <0.05). The AUC-T in control males increased progressively from 5 to 30 weeks with maximal response occurring at 30 weeks (Figure 4, bottom panel). There were no significant differences between AUC-T of control and prenatal T-treated males at 5 and 10 weeks of age. The maximal AUC-T in prenatally T-treated males was evident earlier at 20 weeks, with AUC-T at 30 weeks being of comparable magnitude to that of 20 weeks. In contrast to the decreased LH response of prenatal T-treated males to GnRH agonist stimulation (Figure 4, top panel), AUC-T of prenatal T-treated males at 20 was higher than the corresponding controls (P<0.05) (Figure 4, bottom panel).
+
+
+Figure 4: AUC-LH and AUC-T (ng/mL/time) after leuprolide challenge in control (open bars) and prenatal-T-treated (closed bars) males at 5, 10, 20, and 30 weeks of age. Asterisks indicate significant differences between control and prenatal T-treated male lambs at a given age.
+
+The AUC-T to AUC-LH ratios of control and prenatally T-treated males are summarized in Figure 5. There was a progressive increase in AUC-T to AUC-LH ratio with increasing age in both control and prenatal T-treated males. AUC-T to AUC-LH ratio was higher in prenatally T-treated males compared to control of corresponding age at 20 weeks of age (p<0.05) but not at other ages.
+
+
+Figure 5: AUC-T/ AUC-LH ratio in control and prenatal-T-treated males. Letters with different superscripts indicate differences between ages within a treatment group. Asterisk indicates significant differences between control and prenatal T-treated male lambs at a given age.
+
+DISCUSSION
+
+The findings from this study reveal that prenatal exposure to excess T, like in the females, has an impact on the reproductive trajectory of the males. This was evidenced from the altered pituitary and gonadal responsiveness of prenatally T-treated males to GnRH agonist stimulation. Males born to mothers exposed to excess T produced less LH in response to GnRH agonist stimulation at 20 and 30 weeks of age but a higher T response at 20-weeks of age compared to controls. The increased T response in the face of decreased pituitary LH responsiveness (increased T: LH ratio) presumably reflects heightened gonadal sensitivity of the testis to LH at this age. An advancement in the developmental trajectory of gonadal responsiveness to LH stimulation is suggested by two related findings: 1) a similarity of T: LH ratio between the 30 week-old control males and 20-week old prenatally T-treated males; 2) the lack of difference between control and prenatal T-treated males at 30 weeks of age. The temporal pattern of LH following GnRH analog stimulation differs from that which follows a GnRH challenge and is consistent with prolonged activation of the GnRH receptor with the agonist. With a physiologic challenge of GnRH, LH returns back to baseline both in male and female within 1 to 1.5 hours of GnRH administration (Foster et al. 1978, I'Anson et al. 1993). In contrast, circulating levels of LH returned to baseline levels by 6-12h after the GnRH analog administration in this study. This occurs much later (24 hours) in boys (Ghai and Rosenfield 1994). Differences in the mixture of LH isohormones released in response to agonist stimulation and the resultant changes in clearance may have contributed to in these discrepancies in the two models (Bergendah and Veldhuis 2001; Green and Baenziger 1988).
+
+The reduced responsiveness of prenatally T-treated males at 20 and 30 weeks to GnRH agonist stimulation may reflect a reduction in releasable pool of pituitary LH stemming from increased GnRH drive. In normal male sheep, there are striking developmental changes in LH frequency manifested as a 20-fold increase in frequency between 1 and 8 weeks of age and 3-fold decrease between 8 and 16 weeks (Foster et al. 1978). An advancement in the developmental trajectory of LH pulse frequency such as that found in females (Wood and Foster 1998; Sarma et al. 2005; Flak et al. 2005), may explain the differences evidenced in this study.
+
+Response of T to GnRH agonist stimulation closely paralleled that of LH. Earlier studies in the sheep found that T begins to increase within an hour of an endogenous LH pulse (Foster et al. 1978). These findings differ from those in prepubertal and pubertal boys, where T increases lagged behind LH increase by eight hours after GnRH agonist (nafarelin), stimulation (Cuttler et al. 1993). The heightened testicular response to reduced LH stimulation at 20 weeks of age is consistent with increased Leydig cell sensitivity to LH. Earlier studies have found that T response to human chorionic gonadotropin stimulation is greater at 8 weeks than at 2 days of age in the developing male (Foster et al. 1978). The absence of differences in the AUC of T and LH: T ratio between control and prenatally T-treated males at 30 weeks of age supports advancement in developmental trajectory of gonadal responsiveness.
+
+The mechanism by which prenatal T treatment compromises postnatal development of the gonadal axis is not known. The programming actions of T can be mediated by androgenic action or estrogen action due to aromatization of T to estradiol. There is evidence that prenatal exposure to estrogen produces permanent alterations in secretion of FSH, T, inhibin B and spermatogenesis in the adult male rodent (Orth et al. 1988; Sharpe and Skakkebaek 1993; Atanassova et al. 1999; O'Donnell et al. 2001). Exposure of male sheep fetuses to octylphenol, an environmental disruptor, from day 70 of pregnancy until birth was found to affect the levels of gonadotropins and number of Sertoli cells (Sweeney et al. 2000). Considering that the critical period of developmental susceptibility may differ between various components of the reproductive axis, it remains to be determined if prenatal T treatment from 30-90 days of pregnancy in the sheep will also affect spermatogenesis and fertility.
+
+Prenatally T-treated males of this study had similar birth weights to the control males. This differs from findings of reduced birth weight in prenatally T-treated females born in the same flock around the same time (Recabarren et al. 2005b), which also exhibit compensatory growth during the first few months after birth (Manikkam et al. 2004, Recabarren et al. 2005b). Similarly, infants born to mothers with polycystic ovary syndrome, another source of fetal T excess (Sir-Petermann et al. 2002) had lower birth weight compared to those born to mothers without PCOS (Sir-Petermann et al. 2005). Such findings add support to the hypothesis that exposure to excess T during fetal development affects the growth trajectory of the developing fetus. Similar to our findings in the male, no differences in neonatal weight were found between control and prenatal T-treated male rhesus monkeys (Bruns et al. 2004). These findings in the male differ from the reduced birth weight observed in an earlier study, which utilized a higher dose of prenatal T treatment (100 mg as opposed to 60 mg used in this study) (Mannikam et al. 2004). Such differences may be related to level of T excess. Alternatively, the small sample size in the present study may have precluded us from discerning differences. In this context it is of interest that the prenatally T-treated males of our study had a compensatory growth response as evidenced by their increased weight at 20 weeks of age compared to control males.
+
+In summary exposure of male fetuses to T excess advances the developmental trajectory of gonadal T responses to LH stimulation. The long-term consequences of such changes to male fertility remain to be determined.
+
+ACKNOWLEDGEMENTS
+
+Authors express their appreciation to Dr Gordon D Niswender, Dr Leo E Reichert Jr and to the NIADDK, USA for providing reagents for the ovine LH radioimmunoassay. To Prof José Parilo for providing female sheep for breeding and feeding advise. To Dr Fernando Saravia, Marianela Caballero and José Cox, from the Laboratory of Reproductive Biotechnology for estrous synchronization and programmed breeding of sheep. This work was supported by Fondecyt Research Grants 1020232 and 7020232.
+
+ 
+
+REFERENCES
+
+ABBOTT DH, COLMAN RJ, KEMNITZ JW, EISNER JR, DUMESIC DA. (2002) Prenatal androgen excess programs for polycystic ovarian syndrome in female rhesus monkeys. In: Chang J, Heindel JJ, Dunaif A (eds) Polycystic Ovary Syndrome. Marcel Dekker, Inc. New York, New York, pp 119-133
+
+ATANASSOVA N, MCKINNELL C, WALKER M, TURNER KJ, FISHER JS, MORLEY M, MILLAR MR, GROÓME NP, SHARPE RM. (1999) Permanent effects of neonatal estrogen exposure in rats on reproductive hormone levels, Sertoli cell number, and the efficiency of spermatogenesis in adulthood. Endocrinology 140: 5364-5373
+        [ Medline ]
+
+BERENBAUM SA, DUCK SC, BRYK K. (2000) Behavioral effects of prenatal versus postnatal androgen excess in children with 21-hydroxylase-deficient congenital adrenal hyperplasia. J Clin Endocrinol Metab 85: 727-733
+        [ Medline ]
+
+BERGENDAH M, VELDHUIS JD. (2001) Is there a physiological role for gonadotrophin oligosaccharide heterogeneity in humans? III. Luteinizing hormone heterogeneity: a medical physiologist's perspective. HumReprod 16: 1058-1064
+
+BIRCH RA, PADMANABHAN V, FOSTER DL, UNSWORTH WP, ROBINSON JE. (2003) Prenatal programming of reproductive neuroendocrine function: fetal androgen exposure produces progressive disruption of reproductive cycles in sheep. Endocrinology 144: 1426-1434
+        [ Medline ]
+
+BRUNS CM, BAUM ST, COLMAN RJ, EISNER JR, KEMNITZ JW, WEINDRUCH R, ABBOTT DH. (2004) Insulin resistance and impaired insulin secretion in prenatally androgenized male rhesus monkeys. J Clin Endocrinol Metab 89: 6218-6223
+        [ Medline ]
+
+CLARKE IJ, SCARAMUZZI RJ, SHORT RV. (1977) Ovulation in prenatally androgenized ewes. J Endocrinol 73: 385-389
+        [ Medline ]
+
+COX JF, ZAVALA A, SARAVIA F, RIVAS C, ALFARO V. (2002) Fertilization efficiency of in vitro matured oocytes transferred to oviducts of inseminated goats: a model to assess in vitro fertilization performance of goat spermatozoa. Theriogenology 58: 1-8
+        [ Medline ]
+
+CUTTLER L, ROSENFIELD RL, EHRMANN DA, KREITER M, BURSTEIN S, CARA JF, LEVITSKY LL. (1993) Maturation of gonadotropin and sex steroid response to gonadotropin-releasing hormone in males. J Clin Endocrinol Metab 76: 362-366
+
+EISNER JR, DUMESIC DA, KEMNITZ JW, ABBOTT DH.(2000) Timing of prenatal androgen excess determines differential impairment in insulin secretion and action in adult female rhesus monkeys. J Clin Endocrinol Metab. 85: 1206-1210
+        [ Medline ]
+
+FABRE-NYS C, VENIER G. (1991) Sexual differentiation of sexual behavior and preovulatory surge in ewes. Psychoneuroendocrinology 16: 383-396
+
+FLAK J, HERKIMER C, HAN D, PADMANABHAN V. (2005)   Fetal programming: Prenatal testosterone treatment, by its androgenic action, programs adult hyperandrogenism partly by increasing pituitary sensitivity to GnRH. Biol Reprod Special Issue Abstract* 143, p 113
+
+FOSTER DL, MICKELSON IH, RYAN KD, COON GA, DRONGOWSKI RA, HOLT JA. (1978) Ontogeny of pulsatile luteinizing hormone and testosterone secretion in male lambs Endocrinology 102: 1137-1146
+        [ Medline ]
+
+FOSTER DL, JACKSON LM, PADMANABHAN V. (2006)   Programming of GnRH feedback controls timing puberty and adult reproductive activity. Mol Cell Endocrinology 254-255: 109-119
+
+GHAI K, ROSENFIELD RL. (1994). Maturation of the normal pituitary-testicular axis, as assessed by gonadotropin-releasing hormone agonist challenge. J Clin Endocrinol Metab 78: 1336-1340
+        [ Medline ]
+
+GHIZZONI L, VIRDIS R, VOTTERO A, CAPPA M, STREET ME, ZAMPOLLI M, IBAÑEZ L, BERNASCONI S. (1996). Pituitary-ovarian responses to leuprolide acetate testing in patients with congenital adrenal hyperplasia due to 21-hydroxylase deficiency. J Clin Endocrinol Metab 81: 601-606
+        [ Medline ]
+
+GREEN ED, BAENZIGER JU. (1988) Asparagine-linked oligosaccharides on lutropin, follitropin, and thyrotropin. II. Distributions of sulfated and sialylated oligosaccharides on bovine, ovine, and human pituitary glycoprotein hormones. J Biol Chem 263: 36-44
+        [ Medline ]
+
+I'ANSON H, HERBOSA C G, EBLING F J P, WOOD R I, BUCHOLTZ D C, MIEHER C D, FOSTER D L, PADMANABHAN V. (1993) Hypothalamic versus pituitary stimulation of luteinizing hormone secretion in the prepubertal female lamb. Neuroendocrinology 57: 467-475
+        [ Medline ]
+
+MANIKKAM M, CRESPI EJ, DOOP DD, HERKIMER C, LEE JS, YU S, BROWN MB, FOSTER DL, PADMANABHAN V. (2004). Fetal programming: Prenatal testosterone excess leads to fetal growth retardation and postnatal catch-up growth in sheep. Endocrinology 145: 790-798
+        [ Medline ]
+
+MANIKKAM M, STECKLER TS, WELCH KB, INS KEEP EK, PADMANABHAN V. (2006) Fetal Programming: Prenatal testosterone treatment leads to follicular persistence / luteal defects. Partial restoration of ovarian function by cyclic progesterone treatment. Endocrinology. 147: 1997-2007
+        [ Medline ]
+
+NEW MI. (2001) Factors determining final height in congenital adrenal hyperplasia. J Pediatric Endocrinol Metab 14: (Suppl 2): 933-937
+
+NEW MI, CARLSON A, OBEID J, MARSHALL I, CABRERA MS, GOSECO A, LIN-SU K, PUTNAM AS, WEI JQ, WILSON RC. (2001) Prenatal diagnosis for congenital adrenal hyperplasia in 532 pregnancies. J Clin Endocrinol Metab 86: 5651-5657
+        [ Medline ]
+
+O'DONNELL L, ROBERTSON KM, JONES ME, SIMPSON ER. (2001) Estrogen and spermatogenesis. Endocr Rev 22 289-318
+        [ Medline ]
+
+ORTH JM, GUNSALUS GL, LAMPERTI AA. (1988) Evidence from Sertoli-depleted rats indicates that spermatid number in adults depends on number of Sertoli cells produced during perinatal development. Endocrinology 129: 1119-1121
+
+PADMANABHAN V, MANIKKAM, RECABARREN S, FOSTER DL. (2006) Prenatal testosterone programs reproductive and metabolic dysfunction in the female. Mol Cell Endocrinology 246: 165-174
+
+RECABARREN SE, URRUCELQUI A, ROBBIANO M, LOBOS A, ORELLANA P, PARILO J. (1995) Effect of endovenous infusion of L-arginine and L-ornithine on the growth hormone secretion in prepubertad sheep. Arch Med Vet 27: 99-104
+
+RECABARREN SE, ESCOBAR A, LOBOS A, RECABARREN MP, PARILO J. 1996 Luteinizing hormone pulse frequency is increased by arginine infusion in prepubertal sheep. Exp Clin Endocrinol Diabetes 104: 74-79
+
+RECABARREN SE, PADMANABHAN V, CODNER E, LOBOS A, DURAN C, VIDAL M, FOSTER DL, SIR-PETERMANN T. (2005a) Postnatal developmental consequences of altered insulin sensitivity in female sheep treated prenatally with testosterone. Am J Physiol Endocrinol Metab 289: E801-E806
+
+RECABARREN SE, SIR-PETERMANN T, LOBOS A, CODNER E, ROJAS-GARCÍA PP, REYES V. (2005b) Response to the gonadotropin releasing hormone agonist leuprolide in immature female sheep androgenized in utero. Biol Res 38: 235-244
+        [ Lilacs ]        [ SciELO ]
+
+ROSENFIELD RL PEROVIC N EHRMANN DA, BARNES RB. (1996) Acute hormonal responses to the gonadotropin relasing hormone agonist leuprolide: Dose- response studies and comparison to nafarelin- A clinical Research Center Study. J Clin Endocrinol Metab 81: 3408-3411
+
+SARMA HN, MANIKKAM M, HERKIMER C, DELL'ORCO J, FOSTER DL, PADMANABHAN V. (2005) Fetal programming: excess prenatal testosterone reduces postnatal LH, but not FSH responsiveness to estradiol negative feedback in the female. Endocrinology 146: 4281-4291
+        [ Medline ]
+
+SHARMA TP, HERKIMER C, WEST C, YE W, BIRCH R, ROBINSON J, FOSTER DL, PADMANABHAN V. (2002) Fetal programming: prenatal androgen excess disrupts positive feedback actions of estradiol but has no effect on timing of onset of puberty in female sheep. Biol Reprod 66 924-933
+
+SHARPE RM, SKAKKEBAEK NE. (1993) Are oestrogens involved in falling sperm counts and disorders of the male reproductive tract? Lancet 341: 1392-1395
+
+SIR-PETERMANN T, MALIQUEO M, ANGEL B, LARA HE, PEREZ-BRAVO F, RECABARREN SE. (2002) Maternal serum androgens in pregnant women with polycystic ovarian syndrome: possible implications in prenatal androgenization. Hum Reprod 17: 2573 - 2579
+        [ Medline ]
+
+SIR-PETERMANN T, HITCHSFELD C, MALIQUEO M, CODNER E, ECHIBURÚ B, GAZITÚA R, RECABARREN SE, CASSORLA F. (2005) Birth weight in offspring of PCOS mothers. Hum Reprod 20: 2122-2126
+
+STECKLER T, WANG J, BARTOL F, ROY SK, PADMANABHAN V. (2005) Fetal programming: prenatal testosterone treatment causes intrauterinegrowth retardation, reduces ovarian reserve and increases ovarian follicular recruitment. Endocrinology 146: 3185-3193
+        [ Medline ]
+
+STREET ME, BANDELLO MA, TERZI C, IBAÑEZ L, GHIZZONI L, VOLTA C, TRIPODI C, VIRDIS R. (2002) Luteinizing hormone responses to leuprolide acetate discriminate between hypogonadotropic hypogonadism and constitutional delay of puberty. Fert Steril 77: 555-560
+
+SWEENEY T, NICOL L, ROCHE JF, BROOKS AN. (2002) Maternal exposure to octylphenol suppresses ovine fetal follicle-stimulating hormone secretion, testis size, and sertoli cell number. Endocrinology 141: 2667-2673
+
+UNSWORTH WP, TAYLOR J, ROBINSON J. (2005) Prenatal programming of reproductive neuroendocrine function: the effect of prenatal androgens on the development of estrogen positive feedback and ovarian cycles in the ewe. Biol Reprod 72: 619-627
+        [ Medline ]
+
+WOLF CJ, HOTCHKISS A, OSTBY JS, LEBLANC GA, GRAY Jr LE. (2002) Effects of prenatal testosterone propionate on the sexual development of male and female rats: a dose-response study. Toxicol Sci 65: 71-86
+        [ Medline ]
+
+WOOD RI, FOSTER DL (1998) Sexual differentiation of reproductive neuroendocrine function in sheep. Rev Reprod 3: 130-140
+        [ Medline ]

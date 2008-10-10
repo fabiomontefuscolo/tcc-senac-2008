@@ -1,0 +1,245 @@
+Descritores
+
+Adult
+Aged
+Azure Stains
+Biopsy
+Carcinoma
+Enzyme-Linked Immunosorbent Assay
+Female
+Helicobacter Infections
+Helicobacter pylori
+Humans
+Male
+Middle Aged
+Prospective Studies
+Stomach
+Stomach Neoplasms
+Urease
+
+
+Artigo
+
+Prevalence of Helicobacter pylori infection in advanced gastric carcinoma
+
+ 
+
+Associação do carcinoma gástrico avançado com infecção por Helicobacter pylori
+
+ 
+
+ 
+
+Irami Araújo-Filho; José Brandão-Neto; Laíza Araújo Mohana Pinheiro; Ítalo Medeiros Azevedo; Flávio Henrique Miranda Araújo Freire; Aldo Cunha Medeiros
+
+Postgraduate Program in Health Sciences, Federal University of Rio Grande do Norte, Natal, RN, Brazil
+
+Address for correspondence
+
+ 
+
+ 
+
+ABSTRACT
+
+BACKGROUD: There is substantial evidence that infection with Helicobacter pylori plays a role in the development of gastric cancer and that it is rarely found in gastric biopsy of atrophic gastritis and gastric cancer. On advanced gastric tumors, the bacteria can be lost from the stomach.
+AIMS: To analyze the hypothesis that the prevalence of H.pylori in operated advanced gastric carcinomas and adjacent non-tumor tissues is high, comparing intestinal and diffuse tumors according to Lauren's classification
+METHODS: A prospective controlled study enrolled 56 patients from "Hospital Universitário", Federal University of Rio Grande do Norte, Natal, RN, Brazil, with advanced gastric cancer, treated from February 2000 to March 2003. Immediately after partial gastrectomy, the resected stomach was opened and several mucosal biopsy samples were taken from the gastric tumor and from the adjacent mucosa within 4 cm distance from the tumor margin. Tissue sections were stained with hematoxylin and eosin. Lauren's classification for gastric cancer was used, to analyse the prevalence of H. pylori in intestinal or diffuse carcinomas assessed by the urease rapid test, IgG by ELISA and Giemsa staining. H. pylori infected patients were treated with omeprazole, clarithromycin and amoxicillin for 7 days. Follow-up endoscopy and serology were performed 6 months after treatment to determine successful eradication of H. pylori in non-tumor tissue. Thereafter, follow-up endoscopies were scheduled annually. Chi-square and MacNemar tests with 0.05 significance were used.
+RESULTS: Thirty-four tumors (60.7%) were intestinal-type and 22 (39.3%) diffuse type carcinomas. In adjacent non-tumor gastric mucosa, chronic gastritis were found in 53 cases (94.6%) and atrophic mucosa in 36 patients (64.3%). All the patients with atrophic mucosa were H. pylori positive. When examined by Giemsa and urease test, H. pylori positive rate in tumor tissue of intestinal type carcinomas was higher than that in diffuse carcinomas. In tumor tissues, 34 (60.7%) H. pylori-positive in gastric carcinomas were detected by Giemsa method. H. pylori was observed in 30 of 56 cases (53.5%) in tissues 4 cm adjacent to tumors. This difference was not significant. Eradication of H. pylori in non-tumor tissue of gastric remnant led to a complete negativity on the 12th postoperative month
+CONCLUSIONS: The data confirmed the hypothesis of a high prevalence of H. pylori in tumor tissue of gastric advanced carcinomas and in adjacent non-tumor mucosa of operated stomachs. The presence of H. pylori was predominant in the intestinal-type carcinoma.
+
+Headings: Stomach neoplasms. Carcinoma. Helicobacter infections.
+
+RESUMO
+
+RACIONAL: Existe evidência de que a infecção pelo Helicobacter pylori desempenha papel importante na causa do câncer gástrico e que é raramente encontrada em biopsias de gastrite atrófica e em tecido tumoral de câncer do estômago. Com a evolução para câncer gástrico avançado, a bactéria tende a desaparecer do tecido tumoral
+OBJETIVOS: Analisar a prevalência do H. pylori em peças operatórias de carcinomas gástricos avançados e no tecido adjacente aos tumores, comparando os tumores tipo intestinal e difuso de acordo com a classificação de Lauren
+MÉTODOS: Estudo prospectivo controlado incluiu 56 pacientes operados no Hospital Universitário da Universidade Federal do Rio Grande do Norte, Natal, RN, com câncer gástrico avançado, entre fevereiro de 2000 e março de 2003. Imediatamente após a gastrectomia, a peça operatória foi aberta e foram feitas várias biopsias do tecido neoplásico e da mucosa adjacente a 4 cm da margem tumoral. Os tecidos formam processados e corados pela hematoxilina-eosina. Foi usada a classificação de Lauren para carcinoma gástrico. A infecção pelo H. pylori foi diagnosticada pelo teste da urease, dosagem de IgG por ELISA e histopatologia com coloração Giemsa. Os pacientes infectados pelo H. pylori foram tratados com omeprazol, claritromicina e amoxicilina por 7 dias. Após 6 meses, 1 ano e 2 anos, foi feito seguimento utilizando endoscopia, dosagem de IgG e teste da urease para avaliar o sucesso da erradicação do H. pylori e recidiva do tumor
+RESULTADOS: O carcinoma tipo intestinal ocorreu em 34 (60,7%) pacientes e 22 (39,3%) foram acometidos de carcinoma difuso. No tecido adjacente não-tumoral a gastrite crônica foi observada em 53 casos (94,6%) e mucosa atrófica em 36 pacientes (64,3%), todos H. pylori positivos. Exames pelo Giemsa e teste da urease revelaram maior prevalência de H. pylori positivo no tecido tumoral do carcinoma tipo intestinal do que no tipo difuso. Quando foi comparada a presença de H. pylori no tecido tumoral (60,7%), com a que ocorreu na mucosa gástrica adjacente ao carcinoma (53%), diferença foi insignificante. A erradicação do H. pylori resultou em negatividade completa no segundo ano de seguimento
+CONCLUSÕES: Os dados sugerem presença significante de H. pylori no tecido tumoral de carcinoma gástrico avançado e na mucosa adjacente de peças operatórias, predominando no carcinoma tipo intestinal, quando comparado com o tipo difuso.
+
+Descritores: Neoplasias gástricas. Carcinoma. Infecções por helicobacter.
+
+ 
+
+ 
+
+INTRODUCTION
+
+Gastric carcinoma is one of the most common human malignant cancers in the world. There is substantial evidence that infection with the gastric bacterium Helicobacter pylori plays a role in the etiology of gastric cancer(2, 48). The International Agency for Research on Cancer, sponsored by the World Health Organization, has categorized H. pylori infection as a definite human carcinogen since 1994(19). Some years after that decision, it is well established that persistent infection with H. pylori is associated with an increased risk for gastric malignancies(11, 17).
+
+The magnitude of the risk of gastric cancer associated with infection remains unclear and there have been suggestions that this risk varies with sex(14, 32), age(30), and the histological subtype of the cancer(33). There is evidence that H. pylori is frequently found in gastric biopsy specimens from individuals with atrophic gastritis, intestinal metaplasia and gastric cancer, and that with the development of advanced gastric tumors, the bacteria can be lost from the stomach(20, 21). With loss of infection, the level of circulating anti-H. pylori antibodies will fall, so that patients with gastric cancer may be H. pylori seronegative even though they have been infected in the past(10). Most researchers believe that the pathogenesis of human gastric cancer is a multifactorial and multistage process(13, 19, 22). Recent studies linked cytokine gene polymorphisms to H. pylori-related gastric cancer development(23, 37). RAD et al.(37) observed that pro-inflammatory IL-1 polymorphisms (IL-1RN2[+]/IL-1B-511T/-31C[+]) were associated with increased IL-1b expression, more severe degrees of inflammation, and an increased prevalence of intestinal metaplasia and atrophic gastritis. LU et al.(24) observed that the risk of gastric cancer was significantly elevated in subjects with the IL-8-251 AA or IL-10-1082 G or TNFa-308 AG genotypes. These findings suggest that genetic polymorphisms in IL-8, IL-10, and TNF-a may play important roles in developing gastric cancer in the Chinese population. YANG et al.(51) reported that, in Chinese population, the risks associated with the IL-1b variant genotypes were 1.64 for -31TT and 1.52 for -511CC, respectively, compared with their wildtype homozygotes. The risks were significantly more evident in individuals with H. pylori infection, which was consistent with the biological effects of IL-1b.
+
+H. pylori cytotoxin-associated gene A (CagA) and vacuolating cytotoxin A (VacA) proteins interact with multiple host proteins, although downstream signaling events need further characterization. It does appear, however, that CagA may participate in a negative feedback loop on Src family kinases to prevent further phosphorylation of CagA. ARGENT et al.(1) reported that H. pylori strains that deliver CagA with more phosphorylation motifs induce higher levels of CagA phosphorylation in epithelial cells, induce more cytoskeletal changes, and are more likely to be associated with gastric cancer. Functional variability of cagA gene has been reported in Japanese isolates of H. pylori(15). The BagA2 and CagA genes were investigated in 208 Brazilian H. pylori strains. A strong association between BabA2 and duodenal ulcer or gastric carcinoma was observed, even after adjusting for confounding factors, such as age, gender, and CagA status. CagA-positive strains were also independently associated with H. pylori-related diseases(31).
+
+Undoubtedly, the most significant association of H. pylori is with gastric cancer, both intestinal and diffuse types, and meta-analysis has shown that infection confers a 2–3-fold increased chance of developing gastric cancer(18). Epidemiological and histopathological studies have shown that H. pylori infection is closely associated with gastric carcinogenesis(13, 46).
+
+Beginning from the evidence that the H. pylori infection predominantly occurs in initial gastric carcinomas, the aim of this study was to analyze the prevalence of H. pylori infection in advanced gastric carcinomas and adjacent mucosa from operated patients, comparing intestinal and diffuse tumors according to LAUREN'S classification(22). Localization of H. pylori in gastric carcinomas and adjacent non-tumor tissues were demonstrated.
+
+ 
+
+METHODS
+
+The prospective controlled study enrolled 56 patients from "Hospital Universitário", Federal University of Rio Grande do Norte, Natal, RN, Brazil. with advanced gastric cancer according to the TNM classification, treated from February 2000 to March 2003. Patients with chronic diseases, immunossupressed, using non-steroid anti-inflammatory, previous radiotherapy/chemotherapy and H2 blockers were excluded. All patients were subjected to partial gastrectomy. After resection, the greater curvature of the stomach was opened and several (usually 12) mucosal biopsy samples were taken from the gastric tumor, and the adjacent macroscopically non-tumorous mucosa within 4 cm distance from the tumor margin. For morphological analysis, tissue sections were routinely stained with hematoxylin and eosin. Adjacent non-tumor tissue was examined for diagnosis of atrophy of mucosa and chronic gastritis. The histological typing of gastric cancer was assessed according to Lauren's classification(18). The H. pylori infection status was assessed by the urease rapid test, observed during 30 min (Gastroteste kit). H. pylori IgG antibody in plasma was measured by an enzyme-linked immunosorbent assay (ELISA), using commercially available kit Cobas Core II (Roche). A cut off value of >7.5 U was taken to categorize positive samples, as recommended by the manufacturer. For histopathological evaluation of the H. pylori colonization, the specimens from tumor tissue and adjacent mucosa were loaded into 1% formalin and routinely screened with microscope (Giemsa staining).
+
+For those patients infected with H. pylori in non tumor tissue, treatment was performed after the 30th postoperative day. Patients received omeprazole 2 × 20 mg, clarithromycin 2 × 500 mg, and amoxicillin 2 × 1000 mg given before breakfast and before dinner for 7 days. The first follow-up endoscopy was performed 6 months after treatment to determine successful eradication of H. pylori and tumor recurrence. Thereafter, follow-up endoscopies were scheduled annually.
+
+All patients gave an informed consent before the surgical procedures. The study was conducted in accordance with the Declaration of Helsinki and the 196/96 Resolution from National Council of Health, Brazil and was approved by the Ethics on Research Committee of the Federal University of Rio Grande do Norte, Brazil (Protocol 261.01).
+
+The statistical analysis was performed using the chi-square test and Yates correction, to compare the association between proportions for independent groups. The McNemar test was used for dependent paired groups. P<0.05 was considered statistically significant.
+
+ 
+
+RESULTS
+
+Demographic data are expressed in Table 1. Thirty-four tumors (60.7%) were classified as intestinal-type, and the remaining 22 (39.3%), as diffuse type carcinomas. When the cancer was separated according to the histological type, the prevalence of H. pylori infection was higher in intestinal than in diffuse-type carcinoma (Table 2). Statistically significant differences were found between these groups, when the diagnosis was performed by Giemsa staining and urease rapid test (P<0.05). Histopathological changes of adjacent non-tumor gastric mucosa were observed; chronic gastritis was found in 53 cases (94.6%) and atrophic mucosa in 36 patients (64.3%). All the patients with accentuated reduction in the epithelial thickness were H. pylori positive when assessed by Giemsa and urease test.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Helicobacter pylori in tumor tissue
+
+Giemsa staining showed 34 positive cases (60.7%) of tissue sections carrying bacterial bodies of H. pylori from 56 gastric carcinomas, and the positive rate was lower than that detected by ELISA method in serum of 36 patients (64.3%). The urease rapid test detected H. pylori in tumor tissue of 34 patients (60,7%). The differences among these proportions were not significant (P>0.05). When detected by Giemsa, H. pylori positive rate in intestinal type carcinomas was higher than that in diffuse carcinomas (P<0.05) (Table 2). The difference was also significant comparing H. pylori positive in intestinal and diffuse carcinomas by rapid urease test (P<0.05). So, in diffuse carcinomas, H. pylori was predominantly negative when Giemsa staining and urease rapid test were used (Table 2).
+
+Helicobacter pylori in non-tumor tissue
+
+H. pylori was detected by Giemsa and urease test in 30 of 56 cases (53.5%) in the glands and mucous pool of normal tissues 4 cm adjacent to tumors. H. pylori microscopic positive rate in non-tumor sites was lower than that in tumor (60,7%) sites, but this difference was not significant (P>0.05).
+
+ELISA antibody and urease test after eradication therapy
+
+To examine the effect of H. pylori treatment on antibody expression and urease rapid test, a total of 40 patients were followed endoscopically (16 were lost of follow-up). We analyzed the gastric biopsies obtained from gastric remnant of patients who had infection of adjacent non-tumor tissue, before and after H. pylori eradication therapy. Six months later, only two patients had IgG/ELISA and urease positive tests 2/36 (5%) and the treatment was repeated. The second treatment of H. pylori led to a complete negativity of IgG/ELISA and urease test on the 12th postoperative month. On the second follow-up year, tumor recurrence occurred in five patients who had diffuse carcinomas, whose H. pylori tests had been negative after 6 and 12 postoperative months. These patients died 4 months later.
+
+ 
+
+DISCUSSION
+
+The epidemiology of H. pylori infection has been studied in the Brazilian population. ROCHA et al.(38), using indirect immunofluorescence, detected a prevalence of 62.1% H. pylori infection in asymptomatic Brazilian blood donors in an urban area. A prevalence of 84.7% H. pylori infection in adults in a rural area of a central region of Brazil was also reported(42). Thus, the prevalence is highest in developing regions, including all the countries of Latin America. Around the world, the prevalence of H. pylori infection ranges from 20% to over 90% in adult populations(36). It has been postulated that transmission decreases as sanitation improves(1). Within countries, H. pylori infection is linked to low socioeconomic status, residential conditions and migration from high prevalence regions(4, 41, 48).
+
+Histological studies have reported the association between H. pylori infection and gastric cancer(5, 16, 28, 33). However, the results have not been always consistent; higher rates of serologically and histologically detected H. pylori positivity have been reported for early stage cancer than for advanced gastric cancer(5). TANG et al.(43) demonstrated positive rates of H. pylori 75.0% and 49.5% in early gastric carcinomas and advanced gastric carcinomas, respectively. Different from what could be expected, in the present study all the patients had advanced cancer and the prevalence of positive H. pylori in tumor tissue was 60.7%, as detected by Giemsa staining. As H. pylori infection had a high frequency in gastric cancer tissue, one possible interpretation of the results includes the possibility that it could be one of the carcinogenic factors in our patients. The prevalence of H. pylori in non-tumor tissue, 4 cm adjacent to gastric cancer, was not different from that detected in tumor tissue. In a Brazilian study of 40 patients receiving gastrectomy for gastric carcinoma, H. pylori was detected in 82% of the cases. Of the cases evaluated by histologic and microbiologic methods, 94% had positive results by at least one method(29).
+
+Atrophy of the gastric mucosa adjacent to tumor tissue was observed in all patients with H. pylori positive gastric carcinomas, with intestinal or diffuse types. This finding, associated with the high prevalence of chronic gastritis in adjacent tumor tissue (94.6%), may be a predetermining condition in the carcinogenesis of the gastric tumor of our patients. CRAANEN et al.(9) showed that atrophic mucosal changes were present in 90.3% of patients with intestinal-type early gastric cancer. UEMURA et al.(45) reported that subjects with severe gastric atrophy, corpus predominant gastritis, or intestinal metaplasia had an increased risk for gastric cancer. Another study confirmed that gastric atrophy status was essential for cancer development(50).
+
+According to CORREA's(8) model of gastric carcinogenesis, continuous exposure to irritants of the gastric mucosa produces repeated episodes of superficial gastritis. When this occurs in patients with nutritional deficits, a degenerative sequential process causes atrophic gastritis, intestinal metaplasia, dysplasia and, ultimately, carcinoma. H. pylori may be considered an agent that causes chronic inflammation of the gastric mucosa. Histological studies have described a corpus-dominant pattern of mucosal inflammation, which is found not only in most H. pylori infected gastric cancer patients irrespective of the clinical stage(24, 43), but also in healthy relatives of gastric cancer patients(25). Based on histological studies, patients with a corpus-dominant H. pylori gastritis have about 9-fold increased risk for gastric cancer(26, 27, 28).
+
+Although cancer development is a multifactorial process(7), H. pylori infection increases the risk of gastric cancer(40). Mongolian gerbils were orally inoculated and infected with H pylori, which induced gastric carcinomas located in the pyloric region. After the 26th week, severe active chronic gastritis, ulcers, and intestinal metaplasia could be observed in the infected animals. After the 62nd week, adenocarcinoma had been developed in the pyloric region of 37% (10/27) of the infected animals. It was found that adenocarcinoma development seemed to be closely related to intestinal metaplasia(47). In our study the presence of H. pylori in tumor tissue with intestinal-type gastric adenocarcinoma was more prevalent than in the diffuse-type, and the difference was significant. In the diffuse-type carcinoma the H. pylori was predominantly negative when the Giemsa and urease test were used. Our results are in contradiction to the works published by other authors(6, 35). H. pylori infection was found in 63.6% of patients with intestinal type early gastric cancer and in 54.5% of patients with diffuse-type early gastric cancer(9).
+
+"The Maastricht Consensus Report"(12) recommends H. pylori eradication therapy following early resection for gastric cancer. There are some data showing that H. pylori eradication is associated with a decrease in the recurrence rate in patients with early gastric cancer that is resected endoscopically(39, 44) Some reports emphasize the importance of H. pylori treatment at a young age. These studies conclude that H. pylori eradication is also useful for the prevention of new cancer development from high-risk mucosa for gastric cancer(3, 21, 40). WONG et al.(49) reported a 7.5-year follow-up study in a high-risk region in China and showed that treatment of H. pylori reduced the overall incidence of gastric cancer by 37%, although there was no statistical significance. The above recommendations are in agreement with the management adopted and the results of the present study. All the patients operated with gastric cancer were treated for H. pylori infection, when it was present. All of them, previously with infection in non-tumor tissue, were H. pylori negative after 1 year of follow-up and no recurrence of cancer was observed. After 2 years, endoscopy showed tumor recurrence in five patients, with H. pylori negative tests. These recurrences may be explained by the fact that all the patients were operated with advanced gastric carcinomas, with poor prognosis. These results suggest that H. pylori eradication, even in advanced tumors, may reduce gastric cancer recurrence.
+
+As suggested by an economical analysis based on the United States data, a screen-and-treat strategy for H. pylori infection, even under conservative assumptions, may be a cost-effective strategy for gastric cancer prevention comparable to the costs of breast mammography screening programs(34).
+
+ 
+
+CONCLUSIONS
+
+The data of the present study suggest a high prevalence of H. pylori in tumor tissue of gastric advanced carcinomas and in adjacent non-tumor mucosa of operated stomachs. A significant difference was detected in the presence of H. pylori between intestinal and diffuse histological types of gastric carcinoma.
+
+ 
+
+REFERENCES
+
+1. Argent RH, Kidd M, Owen RJ, Thomas RJ, Limb MC, Atherton JC. Determinants and consequences of different levels of CagA phosphorylation for clinical isolates of Helicobacter pylori. Gastroenterology. 2004;127:514-23.        [ Links ]
+
+2. Banatvala N, Mayo K, Megraud F, Jennings R, Deeks JJ, Feldman RA. The cohort effect and Helicobacter pylori. J Infect Dis. 1993;168:219-21.        [ Links ]
+
+3. Blaser MJ, Chyou PH, Nomura A. Age at establishment of Helicobacter pylori infection and gastric carcinoma, gastric ulcer and duodenal ulcer risk. Cancer Res. 1995;55:562-5.        [ Links ]
+
+4. Blecker U, Vandenplas Y. Ethnic differences in Helicobacter pylori infection. Eur J Pediatr. 1993;152:377-80.        [ Links ]
+
+5. Caruso ML, Fucci L. Histological identification of Helicobacter pylori in early and advanced gastric cancer. J Clin Gastroenterol. 1990;12:601-2.        [ Links ]
+
+6. Citelly D, Henao S, Orozco O, Martinez J. Detección de Helicobacter pylori en Colombia: diferentes metodologias aplicadas a su studio en una población de alto riesgo de cancer gástrico. Rev Colomb Gastroenterol. 1999;14:164-9.        [ Links ]
+
+7. Correa P. Human gastric carcinogenesis: a multistep and multifactorial process. First American Cancer Society Award Lecture On Cancer Epidemiology and Prevention. Cancer Res. 1992;52:6735-40.        [ Links ]
+
+8. Correa P. Helicobacter pylori and gastric carcinogenesis. Am J Surg Pathol. 1995;19:s37-s43.        [ Links ]
+
+9. Craanen ME, Blok P, Dekker W, Tytgat GN. Helicobacter pylori and early gastric cancer. Gut. 1994;35:1372-74.        [ Links ]
+
+10. Crabtree JE, Wyatt JI, Sobala GM, Miller G, Tompkins DS, Primrose JN, Morgan AG. Systemic and mucosal humoral responses to Helicobacter pylori in gastric cancer. Gut. 1993;34:1339-43.        [ Links ]
+
+11. Danesh J. Helicobacter pylori infection and gastric cancer: systematic review of the epidemiological studies. Aliment Pharmacol Ther. 1999;13:851-6.        [ Links ]
+
+12. The European Helicobacter pylori study group. Current European concepts in the management of Helicobacter pylori infection. The Maastricht Consensus Report. Gut. 1997;41:8-13.        [ Links ]
+
+13. Fujioka T, Murakami K, Kodama M, Kagawa J, Okimoto T, Sato R. Helicobacter pylori and gastric carcinoma-from the view point of animal model. Keio J Med. 2002;51 Suppl 2:69-73.        [ Links ]
+
+14. Hansson L-E, Engstrand L, Nyrén O, Evans DJ Jr, Lindgren A, Bergstrom R Andersson B, Athlin L, Bendtsen O, Tracz P. Helicobacter pylori infection: independent risk indicator of gastric adenocarcinoma. Gastroenterology. 1993;105:1098-103.        [ Links ]
+
+15. Hirata Y, Yanai A, Shibata W, Mitsuno Y, Maeda S, Ogura K, Yoshida H, Kawabe T, Omata M. Functional variability of CagA gene in Japanese isolates of Helicobacter pylori. Gene. 2004;343:165-72.        [ Links ]
+
+16. Hiyama T, Haruma K, Kitadai Y, Masuda H, Miyamoto M, Tanaka S, Yoshihara M, Shimamoto F, Chayama K. K-ras mutation in Helicobacter pylori-associated chronic gastritis in patients with and without gastric cancer. Int J Cancer. 2002;97:562-6.        [ Links ]
+
+17. Huang JQ, Sridhar S, Chen Y, Hunt RH. Meta-analysis of the relationship between Helicobacter pylori seropositivity and gastric cancer. Gastroenterology. 1998;114:1169-79.        [ Links ]
+
+18. Huang JQ, Zheng GF, Sumanac K, Irvine EJ, Hunt RE. Meta-analysis of the relationship between cagA seropositivity and gastric cancer. Gastroenterology. 2003;125:1636-44.        [ Links ]
+
+19. International Agency for Research on Cancer (IARC). Schistosomes, liver flukes and Helicobacter pylori. Working Group on the Evaluation of Carcinogenic Risks to Humans. IARC Monogr Eval Carcinog Risks Hum. 1994;61:177-241.        [ Links ]
+
+20. Karnes WE Jr, Samlo VIM, Siurala M, Kekky M, Sipponem P, Kim SW, Walsh JH. Positive serum antibody and negative tissue staining for Helicobacter pylori in subjects with atrophic body gastritis. Gastroenterology; 1991;101:167-74.        [ Links ]
+
+21. Kikuchi S. Epidemiology of Helicobacter pylori and gastric cancer. Gastric Cancer. 2002;5:6-15.        [ Links ]
+
+22. Lauren P. The two histological main types of gastric carcinoma: diffuse and so-called intestinal-type carcinoma. An attempt at a histoclinical classification. Acta Pathol Microbiol Scand. 1965;64:31-49.        [ Links ]
+
+23. Lee SG, Kim B, Yook JH, Oh ST, Lee I, Song K. TNF/LTA polymorphisms and risk for gastric cancer/duodenal ulcer in the Korean population. Cytokine. 2004;28:75_82.        [ Links ]
+
+24. Lu W, Pan K, Zhang L, Lin D, Miao X, You W. Genetic polymorphisms of interleukin (IL)-1B, IL-1RN, IL-8, IL-10 and tumor necrosis factor alpha and risk of gastric cancer in a Chinese population. Carcinogenesis. 2005;26:631-6.        [ Links ]
+
+25. Meining A, Stolte M, Hatz R, Lehn N, Miehlke S, Morgner A, Bayerdrffer E. Differing degree and distribution of gastritis in Helicobacter pylori associated diseases. Virch Arch. 1997;431:11-5.        [ Links ]
+
+26. Meining A, Bayerdrffer E, Stolte M. Helicobacter pylori gastritis of the gastric cancer phenotype in relatives of gastric carcinoma patients. Eur J Gastroenterol Hepatol. 1999;11:717-20.        [ Links ]
+
+27. Menaker RJ, Sharaf AA, Jones NL. Helicobacter pylori infection and gastric cancer: host, bug, environment, or all three? Curr Gastroenterol Rep. 2004;6:429–35.        [ Links ]
+
+28. Miehlke S, Hackelsberge R, Meining A, Hatz R, Lehn N, Malfertheiner P, Stolte M, Bayerdrffer E. Severe expression of corpus gastritis is characteristic in gastric cancer patients infected with Helicobacter pylori. Br J Cancer. 1998;78:263-6.        [ Links ]
+
+29. Nogueira AM, Ribeiro GM, Rodrigues MA, Queiroz DM, Mendes EN, Rocha GA, Barbosa AJ. Prevalence of Helicobacter pylori in Brazilian patients with gastric carcinoma. Am J Clin Pathol. 1993;100:236-9.        [ Links ]
+
+30. Nomura A, Stemmermann GN, Chyou P-H, Kato I, Perez-Perez GI, Blaser MJ. Helicobacter pylori infection and gastric carcinoma among Japanese-Americans in Hawaii. N Engl J Med. 1991;325:1132–6.        [ Links ]
+
+31. Oliveira AG, Santos A, Guerra JB, Rocha GA, Rocha AMC, Oliveira CA, Cabral MMDA, Nogueira AMMF, Queiroz DMM. babA2- and cagA-positive Helicobacter pylori strains are associated with duodenal ulcer and gastric carcinoma in Brazil. J Clin Microbiol. 2003;41:3964-6.        [ Links ]
+
+32. Parsonnet J, Friedman GD, Vandersteen DP, Chang Y, Vogelman JH, Orentreich N, Sibley RK. Helicobacter pylori infection and the risk of gastric carcinoma. N Engl J Med. 1991;325:1127-31.        [ Links ]
+
+33. Parsonnet J, Vandersteen D, Goates J, Sibley RK, Pritikin J, Chang Y. Helicobacter pylori infection in intestinal- and diffuse-type gastric adenocarcinomas. J Natl Cancer Inst. 1991;83:640-3.        [ Links ]
+
+34. Parsonnet J, Harris RA, Hack HM, Owens DK. Modelling costeffectiveness of Helicobacter pylori screening to prevent gastric cancer: a mandate for clinical trials. Lancet. 1996;348:150-4.        [ Links ]
+
+35. Pereira LPLB, Waisberg J, André EA, Zanoto A, Mendes Jr. JP, Soares HP. Detection of Helicobacter pylori in gastric cancer. Arq Gastroenterol. 2001;38:240-6.        [ Links ]
+
+36. Pounder RE, Ng D. The prevalence of Helicobacter pylori infection in different countries. Aliment Pharmacol Ther. 1995;9:33-40.        [ Links ]
+
+37. Rad R, Dossumbekova A, Neu B, Lang R, Bauer S, Saur D, Gerhard M, Prinz C. Cytokine gene polymorphisms influence mucosal cytokine expression, gastric inflammation, and host-specific colonisation during Helicobacter pylori infection. Gut. 2004;53:1082–9.        [ Links ]
+
+38. Rocha GA, Queiroz DMM, Mendes EN, Oliveira AM, Moura SB, Silva JR. Indirect immunofluorescence determination of the frequency of anti-H. pylori antibodies in Brazilian blood donors. Braz J Med Biol Res. 1992;25:683-9.        [ Links ]
+
+39. Saito K, Arai K, Mori M, Kobayashi R, Ohki I. Effect of Helicobacter pylori eradication on malignant transformation of gastric adenoma. Gastrointest Endosc. 2000;52:27-32.        [ Links ]
+
+40. Shimizu N, Ikehara Y, Inada K, Nakanishi H, Tsukamoto T, Nozaki K, Kaminishi M, Kuramoto S, Sugiyama A, Katsuyama T, Tatematsu M. Eradication diminishes enhancing effects of Helicobacter pylori infection on glandular stomach carcinogenesis in Mongolian gerbils. Cancer Res. 2000;60:1512-4.        [ Links ]
+
+41. Smoak BL, Kelley PW, Taylor DN. Seroprevalence of Helicobacter pylori infections in a cohort of US army recruits. Am J Epidemiol. 1994;139:513-9.        [ Links ]
+
+42. Souto FJ, Fontes CJ, Rocha GA, Oliveira AM, Mendes EN, Queiroz DM. Prevalence of Helicobacter pylori infection in a rural area of the State of Mato Grosso, Brazil. Mem Inst Oswaldo Cruz. 1998;93:171-4.        [ Links ]
+
+43. Tang YL, Gan RL, Dong BH, Jiang RC, Tang RJ. Detection and location of Helicobacter pylori in human gastric carcinomas. World J Gastroenterol. 2005;11:1387-91.        [ Links ]
+
+44. Uemura N, Mukai T, Okamoto S, Yamaguchi S, Mashiba H, Taniyama K, Sasaki N, Haruma K, Sumii K, Kajiyama G. Effect of Helicobacter pylori eradication on subsequent development of cancer after endoscopic resection of early gastric cancer. Cancer Epidemiol Biomarkers Prev. 1997;6:639-42.        [ Links ]
+
+45. Uemura N, Okamoto S, Yamamoto S, Matsumura N, Yamagushi S, Yamakido M, Taniyama K, Sasaki N, Schlemper RJ. Helicobacter pylori infection and the development of gastric cancer. N Engl J Med. 2001;345:784-9.        [ Links ]
+
+46. Wang J, Chi DS, Kalin GB, Sosinski C, Miller LE, Burja I, Thomas E. Helicobacter pylori infection and oncogene expressions in gastric carcinoma and its precursor lesions. Dig Dis Sci. 2002;47:107-13.        [ Links ]
+
+47. Watanabe T, Tada M, Nagai H, Sasaki S, Nakao M. Helicobacter pylori infection induces gastric cancer in Monogolian Gerbils. Gastroenterology. 1998;115:642-8.        [ Links ]
+
+48. Webb PM, Forman D. Helicobacter pylori as a risk factor for cancer. Baillieres Clin Gastroenterol. 1995;9:563-82.        [ Links ]
+
+49. Wong BC, Lam SK, Wong WM. Helicobacter pylori eradication to prevent gastric cancer in a high-risk region of China: a randomized controlled trial. JAMA. 2004;291:187–4.        [ Links ]
+
+50. Yamaji Y, Mitsushima T, Ikuma H, Okamoto M, Yoshida H, Kawabe T, Shiratori Y, Saito K, Yokouchi K, Omata M. Inverse background of Helicobacter pylori antibody and pepsinogen in reflux oesophagitis compared with gastric cancer: analysis of 5732 Japanese subjects. Gut. 2001;49:335–40.        [ Links ]
+
+51. Yang J, Hu Z, Xu Y, Shen J, Niu J, Hu X, Guo J, Wei Q, Wang X, Shen H. Interleukin-1B gene promoter variants are associated with an increased risk of gastric cancer in a Chinese population. Cancer Lett. 2004;215:191-8.        [ Links ]

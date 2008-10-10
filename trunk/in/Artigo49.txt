@@ -1,0 +1,159 @@
+Descritores
+
+Biopsy
+Child
+Child, Preschool
+Female
+Follow-Up Studies
+Humans
+Kidney
+Kidney Diseases
+Laparoscopy
+Length of Stay
+Male
+Nephrectomy
+Retroperitoneal Space
+
+
+Artigo
+
+Retroperitoneoscopic renal biopsy in children
+
+ 
+
+ 
+
+Carlos M. Jesus; Hamilto Yamamoto; Paulo R. Kawano; Rodrigo Otsuka; Oscar E. Fugita
+
+Department of Urology, School of Medicine, General Hospital, UNESP, Botucatu, Sao Paulo, Brazil
+
+Correspondence
+
+ 
+
+ 
+
+ABSTRACT
+
+OBJECTIVE: We present our experience in a series of 17 consecutive pediatric patients submitted to retroperitoneal laparoscopic renal biopsy.
+MATERIALS AND METHODS: Retroperitoneal laparoscopic renal biopsy (LRB) was performed in 5 boys and 12 girls. Mean age was 8.1 years and age range from 2 to 12. Two or three trocars were used to expose the inferior pole of the kidney, remove enough cortical parenchymal specimen and fulgurate the biopsy site. Assessment included surgical time, estimated blood loss, hospitalization period, analgesia requirements, complications and number of glomeruli present in the specimen.
+RESULTS: LRB was successfully performed in all 15 patients (88%). In two cases, LRB was not possible to be performed. One patient was converted to a transperitoneal laparoscopy due to tear in the peritoneum. The other patient had had previous abdominal surgery and, during retroperitoneal balloon dilation, the peritoneum was opened and the open biopsy was performed. A third patient had postoperatively a perirenal hematoma, which was solved spontaneously. Complication rate was 17.6% (3/17 cases). Mean operative time was 65 minutes, while mean estimated blood loss was 52 mL, mean hospital stay was 2.2 days and mean analgesic requirement was 100 mg of tramadol. The mean number of glomeruli present in the specimen was 60.
+CONCLUSION: Retroperitoneal laparoscopic renal biopsy in children is a simple, safe. Bleeding is still the most common complication. However, direct vision usually allows a safe control of this drawback. In our institution, laparoscopic approach is the chosen procedure in pediatric patients older than one – year – old.
+
+Key words: renal biopsy; children; laparoscopy; complications
+
+ 
+
+ 
+
+INTRODUCTION
+
+Renal biopsy is an important procedure for renal disease investigation. Percutaneous needle renal biopsy (PNRB) is the most common technique to obtain renal tissue. However, there are absolute and relative contraindications such as solitary kidney, uncontrolled arterial hypertension, hemostasis disorders, renal artery aneurysm, Jehovah witness, percutaneous needle renal biopsy failure, morbid obesity and non–collaborative patients (1–4). In these situations, open renal biopsy (ORB) is the option through flank or posterior incision (5,6).
+
+As an alternative to ORB in selected cases, some authors propose transperitoneal (7) or retroperitoneal laparoscopic approach (8–12). Laparoscopy allows potential advantages such as less postoperative pain, better cosmetic results, short hospitalization and convalescence (13,14).
+
+Open renal biopsy was performed to obtain renal tissue samples in children before the laparoscopic approach. We believe this procedure is safer than PNRB. In 2002, with the advent of laparoscopy and considering its potential benefits, we standardized the renal tissue sample through retroperitoneal route in children.
+
+ 
+
+MATERIALS AND METHODS
+
+Twenty renal biopsies were performed from April 2002 to February 2006 in children younger than 12–year old to different renal conditions. Seventeen children were submitted to retroperitoneal laparoscopic renal biopsy (LRB) and three were submitted to ORB. Large ascites in one patient, severe trombocitopenia in the second (fewer than 30,000 platelets) and low age (two–months–old) in the third child determined the choice for ORB.
+
+The children's parents were informed about the procedure and the probability of choosing open surgery conversion. The study was evaluated and accepted by the ethics committee of the institution.
+
+The procedure was performed under general anesthesia placing the Foley catheter in bladder and nasogastric tube. The patient was put in flank position in the renal side to be operated. The kidney bridge was elevated underneath the last ribs to increase the space between the costal margins and the iliac crest in order to create a larger retroperitoneal working area. Before the surgery, prophylactic antibiotics (cefalotin 50 mg/kg/24h) were administered.
+
+A 1.0 to 1.5 cm incision was made in the tip of the 12th rib in the retroperitoneum. Through this incision, the retroperitoneal area was dissected and the peritoneum pushed forward. An additional retroperitoneal space was completed using balloon dissection whose function was to increase the working space and promote the hemostasis after the digital dissection.
+
+Afterwards, a 10 mm trocar was placed and retroperitoneal area was created with CO2 and a 10 to 12 mm Hg. Then, lower kidney pole was observed. A 5 mm trocar was placed in posterior lower axillary line, under laparoscopic view. Through the 5 mm trocar, scissors or biopsy grasper were used to perform 0.5 cm ellipsoid incision in lower renal pole or with a biopsy grasper. If necessary, a third 5 mm trocar was placed, behind the first one to facilitate renal surface exposition (Figure–1).
+
+ 
+
+ 
+
+The biopsy bed was fulgurated with argon beam coagulator or pressed with gauze for 5 minutes. As a next step, oxidized cellulose could be used in biopsy bed. If there was no bleeding, retroperitoneum pressure was reduced to 5 mmHg and now, a new hemostasia revision was done. No drain was left. The nasogastric tube and Foley catheter were withdrawn after surgery. Analgesia was endovenous with tramadol (0.25 mg/kg/bolus) for every patient requirement by endovenous infusion pump plus dipirona (50 mg/kg/dose every 8 hours). The post–operative follow–up evaluated operation time, blood loss, intra and post–operative complications, hospital stay, cumulative analgesia measure, histopathological diagnosis and glomeruli number.
+
+ 
+
+RESULTS
+
+LRB was performed in 5 boys and 12 girls. Patient data are listed in Table–1. Age ranges from 2 to 12 years old (mean 8.1 years) and mean operative time was 65 minutes (40 – 180 minutes). Hospital stay was 2.2 days. Three patients had complications. The first one, a 2–year old boy had peritoneum rupture during digital maneuver to create retroperitoneal area, which did not allow the completion of the retroperitoneal procedure. This surgery was performed by transperitoneal laparoscopic approach, using an additional trocar in left side in abdomen. The second patient had a huge peritoneum rupture, in the beginning of the surgery, thus not allowing laparoscopic procedure. This patient had been submitted to a previous open surgery (left hemicolectomy) due to inflammatory bowel disease. In both cases the hole in peritoneum is not repaired with sutures. The third patient had morbid obesity, which made it difficult to find the kidney in surgery. He lost blood in the first postoperative day and a 300 mL – perirenal hematoma was observed by ultrasound, and it was solved spontaneously. Mean analgesic doses were 100 mg of tramadol. All the samples presented renal cortex. Glomeruli mean per fragment was 60 (average 37 and 128).
+
+ 
+
+COMMENTS
+
+Renal biopsy is an important key in the diagnosis and treatment of some renal diseases. In some cases, flank incisions could lead to morbidity. Renal biopsy was reinforced after the report by Iversen & Braun showing PNRB as a safe, easy and less morbid method (15).
+
+Although PNRB is the standard procedure to obtain renal tissue samples nowadays, it is not indicated in different situations such as non–collaborative patients, failure to obtain samples for pathology tests, solitary kidney, morbid obesity and hematological disorders (1–4). In these cases, some authors suggest laparoscopic approach as an alternative to ORB (7–12,16).
+
+PNRB could be done in children, but there are some drawbacks. They need some kind of sedation or general anesthesia for renal biopsy to be done under computerized tomography or ultrasound. In addition, PNRB presents some risks, which could lead to renal bleeding, arterio–venous fistulas and renal aneurysms (4,17,18). In laparoscopic approach, blood loss is minimized because biopsy bed is controlled quickly under direct view, which is not possible in PNRB. Another advantage of LRB is the high positivity about the renal samples (almost 100%) different from the needle method, which is around 90% of renal fragments (12,16–18). We believe LRB eliminates the necessity of another procedure.
+
+In our study, two complications could be avoided. In order to avoid peritoneum tears during digital maneuver to create retroperitoneal space, this procedure must be carried out carefully because children have a thin peritoneum. However, not all peritoneal incidental lesions need to convert to open or laparoscopic transperitoneal approach because there could be CO2 equivalence pressure between the intraperitoneal cavity and the retroperitoneum. Only in cases where there are big holes in the peritoneum, this maneuver could not be done, allowing the lowering of the peritoneal envelope on the retroperitoneal area, preventing the normal development of the procedure.
+
+Caione et al. analyzed LRB in 22 children with the same parameters used by us (12). Data such as sample success and age were similar to our series. On the other hand, their operative time and hospital stay were shorter than ours according to Table–2.
+
+As to the trocar numbers, we believe two are enough in most cases. In the beginning of our experience, we used three trocars. Usually, we only use the third trocar in hard cases, e.g. morbid obesity.
+
+Obesity could complicate retroperitoneal access (16,19,20). It occurred in an obese patient, leaving a perirenal hematoma. It is not clear if the bleeding site was the biopsy bed or the perinephretic fat. It is hard to reach the renal lower pole in these cases. Caione et al. performed the only open surgery conversion in an obese child, due to the difficulty of finding the operation landmarks (12). Yap et al. suggested the intra–operative ultrasound use in morbid obese to make kidney location easier for biopsy taking (20). Shetye et al. reported unexpected spleen biopsy in two cases in LRB in obese patients, showing that, in these cases, it was harder to set anatomic landmarks, due to excessive retroperitoneal fat. In a similar way, these complications were minimized with intraoperative ultrasound. Complication rate in this series of 74 patients (aged 3 to 74 years old) was 20%. The most frequent type of complication was hemorrhage, comprising 20% of all (16).
+
+In our study, little analgesic was used and two children did not use it post – operatively. Cumulative analgesic average dose during hospital stay was 100 mg of tramadol and 500g of dipirone, which we believe to be very low. LRB complication rate ranges from 0.7 to 11% in adults (4,17,18). LRB can be an alternative procedure, as it is minimally invasive, with low complication rate and high successful sampling rate (Table–2).
+
+As far as we know, this is the only series that uses LRB solely in children under 12 – years – old, because we believe that only this age range can benefit from this procedure. Caione et al. performed the laparoscopic approach just where PNRB could not be applied, because of uncontrolled hypertension, hematological disorders, anti–platelet medications and anatomic abnormalities (12). In teenagers, PNRB is regarded as a better, less invasive method, which does not require either sedation or general anesthesia, since most patients are collaborative.
+
+ 
+
+CONCLUSION
+
+LRB in children is a safe and effective procedure. At present this approach is used in our institution in children older than one year–old and younger than 12 years–old, as well as in patients with contraindication to PNRB.
+
+ 
+
+CONFLICT OF INTEREST
+
+None declared.
+
+ 
+
+REFERENCES
+
+1. Bolton WK, Vaughan ED Jr: A comparative study of open surgical and percutaneous renal biopsies. J Urol. 1977; 117: 696–8.        [ Links ]
+
+2. Patil J, Bailey GL, Mahoney EF: Open–renal biopsy in uremic patient. Urology. 1974; 3: 293–6.        [ Links ]
+
+3. Schow DA, Vinson RK, Morrisseau PM: Percutaneous renal biopsy of the solitary kidney: a contraindication? J Urol. 1992; 147: 1235–7.        [ Links ]
+
+4. Kark RM, Muehrcke RC, Pollack VE, Pirani CL, Kiefer JH: An analysis of five hundred percutaneous renal biopsies. AMA Arch Intern Med. 1958; 101: 439–51.        [ Links ]
+
+5. Almkuist RD, Buckalew VM Jr: Techniques of renal biopsy. Urol Clin North Am. 1979; 6: 503–17.        [ Links ]
+
+6. Hinman F Jr: Open renal biopsy. In: Atlas of Urologic Surgery. Philadelphia, WB Saunders. 1988; pp. 839–90.        [ Links ]
+
+7. Healey DE, Newman RC, Cohen MS, Mars DR: Laparoscopically assisted percutaneous renal biopsy. J Urol. 1993; 150: 1218–21.        [ Links ]
+
+8. Gaur DD: Laparoscopic operative retroperitoneoscopy: use of a new device. J Urol. 1992; 148: 1137–9.        [ Links ]
+
+9. Gaur DD, Agarwal DK, Khochikar MV, Purohit KC: Laparoscopic renal biopsy via retroperitoneal approach. J Urol. 1994; 151: 925–6.        [ Links ]
+
+10. Gimenez LF, Micali S, Chen RN, Moore RG, Kavoussi LR, Scheel PJ Jr: Laparoscopic renal biopsy. Kidney Int. 1998; 54: 525–9.        [ Links ]
+
+11. Rassweiler JJ, Seemann O, Frede T, Henkel TO, Alken P: Retroperitoneoscopy: experience with 200 cases. J Urol. 1998; 160: 1265–9.        [ Links ]
+
+12. Caione P, Micali S, Rinaldi S, Capozza N, Lais A, Matarazzo E, et al.: Retroperitoneal laparoscopy for renal biopsy in children. J Urol. 2000; 164: 1080–3.        [ Links ]
+
+13. Abbou CC, Cicco A, Gasman D, Hoznek A, Antiphon P, Chopin DK, et al.: Retroperitoneal laparoscopic versus open radical nephrectomy. J Urol. 1999; 161: 1776–80.        [ Links ]
+
+14. Doublet JD, Barreto HS, Degremont AC, Gattegno B, Thibault P: Retroperitoneal nephrectomy: comparison of laparoscopy with open surgery. World J Surg. 1996; 20: 713–6.        [ Links ]
+
+15. Iversen P, Brun C: Aspiration biopsy of the kidney. Am J Med. 1951; 11: 324–30.        [ Links ]
+
+16. Shetye KR, Kavoussi LR, Ramakumar S, Fugita OE, Jarrett TW: Laparoscopic renal biopsy: a 9–year experience. BJU Int. 2003; 91: 817–20.        [ Links ]
+
+17. Muth RG: The safety of percutaneous renal biopsy: an analysis of 500 consecutive cases. J Urol. 1965; 94: 1–3.        [ Links ]
+
+18. Diaz–Buxo JA, Donadio JV Jr: Complications of percutaneous renal biopsy: an analysis of 1,000 consecutive biopsies. Clin Nephrol. 1975; 4: 223–7.        [ Links ]
+
+19. Chen RN, Moore RG, Micali S, Kavoussi LR: Retroperitoneoscopic renal biopsy in extremely obese patients. Urology. 1997; 50: 195–8.        [ Links ]
+
+20. Yap RL, Chan DY, Fradin J, Jarrett TW: Intraoperative ultrasound guided retroperitoneal laparoscopic renal biopsy in the morbidly obese patient. J Urol. 2000; 163: 1197–8.        [ Links ]
