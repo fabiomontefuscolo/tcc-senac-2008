@@ -24,6 +24,7 @@ class MeshHandler(ContentHandler):
         self.sinonimo = ""
         self.preferido = ""
         self.ConceptPreferredTermYN = ''
+        self.tree = {}
 
     def set_output(self, fp):
         self.file = fp
@@ -62,6 +63,9 @@ class MeshHandler(ContentHandler):
             pass
         elif name == 'ScopeNote':
             pass
+        elif name == 'TreeNumber':
+            pass
+            #self.tree = {}
 
     def endElement(self, name):
         if name == 'DescriptorName' and self.nivel == 3:
@@ -104,6 +108,13 @@ class MeshHandler(ContentHandler):
         elif name == 'DescriptorRecord':
             #self.file.write("\n")
             pass
+        elif name == 'TreeNumber':
+            self.tree[self.descritor] = self.data
+            #print self.tree
+            #raw_input("1 ")
+            #if len(self.tree) > 1:
+            #    print self.tree
+            #    raw_input("Tem 2: ")
 
         if name != 'String':
             self.data = ""
@@ -123,11 +134,14 @@ class MeshHandler(ContentHandler):
         elif type == "SINO":
             self.sino_dic = pickle.load(file)
         #print dic
+    def mesh_tree(self):
+        return true 
         
 # Criar um objeto Parser
-"""parser = make_parser()
+parser = make_parser()
 
 # Instancia do MeshHandler
+
 mh = MeshHandler()
 
 # Arquivo de saida para gravacao
@@ -136,7 +150,7 @@ mh = MeshHandler()
 # Porter Stemmer
 ps = PorterStemmer()
 
-# Filtro de Stop Words
+# Filtro de Stop Word
 wf = WordFilter()
 wf.load_stopwords(r'../stopwords/english')
 
@@ -146,6 +160,7 @@ wf.load_stopwords(r'../stopwords/english')
 # Vamos ver se o stemmer funciona
 mh.set_stemmer(ps)
 
+
 # Filtrar StopWords e lento
 mh.set_word_filter(wf)
 
@@ -154,8 +169,8 @@ parser.setContentHandler(mh)
 
 # Arquivo XML
 parser.parse(r'../mesh/desc2008.xml')
-print mh.desc_dic
-pickle.dump(mh.desc_dic,open(r'../mesh/desc_dic','w'))
-pickle.dump(mh.sino_dic,open(r'../mesh/sino_dic','w'))
-print mh.desc_dic
-"""
+#print mh.desc_dic
+#pickle.dump(mh.desc_dic,open(r'../mesh/desc_dic','w'))
+#pickle.dump(mh.sino_dic,open(r'../mesh/sino_dic','w'))
+#pickle.dump(mh.tree,open(r'../mesh/tree','w'))
+#print mh.desc_dic
