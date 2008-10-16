@@ -44,8 +44,8 @@ parser.setContentHandler(mh)
 #parser.parse(r'../mesh/desc2008.xml')
 
 #Carregar Dicionarios serializados
-mh.restore(mh.desc_dic,open(r'../mesh/desc_dic'),"DESC")
-mh.restore(mh.sino_dic,open(r'../mesh/sino_dic'),"SINO")
+mh.restore(mh.desc_dic,open(r'../mesh/desc_dic'))
+mh.restore(mh.sino_dic,open(r'../mesh/sino_dic'))
 #print mh.desc_dic
 
 print "Mesh carregado!!!"
