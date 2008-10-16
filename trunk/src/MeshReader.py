@@ -109,11 +109,12 @@ class MeshHandler(ContentHandler):
             #self.file.write("\n")
             pass
         elif name == 'TreeNumber':
-            self.tree[self.descritor] = self.data
+            self.tree[self.data] = self.descritor
             #print self.tree
             #raw_input("1 ")
-            #if len(self.tree) > 1:
-            #    print self.tree
+            #if self.desc_dic[self.descritor] == "Exercise":
+            #    print self.tree[self.descritor]
+                
             #    raw_input("Tem 2: ")
 
         if name != 'String':
@@ -128,11 +129,14 @@ class MeshHandler(ContentHandler):
         pickle.dump(dic, file)
         
     
-    def restore(self, dic,file,type):
+    def restore(self, file,type):
+        #dic = pickle.load(file)
         if type == "DESC":
             self.desc_dic = pickle.load(file)
         elif type == "SINO":
             self.sino_dic = pickle.load(file)
+        elif type == "TREE":
+            self.tree = pickle.load(file) 
         #print dic
     def mesh_tree(self):
         return true 
@@ -168,9 +172,32 @@ mh.set_word_filter(wf)
 parser.setContentHandler(mh)
 
 # Arquivo XML
-parser.parse(r'../mesh/desc2008.xml')
+#parser.parse(r'../mesh/desc2008.xml')
 #print mh.desc_dic
 #pickle.dump(mh.desc_dic,open(r'../mesh/desc_dic','w'))
 #pickle.dump(mh.sino_dic,open(r'../mesh/sino_dic','w'))
 #pickle.dump(mh.tree,open(r'../mesh/tree','w'))
 #print mh.desc_dic
+mh.restore(open(r'../mesh/desc_dic'),"DESC")
+mh.restore(open(r'../mesh/tree'), "TREE")
+
+print mh.desc_dic.get("exercis")
+#print mh.desc_dic.
+#print mh.tree.get("exercis")#mh.desc_dic.get("Exercise")
+#mh.tree.items()
+#print mh.tree
+descritores_pais = {}
+for i in mh.tree.items():
+    #print i
+    if i[1]== "exercis":
+        print i
+        pai = ""
+        for j in i[0]:
+            if j == ".":
+                if descritores_pais.has_key(k)
+                print "Pai" ,pai , mh.tree.get(pai)
+            pai += j
+#print mh.tree.get("exercis")
+#print mh.tree.__getitem__("I03.350")
+#mh.tree.iteritems()
+

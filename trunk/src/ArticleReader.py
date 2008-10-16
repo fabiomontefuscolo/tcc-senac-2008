@@ -70,72 +70,7 @@ class ArticleReader():
                 
         print self.descritores           
     
-    """def compare(self,listaDesc , listaSin):
-        self.descritores = {}
-        for i in range(len(self.conteudo)):
-            #self.descritores.__len__()
-            #Uma Palavra
-            #print self.conteudo[i]+'\n'
-            #Descritores
-            if listaDesc.has_key(self.conteudo[i]):
-                if(self.descritores.__contains__(listaDesc[self.conteudo[i]])):
-                    self.descritores[listaDesc[self.conteudo[i]]] += 1
-                else:
-                    self.descritores[listaDesc[self.conteudo[i]]] = 1
-                            
-             #sinoniomos       
-            if listaSin.has_key(self.conteudo[i]):
-                if(self.descritores.__contains__(listaDesc[listaSin[self.conteudo[i]]])):
-                    self.descritores[listaDesc[listaSin[self.conteudo[i]]]] += 1
-                else:
-                    self.descritores[listaDesc[listaSin[self.conteudo[i]]]] = 1
- 
- 
- 
- 
- 
-            #listaDesc[self.conteudo[i]+' '+self.conteudo[i+1]]
-            #Duas Palavras
-            if i+1 < len(self.conteudo):
-                #print self.conteudo[i]+' '+self.conteudo[i+1]+'\n'
-                #Descritores
-                if listaDesc.has_key(self.conteudo[i]+' '+self.conteudo[i+1]):
-                    if(self.descritores.__contains__(listaDesc[self.conteudo[i]+' '+self.conteudo[i+1]])):
-                        self.descritores[listaDesc[self.conteudo[i]+' '+self.conteudo[i+1]]] += 1
-                    else:
-                        self.descritores[listaDesc[self.conteudo[i]+' '+self.conteudo[i+1]]] = 1          
    
-                #sinonimos
-                if listaSin.has_key(self.conteudo[i]+' '+self.conteudo[i+1]):
-                    if(self.descritores.__contains__(listaDesc[listaSin[self.conteudo[i]+' '+self.conteudo[i+1]]])):
-                        self.descritores[listaDesc[listaSin[self.conteudo[i]+' '+self.conteudo[i+1]]]] += 1
-                    else:
-                        self.descritores[listaDesc[listaSin[self.conteudo[i]+' '+self.conteudo[i+1]]]] = 1  
-   
-   
-   
-   
-                        
-            #listaDesc[self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]]
-            #Tres Palavras      
-            if i+2 < len(self.conteudo):
-                #print self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]+'\n'
-                #Descritores
-                if listaDesc.has_key(self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]):
-                    if(self.descritores.__contains__(listaDesc[self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]])):
-                        self.descritores[listaDesc[self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]]] += 1
-                    else:
-                        self.descritores[listaDesc[self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]]] = 1
- 
- 
- 
-                #sinonimos
-                if listaSin.has_key(self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]):
-                    if(self.descritores.__contains__(listaDesc[listaSin[self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]]])):
-                        self.descritores[listaDesc[listaSin[self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]]]] += 1
-                    else:
-                        self.descritores[listaDesc[listaSin[self.conteudo[i]+' '+self.conteudo[i+1]+' '+self.conteudo[i+2]]]] = 1"""
- 
 
  
     def filter_desc(self):
