@@ -184,7 +184,7 @@ mh.restore(open(r'../mesh/tree'), "TREE")
 #3print mh.desc_dic.get(mh.desc_dic. )
 print mh.desc_dic.get("yoga")
 print mh.desc_dic.get("relax")
-print mh.tree.get("exercis")#mh.desc_dic.get("Exercise")
+print mh.desc_dic.get("exercis")#mh.desc_dic.get("Exercise")
 #mh.tree.items()
 #print mh.tree
 descritores_pais = {}
@@ -201,7 +201,26 @@ for i in mh.tree.items():
                     descritores_pais[pai] = 1
                 #print "Pai" ,pai , mh.tree.get(pai)
             pai += j
-print descritores_pais
+max = 0
+raiz = ""
+for r in descritores_pais.items():
+    if len(r[0]) == 3:
+        #print r[0]
+        if r[1] > max:
+            max = r[1]
+            raiz = r[0]
+print raiz
+novos_descritores = {}
+for r in descritores_pais.items():
+    if r[0].__contains__(raiz):
+        novos_descritores[r[0]] = r[1]
+print novos_descritores
+
+for tudo in mh.tree():
+    for m in novos_descritores.items():
+        if tudo[0].__contains__(m[0]):
+            
+#print descritores_pais
 #print mh.tree.get("exercis")
 #print mh.tree.__getitem__("I03.350")
 #mh.tree.iteritems()
