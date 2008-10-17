@@ -181,22 +181,27 @@ parser.setContentHandler(mh)
 mh.restore(open(r'../mesh/desc_dic'),"DESC")
 mh.restore(open(r'../mesh/tree'), "TREE")
 
-print mh.desc_dic.get("exercis")
-#print mh.desc_dic.
-#print mh.tree.get("exercis")#mh.desc_dic.get("Exercise")
+#3print mh.desc_dic.get(mh.desc_dic. )
+print mh.desc_dic.get("yoga")
+print mh.desc_dic.get("relax")
+print mh.tree.get("exercis")#mh.desc_dic.get("Exercise")
 #mh.tree.items()
 #print mh.tree
 descritores_pais = {}
 for i in mh.tree.items():
     #print i
-    if i[1]== "exercis":
-        print i
+    if i[1]== "exercis" or i[1] == "yoga" or i[1] == "relax":
+        #print i
         pai = ""
         for j in i[0]:
             if j == ".":
-                if descritores_pais.has_key(k)
-                print "Pai" ,pai , mh.tree.get(pai)
+                if descritores_pais.has_key(pai):
+                    descritores_pais[pai] += 1
+                else:
+                    descritores_pais[pai] = 1
+                #print "Pai" ,pai , mh.tree.get(pai)
             pai += j
+print descritores_pais
 #print mh.tree.get("exercis")
 #print mh.tree.__getitem__("I03.350")
 #mh.tree.iteritems()
