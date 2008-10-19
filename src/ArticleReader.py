@@ -68,7 +68,7 @@ class ArticleReader():
                 
                 word += " "
                 
-        print self.descritores           
+        #print self.descritores           
     
    
 
@@ -92,6 +92,55 @@ class ArticleReader():
             #self.descritores.
             self.descritores = newdesc
             #print self.descritores
+
+    def navigate_tree(self,tree,desc_dic):
+        descritores_pais = {}
+        for i in tree.items():
+            #print i
+            #if i[1]== "exercis" or i[1] == "yoga" or i[1] == "relax":
+            if self.descritores.has_key(desc_dic[i[1]]):
+                #print i
+                pai = ""
+                for j in i[0]:
+                    if j == ".":
+                        if descritores_pais.has_key(pai):
+                            descritores_pais[pai] += 1
+                        else:
+                            descritores_pais[pai] = 1
+                        #print "Pai" ,pai , mh.tree.get(pai)
+                    pai += j
+        max = 0
+        raiz = ""
+        for r in descritores_pais.items():
+            if len(r[0]) == 3:
+                #print r[0]
+                if r[1] > max:
+                    max = r[1]
+                    raiz = r[0]
+        #print raiz
+        novos_descritores = {}
+        for r in descritores_pais.items():
+            if r[0].__contains__(raiz):
+                novos_descritores[r[0]] = r[1]
+        #print novos_descritores
+        
+        contabilizar_filhos = {}
+        for c in novos_descritores.iterkeys():
+            contabilizar_filhos[c] = 0
+        
+        #print contabilizar_filhos
+        for tudo in tree.iterkeys():
+            for m in novos_descritores.iterkeys():
+                if tudo.__contains__(m) and (len(tudo) == len(m)+4):
+                    contabilizar_filhos[m] += 1
+                    
+        #print contabilizar_filhos
+        #descritores_sugeridos = {}
+        for l in novos_descritores.iteritems():
+            if (l[1]*1.0 / contabilizar_filhos[l[0]]*1.0 ) > 0.2:
+                self.descritores[desc_dic[tree[l[0]]] ] = l[1]
+        #print descritores_sugeridos
+
            
 """
 descritores = {'HIV': 'HIV Full String' ,
