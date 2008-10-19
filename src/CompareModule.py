@@ -12,6 +12,7 @@ class ArticleScielo():
         self.nomeArquivoTxt = ""
         self.arquivo = NullFile()
         self.descritores_definidos = []
+        self.desc_existentes = {}
         self.artigo = ""
         self.count = -1    
 
@@ -97,7 +98,7 @@ class ArticleScielo():
         #print "Cobertura = " , (count)*1.0/(self.descritores_definidos.__len__())*1.0 , "%"
 
 
-    def descritores_existentes(self,conteudo):
+    def descritores_existentes(self,conteudo,listaSino,janela):
         conteudo = self.filter_and_steam(conteudo) 
         descritores = {}
         listaDesc = {}
@@ -119,7 +120,7 @@ class ArticleScielo():
         conteudo = conteudo.split()
         for i in range(len(conteudo)):
             word = ""
-            for j in range(3):
+            for j in range(janela):
                 if (i+j) >= len(conteudo):
                     break
                 word += conteudo[i+j]
@@ -129,11 +130,16 @@ class ArticleScielo():
                         descritores[listaDesc[word]] += 1
                     else:
                         descritores[listaDesc[word]] = 1
-                        
+                
+                if listaSino.has_key(word) and listaDesc.has_key(listaSino[word]):
+                    if(descritores.__contains__(listaDesc[listaSino[word]])):
+                        descritores[listaDesc[listaSino[word]]] += 1
+                    else:
+                        descritores[listaDesc[listaSino[word]]] = 1        
                 
                 word += " "
         
-        return descritores
+        self.desc_existentes = descritores
 """        
 artigo = ArticleScielo()
 artigo.extrair_conteudo(r'../in/Artigo2.txt')
