@@ -1,176 +1,187 @@
 Descritores
 
-Analysis of Variance
-Anthropometry
-Body Height
-Body Size
-Body Weight
-Child Development
-Cholestasis, Extrahepatic
-Cholestasis, Intrahepatic
-Growth Disorders
+Aged
+Carcinoma, Non-Small-Cell Lung
+Chile
+DNA Methylation
+Female
+Genes, p16
 Humans
-Infant
-Infant, Newborn
-Jaundice, Neonatal
-Malnutrition
-Nutritional Status
-Triglycerides
-
+Lung Neoplasms
+Male
+Polymerase Chain Reaction
+Promoter Regions (Genetics)
+Smoking
 
 
 Artigo
 
-
-Growth evaluation in infants with neonatal cholestasis
-
- 
-
-Antropometria em crianças com colestase neonatal
+High frequency of p 16 promoter methylation in non-small cell lung carcinomas from Chile
 
  
 
- 
+LEDA M GUZMAN1*, CHIHAYA KORIYAMA2, SUMINORI AKIBA2, YOSHITO EIZURU3, DARWINS CASTILLO4, ALEJANDRO CORVALAN4,5 and FRANCISCO R AGUAYO3,6 **
 
-Camila Carbone PradoI; Roberto José Negrão NogueiraI; Antônio de Azevedo Barros-FilhoI, II; Elizete Aparecida Lomazi da Costa-PintoI, II; Gabriel HesselI, II
-
-This study was conducted by the
-IDepartment of Pediatrics
-IICenter for Investigation in Pediatrics (CIPED), School of Medical Sciences, State University of Campinas – UNICAMP, Campinas, SP, Brazil
-
-Address for correspondence
-
- 
-
- 
+1 Escuela de Tecnología Médica, Facultad de Salud, Universidad Santo Tomás, Santiago, Chile.
+2  Department of Epidemiology and Preventive Medicine, Kagoshima University Graduate School of Medical and Dental Sciences, Kagoshima, Japan.
+3  Division of Oncogenic and Persistent Viruses, Center for Chronic Viral Diseases, Kagoshima University Graduate School of Medical and Dental Sciences, Kagoshima, Japan.
+4 Laboratorio Nacional y de Referencia de Inmunología, Instituto de Salud Pública de Chile, Santiago, Chile.
+5 Departamento Anatomía Patológica, Pontificia Universidad Católica de Chile, Santiago, Chile.
+6 Laboratorio Patología Molecular y Epidemiología, Centro de Investigaciones Médicas, Pontificia Universidad Católica de Chile, Santiago, Chile.
 
 ABSTRACT
 
-BACKGROUD: Chronic liver diseases in childhood often cause undernutrition and growth failure. To our knowledge, growth parameters in infants with neonatal cholestasis are not available
-AIM: To evaluate the nutritional status and growth pattern in infants with intrahepatic cholestasis and extrahepatic cholestasis.
-PATIENTS AND METHODS: One hundred forty-four patients with neonatal cholestasis were followed up at the Pediatric Gastroenterology Service of the Teaching Hospital, State University of Campinas, Campinas, SP, Brazil, in a 23-year period, from 1980 to 2003. The records of these patients were reviewed and patients were classified into two groups, according to their anatomical diagnosis: patients with intrahepatic cholestasis - group 1, and patients with extrahepatic cholestasis - group 2. Records of weight and height measurements were collected at 4 age stages of growth, in the first year of life: 1) from the time of the first medical visit to the age of 4 months (T1); 2) from the 5th to the 7th month (T2); 3) from the 8th to the 10th month (T3); and 4) from the 11th to the 13th month (T4). The weight-by-age and height-by-age Z-scores were calculated for each patient at each stage. In order for the patient to be included in the study it was necessary to have the weight and/or height measurements at the 4 stages. Analyses of variance and Tukey's tests were used for statistical analysis. Repeated measurement analyses of variance of the weight-by-age Z-score were performed in a 60-patient sample, including 29 patients from group 1 and 31 patients from group 2. The height-by-age data of 33 patients were recorded, 15 from group 1 and 18 from group 2
-RESULTS: The mean weight-by-age Z-scores of group 1 patients at the 4 age stages were: T1=-1.54; T2=-1.40; T3=-0.94; T4=-0.78. There was a significant difference between T2 X T3 and T1 X T4. The weight-by-age Z-scores for group 2 patients were :T1=-1.04; T2=-1.67; T3=-1.93 and T4=-1.77, with a significant difference between T1 X T2 and T1 X T4. The mean weight-by-age Z-scores also showed a significant difference between group 1 and group 2 at stages T3 and T4. The mean height-by-age Z-scores at the four stages in group 1 were: T1=-1.27; T2=-1.16; T3=-0.92 and T4=-0.22, with a significant difference between T3XT4 and T1XT4. The scores for group 2 patients were: T1=-0.93; T2=-1.89; T3=-2.26 and T4=-2.03, with a significant difference between T1XT2 and T1XT4. The mean height-by-age Z-scores also showed a significant difference between group 1 and group 2 at T3 and T4
-CONCLUSION: The weight and height differences between the groups became significant from the 3rd measurement onward, with the most substantial deficit found in the extrahepatic group. In this group, there is evidence that the onset of weight and height deficit occurs between the first and second evaluation stages.
+The inactivation of tumour suppressor genes by aberrant methylation of promoter regions has been described as a frequent event in neoplasia development, including lung cancer. The p16 gene is a tumour suppressor gene involved in the regulation of cell cycle progression that has been reported to be inactivated by promoter methylation in lung carcinomas at variable frequencies around the world in a smoking habit dependent manner. The purpose of this study was to investigate the methylation status of the promoter region of the p16 gene in 74 non-small cell lung carcinomas from Chile. The frequency of p16 gene inactivation by promoter methylation was determined as 79.7% (59/74). When we considered histological type, we observed that p16 promoter methylation was significantly higher in squamous cell carcinomas (30/33, 91%) compared with adenocarcinomas (21/30, 70%) (p=0.029). In addition, no association between p16 promoter methylation and gender, age or smoking habit was found (p=0.202, 0.202 and 0.147 respectively). Our results suggest that p16 promoter hypermethylation is a very frequent event in non-small cell lung carcinomas from Chile and could be smoking habit-independent.
 
-Headings: Cholestasis, extrahepatic. Cholestasis, intrahepatic. Nutritional status. Anthropometry. Infant, newborn.
-
-RESUMO
-
-RACIONAL: As doenças hepáticas crônicas na infância freqüentemente levam à desnutrição e ao déficit de crescimento, sem haver referência de um padrão definido para colestase neonatal
-OBJETIVO: Avaliar o estado nutricional e o padrão de crescimento em crianças com colestase intra-hepática e colestase extra-hepática
-MATERIAL E MÉTODOS: Foram revistos os prontuários de 144 pacientes com colestase neonatal atendidos no Serviço de Gastroenterologia Pediátrica do Hospital de Clínicas da UNICAMP, Campinas, SP, durante o período de 1980 a 2003 e de acordo com o diagnóstico anatômico, classificados em dois grupos: grupo 1, pacientes com colestase intra-hepática e grupo 2, com colestase extra-hepática. Os valores de peso e estatura foram obtidos em quatro momentos: 1º) Na primeira consulta realizada até o 4º mês de vida, 2º) entre o 5º e o 7º mês, 3º) entre o 8º e o 10º mês e 4º) entre o 11º e 13º mês. Para cada paciente foi realizado o cálculo do Z-escore em relação ao peso para a idade e estatura para a idade nos momentos 1 a 4. Para o paciente ser incluído no estudo, era necessário ter as medidas de peso e/ou estatura nos quatro estágios. A estatística empregada foi a análise de variância e o teste de Tukey. Para análise de variância com medidas repetidas quanto ao escore-Z de peso para a idade, a amostra utilizada foi de 60 pacientes, sendo 29 do grupo 1 e 31 do grupo 2. Para estatura, a amostra utilizada foi de 33 pacientes, sendo 15 do grupo 1 e 18 do grupo 2.
-RESULTADOS: As médias dos escores-Z de peso para a idade nos quatro momentos da avaliação para os pacientes do grupo 1 foram: T1 =-1.54; T2 = -1.40; T3 = -0,94; T4 = -0.78, havendo diferença significante entre T2×T3 e entre T1×T4. Para os pacientes do grupo 2 foram: T1 = -1.04; T2 = -1.67; T3 =-1.93 e T4 = -1.77, havendo diferença significante entre T1×T2 e T1×T4. Houve também diferença significante entre as médias dos escores-Z de peso para a idade entre o grupo 1 e o grupo 2 no T3 e no T4. As médias dos escores-Z de estatura para idade nos quatro momentos da avaliação para os pacientes do grupo 1 foram: T1 = -1.27; T2 = -1.16; T3 = -0.92 e T4 = -0.22, havendo diferença significante entre T3XT4 e T1XT4. Para os pacientes do grupo 2 foram: T1 = -0.93; T2 = -1.89; T3 = -2.26 e T4 = -2.03, havendo diferença significante entre T1×T2 e T1×T4. Houve também diferença significante entre as médias dos escores-Z de estatura para a idade entre o grupo 1 e o grupo 2 no T3 e no T4
-CONCLUSÕES: As diferenças de peso e estatura entre os grupos tornaram-se significantes a partir da terceira medida, sendo o déficit mais acentuado no grupo extra-hepático. Nesse grupo, há evidência de que o agravo pôndero-estatural se instala entre o primeiro e o segundo momento de avaliação.
-
-Descritores: Colestase extra-hepática. Colestasia intra-hepática. Estado nutricional. Antropometria. Recém-nascido.
-
- 
-
- 
+Key terms: lung carcinoma, methylation, promoter region.
 
 INTRODUCTION
 
-Nutritional deficiencies are common in infants with chronic hepatic diseases, especially when cholestasis is present and its onset occurs in the first year of life(3, 4, 10, 21). The frequency of malnutrition is approximately 50%, particularly in infants with established cirrhosis(3). The pathogenesis of weight-height deficit is well characterized in infants and includes(5, 15): 1. reduced food intake; 2. impaired digestion and absorption of nutrients; 3. increased caloric needs. In neonatal cholestasis, the liver retains substances that are normally excreted in the bile, reducing biliary salts excretion in the proximal intestine. Low intraluminal concentration results in malabsorption of fat-soluble vitamins and food lipids, especially long-chain triglycerides that are essentially bile-dependent for absorption(8, 14). In patients with biliary atresia, there is a 29% increase in energy expenditure(16). At the time these infants underwent liver transplantation, undernutrition was regarded as the worst prognosis factor(13, 17). To our knowledge, although there are no data available in the literature, clinical observation has indicated that there are quantitative differences regarding nutritional status and growth deficit for both types of neonatal cholestasis, intra and extrahepatic. Nutritional and growth assessment may prove useful in establishing adequate nutritional support for each group of patients. Nutritional support is often underestimated but it has essential value in a child with liver disease, since it not only improves the general condition but also prepares the child for a future transplant(12).
+Lung cancer (LC) is the most common cause of cancer-related mortality in men and women around the world [Pisani et al., 2002; Greenlee et al., 2001]. In Chile, LC is the second cause of death in men and third in women [Szot, 2003]. LC is classified into 2 major types: small-cell lung carcinomas (SCLCs) and non-small cell lung carcinomas (NSCLCs). In Chile, 75% of LC cases are NSCLCs and squamous cell lung carcinomas (SQCs) range between 25% to 50% of the cases and have been associated to chronic smoking habit [Wistuba et al., 2002; Shields, 2002]. LC is the most deadly and aggressive cancer, and the prognosis is limited by the difficulties of diagnosing early stages. The conventional analysis of sputum, cytological or bronchioalveolar lavage associated to thorax radiological screening has not improved the survival of this disease [Cassidy et al., 2007]. The rapid advancement in molecular techniques may help to identify novel new diagnostic markers with high sensitivity and prognostic value for early detection of LC in high-risk subjects, such as chronic smokers [Wistuba, 2007].
 
-Therefore, the objective of this study was to evaluate the nutritional status and growth pattern in infants with intrahepatic cholestasis (IHC) and extrahepatic cholestasis (EHC).
+It has been demonstrated that aberrant CpG island methylation in the promoter region of tumour suppressor genes (TSGs) is an important epigenetic mechanism of gene silencing [Callinan and Feinberg, 2006]. The TSGs inactivation by hypermethylation is a common event described in human cancer, including LC [Esteller, 2003; Herman and Baylin, 2003]. In lung carcinomas, more than 30 silenced genes have been reported to be methylated such as p16INK4a (pi6), RAR-|3 (retinoic-acid receptor (3) and E-cadherin [Zochbauer Muller et al., 2001]. The p16 TSG located on 9p21 chromosome encodes a cyclin dependent kinase, a key protein regulator of progression through the Gl phase of the cell cycle [Berger and Bardeesy, 2007]. The p16 protein plays an important role in the binding and inhibition of cyclin D kinase activity and then regulating the phosphorylation of the retinoblastoma protein (pl05Rb) [Wikenheiser-Brokamp, 2006].
 
- 
+Recent studies demonstrated that aberrant p16 promoter methylation is an early and critical event in the NSCLCs development [Hilbe et al., 2004], and it has been observed in serum and sputum of chronic smokers without clinical disease [Belinsky, 2007]. It has been reported that aberrant pi6 promoter methylation is smoking habit associated, however TSGs methylation in non-smoker subjects has been detected [Liu et al., 2006; Nakata et al., 2006]. In addition, p16 promoter methylation has been shown to correlate with the progression of the malignancy in LC patients [Tanaka et al., 2005]. Taken together, p16 inactivation by promoter hypermethylation may be a useful precocity marker of LC development in high-risk subjects such as heavy smokers. Moreover, methylation is a reversible epigenetic event, thus the use of some drugs such as 5-deoxyazacytidine would be a very important future tool for the treatment of LC patients [Momparler, 2005]. We previously reported a high pi6 promoter methylation prevalence in SQCs from Santiago de Chile [Adonis et al., 2006], and now our goal is to increase the size of analyzed samples including Adenocarcinomas (ACs) and Large cell carcinomas (LCCs) and establish clinical associations with other clinical parameters such as smoking habit.
 
-PATIENTS AND METHODS
+MATERIALS AND METHODS
 
-The records of all infants with intra and extrahepatic cholestasis assisted in the period between 1980 and 2003 were reviewed. Information on ponderal progression was obtained from the records of 60 patients (29 with IHC and 31 with EHC) in four periods of the 1st year of life. Among these 60 patient records, 33 had all of the height measurements in the same four periods. It was not possible to include more patients because of the irregularly made visits or because the patient died.
+Patients and Samples
 
-Collected data included identification of cholestasis etiology and anthropometrical measurements. Measurements of weight and height were recorded in four age stages: T1 – at the first medical visit, which occurred up to the age of 4 months; T2 – values recorded at a consultation that occurred between the 5th and the 7th month of life; T3 - values recorded at a consultation that occurred between the 8th and the 10th month and T4 – fourth age stage values recorded at a consultation that occurred between the 11th and the 13th month of life. The weight-by-age (w/a), height-by-age (h/a) and weight for height (w/h) Z-scores for every patient were calculated at each age stage by the computer software SISCRES(11) having as references the National Center for Health Statistic's curves (NCHS)(9). The patients received nutritional guidance regarding a normocaloric, low-fat diet with medium-chain triglyceride supplementation. They were also prescribed liposoluble vitamins (A, D and E) for oral intake and parenteral administration of vitamin K. The repeated measurement analyses of variance and Tukey's test were used to explain the variability of Z-scores in relation to group and time factors(6). The study was previously approved by the Research Ethics Committee of the School of Medical Sciences – UNICAMP, Campinas, SP, Brazil.
+Primary tumour specimens were obtained from 74 patients undergoing surgical resection or biopsy of SCLC. There were 33 SQCs, 30 ACs, 8 LCCs and 3 specimens without histological information. Twenty-two samples were fresh frozen tissue and 52 specimens corresponded to archival paraffin embedded tissue. The specimens collected prospectively (fresh tissue) were snap-frozen at -80°C after initial histopathological examination and were diagnosed with stage I to III at Instituto Nacional de Enfermedades Respiratorias, Santiago, Chile. The paraffin embedded tissue specimens were diagnosed in the Hospital Salvador, Santiago, Chile during the period between 1998 and 2003.
 
- 
+DNA extraction and Methylation-Specific PCR
+
+Ten [im-thick sections of each formalin-fixed paraffin-embedded sample were used. The samples were treated with 1 mL of xylene, and then with 1 mL of ethanol. After centrifugation, the pellet was resuspended in digestion buffer (50 mM Tris-Cl pH 8.0, 1 mM EDTA pH 8.0, 0.5% Tween 20) containing 200 [ig of Proteinase K (Life Technologies, Inc) and incubated during 24 hours at 56°C. Then the solution was heated to 100°C for 10 min and centrifuged to 10,000 rpm for 10 min. Phenol-chloroform extraction was made in all the samples and the DNA was precipitated with double volumes of ethanol [Coombs et al., 1999]. Genomic DNA was purified from frozen tumours by digestion with 200 [ig/mL Proteinase K (Life Technologies, Inc) for incubation at 50°C overnight, followed by extraction using the Wizard genomic DNA purification kit (Promega Corp., Madison, WI), following the instructions of the manufacturer. After the DNA purification, the adequacy of the samples for PCR was determined by amplification of the beta-globin gene. The primer sequences are indicated in Table I. For analysis of methylation patterns within the 5'-CpG island of the promoter region and upstream region of exon 1 of pi6 gene, µg of purified genomic DNA from each sample was used. The DNA was denatured with sodium hydroxide and modified with sodium bisulfite (Sigma Chemical Co., St Louis, MO), as described previously [Herman et al., 1996]. The modified DNA was purified using the Wizard Cleanup system (Promega Corp., Madison, WI). In order to amplify p16 methylated and non-methylated regions a nested MSP protocol was used as described [Fan X et al., 2002; Herman JG et al., 1996]. Primer sequences for both the methylated and the unmethylated form of the pi6 promoter region, annealing temperature, and the expected PCR product sizes are summarized in Table I. In order to amplify pi6 promoter fragment in the first PCR (outer primers), 2 µL of modified DNA were used and the reaction mix contained IX PCR buffer (16.6 mM (NH4)2S04, 67 mM Tris pH: 8.8, 6.7 mM MgCl2, 10 mM 2-mercaptoethanol), 1.2 mM dNTPs, 1.6 mM each primer, 2.5 U Taq Gold DNA polymerase (Applied Biosystem) and 5.2% DMSO in a final volume of 25 µL The PCR conditions were initial denaturation at 94°C for 7 min, 35 amplification cycles of denaturation at 94°C for 30 s, annealing at 56°C for 30 s, and extension at 72°C for 30 s. Using 1 µL of the first PCR product, a second PCR using inner methylated and unmethylated specific primers and 40 cycles of amplification was made. The annealing temparature was adjusted at 55°C. Genomic DNA from gallbladder treated with SssI methyltransferase (New England Biolabs) served as a positive control. Negative controls without DNA were included. The hypermethylation status of the p16 promoter region was determined by analysis of PCR products in 8% polyacrylamide gels after silver nitrate staining.
+
+
+Statistical analysis
+
+Statistical analyses were performed using Fisher's exact test and two sided p-values were presented. A P value less than 0.05 was considered statistically significant.
 
 RESULTS
 
-Table 1 shows the causes of neonatal cholestasis in groups 1 and 2. As regards IHC, the most frequent causes had an infectious or idiopathic origin, while the main cause for EHC was extrahepatic biliary duct atresia (EHBDA).
+In this study we determined the frequency of pi6 promoter hypermethylation in NSCLCs from Chile confirmed by histology. We used a MS-PCR method that allows to detect methylated and unmethylated regions in the genome [Adonis et al, 2006]. The primers used in this report are described in Table I. All the used NSCLC specimens for methylation analysis were beta-globin gene positive because of the positive amplification of a 110 bp fragment in the samples. The clinico-pathological features of the analyzed samples and controls are described in Table II. In Figure I the specific amplification of two representative samples and controls are shown. The results of p16 promoter methylation status in all the samples are shown in Table III. Our results indicated that 59/74 (73%) lung carcinomas were pi6 promoter methylation positive. In addition, the pi6 promoter methylation frequency considering histological type was 91% (30/33) for SQC, 70% (21/30) for AC and 88% (7/8) for LCC. The difference between SQCs and ACs was statistically significant (p=0.029). No association between p16 promoter methylation and age (p=0.202), gender (p=0.202) or smoking habit (p=0.147) was found. The differentiation grade in NSCLC was not related to pi6 promoter methylation status (Table 4). However in AC we found that p16 promoter methylation was more frequent in highly differentiated (7/8, 87.5%) compared with moderately (7/12, 58.3%) or poorly (6/ 9, 66.7%) differentiated carcinomas. These differences were not statistically significant (Table 4, p=0.163).
 
- 
 
- 
 
-Table 2 and Figure 1 show the mean Z-score values for weight-by-age; Table 3 and Figure 2 show height-by-age and Table 4 and Figure 3 show weight-for-height indexes in groups 1 and 2, at four stages of assessment.
+Figure 1: MS-PCR for P16 promoter methylation in NSCLCs specimens. Bisulphite modified DNA was amplified with p16 specific primers to detect methylated (M) and unmethylated (U) alíeles. MW: Molecular weight marker; +SssI: Genomic DNA treated with SssI enzyme; -SssI: Genomic DNA untreated with SssI enzyme; Sample 1 and 2: Specimens positive and negative for methylated condition; H20: distilled water used as negative control.
 
- 
 
- 
-
- 
-
-W/a Z-scores, which were negative in group 1, decreased over a period of time; the same pattern was observed in h/a Z-scores. On the other hand, in group 2, w/a Z-scores, which were also negative, increased over a period of time. The same pattern was observed in h/a Z-scores.
-
-The analysis of group and time interaction effects revealed significant differences. No significant differences were found between the groups at the first and second age stages, but there were significant differences at the third stage, which progressed into the fourth. Group 1 presented significant differences between the values obtained at the second and third stages and between the values at the first and fourth stages, whereas group 2 presented significant differences between the first and second as well as between the first and fourth age stages.
-
-The sample available for recording h/a and for analysis of variance included 15 patients from group 1 and 18 patients from Group 2. Significant differences were observed regarding analysis of the effect of time as well as the interaction between group and time. Figure 2 shows an increased difference between the groups after the third age stage, similarly to w/a Z scores.
-
-When time was compared for each group, significant differences were observed between the third and fourth stages and between the first and fourth stages in group 1, whereas group 2 presented significant differences between the first and second and between the first and fourth age stages.
-
-The statistical analysis has not shown any significant difference between the weight/height indexes in any of the studied effects.
-
- 
 
 DISCUSSION
 
-This study presents the growth pattern in infants with neonatal cholestasis during the 1st year of life. A significant difference was observed between the groups in relation to weight and height after the third age stage. The deficit increased in infants with extrahepatic cholestasis. Such infants present normal weight at birth, not only as observed in this study but also reported in the literature by ALAGILLE(1). The onset of clinical symptoms of obstructive jaundice, choluria and fecal hypocholia occurred during the 1st month of life and most patients were 2 or 3 months old when brought for diagnostic investigation. The onset of cholestasis led to a reduction in intraluminal biliary salts, which was strongly marked in group 2. This reduction impaired digestion and absorption of long-chain triglycerides (LCT) finally resulting in reduced utilization (7, 19). However, at this first age stage, no evidence of malnutrition was observed in these patients, as the Z-scores for weight and height were slightly higher than the Z-scores of patients in group 1, but with no significant difference. The explanation for these results may be:
+Epigenetic alterations such as CpG island methylation of promoter regions of TSGs have been reported to be a very frequent event in lung cancer development [Esteller M, 2002]. In 1995 the frequent p16 gene inactivation by methylation in diverse cancers was reported [Herman et al., 1995] and this methylation implied loss of pi6 transcriptional expression that was reversible after treatment with 5-deoxyazacytidine [Merlo et al, 1995]. After these findings, other reports showed that the pi6 promoter region was methylated in lung cancer at frequencies between 20 to 70% [Belinsky et al., 1998; Nuovo et al., 1999]. Previously, we reported that the p16 promoter is methylated in 86% of patients with SQC, a high prevalence compared with other studies around the world [Adonis et al., 2006]. For this reason, we decided to increase the size of our initial study, including other histological types as ACs and LCCs. In this report, a very frequent pi6 promoter methylation in NSCLCs from Chile was found (79.7%). In addition, when we stratified by histological type we observed that pi6 promoter methylation was higher in SQCs (90.9%) compared with ACs (70%) and this difference was statistically significant (p=0.029). Overall, the pi6 promoter methylation has been reported more frequently in SQCs compared with ACs [Belinsky, 2004; Digel et al., 2005] and accordingly with the frequent central location of SQCs compared with the peripheric location of ACs [Travis et al., 2004; Wistuba, 2007]. This higher p16 promoter methylation in SQCs is probably related to smoking habit which is considered a risk factor for SQC development.
 
-   1. the birth weights of patients in group 1, which were lower than those in group 2, were considered close to low birth weight values and recovered despite the LCT digestion problem;
-   2. the patients in group 2 were potentially more prone to be affected concerning LCT digestion and absorption, but the consequences were still not evident at the time of assessment.
+Some reports described a significant association between methylation of some genes such as pi6 or MGMT and smoking habit [Liu et al., 2006; Nakata et al., 2006; Toyooka et al., 2003]. However in our study we found that p16 promoter methylation was independent of smoking habit. Moreover, p16 promoter methylation was more frequent in non-smokers compared with smokers, although this difference was not statistically significant (91% vs. 72% respectively, p=0.147). This finding is compatible with another study [Sanchez-Cespedes M et al., 2001] where the authors showed that tumours from non-smokers arise exclusively through inactivation of p16 gene by promoter hypermethylation. However the frequencies of pi6 promoter methylation were lower in both smokers and non-smokers compared with our report. In addition, it has been reported that MGMT gene (06-methylguanine-DNA methyltransferase) methylation was more frequent between non-smokers compared with smokers [Pulling etal., 2003].
 
-The second weight and height measurement was subsequently performed (between the 5th and 7th month of life). The w/a and h/a Z-scores showed no significant difference between the groups. The patients in group 2 (84%) underwent surgery, usually during the 3rd month of life. If the catabolism present in this type of surgery interfered in the results of the second measurement, reestablishment of biliary flow, on the other hand, could promote better LCT absorption and increased caloric uptake. Another significant result is that, although there was no difference between the groups, a significant difference was observed within the EHC group between the first and second measurements, with an expressive decline in weight and height Z-scores. These results can be discussed as follows:
+In 2002, Belinsky et al. reported that exposure to particulate carcinogens such as diesel exhaust, carbon black and beryllium metal is associated with aberrant p16 promoter methylation [Belinsky et al., 2002]. In addition, the carcinogenic role of polycyclic aromatic hydrocarbons (HAP) present in smoke fumes and environmental contamination in lung cancer development has been well established [Gil et al., 2000; Hecht, 1999]. The carcinogenic mechanism implies adduct formation in the genetic material and is highly dependent of host factors [Hecht, 1999]. These observations are relevant to this study because the most of the patients come from Santiago (Salvador Hospital and Thorax Hospital), one of the most polluted cities worldwide [Adonis et al., 2000; Gil et al., 2000]. These compounds include polycyclic aromatic compounds as benzo-oc-pyrene which is a potent carcinogen. How the carcinogens present in the air, including cigarette fumes, may be involved in aberrant TSG methylation such as pi6 gene, remain to be elucidated. The very high frequency of pi6 promoter methylation detected in this study compared with previous reports [Belinsky, 2004] and moreover, the very high p16 promoter methylation prevalence in nonsmokers (91%, Table II) allows us to speculate that other environmental factors acting synergistically or not, are involved in this epigenetic alteration. These other factors may be related to cigarette smoke exposure which is difficult to evaluate in the population within environmental pollution and contamination such as ocurs in Santiago de Chile.
 
-   1. the Kasai procedure is a major surgery that may lead to intense and long-lasting catabolism;
-   2. prolonged postoperative fasting is recommended, due to anastomosis in the jejunal segment; in most cases parenteral nutrition is not used;
-   3. the surgery is not entirely successful. Large studies show that the results are good in about 1/3 of the cases, while 2/3 of the patients continue with jaundice(2), which means reduced fat digestion. SHIGA et al.(20), conducted a study to evaluate the nutritional status of patients during the postoperative period of biliary atresia. They found that those patients whose total bilirubin levels were above 2 mg/100mL had smaller muscle area in the arms and lower prealbumin levels when compared to patients whose bilirubin levels were lower than 2 mg/100 mL.
+The pi6 promoter methylation has been suggested as an early detection marker of lung cancer. In fact, p16 promoter methylation has been detected in early lesions and preneoplastic lesions of the lung. In SQC, pi6 promoter methylation has been suggested to occur in squamous dysplasia and metaplasia and then it is possible to detect it in high-risk individuals such as heavy smokers [Wistuba, 2007] when no clinical evidence is observed. It has been reported that pi6 methylation may be detected in serum or sputum from heavy smokers three years previous to clinical detection by conventional methods [Belinsky et al., 2006] as radiology or sputum cytology. Future studies should be focused on this area.
 
-The third assessment is similar to the fourth. A significant difference was observed between the groups regarding the w/a and h/a Z-scores. At this stage, the cholestatic condition in most infants in group 1 had been resolved and LCT digestion and absorption were adequate. Consequently, the w/a and h/a Z-scores increased. On the other hand, during the third assessment, patients in group 2 continued showing a decline in Z-scores, this stabilized at the fourth assessment. This may be due to the previously mentioned fact that most patients maintained cholestasis, as revealed by the direct increase in bilirubin and glutamyltransferase. Another explanation could be that, during this period, liver dysfunction begins in those cases where the Kasai surgery was partially successful or unsuccessful, giving rise to other conditions such as anorexia and increased basal metabolism that maintain a status of malnutrition(4, 15, 16, 18).
+In conclusion, our report showed high pi6 promoter methylation prevalence in NSCLCs from Chile that was significantly more frequent in SQCs compared with ACs. The pi6 promoter methylation was smoking habit-independent.
 
-An assessment of the nutritional status of patients with neonatal cholestasis, especially EHC carriers, is extremely important. This study has demonstrated that there are weight and height deficits in patients with extrahepatic cholestasis and has identified the stage in which deficits appear. Based on these results, a rigorous nutritional support therapy is suggested for these patients.
+ACKNOWLEDGEMENTS
+
+We are grateful to Dra. Maria Capetillo from Instituto de Anatomía Patológica in Salvador Hospital for her gift of the paraffin embedded blocks used in this study. This work was supported by Sociedad Chilena de Enfermedades Respiratorias (SER), Chile, Instituto de Salud Pública de Chile and Grants-in-Aid for Scientific Research on Priority Areas (12218231 and 17015037) of the Ministry of Education, Culture, Sports, Science and Technology,Japan.
 
  
 
 REFERENCES
 
-1. Alagille D. Cholestasis in the first three months of life. Prog Liver Dis. 1979;6:471-85.        [ Links ]
+ADONIS M, GIL L (2000) Polycyclic aromatic hydrocarbon levels and mutagenicity of inhalable particulate matter in Santiago, Chile. Inhal Toxicol 12: 1173-83
+        [ Medline ]
 
-2. Alagille D. Prolonged obstructive jaundice including calculous and noncalculous gall bladder condition. In: Roy CC, Silverman A, Alagille D, editors. Pediatric clinical gastroenterology. 4th ed. St. Louis: Mosby; c1995. p.603–52.        [ Links ]
+ADONIS W, AGUAYO F, CORDERO E, RODRIGUEZ L, CASTILLO D and GUZMAN L (2006). Evaluación de hipermetilación del gen p161NK4 _ en cáncer escamoso de pulmón en pacientes chilenos, Rev Ch Enf Resp, 22: 7-12
 
-3. Beath S, Pearmain G, Kelly D, McMaster P, Mayer A, Buckels J. Liver transplantation in babies and children with extrahepatic biliary atresia. J Pediatr Surg. 1993;28:1044-7.        [ Links ]
+BELINSKY SA, NIKULA KJ, PALMISANO WA, MICHELS R, SACCOMANNO G, GABRIELSON E, BAYLIN SB, HERMAN JG (1998) Aberrant methylation of pi6 (INK4a) is an early event in lung cancer and a potential biomarker for early diagnosis. Proc Nati Acad Sci U S A 95: 11891-11896
 
-4. Cardoso AL, Porta G, Vieira MA, Carraza FR. Caracterização nutricional de crianças com colestase crônica. J Pediatr (Rio J). 1997;73:43-50.        [ Links ]
+BELINSKY SA, SNOW SS, NIKULA KJ, FINCH GL, TELLEZ CS, PALMISANO WA (2002) Aberrant CpG island methylation of the p16(INK4a) and estrogen receptor genes in rat lung tumours induced by particulate carcinogens. Carcinogenesis 23: 335-339
+        [ Medline ]
 
-5. Chin SE, Shepherd RW, Thomas BJ, Cleghorn GJ, Patric MK, Wilcox JA, Ong TH, Lynch SV, Strong R. The nature of malnutrition in children with end-stage liver disease awaiting orthotopic liver transplantation. Am J Clin Nutr. 1992;56:164-8.        [ Links ]
+BELINSKY SA (2004) Gene-promoter hypermethylation as a biomarker in lung cancer. Nat Rev Cancer 4: 707-717
 
-6. Daniel WW. Biostatistics: a foundation for analysis in the health sciences. 2nd ed. New York: John Wiley: c1978. p.215-23.        [ Links ]
+BELINSKY SA, LIECHTY KC, GENTRY FD, WOLF HJ, ROGERS J, VU K, HANEY J, KENNEDY TC, HIRSCH FR, MILLER Y, FRANKLIN WA, HERMAN JG, BAYLIN SB, BUNN PA, BYERS T (2006) Promoter hypermethylation of multiple genes in sputum precedes lung cancer incidence in a high-risk cohort. Cancer Res 66: 3338-3344
+        [ Medline ]
 
-7. Fomon SJ. Nutrition of normal children. St. Louis: Mosby; c1993. p.147-75.        [ Links ]
+BELINSKY SA, GRIMES MJ, CASAS E, STIDLEY CA, FRANKLIN WA, BOCKLAGE TJ, JOHNSON DH, SCHILLER JH (2007) Predicting gene promoter methylation in non-small-cell lung cancer by evaluating sputum and serum. Br J Cancer 96: 1278-1283
+        [ Medline ]
 
-8. Glasgow JFT, Hamilton JR, Sass-Kortsak A. Fat absorption in congenital obstructive liver disease. Arch Dis Child. 1973;48:601-7.        [ Links ]
+CALLINAN PA, FEINBERG AP (2006) The emerging science of epigenomics. Hum Mol Genet 15 Spec No 1: R95-101
 
-9. Hamill PV, Drizd TA, Johnson CL, Reed RB, Roche AF, Moore WM. Physical growth: National Center for Health Statistics percentiles. Am J Clin Nutr. 1979;32:607-29.        [ Links ]
+CASSIDY A, DUFFY SW, MYLES JP, LILOGLOU T, FIELD JK (2007) Lung cancer risk prediction: a tool for early detection. Int J Cancer 120: 1-6
+        [ Medline ]
 
-10. Kaufman SS, Murray ND, Wood RP, Shaw BW, Vanderhoof JA. Nutritional support for the infant with extrahepatic biliary atresia. J Pediatr. 1987;110:679-86.        [ Links ]
+COOMBS NJ, GOUGH AC, PRIMROSE JN (1999) Optimisation of DNA and RNA extraction from archival formalin-fixed tissue. Nucleic Acids Res 27: el2
 
-11. Morcillo AM, Lemos-Marini SHV. SISCRES – Sistema de análise do crescimento. Versão Windows, 2002.        [ Links ]
+DIGEL W, LUBBERT M (2005) DNA methylation disturbances as novel therapeutic target in lung cancer: preclinical and clinical results. Crit Rev Oncol Hematol 55: 1-11
+        [ Medline ]
 
-12. Moreno LA, Gottrand F, Hoden S. Improvement of nutritional status in cholestatic children with supplemental nocturnal enteral nutrition. J Pediatr Gastroenterol Nutr. 1991;12:213-6.        [ Links ]
+ESTELLER M (2002) CpG island hypermethylation and tumour suppressor genes: a booming present, a brighter future. Oncogene 21: 5427-5440
 
-13. Moukarzel AA, Najm I, Vargas J, McDiarmid SV, Busuttil RW, Ament ME. Effect of nutritional status on outcome of orthotopic liver transplantation in pediatric patients. Transplant Proc. 1990;22:1560-3.        [ Links ]
+ESTELLER M (2003) Cancer epigenetics: DNA methylation and chromatin alterations in human cancer. Adv Exp Med Biol 532: 39-49
+        [ Medline ]
 
-14. Mowat AP. Hepatitis and cholestasis in infancy: intrahepatic disorders. In: Mowat AP. Liver disorders in childhood. 3rd ed. Oxford: Butterworth-Heinemann; 1994. p.44-78.        [ Links ]
+FAN X, INDA MM, TUÑON T AND CASTRESANA JS (2002) Improvement of the methylation specific PCR technical conditions for the detection of p16 promoter hypermethylation in small amounts of tumour DNA. Oncol Rep 9: 181-183
+        [ Medline ]
 
-15. Novy MA, Schwarz KB. Nutritional considerations and management of the child with liver disease. Nutrition. 1997;13:177-84.        [ Links ]
+GIL L, KING L, ADONIS M (2000) Trends of polycyclic aromatic hydrocarbon levels and mutagenicity in Santiago's inhalable airborne particles in the period 1992-1996. Inhal Toxicol 12: 1185-204
+        [ Medline ]
 
-16. Pierro A, Koletzko B, Carnielli V, Superina RA, Roberts EA, Filler RM, Smith J, Heim T. Resting energy expenditure is increased in infants and children with extrahepatic biliary atresia. J Pediatr Surg. 1989;24:534-8.        [ Links ]
+GREENLEE RT, HILL-HARMON MB, MURRAY T AND THUN M (2001) Cancer statistics, 2001. CA Cancer J Clin 51: 15-36. Erratum in: CA Cancer J Clin 2001;51: 144
+        [ Medline ]
 
-17. Rodeck B, Melter M, Kardorff R, Hoyer PF, Ringe B, Burdelski M, Oldhafer KJ, Pichlmayr R, Brodehl J. Liver Transplantation in children with chronic end stage liver disease: factors influencing survival after transplantation. Transplantation. 1996;62:1071-6.        [ Links ]
+HECHT SS. Tobacco smoke carcinogens and lung cancer. J Nati Cancer Inst 91: 1194-1210
 
-18. Schneeweiss B, Graninger W, Ferenci P, Eichinger S, Grimm G, Schneider B, Laggner A, Lenz K, Kleinberger G. Energy metabolism in patients with acute and chronic liver disease. Hepatology. 1990;11:387-93.        [ Links ]
+HERMAN JG, MERLO A, MAO L, LAPIDUS RG, ISSA JP, DAVIDSON NE, SIDRANSKY D, BAYLIN SB (1995) Inactivation of the CDKN2/p16/MTSl gene is frequently associated with aberrant DNA methylation in all common human cancers. Cancer Res 55: 4525-30
 
-19. Shiau YF. Lipid digestion and absorption. In: Johnson LR, editor. Physiology of the gastrointestinal tract. 2nd ed. New York: Raven Press; c1987. v.2, p.1527-49.        [ Links ]
+HERMAN JG, GRAFF JR, MYÖHÄNEN S, NELKIN BD AND BAYLIN SB (1996) Methylation -specific PCR: a novel PCR assay for methylation status of CpG islands. Proc. Nati. Acad. Sci. USA 93: 9821-9826
 
-20. Shiga C, Ohi R, Chiba T, Nio M, Endo N, Mito S, Hino M. Assessment of nutritional status of postoperative patients with biliary atresia. Tohoku J Exp Med. 1997;181:217-23.        [ Links ]
+HERMAN JG, BAYLIN SB (2003) Gene silencing in cancer in association with promoter hypermethylation. N Engl J Med 349: 2042-2054
 
-21. Sokol RJ, Stall C. Anthropometric evaluation of infants with chronic liver disease. Am J Clin Nutr. 1990;52:203–8.        [ Links ]
+HILBE W, DIRNHOFER S, GREIL R, WOLL E (2004) Biomarkers in non-small cell lung cancer prevention. Eur J Cancer Prev 13: 425-436
+        [ Medline ]
+
+LIU Y, LAN Q, SIEGFRIED JM, LUKETICH JD, KEOHAVONG P (2006) Aberrant promoter methylation of p16 and MGMT genes in lung tumours from smoking and never-smoking lung cancer patients. Neoplasia 8: 46-51
+
+MERLO A, HERMAN JG, MAO L, LEE DJ, GABRIELSON E, BURGER PC, BAYLIN SB, SIDRANSKY D (1995) 5' CpG island methylation is associated with transcriptional silencing of the tumour suppressor p 16/CDKN2/MTS1 in human cancers. Nat Med 1: 686-692
+        [ Medline ]
+
+MOMPARLER RL (2005) Epigenetic therapy of cancer with 5-aza-2'-deoxycytidine (decitabine). Semin Oncol 32: 443-451
+        [ Medline ]
+
+NAKATA S, SUGIO K, URAMOTO H, OYAMA T, HANAGIRI T, MORITA M, YASUMOTO K (2006) The methylation status and protein expression of CDH1, p16(INK4A), and fragile histidine triad in nonsmall cell lung carcinoma: epigenetic silencing, clinical features, and prognostic significance. Cancer 106: 2190-2199
+        [ Medline ]
+
+NUOVO GJ, PLAIA TW, BELINSKY SA, BAYLIN SB, HERMAN JG (1999) In situ detection of the hypermethylation-induced inactivation of the p16 gene as an early event in oncogenesis. Proc Nati Acad Sci USA 96: 12754-12759
+
+PISANI P, BRAY F, PARKIN DM (2002) Estimates of the world-wide prevalence of cancer for 25 sites in the adult population. Int J Cancer 97: 72-81
+        [ Medline ]
+
+PULLING LC, DIVINE KK, KLINGE DM, GILLILAND FD, KANG T, SCHWARTZ AG, BOCKLAGE TJ, BELINSKY SA (2003) Promoter hypermethylation of the 06-methylguanine-DNA methyltransferase gene: more common in lung adenocarcinomas from never-smokers than smokers and associated with tumour progression. Cancer Res 63: 4842-4848
+        [ Medline ]
+
+SANCHEZ-CESPEDES M, DECKER PA, DOFFEK KM, ESTELLER M, WESTRA WH, ALAWI EA, HERMAN JG, DEMEURE MJ, SIDRANSKY D, AHRENDT SA (2001) Increased loss of chromosome 9p21 but not p16 inactivation in primary non-small cell lung cancer from smokers. Cancer Res 61: 2092-2096
+        [ Medline ]
+
+SHIELDS PG (2002) Molecular epidemiology of smoking and lung cancer. Oncogene 21: 6870-6876
+        [ Medline ]
+
+SZOT J (2003) Epidemiological analysis of mortality caused by solid tumours in the Metropolitan Region, Chile, 1999. Rev Med Chil 131: 641-9
+        [ Medline ]        [ Lilacs ]
+
+TANAKA R, WANG D, MORISHITA Y, INADOME Y, MINAMI Y, IIJIMA T, FUKAI S, GOYA T, NOGUCHI M (2005) Loss of function of p16 gene and prognosis of pulmonary adenocarcinoma. Cancer 103: 608-615
+        [ Medline ]
+
+TOYOOKA S, TSUDA T, GAZDAR AF (2003). The TP53 gene, tobacco exposure, and lung cancer. Hum Mutat 2: 229-239
+
+TRAVIS WD, BRAMBILLA E, MULLER-HERMELINK HK AND HARRIS CC (2004) Pathology and Genetics: Tumours of the Lung, Pleura, Thymus and Heart: World Health Organization. Classification of Tumours. Pathology & Genetics. Travis WD, Brambilla E, Muller-Hermelink Hk and Harris Cc (eds). International Agency for Research on Cancer (IARC): Lyon,pp. 9-124
+
+WIKENHEISER-BROKAMP KA (2006) Retinoblastoma regulatory pathway in lung cancer. Curr Mol Med 6: 783-793
+
+WISTUBA II, MAO L AND GAZDAR AF (2002) Smoking molecular damage in bronchial epithelium. Oncogene 21: 7298-7306
+        [ Medline ]
+
+WISTUBA II (2007) Genetics of preneoplasia: lessons from lung cancer. Curr Mol Med 7: 3-14
+
+ZOCHBAUER-MULLER S, FONG KM, VIRMANI AK, GERADTS J, GAZDAR AF, MINNA J (2001) Aberrant promoter methylation of multiple genes in non-small cell lung cancers. Cancer Res 61: 249-255
+        [ Medline ]
