@@ -140,7 +140,7 @@ class MeshHandler(ContentHandler):
         #print dic
     def mesh_tree(self):
         return true 
-        
+"""        
 # Criar um objeto Parser
 parser = make_parser()
 
@@ -216,10 +216,23 @@ for r in descritores_pais.items():
         novos_descritores[r[0]] = r[1]
 print novos_descritores
 
-for tudo in mh.tree():
-    for m in novos_descritores.items():
-        if tudo[0].__contains__(m[0]):
+contabilizar_filhos = {}
+for c in novos_descritores.iterkeys():
+    contabilizar_filhos[c] = 0
+
+print contabilizar_filhos
+for tudo in mh.tree.iterkeys():
+    for m in novos_descritores.iterkeys():
+        if tudo.__contains__(m) and (len(tudo) == len(m)+4):
+            contabilizar_filhos[m] += 1
             
+print contabilizar_filhos
+descritores_sugeridos = {}
+for l in novos_descritores.iteritems():
+    if (l[1]*1.0 / contabilizar_filhos[l[0]]*1.0 ) > 0.2:
+        descritores_sugeridos[mh.desc_dic[mh.tree[l[0]]] ] = l[1]
+print descritores_sugeridos
+"""
 #print descritores_pais
 #print mh.tree.get("exercis")
 #print mh.tree.__getitem__("I03.350")

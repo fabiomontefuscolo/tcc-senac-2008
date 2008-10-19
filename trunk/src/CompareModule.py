@@ -134,14 +134,14 @@ class ArticleScielo():
                 word += " "
         
         return descritores
-        
+"""        
 artigo = ArticleScielo()
 artigo.extrair_conteudo(r'../in/Artigo2.txt')
 print artigo.descritores_definidos
 print artigo.artigo
 print artigo.descritores_existentes(artigo.artigo)
 
-
+"""
         #print "Descritores Pre-definidos: ",self.descritores_definidos
         #print "Descritores Obtidos: ", dic
 
