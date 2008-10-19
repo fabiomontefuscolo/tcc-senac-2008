@@ -1,193 +1,193 @@
 Descritores
 
-Adolescent
-Adult
-Aged
-Cause of Death
-Child
-Child, Preschool
-Chile
-Chronic Disease
-Female
-Health Transition
-Humans
-Hypertension
-Infant
-Life Expectancy
-Male
-Middle Aged
-Obesity
-Socioeconomic Factors
+Animals
+Beetles
+Germination
+Light
+Mimosa
+Predatory Behavior
+Seeds
+Temperature
 
 
 Artigo
 
-High frequency of p 16 promoter methylation in non-small cell lung carcinomas from Chile
+Effects of the seed predator Acanthoscelides schrankiae on viability of its host plant Mimosa bimucronata
 
  
 
-LEDA M GUZMAN1*, CHIHAYA KORIYAMA2, SUMINORI AKIBA2, YOSHITO EIZURU3, DARWINS CASTILLO4, ALEJANDRO CORVALAN4,5 and FRANCISCO R AGUAYO3,6 **
+CAMILA A. TOMAZ, DÉBORA KESTRING and MARCELO N. ROSSI
 
-1 Escuela de Tecnología Médica, Facultad de Salud, Universidad Santo Tomás, Santiago, Chile.
-2  Department of Epidemiology and Preventive Medicine, Kagoshima University Graduate School of Medical and Dental Sciences, Kagoshima, Japan.
-3  Division of Oncogenic and Persistent Viruses, Center for Chronic Viral Diseases, Kagoshima University Graduate School of Medical and Dental Sciences, Kagoshima, Japan.
-4 Laboratorio Nacional y de Referencia de Inmunología, Instituto de Salud Pública de Chile, Santiago, Chile.
-5 Departamento Anatomía Patológica, Pontificia Universidad Católica de Chile, Santiago, Chile.
-6 Laboratorio Patología Molecular y Epidemiología, Centro de Investigaciones Médicas, Pontificia Universidad Católica de Chile, Santiago, Chile.
+Departamento de Botánica, IB, Universidade Estadual Paulista (Unesp), Botucatu, São Paulo, Brazil.
+
+Dirección para correspondencia
 
 ABSTRACT
 
-The inactivation of tumour suppressor genes by aberrant methylation of promoter regions has been described as a frequent event in neoplasia development, including lung cancer. The p16 gene is a tumour suppressor gene involved in the regulation of cell cycle progression that has been reported to be inactivated by promoter methylation in lung carcinomas at variable frequencies around the world in a smoking habit dependent manner. The purpose of this study was to investigate the methylation status of the promoter region of the p16 gene in 74 non-small cell lung carcinomas from Chile. The frequency of p16 gene inactivation by promoter methylation was determined as 79.7% (59/74). When we considered histological type, we observed that p16 promoter methylation was significantly higher in squamous cell carcinomas (30/33, 91%) compared with adenocarcinomas (21/30, 70%) (p=0.029). In addition, no association between p16 promoter methylation and gender, age or smoking habit was found (p=0.202, 0.202 and 0.147 respectively). Our results suggest that p16 promoter hypermethylation is a very frequent event in non-small cell lung carcinomas from Chile and could be smoking habit-independent.
+Seeds of Mimosa bimucronata are heavily infested (pre-dispersal predation) by the bruchid beetle Acanthoscelides schrankiae in Brazil. In this study, firstly we set up experiments to assess seed germination under seven and six different light and temperature regimes, respectively, and then we evaluated the ability of seeds to germinate after predation. We tested the hypothesis that the non-predated seeds from infested fruits may respond differently when set for germination than those seeds of non-infested fruits. We also hypothesized that predation may increase the production of unviable seeds. Seeds under 18 hours of light presented the highest percentage of germination, and the alternating temperature 20-30 °C was considered as optimum for germination (abnormal seedlings were not considered as a successful germination). Germination of seeds from non-infested fruits was significantly higher than germination of non-predated seeds from infested fruits, and predation also caused a significant increase in the proportion of dead seeds. Our results also show a positive correlation between proportions of unviable seeds and predated seeds. These results demonstrated that seeds of M. bimucronata are strongly affected by predation because predated seeds did not germinate and non-predated seeds had their viability reduced when located in infested fruits, supporting our hypothesis.
 
-Key terms: lung carcinoma, methylation, promoter region.
+Key terms: Acanthoscelides schrankiae, Bruchidae, germination, Mimosa bimucronata, seed predation.
 
 INTRODUCTION
 
-Lung cancer (LC) is the most common cause of cancer-related mortality in men and women around the world [Pisani et al., 2002; Greenlee et al., 2001]. In Chile, LC is the second cause of death in men and third in women [Szot, 2003]. LC is classified into 2 major types: small-cell lung carcinomas (SCLCs) and non-small cell lung carcinomas (NSCLCs). In Chile, 75% of LC cases are NSCLCs and squamous cell lung carcinomas (SQCs) range between 25% to 50% of the cases and have been associated to chronic smoking habit [Wistuba et al., 2002; Shields, 2002]. LC is the most deadly and aggressive cancer, and the prognosis is limited by the difficulties of diagnosing early stages. The conventional analysis of sputum, cytological or bronchioalveolar lavage associated to thorax radiological screening has not improved the survival of this disease [Cassidy et al., 2007]. The rapid advancement in molecular techniques may help to identify novel new diagnostic markers with high sensitivity and prognostic value for early detection of LC in high-risk subjects, such as chronic smokers [Wistuba, 2007].
+Herbivory is defined as the consumption of plants by animals, and encompasses different types of interactions. For example, seed and seedling herbivory are predatory interactions because herbivores kill individuals in the population (Strauss and Zangerl, 2002), and animals that feed mainly or exclusively on seeds are termed granivores (Hulme and Benkman, 2002). Granivory can be extremely important for limiting the size of plant populations (top-down effects) because high mortality rates are expected when predation is severe, decreasing seedling densities in future generations (Crawley, 1992; Hulme, 1998; Crawley, 1997; Gurevitch et al., 2002). Therefore, granivores play a crucial role on regeneration, colonization ability, and spatial distribution of plants (Louda et al., 1990; Myster and Pickett, 1993; Hulme, 1997; Castro et al., 1999; Forget et al., 1999; Picó and Retana, 2000).
 
-It has been demonstrated that aberrant CpG island methylation in the promoter region of tumour suppressor genes (TSGs) is an important epigenetic mechanism of gene silencing [Callinan and Feinberg, 2006]. The TSGs inactivation by hypermethylation is a common event described in human cancer, including LC [Esteller, 2003; Herman and Baylin, 2003]. In lung carcinomas, more than 30 silenced genes have been reported to be methylated such as p16INK4a (pi6), RAR-|3 (retinoic-acid receptor (3) and E-cadherin [Zochbauer Muller et al., 2001]. The p16 TSG located on 9p21 chromosome encodes a cyclin dependent kinase, a key protein regulator of progression through the Gl phase of the cell cycle [Berger and Bardeesy, 2007]. The p16 protein plays an important role in the binding and inhibition of cyclin D kinase activity and then regulating the phosphorylation of the retinoblastoma protein (pl05Rb) [Wikenheiser-Brokamp, 2006].
+Among the most important seed predators are the insects, mainly those from Coleóptera, Diptera, Lepidoptera, and Hemiptera orders (Janzen, 1971). Bruchid (Coleóptera) beetles (62 genera worldwide) are seed-eating insects (larval stage) that feed in the seeds of about 34 plant families, and many species are of considerable economic importance, inflicting damages on cultivated plants (Cardona, 1989; Baier and Webster, 1992; Ñapóles, 2002). As most bruchids are host specific, they naturally regulate plant populations by killing their seeds, giving no options for plants to disperse (Janzen, 1975; Southgate, 1979; Ñapóles, 2002). The bruchid beetle Acanthoscelides schrankiae (Horn) feeds in the seeds of twelve plant species (10 Mimosa, 1 Acacia, and 1 Schrankia) even though there are new host plants to be discovered, mainly in tropical areas (Ñapóles, 2002), and this species can be found in Bahamas, Ecuador, the United States, Mexico, the Dominican Republic, Venezuela, and Brazil (JR Ñapóles, personal communication). Very little is known about this bruchid beetle as information in the literature is rather scant (Johnson, 1983, 1990; Silva et al., 2007) and the effects of predation on seed germination by this bruchid are still unknown.
 
-Recent studies demonstrated that aberrant p16 promoter methylation is an early and critical event in the NSCLCs development [Hilbe et al., 2004], and it has been observed in serum and sputum of chronic smokers without clinical disease [Belinsky, 2007]. It has been reported that aberrant pi6 promoter methylation is smoking habit associated, however TSGs methylation in non-smoker subjects has been detected [Liu et al., 2006; Nakata et al., 2006]. In addition, p16 promoter methylation has been shown to correlate with the progression of the malignancy in LC patients [Tanaka et al., 2005]. Taken together, p16 inactivation by promoter hypermethylation may be a useful precocity marker of LC development in high-risk subjects such as heavy smokers. Moreover, methylation is a reversible epigenetic event, thus the use of some drugs such as 5-deoxyazacytidine would be a very important future tool for the treatment of LC patients [Momparler, 2005]. We previously reported a high pi6 promoter methylation prevalence in SQCs from Santiago de Chile [Adonis et al., 2006], and now our goal is to increase the size of analyzed samples including Adenocarcinomas (ACs) and Large cell carcinomas (LCCs) and establish clinical associations with other clinical parameters such as smoking habit.
+Mimosa bimucronata (DC.) Kuntze (Fabaceae: Mimosoideae) is an endemic perennial tree (or shrub) from Brazil, Paraguay, Argentina, and Uruguay (Burkart, 1959), reaching around 10 m high with intense ramification of branches. This plant grows along wetlands and riverbanks, and on the shore of lakes, where few individuals can form dense aggregations (Lorenzi, 2000). Mimosa bimucronata is an important agent for restoration of degraded areas, and produces good quality wood for charcoal utilization (Reitz et al., 1983; Marchiori, 1993). However, M. bimucronata is also an important weed when dense populations grow in pasture areas (Lorenzi, 2000) because its large branches with thorns can hamper cattle from accessing water and fresh grass. Moreover, only a few grasses can grow below the canopy of these plants due to shading, which causes loss of areas for grass management. Most M. bimucronata seeds (located in craspedium fruits) have a semi-permeable seed coat and scarification (mechanical or chemical) increases the speed of germination (Ferreira et al., 1992; Ribas et al., 1996). Low humidity usually decreases their germination potential (Ferreira, 1976; Ferreira and Callegari-Jacques, 1980), and either hot water at 80°C (Ribas et al., 1996) or sulphuric acid application for 10 minutes (Fowler and Carpanezzi, 1998) are satisfactory methods to increase the performance of seed germination. Despite the economic importance of M. bimucronata, little is known about its biology, ecology, and associated organisms. Thus, as their seeds are heavily infested by A. schrankiae in Brazil it is worthwhile to understand the effects of seed predation on germination.
 
-MATERIALS AND METHODS
+As A. schrankiae kills M. bimucronata seeds during consumption not allowing germination (see Results), we tested the hypothesis that the non-predated seeds from infested fruits may respond differently than those seeds of non-infested fruits when set for germination because differences in resource allocation may occur. Therefore, dry weights and water contents of non-predated seeds from infested and non-infested fruits were compared. As differences in seed germination between infested and non-infested fruits were expected, we investigated whether predation by A. schrankiae reduces seed quality by increasing the proportion of unviable seeds in M. bimucronata plants. Although there are some studies focused on seed technology of M. bimucronata, regional differences in seed germination are usually expected (Cruz et al., 2003; Schiitz and Rave, 2003). Thus, as there are no published studies focusing on seed germination of this plant species in our locality (state of São Paulo, city of Botucatu), we finally set up experiments to assess seed germination under seven and six different light and temperature regimes, respectively, so as to determine the best environmental conditions for seed germination.
 
-Patients and Samples
+MATERIAL AND METHODS
 
-Primary tumour specimens were obtained from 74 patients undergoing surgical resection or biopsy of SCLC. There were 33 SQCs, 30 ACs, 8 LCCs and 3 specimens without histological information. Twenty-two samples were fresh frozen tissue and 52 specimens corresponded to archival paraffin embedded tissue. The specimens collected prospectively (fresh tissue) were snap-frozen at -80°C after initial histopathological examination and were diagnosed with stage I to III at Instituto Nacional de Enfermedades Respiratorias, Santiago, Chile. The paraffin embedded tissue specimens were diagnosed in the Hospital Salvador, Santiago, Chile during the period between 1998 and 2003.
+Study site and collection of fruits
 
-DNA extraction and Methylation-Specific PCR
+Seeds of M. bimucronata were randomly collected from twenty plants selected for their uniform size, located in the city of Botucatu-SP (Brazil), at the Faculdade de Ciencias Agrarias of the Universidade Estadual Paulista - Unesp (22° 50' 52" S; 48° 25' 46" W). The climate in the area is typically mesotherm of dry winter (Koeppen - Cwb) (Carvalho et al., 1983), and all plants grow by a lake, surrounded mainly by grasses. After collection, all fruits were exposed to fresh air in a shady environment for drying. After drying, fruits were separated in two groups (A and B) to set up the experiments. Fruits from groups A and B were arranged to evaluate the effects of light and temperature on seed germination, and the effects of seed predation on germination, respectively.
 
-Ten [im-thick sections of each formalin-fixed paraffin-embedded sample were used. The samples were treated with 1 mL of xylene, and then with 1 mL of ethanol. After centrifugation, the pellet was resuspended in digestion buffer (50 mM Tris-Cl pH 8.0, 1 mM EDTA pH 8.0, 0.5% Tween 20) containing 200 [ig of Proteinase K (Life Technologies, Inc) and incubated during 24 hours at 56°C. Then the solution was heated to 100°C for 10 min and centrifuged to 10,000 rpm for 10 min. Phenol-chloroform extraction was made in all the samples and the DNA was precipitated with double volumes of ethanol [Coombs et al., 1999]. Genomic DNA was purified from frozen tumours by digestion with 200 [ig/mL Proteinase K (Life Technologies, Inc) for incubation at 50°C overnight, followed by extraction using the Wizard genomic DNA purification kit (Promega Corp., Madison, WI), following the instructions of the manufacturer. After the DNA purification, the adequacy of the samples for PCR was determined by amplification of the beta-globin gene. The primer sequences are indicated in Table I. For analysis of methylation patterns within the 5'-CpG island of the promoter region and upstream region of exon 1 of pi6 gene, µg of purified genomic DNA from each sample was used. The DNA was denatured with sodium hydroxide and modified with sodium bisulfite (Sigma Chemical Co., St Louis, MO), as described previously [Herman et al., 1996]. The modified DNA was purified using the Wizard Cleanup system (Promega Corp., Madison, WI). In order to amplify p16 methylated and non-methylated regions a nested MSP protocol was used as described [Fan X et al., 2002; Herman JG et al., 1996]. Primer sequences for both the methylated and the unmethylated form of the pi6 promoter region, annealing temperature, and the expected PCR product sizes are summarized in Table I. In order to amplify pi6 promoter fragment in the first PCR (outer primers), 2 µL of modified DNA were used and the reaction mix contained IX PCR buffer (16.6 mM (NH4)2S04, 67 mM Tris pH: 8.8, 6.7 mM MgCl2, 10 mM 2-mercaptoethanol), 1.2 mM dNTPs, 1.6 mM each primer, 2.5 U Taq Gold DNA polymerase (Applied Biosystem) and 5.2% DMSO in a final volume of 25 µL The PCR conditions were initial denaturation at 94°C for 7 min, 35 amplification cycles of denaturation at 94°C for 30 s, annealing at 56°C for 30 s, and extension at 72°C for 30 s. Using 1 µL of the first PCR product, a second PCR using inner methylated and unmethylated specific primers and 40 cycles of amplification was made. The annealing temparature was adjusted at 55°C. Genomic DNA from gallbladder treated with SssI methyltransferase (New England Biolabs) served as a positive control. Negative controls without DNA were included. The hypermethylation status of the p16 promoter region was determined by analysis of PCR products in 8% polyacrylamide gels after silver nitrate staining.
+Effects of light and temperature on seed germination
 
+Firstly, the infested and non-infested fruits were separated in the laboratory and, after dissection, non-predated seeds (we designated all non-predated seeds viable seeds) from non-infested fruits were put into transparent Gerbox containers (11 cm x 11 cm x 4 cm) lined with soaked (distilled water) wet filter papers. The percentage of germination was evaluated under five constant (15°C, 20°C, 25°C, 30°C, and 35°C) and an alternating temperature (20-30°C), and also under seven light conditions (Oh, 2h, 4h, 8h, 12h, 18h, and 24h). The alternating temperature had the light period corresponding to the highest temperature. Each treatment was repeated 8 times with 25 seeds for each replicate (one Gerbox). Gerbox containers were wrapped in transparent plastic bags to prevent water losses. Sulphuric acid was applied to all seeds for 10 minutes to increase the speed of seed germination (Fowler and Carpanezzi, 1998). For the temperature and light tests, seeds were kept under 8 hours of white light [fluorescent 15 W lamps (78 µmol s-1 m-2)] and 25°C, respectively (Brasil, 1992). It is important to mention that the abnormal seedlings were not considered as a successful germination. Therefore, the abnormal seedlings were excluded from the calculation of the percentage of germination. Plants that presented shoots without roots, and vice-versa, were classified as abnormal seedlings.
 
-Statistical analysis
+To evaluate if water contents (%) of seeds were homogeneous, immediately before each germination test, seeds were put into iron cans (50 seeds per can) and weighed with a semi-analytical scale (wet weight). After weighing, seeds were dried (105 ± 3°C for 24 hours) and reweighed (Brasil, 1992). Therefore, water contents were calculated by subtracting the wet from the dry weights. Each can corresponded to a replicate, and twelve and fourteen replicates (equivalent to two replicates per temperature and light regime) were adopted before temperature and light experiments, respectively.
 
-Statistical analyses were performed using Fisher's exact test and two sided p-values were presented. A P value less than 0.05 was considered statistically significant.
+Two ANOVA (Zar, 1999) were run to compare the mean percentage of germination between the different temperatures and light regimes, respectively, and paired comparisons of means were run by the Least Significant Difference (LSD) test (Zar, 1999) when appropriate. The Student's í-test (Zar, 1999) was run to compare the mean percentage of water contents between seeds used for light and temperature experiments. For statistical analyses, germination and water contents data were transformed (arcsine Vprop).
+
+Effects of seed predation
+
+Likewise, we first separated the infested from the non-infested fruits, but after dissection, predated and non-predated seeds were removed from the fruits. Viable seeds from infested and non-infested fruits were then separated and put into transparent Gerbox containers lined with wet filter papers. The percentage of germination and the percentage of dead seeds from infested and non-infested fruits were compared by the Student's i-test (data in arcsine Vprop). This experiment was carried out at the alternating temperature 20-30°C under 18 hours of light, since we considered these conditions as optimum for seed germination (see Results). Each treatment was repeated 15 times with 25 seeds for each replicate, and Gerbox containers were wrapped with transparent plastic bags to prevent water losses. Sulphuric acid was applied for 10 minutes on all seeds to increase the speed of seed germination. Immediately before the germination tests, water contents of seeds were determined as described above, and 20 replicates were considered for each treatment (viable seeds from infested and non-infested fruits). The Student's i-test was run (data in arcsine vprop) to compare the mean percentage of water contents of seeds. To evaluate if seeds damaged by A. schrankiae were able to germinate, the predated seeds were also put into Gerbox containers (8 replicates with 25 seeds each) at the optimum temperature and light conditions estimated. Sulphuric acid was not applied on seeds in this case.
+
+After all germination tests, we returned to the study site and 200 new fruits were collected at random from each selected plant; therefore, each plant represented a replicate (4,000 fruits distributed in 20 replicates) for statistical analyses. Again, we separated non-predated seeds from the infested and non-infested fruits; however, in this case, the number of unviable seeds was also recorded. We considered as unviable those aborted seeds that presented irregular development during fruit maturation. Usually, unviable seeds of M. bimucronata present dark color and have much less weight than viable seeds, being unable to germinate. For the infested fruits, the mean number of seeds attacked per fruit was also estimated. All viable seeds from each plant were counted and put into small paper bags separating those from infested and non-infested fruits. After that, seeds were dried (105 ± 3°C for 24 hours) and then weighed with a semi-analytical scale. Therefore, dry weights of viable seeds were estimated for each plant. Due to the unequal number of viable seeds, the dry weight was divided by the number of weighed seeds (weight estimated for one seed) and these values were used for statistical analyses. To estimate the proportion of unviable seeds, the number of unviable seeds recorded for each plant was divided by the total number of non-predated seeds per plant, and these calculations were computed only for seeds from infested fruits. The Student's i-test was run to compare the mean dry weights of viable seeds between infested and non-infested fruits. Finally, we estimated the proportion of predated seeds per plant (n° of predated seeds/total n° of seeds), and a correlation analysis (Zar, 1999) between the proportion (arcsine Vprop) of predated seeds and the proportion (arcsine Vprop) of unviable seeds among plants was computed. For all experiments, seven-day-old germinated seeds were used for recording the percentage of germination, and we considered as germination the emergence of 2 mm of radicle.
 
 RESULTS
 
-In this study we determined the frequency of pi6 promoter hypermethylation in NSCLCs from Chile confirmed by histology. We used a MS-PCR method that allows to detect methylated and unmethylated regions in the genome [Adonis et al, 2006]. The primers used in this report are described in Table I. All the used NSCLC specimens for methylation analysis were beta-globin gene positive because of the positive amplification of a 110 bp fragment in the samples. The clinico-pathological features of the analyzed samples and controls are described in Table II. In Figure I the specific amplification of two representative samples and controls are shown. The results of p16 promoter methylation status in all the samples are shown in Table III. Our results indicated that 59/74 (73%) lung carcinomas were pi6 promoter methylation positive. In addition, the pi6 promoter methylation frequency considering histological type was 91% (30/33) for SQC, 70% (21/30) for AC and 88% (7/8) for LCC. The difference between SQCs and ACs was statistically significant (p=0.029). No association between p16 promoter methylation and age (p=0.202), gender (p=0.202) or smoking habit (p=0.147) was found. The differentiation grade in NSCLC was not related to pi6 promoter methylation status (Table 4). However in AC we found that p16 promoter methylation was more frequent in highly differentiated (7/8, 87.5%) compared with moderately (7/12, 58.3%) or poorly (6/ 9, 66.7%) differentiated carcinomas. These differences were not statistically significant (Table 4, p=0.163).
+Comparison of mean percentages of seed germination between the different temperatures did not show significant differences (Table 1). However, for the light levels investigated, significant differences in seed germination were observed (Table 1). Seeds under 18 hours of light presented the highest percentage of germination, and germination was reduced to zero in full darkness (Fig. 1). Germination was also significantly reduced for seeds under 24 hours of light (Fig. 1). In the absence of light, we found 98% of abnormal seedlings and 2% of dead seeds, justifying zero percent of germination in this condition. Under 24 hours of light, the percentage of abnormal seedlings was also relatively high (27.5%). Although significant differences between light regimes were observed, seeds responded well from 2 to 18 hours of light, since the percentages of germination were similar (Fig. 1). Seeds were very homogenous for light and temperature experiments as their mean water contents did not differ statistically (t = -0.9803; df = 24; P = 0.3367; N = 14 and N = 12, for light and temperature treatments, respectively).
 
 
 
-Figure 1: MS-PCR for P16 promoter methylation in NSCLCs specimens. Bisulphite modified DNA was amplified with p16 specific primers to detect methylated (M) and unmethylated (U) alíeles. MW: Molecular weight marker; +SssI: Genomic DNA treated with SssI enzyme; -SssI: Genomic DNA untreated with SssI enzyme; Sample 1 and 2: Specimens positive and negative for methylated condition; H20: distilled water used as negative control.
+Figure 1: Mean (± Standard Deviation) values of percentage of germination of seeds under different light regimes. Means followed by different letters differed statistically by the Least Significant Difference (LSD) test (P < 0.05). Abnormal seedlings were not considered in the calculations.
+
+Even though seed germinability did not differ between the temperatures tested, the alternating temperature 20-30°C was considered as optimum for germination because it presented the highest mean percentage of germination (Fig. 2). Therefore, the alternating temperature 20-30°C under 18 hours of light was considered as optimum for seed germination, explaining the evaluation of the effects of seed predation under these conditions. The mean water contents of seeds from infested and non-infested fruits did not differ statistically (t - -0.9606; dƒ-2; P = 0.4381; N = 2, for each treatment). However, the mean percentage of germination of viable seeds from non-infested fruits (87.73% ± 11.36%) [Mean (± Standard Deviation)] was significantly higher than the mean percentage of germination of viable seeds from infested fruits (59.73% ± 13.39%) (t = -6.006; df = 28; P < 0.001; N = 15 for each treatment). Predation by A. schrankiae also caused an increase in the proportion of dead seeds, as the mean percentage of dead seeds was significantly higher in infested (26.4% ± 10.56%) than in non-infested fruits (5.6% ± 6.56%) (t = -6.640; df = 28; P < 0.0001; N - 15 for each treatment). Predated seeds were strongly affected because we observed that all predated seeds did not germinate. For all collected fruits (infested + non-infested) a mean of 6.39 [± 1.23 (SD)] seeds per fruit was found, and the infested fruits presented a mean of 3.88 [± 1.55 (SD)] predated seeds per fruit.
 
 
+Figure 2: Mean (± Standard Deviation) values of percentage of germination of seeds under different temperatures. Means did not differ statistically by ANOVA test (P > 0.05). Abnormal seedlings were not considered in the calculations.
+
+Although the mean dry weights of viable seeds from infested and non-infested fruits did not differ statistically [t = 0.879; df= 34; P = 0.3857 (N = 20 and N = 16 for infested and non-infested fruits, respectively, as four plants did not present non-infested fruits)], predation by A. schrankiae may affect the production of unviable seeds because a significant positive correlation between the proportion of unviable seeds and the proportion of predated seeds was observed among trees (Fig. 3).
+
+
+Figure 3: Positive correlation between the proportion of unviable seeds and the proportion of predated seeds among trees [P = 0.0369; N = 20 (results from transformed data)]. Each point represents untransformed data from a specific plant.
 
 DISCUSSION
 
-Epigenetic alterations such as CpG island methylation of promoter regions of TSGs have been reported to be a very frequent event in lung cancer development [Esteller M, 2002]. In 1995 the frequent p16 gene inactivation by methylation in diverse cancers was reported [Herman et al., 1995] and this methylation implied loss of pi6 transcriptional expression that was reversible after treatment with 5-deoxyazacytidine [Merlo et al, 1995]. After these findings, other reports showed that the pi6 promoter region was methylated in lung cancer at frequencies between 20 to 70% [Belinsky et al., 1998; Nuovo et al., 1999]. Previously, we reported that the p16 promoter is methylated in 86% of patients with SQC, a high prevalence compared with other studies around the world [Adonis et al., 2006]. For this reason, we decided to increase the size of our initial study, including other histological types as ACs and LCCs. In this report, a very frequent pi6 promoter methylation in NSCLCs from Chile was found (79.7%). In addition, when we stratified by histological type we observed that pi6 promoter methylation was higher in SQCs (90.9%) compared with ACs (70%) and this difference was statistically significant (p=0.029). Overall, the pi6 promoter methylation has been reported more frequently in SQCs compared with ACs [Belinsky, 2004; Digel et al., 2005] and accordingly with the frequent central location of SQCs compared with the peripheric location of ACs [Travis et al., 2004; Wistuba, 2007]. This higher p16 promoter methylation in SQCs is probably related to smoking habit which is considered a risk factor for SQC development.
+Although we considered the alternating temperature 20-30°C as the best condition for seed germination, the impact of different temperature regimes on seed germination was similar for all tested temperatures (Fig. 2). Existing studies concerning M. bimucronata seed germination usually show low temperature amplitudes and the temperatures of 25 and 30°C were frequently used (Ferreira, 1976; Ferreira and Callegari-Jacques, 1980; Ferreira et al., 1981; Ferreira et al., 1992; Ribas et al., 1996; Fowler and Carpanezzi, 1998). However, although not significant, we observed that the lowest mean percentages of germination were reached at 25°C and 30°C (Fig. 2). Curiously, the alternating temperature 20-30°C was not used as a control treatment for seed germination in such studies.
 
-Some reports described a significant association between methylation of some genes such as pi6 or MGMT and smoking habit [Liu et al., 2006; Nakata et al., 2006; Toyooka et al., 2003]. However in our study we found that p16 promoter methylation was independent of smoking habit. Moreover, p16 promoter methylation was more frequent in non-smokers compared with smokers, although this difference was not statistically significant (91% vs. 72% respectively, p=0.147). This finding is compatible with another study [Sanchez-Cespedes M et al., 2001] where the authors showed that tumours from non-smokers arise exclusively through inactivation of p16 gene by promoter hypermethylation. However the frequencies of pi6 promoter methylation were lower in both smokers and non-smokers compared with our report. In addition, it has been reported that MGMT gene (06-methylguanine-DNA methyltransferase) methylation was more frequent between non-smokers compared with smokers [Pulling etal., 2003].
+In spite of the fact that temperature did not have a strong effect on seed germination, significant differences in germination among different light regimes (Fig. 1) indicate that seeds of M. bimucronata can be light sensitive. With respect to the effect of light on seed germination of M. bimucronata, more conclusive studies are needed. Ferreira (1976) reported that either the presence or absence of light did not interfere on germination of M. bimucronata seeds. However, we showed that germination was significantly increased under 18 hours of light, and seeds did not germinate in complete absence of light (Fig. 1). Yet, germination was significantly reduced for seeds at 24 hours of light (Fig. 1). Our findings also differ from Ferreira et al.'s (1981) study, which shows that the absence of light did not inhibit germination. However, recall that the abnormal seedlings were not considered as a successful germination in our experiments.
 
-In 2002, Belinsky et al. reported that exposure to particulate carcinogens such as diesel exhaust, carbon black and beryllium metal is associated with aberrant p16 promoter methylation [Belinsky et al., 2002]. In addition, the carcinogenic role of polycyclic aromatic hydrocarbons (HAP) present in smoke fumes and environmental contamination in lung cancer development has been well established [Gil et al., 2000; Hecht, 1999]. The carcinogenic mechanism implies adduct formation in the genetic material and is highly dependent of host factors [Hecht, 1999]. These observations are relevant to this study because the most of the patients come from Santiago (Salvador Hospital and Thorax Hospital), one of the most polluted cities worldwide [Adonis et al., 2000; Gil et al., 2000]. These compounds include polycyclic aromatic compounds as benzo-oc-pyrene which is a potent carcinogen. How the carcinogens present in the air, including cigarette fumes, may be involved in aberrant TSG methylation such as pi6 gene, remain to be elucidated. The very high frequency of pi6 promoter methylation detected in this study compared with previous reports [Belinsky, 2004] and moreover, the very high p16 promoter methylation prevalence in nonsmokers (91%, Table II) allows us to speculate that other environmental factors acting synergistically or not, are involved in this epigenetic alteration. These other factors may be related to cigarette smoke exposure which is difficult to evaluate in the population within environmental pollution and contamination such as ocurs in Santiago de Chile.
+The germination response of a given species is assumed by studying individuals from some area that are mixed together, providing information on the average response of a population (Cruz et al., 2003). Assuming that other populations respond similarly, extrapolations are made. However, germination responses of seeds from different sources are quite variable. Such variations may occur either between populations, different individuals in populations or different parts of the same plant (Thompson, 1975; Westoby, 1981; Silvertown, 1984; Martin et al., 1995; Schiitz and Rave, 2003; Cruz et al., 2003). Therefore, not all seeds may equally germinate when exposed to certain stimuli, which may be advantageous for seedling establishment of some species that usually experience high variability in environmental conditions (Venable, 1985; Cruz et al., 2003). Results from the Ferreira's (1976) and Ferreira et al.'s (1981) studies differed in part from our findings. As seeds used in those experiments were collected from plant populations naturally occurring in the state of Rio Grande do Sul (Brazil) and we collected seeds from a plant population located in the city of Botucatu, state of São Paulo, it is possible that such differences in germination occurred due to different environmental conditions (temperature, light intensity, water supply, etc..) that M. bimucronata populations have been experienced for several generations.
 
-The pi6 promoter methylation has been suggested as an early detection marker of lung cancer. In fact, p16 promoter methylation has been detected in early lesions and preneoplastic lesions of the lung. In SQC, pi6 promoter methylation has been suggested to occur in squamous dysplasia and metaplasia and then it is possible to detect it in high-risk individuals such as heavy smokers [Wistuba, 2007] when no clinical evidence is observed. It has been reported that pi6 methylation may be detected in serum or sputum from heavy smokers three years previous to clinical detection by conventional methods [Belinsky et al., 2006] as radiology or sputum cytology. Future studies should be focused on this area.
+Herbivores have been considered important agents in enhancing germination of hard seeds (Halevy, 1974; Karban and Lowenberg, 1992). For example, Takakura (2002) suggested that the specialist bruchid beetle Bruchidius dorsalis (Fahraeus) played a crucial role in the seed germination of its host plant, Gleditsia japónica (Miquel), because in some circumstances germination was facilitated after predation. In this study, however, it was shown that M. bimucronata seeds could not germinate when damaged by A. schrankiae. For seeds with large amounts of cotyledonary reserve [some tropical trees (> 5g)] germination may occur even if the cotyledon is partially damaged (Dalling et al., 1997; Dalling and Harms, 1999). In contrast, M. bimucronata seeds may be smaller than seeds from those trees (<0.01g, MN Rossi, unpublished data) and developing larva can also damage the embryo when seeds are not completely mature. Therefore, M. bimucronata seeds apparently cannot tolerate damages by A. schrankiae larvae not even before the complete larval development, this relationship being entirely antagonistic. A similar comment was presented by Takakura (2002) to explain the lack of germination of G. japónica seeds after being damaged by developed larvae of B. dorsalis.
 
-In conclusion, our report showed high pi6 promoter methylation prevalence in NSCLCs from Chile that was significantly more frequent in SQCs compared with ACs. The pi6 promoter methylation was smoking habit-independent.
+The higher percentage of germination of seeds from non-infested fruits than from infested fruits clearly suggests that predation affects germination of viable seeds. In addition, the proportion of dead seeds was significantly increased in the infested fruits. This, combined with the significant positive correlation between the proportion of unviable seeds and proportion of predated seeds (Fig. 3), corroborates our hypothesis that M. bimucronata seeds can be affected by predation in several ways, at least in this studied site. The mechanisms by which predation interferes negatively on germination of viable seeds of M. bimucronata are not clear. Probably, they are associated with differences in the capacity of seeds from infested and non-infested fruits in allocating resources during fruit maturation. As, in the average, fruits were heavily infested in the studied site (3.88 seeds per fruit), it is possible that a considerable ingestión of essential nutrients by A. schrankiae larvae caused a reduction in the photoassimilate flux in fruits, which would reduce the assimilation of nutrients by the remaining seeds, thus reducing their viability. However, as water contents and dry weights of seeds did not differ between infested and non-infested fruits, biochemical studies aimed to compare the nutritional status of viable seeds from infested and non-infested fruits are encouraged in order to understand the mechanisms involved.
+
+Our findings also have important practical implications. For example, effects of pre-dispersal seed predation on germination of viable seeds should be investigated in cultivated crops because damages caused by seed predators may be more severe than expected. Therefore, field experiments comparing germination of 'healthy' seeds from infested and non-infested fruits are needed in crops that experience high levels of seed beetle predation during fruit maturation. Another important implication of our results resides in biological control strategies of weeds. As in some cases bruchid beetles can be useful as biocontrol agents (Kassulke et al., 1990; Wilson and Flanagan, 1991), the evaluation of their efficacy should be extended by evaluating the effects of predation on viability of non-predated seeds when predation occurs in the pre-dispersal phase. In short, this study firstly suggests that seeds of M. bimucronata may respond differently to germination depending of the origin of the populations. Secondly, we demonstrated that seeds of M. bimucronata are strongly affected by predation because predated seeds did not germinate and non-predated seeds had their viability reduced when located in infested fruits. Therefore, we believe that this system provides an excellent opportunity to investigate many important basic and applied questions.
 
 ACKNOWLEDGEMENTS
 
-We are grateful to Dra. Maria Capetillo from Instituto de Anatomía Patológica in Salvador Hospital for her gift of the paraffin embedded blocks used in this study. This work was supported by Sociedad Chilena de Enfermedades Respiratorias (SER), Chile, Instituto de Salud Pública de Chile and Grants-in-Aid for Scientific Research on Priority Areas (12218231 and 17015037) of the Ministry of Education, Culture, Sports, Science and Technology,Japan.
+We thank Professor Gilson Bicudo for revising the text of the manuscript. C A Tomaz and M N Rossi are particularly grateful to Fapesp (Fundacáo de Amparo á Pesquisa do Estado de São Paulo) for financial support. We are most grateful to Jeferson Klein for technical assistance, and to Cibele Chalita Martins, Laura Arruda Silva, and Rita de Cassia S M Rodella, for their advice and support.
 
  
 
 REFERENCES
 
-ADONIS M, GIL L (2000) Polycyclic aromatic hydrocarbon levels and mutagenicity of inhalable particulate matter in Santiago, Chile. Inhal Toxicol 12: 1173-83
-        [ Medline ]
+BAIER AH, WEBSTER BD (1992) Control of Acanthoscelides obtectus Say (Coleóptera: Bruchidae) in Phaseolus vulgaris L. seed stored on small farms I. Evaluation of damage. J Stored Prod Res 28: 289-293
 
-ADONIS W, AGUAYO F, CORDERO E, RODRIGUEZ L, CASTILLO D and GUZMAN L (2006). Evaluación de hipermetilación del gen p161NK4 _ en cáncer escamoso de pulmón en pacientes chilenos, Rev Ch Enf Resp, 22: 7-12
+BRASIL (1992) Regras para Análise de Sementes. Ministerio da Agricultura e Reforma Agraria, SNDA/ DNDV/CLAV, Brasilia
 
-BELINSKY SA, NIKULA KJ, PALMISANO WA, MICHELS R, SACCOMANNO G, GABRIELSON E, BAYLIN SB, HERMAN JG (1998) Aberrant methylation of pi6 (INK4a) is an early event in lung cancer and a potential biomarker for early diagnosis. Proc Nati Acad Sci U S A 95: 11891-11896
+BURKART A (1959) Leguminosae. In: PARODI LR (eds) Enciclopedia Argentina de Agricultura y Jardinería. Buenos Aires, Argentina: ACME, pp: 443-512
 
-BELINSKY SA, SNOW SS, NIKULA KJ, FINCH GL, TELLEZ CS, PALMISANO WA (2002) Aberrant CpG island methylation of the p16(INK4a) and estrogen receptor genes in rat lung tumours induced by particulate carcinogens. Carcinogenesis 23: 335-339
-        [ Medline ]
+CARDONA C (1989) Insects and other invertebrate bean pests in Latin America. In: SCHWARTZ HF, PASTOR-CORRALES MA (eds) Bean Production Problems in the Tropics. Cali, Colombia: CIAT
 
-BELINSKY SA (2004) Gene-promoter hypermethylation as a biomarker in lung cancer. Nat Rev Cancer 4: 707-717
+CARVALHO WA, ESPINÓLA CR, PACCOLA AA (1983) Levantamento de solos da fazenda Lageado estação experimental "Presidente Médice". FCA/Unesp, Botucatu,SP
 
-BELINSKY SA, LIECHTY KC, GENTRY FD, WOLF HJ, ROGERS J, VU K, HANEY J, KENNEDY TC, HIRSCH FR, MILLER Y, FRANKLIN WA, HERMAN JG, BAYLIN SB, BUNN PA, BYERS T (2006) Promoter hypermethylation of multiple genes in sputum precedes lung cancer incidence in a high-risk cohort. Cancer Res 66: 3338-3344
-        [ Medline ]
+CASTRO J, GÓMEZ JM, GARCÍA D, ZAMORA R, HÓDAR JA (1999) Seed predation and dispersal in relict Scots pine forests of southern Spain. Plant Ecol 145: 115-123
 
-BELINSKY SA, GRIMES MJ, CASAS E, STIDLEY CA, FRANKLIN WA, BOCKLAGE TJ, JOHNSON DH, SCHILLER JH (2007) Predicting gene promoter methylation in non-small-cell lung cancer by evaluating sputum and serum. Br J Cancer 96: 1278-1283
-        [ Medline ]
+CRAWLEY MJ (1992) Seed predators and plant population dynamics. In: FENNER M (ed) Seeds: The Ecology of Regeneration in Plant Communities. Wallingford: Commonwealth Agricultural Bureau International, pp: 157-191
 
-CALLINAN PA, FEINBERG AP (2006) The emerging science of epigenomics. Hum Mol Genet 15 Spec No 1: R95-101
+CRAWLEY MJ (1997) Plant-herbivore dynamics. In: CRAWLEY MJ (ed.) Plant Ecology. Oxford: Blackwell, pp: 401-474
 
-CASSIDY A, DUFFY SW, MYLES JP, LILOGLOU T, FIELD JK (2007) Lung cancer risk prediction: a tool for early detection. Int J Cancer 120: 1-6
-        [ Medline ]
+CRUZ A, PÉREZ B, VELASCO A, MORENO JM (2003) Variability in seed germination at the interpopulation, intrapopulation and intraindividual levels of the shrub Erica australis in response to fire-related cues. Plant Ecol 169: 93-103
 
-COOMBS NJ, GOUGH AC, PRIMROSE JN (1999) Optimisation of DNA and RNA extraction from archival formalin-fixed tissue. Nucleic Acids Res 27: el2
+DALLING JW, HARMS KE (1999) Damage tolerance and cotyledonary resource use in the tropical tree Gustavia mperba. Oikos 85: 257-264
 
-DIGEL W, LUBBERT M (2005) DNA methylation disturbances as novel therapeutic target in lung cancer: preclinical and clinical results. Crit Rev Oncol Hematol 55: 1-11
-        [ Medline ]
+DALLING JW, HARMS KE, AIZPÚA R (1997) Seed damage tolerance and seedling resprout ability of Prioria capaifera ('El Cativo'). J Trop Ecol 13: 617-621
 
-ESTELLER M (2002) CpG island hypermethylation and tumour suppressor genes: a booming present, a brighter future. Oncogene 21: 5427-5440
+FERREIRA AG (1976) Germinação de sementes de Mimosa bimucronata (D.C.) OK (Marica). Ci Cult 28: 1200-1204
 
-ESTELLER M (2003) Cancer epigenetics: DNA methylation and chromatin alterations in human cancer. Adv Exp Med Biol 532: 39-49
-        [ Medline ]
+FERREIRA AG, CALLEGARI-JACQUES SM (1980) Efeito da estocagem sobre a germinação de Mimosa bimucronata (DC.) OK. and Leucaena leucocephala (Lam.) de Wit. Ci Cult 32: 1069-1072
 
-FAN X, INDA MM, TUÑON T AND CASTRESANA JS (2002) Improvement of the methylation specific PCR technical conditions for the detection of p16 promoter hypermethylation in small amounts of tumour DNA. Oncol Rep 9: 181-183
-        [ Medline ]
+FERREIRA AG, CALLEGARI-JACQUES SM, SCHNEIDER MVM (1981) The effect of Índole acids on the germination of Mimosa bimucronata. Rev Biol Trop 29: 21-29
 
-GIL L, KING L, ADONIS M (2000) Trends of polycyclic aromatic hydrocarbon levels and mutagenicity in Santiago's inhalable airborne particles in the period 1992-1996. Inhal Toxicol 12: 1185-204
-        [ Medline ]
+FERREIRA AG, LIPP-JOÃO KH, HEUSER ED (1992) Efeitos de escarificação sobre a germinação e do ph no crescimento de Acacia bonariensis Gill e Mimosa bimucronata (D.C.) O.K. Rev Brasil Fisiol Veg 4: 63-65
 
-GREENLEE RT, HILL-HARMON MB, MURRAY T AND THUN M (2001) Cancer statistics, 2001. CA Cancer J Clin 51: 15-36. Erratum in: CA Cancer J Clin 2001;51: 144
-        [ Medline ]
+FORGET PM, KITAJIMA K, FOSTER RB (1999) Pre- and post-dispersal seed predation in Tachigalia versicolor (Caesalpiniaceae): effects of timing of fruiting and variation among trees. J Trop Ecol 15: 61-81
 
-HECHT SS. Tobacco smoke carcinogens and lung cancer. J Nati Cancer Inst 91: 1194-1210
+FOWLER JAP, CARPANEZZI AA (1998) Tecnologia de sementes de Marica Mimosa bimucronata (DC) O. Ktze. Bol Pesq Flor 36: 47-56
 
-HERMAN JG, MERLO A, MAO L, LAPIDUS RG, ISSA JP, DAVIDSON NE, SIDRANSKY D, BAYLIN SB (1995) Inactivation of the CDKN2/p16/MTSl gene is frequently associated with aberrant DNA methylation in all common human cancers. Cancer Res 55: 4525-30
+GUREVITCH J, SCHEINER SM, FOX GA (2002) The Ecology of Plants. Sunderland, Massachusetts: Sinauer Associates
 
-HERMAN JG, GRAFF JR, MYÖHÄNEN S, NELKIN BD AND BAYLIN SB (1996) Methylation -specific PCR: a novel PCR assay for methylation status of CpG islands. Proc. Nati. Acad. Sci. USA 93: 9821-9826
+HALEVY G (1974) Effects of gazelles and seed beetles (Bruchidae) on germination and establishment of Acacia species. Isr J Bot 23: 120-126
 
-HERMAN JG, BAYLIN SB (2003) Gene silencing in cancer in association with promoter hypermethylation. N Engl J Med 349: 2042-2054
+HULME PE (1997) Post-dispersal seed predation and the establishment of vertebrate-dispersed plants in Mediterranean scrublands. Oecologia 111: 91-98
 
-HILBE W, DIRNHOFER S, GREIL R, WOLL E (2004) Biomarkers in non-small cell lung cancer prevention. Eur J Cancer Prev 13: 425-436
-        [ Medline ]
+HULME PE (1998) Post-dispersal seed predation: consequences for plant demography and evolution. Perspect Plant Ecol Evol Syst 1: 32-46
 
-LIU Y, LAN Q, SIEGFRIED JM, LUKETICH JD, KEOHAVONG P (2006) Aberrant promoter methylation of p16 and MGMT genes in lung tumours from smoking and never-smoking lung cancer patients. Neoplasia 8: 46-51
+HULME PE, BENKMAN CW (2002) Granivory. In: HERRERA CM, PELLMYR O (eds.) Plant-Animal Interactions: An Evolutionary Approach. Oxford: Blackwell Publishing, pp: 132-154
 
-MERLO A, HERMAN JG, MAO L, LEE DJ, GABRIELSON E, BURGER PC, BAYLIN SB, SIDRANSKY D (1995) 5' CpG island methylation is associated with transcriptional silencing of the tumour suppressor p 16/CDKN2/MTS1 in human cancers. Nat Med 1: 686-692
-        [ Medline ]
+JANZEN DH (1971) Seed predation by animals. Annu Rev predators/parasitoids in a tropical deciduous forest. In: PRICE PW (ed.) Evolutionary Strategies of Parasitic Insects and Mites. New York: Plenum Press, pp: 154-186
 
-MOMPARLER RL (2005) Epigenetic therapy of cancer with 5-aza-2'-deoxycytidine (decitabine). Semin Oncol 32: 443-451
-        [ Medline ]
+JOHNSON CD (1983) Ecosystematics of Acanthoscelides (Coleóptera: Bruchidae) of Southern México and Central America. Miscell Publ Ecol Soc Am 56: 1-248
 
-NAKATA S, SUGIO K, URAMOTO H, OYAMA T, HANAGIRI T, MORITA M, YASUMOTO K (2006) The methylation status and protein expression of CDH1, p16(INK4A), and fragile histidine triad in nonsmall cell lung carcinoma: epigenetic silencing, clinical features, and prognostic significance. Cancer 106: 2190-2199
-        [ Medline ]
+JOHNSON CD (1990) Systematics of the seed beetle genus Acanthoscelides (Bruchidae) of Northern South America. Trans Am Entomol Soc 116: 297-618
 
-NUOVO GJ, PLAIA TW, BELINSKY SA, BAYLIN SB, HERMAN JG (1999) In situ detection of the hypermethylation-induced inactivation of the p16 gene as an early event in oncogenesis. Proc Nati Acad Sci USA 96: 12754-12759
+KARBAN R, LOWENBERG G (1992) Feeding by seed bugs and weevils enhances germination of wild Gossypium species. Oecologia 92: 196-200
 
-PISANI P, BRAY F, PARKIN DM (2002) Estimates of the world-wide prevalence of cancer for 25 sites in the adult population. Int J Cancer 97: 72-81
-        [ Medline ]
+KASSULKE RC, HARLEY KLS, MAYNARD GV (1990) Host specificity of Acanthoscelides quadridentatus and A. puniceus (Col.: Bruchidae) for biological control of Mimosa pigra (with preliminary data on their biology). Entomophaga 35: 85-96
 
-PULLING LC, DIVINE KK, KLINGE DM, GILLILAND FD, KANG T, SCHWARTZ AG, BOCKLAGE TJ, BELINSKY SA (2003) Promoter hypermethylation of the 06-methylguanine-DNA methyltransferase gene: more common in lung adenocarcinomas from never-smokers than smokers and associated with tumour progression. Cancer Res 63: 4842-4848
-        [ Medline ]
+LORENZI H (2000) Weed Plants of Brazil: Terrestrial, Aquatics, Parasites, and Toxics (in Portuguese). Nova Odessa: Instituto Plantarum, SP
 
-SANCHEZ-CESPEDES M, DECKER PA, DOFFEK KM, ESTELLER M, WESTRA WH, ALAWI EA, HERMAN JG, DEMEURE MJ, SIDRANSKY D, AHRENDT SA (2001) Increased loss of chromosome 9p21 but not p16 inactivation in primary non-small cell lung cancer from smokers. Cancer Res 61: 2092-2096
-        [ Medline ]
+LOUDA SM, POTVIN MA, COLLINGE SK (1990) Predispersal seed predation, postdispersal seed predation and competition in the recruitment of seedlings of a native thistle in sandhills prairie. Am Midi Nat 124: 105-113
 
-SHIELDS PG (2002) Molecular epidemiology of smoking and lung cancer. Oncogene 21: 6870-6876
-        [ Medline ]
+MARCHIORI JNC (1993) Anatomia da madeira e casca do Marica, Mimosa bimucronata (DC.) O. Kuntze. Ci Flor 3: 85-106
 
-SZOT J (2003) Epidemiological analysis of mortality caused by solid tumours in the Metropolitan Region, Chile, 1999. Rev Med Chil 131: 641-9
-        [ Medline ]        [ Lilacs ]
+MARTIN A, GRZESKOWIAK V, PUECH S (1995) Germination variability in three species in disturbed Mediterranean environments. Acta Oecol 16: 479-490
 
-TANAKA R, WANG D, MORISHITA Y, INADOME Y, MINAMI Y, IIJIMA T, FUKAI S, GOYA T, NOGUCHI M (2005) Loss of function of p16 gene and prognosis of pulmonary adenocarcinoma. Cancer 103: 608-615
-        [ Medline ]
+MYSTER RW, PICKETT STA (1993) Effects of litter, distance, density and vegetation patch type on postdispersal tree seed predation in old fields. Oikos 66: 381-388
 
-TOYOOKA S, TSUDA T, GAZDAR AF (2003). The TP53 gene, tobacco exposure, and lung cancer. Hum Mutat 2: 229-239
+NÁPOLES JR (2002) Bruchidae. In: BOUSQUETS JL, MORRONE JJ (eds.) Biodiversity, Taxonomy, and Biogeography of Arthropods from Mexico: A Synthesis. Unan, Vol. III, pp: 513-534
 
-TRAVIS WD, BRAMBILLA E, MULLER-HERMELINK HK AND HARRIS CC (2004) Pathology and Genetics: Tumours of the Lung, Pleura, Thymus and Heart: World Health Organization. Classification of Tumours. Pathology & Genetics. Travis WD, Brambilla E, Muller-Hermelink Hk and Harris Cc (eds). International Agency for Research on Cancer (IARC): Lyon,pp. 9-124
+PICÓ FX, RETANA J (2000) Temporal variation in the female components of reproductive success over the extended flowering season of a Mediterranean perennial herb. Oikos 89: 485-492
 
-WIKENHEISER-BROKAMP KA (2006) Retinoblastoma regulatory pathway in lung cancer. Curr Mol Med 6: 783-793
+REITZ R, KLEIN RM, REIS A (1983) Projeto madeira do Rio Grande do Sul. Sellowia 34/35: 1-525
 
-WISTUBA II, MAO L AND GAZDAR AF (2002) Smoking molecular damage in bronchial epithelium. Oncogene 21: 7298-7306
-        [ Medline ]
+RIBAS LLF, FOSSATI LC, NOGUEIRA AC (1996) Superação de dorméncia de sementes de Mimosa bimucronata (DC.) O. Kuntze (Marica). Rev Brasil Sem 18: 98-101
 
-WISTUBA II (2007) Genetics of preneoplasia: lessons from lung cancer. Curr Mol Med 7: 3-14
+SCHÜTZ W, RAVE G (2003) Variation in seed dormancy of the wetland sedge, Carex elongate, between populations and individuals in two consecutive years. Seed Sci Res 13: 315-322
 
-ZOCHBAUER-MULLER S, FONG KM, VIRMANI AK, GERADTS J, GAZDAR AF, MINNA J (2001) Aberrant promoter methylation of multiple genes in non-small cell lung cancers. Cancer Res 61: 249-255
-        [ Medline ]
+SILVA LA, MAIMONI-RODELLA RCS, ROSSI MN (2007) A preliminary investigation of pre-dispersal seed predation by Acanthoscelides schrankiae Horn (Coleóptera: Bruchidae) in Mimosa bimucronata (DC.) Kuntze trees. Neotrop Entomol 36: 197-202
+
+SILVERTOWN JW (1984) Phenotypic variety in seed germination behavior: the ontogeny and evolution of somatic polymorphism in seeds. Am Nat 124: 1-16
+
+SOUTHGATE BJ (1979) Biology of the Bruchidae. Annu Rev Entomol 24: 449-473
+
+STRAUSS SY, ZANGERL AR (2002) Plant-insect interactions in terrestrial ecosystems. In: HERRERA CM, PELLMYR O (eds.) Plant-Animal Interactions: An Evolutionary Approach. Oxford: Blackwell Publishing, pp: 77-106
+
+TAKAKURA K (2002) The specialist seed predator Bruchidius dorsalis (Coleóptera: Bruchidae) plays a crucial role in the seed germination of its host plant, Gleditsia japónica (Leguminosae). Funct Ecol 16: 252-257
+
+THOMPSON PA (1975) Characterization of the germination responses of Suene dioica (L.) Clariv. populations from Europe. Ann Bot 39: 1-19
+
+VENABLE DL (1985) The evolutionary ecology of seed heteromorphism. Am Nat 126: 577-595
+
+WESTOBY M (1981) How diversified seed germination behavior is selected. Am Nat 118: 882-885
+
+WILSON CG, FLANAGAN GJ (1991) Establishment of Acanthoscelides quadridentatus (Schaeffer) and A. puniceus Johnson (Coleóptera: Bruchidae) on Mimosa pigra in Northern Australia. J Aust Entomol Soc 30: 279-280
+
+ZAR JH (1999) Biostatistical Analysis. Upper Saddle River, NJ: Prentice Hall.
