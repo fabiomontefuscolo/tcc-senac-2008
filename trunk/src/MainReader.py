@@ -10,115 +10,6 @@ from ArticleReader import ArticleReader
 from CompareModule import ArticleScielo
 
 
-def compare_all(article_qty):
-    print "##Comparacao entre todos os descritores obtidos pelo programa com os descritores definidos previamente por uma pessoa ##"
-    precisao = 0.0
-    cobertura = 0.0
-    total =0.0
-    for i in range(1,article_qty):
-        print "Leitura do artigo ",i
-        scielo.extrair_conteudo(r'../in/Artigo'+str(i)+'.txt')
-        ar.set_conteudo(scielo.artigo)
-        ar.prepar_conteudo()
-        ar.compare(mh.desc_dic,mh.sino_dic,3)
-        print "Descritores Pre-definidos: ",scielo.descritores_definidos
-        print "Descritores Obtidos: ", ar.descritores
-        precisao += scielo.precisao(ar.descritores)
-        print "Precisao do artigo: ", scielo.precisao(ar.descritores)
-        cobertura += scielo.cobertura(ar.descritores)
-        print "Cobertura do artigo: ", scielo.cobertura(ar.descritores)
-        total=i
-        print ""
-        #raw_input()
-    
-    print "\nPrecisao geral do programa para",total,"documentos:",precisao/total
-    print "\nCobertura geral do programa para",total,"documentos:",cobertura/total
-    
-def compare_filterA(article_qty,filter_cut):
-    print "##Comparacao entre descritores obtidos pelo programa após um corte, com os descritores definidos previamente por uma pessoa ##"
-    precisao = 0.0
-    cobertura = 0.0
-    total =0.0
-    for i in range(1,article_qty):
-        print "Leitura do artigo ",i
-        scielo.extrair_conteudo(r'../in/Artigo'+str(i)+'.txt')
-        ar.set_conteudo(scielo.artigo)
-        ar.prepar_conteudo()
-        ar.compare(mh.desc_dic,mh.sino_dic,3)
-        ar.filter_desc()
-        print "Descritores Pre-definidos: ",scielo.descritores_definidos
-        print "Descritores Obtidos após o filtro: ", ar.descritores
-        precisao += scielo.precisao(ar.descritores)
-        print "Precisao do artigo: ", scielo.precisao(ar.descritores)
-        cobertura += scielo.cobertura(ar.descritores)
-        print "Cobertura do artigo: ", scielo.cobertura(ar.descritores)
-        total=i
-        print ""
-        #raw_input()
-    
-    print "\nPrecisao geral do programa para",total,"documentos:",precisao/total
-    print "\nCobertura geral do programa para",total,"documentos:",cobertura/total
-    
-
-def compare_filterA_filterD(article_qty,filter_cut):
-    print "##Comparacao entre descritores obtidos pelo programa após um corte, com os descritores definidos previamente que realmente estão no texto ##"
-    precisao = 0.0
-    cobertura = 0.0
-    total =0.0
-    for i in range(1,article_qty):
-        print "Leitura do artigo ",i
-        scielo.extrair_conteudo(r'../in/Artigo'+str(i)+'.txt')
-        ar.set_conteudo(scielo.artigo)
-        ar.prepar_conteudo()
-        ar.compare(mh.desc_dic,mh.sino_dic,3)
-        ar.filter_desc()
-        print "Descritores Pre-definidos: ",scielo.descritores_definidos
-        print "Descritores Obtidos: ", ar.descritores
-        scielo.descritores_existentes(scielo.artigo,mh.sino_dic)
-        print "Descritores Pre-definidos existentes no texto: ", scielo.desc_existentes
-        print len(scielo.desc_existentes) , " de " , len(scielo.descritores_definidos)
-        precisao += scielo.precisao(ar.descritores)
-        print "Precisao do artigo: ", scielo.precisao(ar.descritores)
-        cobertura += scielo.cobertura(ar.descritores)
-        print "Cobertura do artigo: ", scielo.cobertura(ar.descritores)
-        total=i
-        print ""
-        #raw_input()
-    
-    print "\nPrecisao geral do programa para",total,"documentos:",precisao/total
-    print "\nCobertura geral do programa para",total,"documentos:",cobertura/total
-    
-def compare_filterA_filterD_tree(article_qty):
-    print "##Comparacao entre descritores obtidos pelo programa após um corte e analisando a arvore do Mesh com os descritores definidos previamente que realmente estão no texto ##"
-    precisao = 0.0
-    cobertura = 0.0
-    total =0.0
-    for i in range(1,article_qty+1):
-        print "Leitura do artigo ",i
-        scielo.extrair_conteudo(r'../in/Artigo'+str(i)+'.txt')
-        ar.set_conteudo(scielo.artigo)
-        ar.prepar_conteudo()
-        ar.compare(mh.desc_dic,mh.sino_dic,3)
-        ar.filter_desc()
-        ar.navigate_tree(mh.tree,mh.desc_dic)
-        print "Descritores Pre-definidos: ",scielo.descritores_definidos
-        print "Descritores Obtidos: ", ar.descritores
-        scielo.descritores_existentes(scielo.artigo,mh.sino_dic)
-        print "Descritores Pre-definidos existentes no texto: ", scielo.desc_existentes
-        print len(scielo.desc_existentes) , " de " , len(scielo.descritores_definidos)
-        precisao += scielo.precisao(ar.descritores)
-        print "Precisao do artigo: ", scielo.precisao(ar.descritores)
-        cobertura += scielo.cobertura(ar.descritores)
-        print "Cobertura do artigo: ", scielo.cobertura(ar.descritores)
-        total=i
-        print ""
-        #raw_input()
-    
-    print "\nPrecisao geral do programa para",total,"documentos:",precisao/total
-    print "\nCobertura geral do programa para",total,"documentos:",cobertura/total
-    
-
-###
 def compare(article_qty,janela,tipos):
     #print "##Comparacao entre descritores obtidos pelo programa após um corte e analisando a arvore do Mesh com os descritores definidos previamente que realmente estão no texto ##"
     precisao = 0.0
@@ -142,12 +33,17 @@ def compare(article_qty,janela,tipos):
             scielo.descritores_existentes(scielo.artigo,mh.sino_dic,janela)
             print "Descritores Pre-definidos existentes no texto: ", scielo.desc_existentes
             print len(scielo.desc_existentes) , "encontrados de " , len(scielo.descritores_definidos), "pre-definidos"
+            precisao += scielo.precisao(ar.descritores,"E")
+            print "Precisao do artigo: ", scielo.precisao(ar.descritores,"E")
+            cobertura += scielo.cobertura(ar.descritores,"E")
+            print "Cobertura do artigo: ", scielo.cobertura(ar.descritores,"E")
+            
         else:
             print "Descritores Pre-definidos no texto: ", scielo.descritores_definidos 
-        precisao += scielo.precisao(ar.descritores)
-        print "Precisao do artigo: ", scielo.precisao(ar.descritores)
-        cobertura += scielo.cobertura(ar.descritores)
-        print "Cobertura do artigo: ", scielo.cobertura(ar.descritores)
+            precisao += scielo.precisao(ar.descritores, "D")
+            print "Precisao do artigo: ", scielo.precisao(ar.descritores,"D")
+            cobertura += scielo.cobertura(ar.descritores,"D")
+            print "Cobertura do artigo: ", scielo.cobertura(ar.descritores,"D")
         total=i
         print ""
         #raw_input()
@@ -230,13 +126,14 @@ ar.set_word_filter(wf)
 scielo = ArticleScielo()
 
 tipos_filtros = ["S" , "S" , "S"]
-#print "Escolha os tipos de funcionalidades a serem utilizadas na comparacao (S/N)" 
-#tipos_filtros[0] = raw_input("Filtar os descritores obtidos com um corte minimo de aparicoes? :")
-#tipos_filtros[1] = raw_input("Efetuar a busca de descritores pais, navegando na arvore do Mesh? :")
-#tipos_filtros[2] = raw_input("Comparar somente com os descritores que realmente estao no artigo? :")
-n_artigos = 3
+print "Escolha os tipos de funcionalidades a serem utilizadas na comparacao (S/N)" 
+tipos_filtros[0] = raw_input("Filtar os descritores obtidos com um corte minimo de aparicoes? :")
+tipos_filtros[1] = raw_input("Efetuar a busca de descritores pais, navegando na arvore do Mesh? :")
+tipos_filtros[2] = raw_input("Comparar somente com os descritores que realmente estao no artigo? :")
+n_artigos = 1
 janela = 3
-
+compare(n_artigos, janela, tipos_filtros)
+"""
 print "Sem nenhum tratamento"
 tipos_filtros = ["N" , "N" , "N"]
 compare(n_artigos, janela, tipos_filtros)
@@ -252,7 +149,7 @@ compare(n_artigos, janela, tipos_filtros)
 print "Removendo descritores pre-definos nao encontrados no artigo"
 tipos_filtros = ["S" , "S" , "S"]
 compare(n_artigos, janela, tipos_filtros)
-
+"""
 #mh.serialize(mh.desc_dic, open(r'../mesh/desc_dic','w'))
 #mh.serialize(mh.sino_dic, open(r'../mesh/sino_dic','w'))
 
