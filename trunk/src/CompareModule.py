@@ -66,13 +66,18 @@ class ArticleScielo():
             #self.descritores_definidos = descritores_definidos
  
  
-    def precisao(self,dic):
+    def precisao(self,dic,type):
+        if type == "D":
+            descritores = self.descritores_definidos
+        elif type == "E":
+            descritores = self.desc_existentes
+            
         self.count = -1
         if (self.count == -1):
             self.count = 0
             for desc in dic.iterkeys():
             #print desc
-                if self.descritores_definidos.__contains__(desc):
+                if descritores.__contains__(desc):
                     self.count = self.count + 1
         
         if(dic.__len__() == 0):
@@ -80,18 +85,23 @@ class ArticleScielo():
         else:
             return (self.count)*1.0/(dic.__len__())*1.0    
  
-    def cobertura(self,dic):
+    def cobertura(self,dic,type):
+        if type == "D":
+            descritores = self.descritores_definidos
+        elif type == "E":
+            descritores = self.desc_existentes
+            
         if self.count == -1:
             self.count = 0
             for desc in dic.iterkeys():
             #print desc
-                if self.descritores_definidos.__contains__(desc):
+                if descritores.__contains__(desc):
                     self.count = self.count + 1    
         
         if(dic.__len__() == 0):
             return 0.0
         else:
-            return (self.count)*1.0/(self.descritores_definidos.__len__())*1.0
+            return (self.count)*1.0/(descritores.__len__())*1.0
         #print count , " corretos de " , dic.__len__(), " encontrados"
         #print count , " corretos encontrados de " , self.descritores_definidos.__len__() , " definidos previamente"
         #print "Precisao = " , (count)*1.0/(dic.__len__())*1.0 , "%"
