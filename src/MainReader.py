@@ -80,7 +80,7 @@ mh.set_word_filter(wf)
 
 # Faz o Parser usar o MeshHandler
 parser.setContentHandler(mh)
-"""
+
 if(raw_input("Digite 'P' para realizar o parser do XML do MESH ou Digite 'S' para carregar os objetos serializados\n") == "P"):
     # Arquivo XML
     parser.parse(r'../mesh/desc2008.xml')
@@ -93,11 +93,11 @@ else:
     mh.restore(open(r'../mesh/desc_dic'),"DESC")
     mh.restore(open(r'../mesh/sino_dic'),"SINO")
     mh.restore(open(r'../mesh/tree'), "TREE")
-"""
+
 #Carregar Dicionarios serializados
-mh.restore(open(r'../mesh/desc_dic'),"DESC")
-mh.restore(open(r'../mesh/sino_dic'),"SINO")
-mh.restore(open(r'../mesh/tree'), "TREE")
+#mh.restore(open(r'../mesh/desc_dic'),"DESC")
+#mh.restore(open(r'../mesh/sino_dic'),"SINO")
+#mh.restore(open(r'../mesh/tree'), "TREE")
 
 #print mh.desc_dic
 

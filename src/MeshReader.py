@@ -24,6 +24,7 @@ class MeshHandler(ContentHandler):
         self.sinonimo = ""
         self.preferido = ""
         self.ConceptPreferredTermYN = ''
+        self.PreferredConceptYN = ''
         self.tree = {}
 
     def set_output(self, fp):
@@ -57,6 +58,8 @@ class MeshHandler(ContentHandler):
         elif name == 'Term': # Verificar se o atributo termprefered ￩ N, se sim, self.ConceptPreferredTermYN = 'N'
             self.ConceptPreferredTermYN = attrs.getValue("ConceptPreferredTermYN")
             pass
+        elif name == 'Concept':
+            self.PreferredConceptYN = attrs.getValue("PreferredConceptYN")
         elif name == 'ConceptList':
             pass
         elif name == 'ConceptName':
@@ -89,22 +92,28 @@ class MeshHandler(ContentHandler):
             pass
             
         elif name == 'Term':
-            if self.data != "" and self.ConceptPreferredTermYN == 'N':
-                word = ''
-                output = ''
-                for c in (self.data + ' '):
-                    if c.isalpha():
-                        word += c.lower()
-                    elif c.isalnum():
-                        word += c
-                    else:
-                        if word:# and not self.filter.is_stopword(word):
-                            output += self.stemmer.stem(word, 0, len(word)-1 )
-                            output += ' '
-                        word = ''
-                self.sino_dic[output.strip()] = self.descritor
-                #raw_input(self.data + "=" + output.strip() + ": " + self.descritor)
+            if(self.ConceptPreferredTermYN == 'N' or self.PreferredConceptYN == 'N'):
+                if self.data != "" :
+                    word = ''
+                    output = ''
+                    for c in (self.data + ' '):
+                        if c.isalpha():
+                            word += c.lower()
+                        elif c.isalnum():
+                            word += c
+                        else:
+                            if word:# and not self.filter.is_stopword(word):
+                                output += self.stemmer.stem(word, 0, len(word)-1 )
+                                output += ' '
+                            word = ''
+                    self.sino_dic[output.strip()] = self.descritor
+                    #raw_input(self.data + "=" + output.strip() + ": " + self.descritor)
+            #else:
+                #print self.PreferredConceptYN , self.ConceptPreferredTermYN
             self.ConceptPreferredTermYN = ''
+        elif name == 'Concept':
+            self.PreferredConceptYN = ''
+        
         elif name == 'DescriptorRecord':
             #self.file.write("\n")
             pass
