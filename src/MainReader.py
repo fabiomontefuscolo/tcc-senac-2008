@@ -130,7 +130,7 @@ print "Escolha os tipos de funcionalidades a serem utilizadas na comparacao (S/N
 tipos_filtros[0] = raw_input("Filtar os descritores obtidos com um corte minimo de aparicoes? :")
 tipos_filtros[1] = raw_input("Efetuar a busca de descritores pais, navegando na arvore do Mesh? :")
 tipos_filtros[2] = raw_input("Comparar somente com os descritores que realmente estao no artigo? :")
-n_artigos = 1
+n_artigos = 20
 janela = 3
 compare(n_artigos, janela, tipos_filtros)
 """
