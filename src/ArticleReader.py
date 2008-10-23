@@ -15,6 +15,7 @@ class ArticleReader():
         self.arquivo = NullFile()
         self.stemmer = NullStemmer()
         self.filter = NullWordFilter()
+        self.useBigrama = "N"
     def set_conteudo(self,string):
         self.conteudo = string
     def set_desc(self,desc):
@@ -54,6 +55,7 @@ class ArticleReader():
                     break
                 word += self.conteudo[i+j]
                 #print word
+                
                 if listaDesc.has_key(word):
                     if(self.descritores.__contains__(listaDesc[word])):
                         self.descritores[listaDesc[word]] += 1
@@ -67,10 +69,31 @@ class ArticleReader():
                         self.descritores[listaDesc[listaSin[word]]] = 1
                 
                 word += " "
-                
-        #print self.descritores           
+            #print "##Bigramas"
+            if(self.useBigrama == "S"):
+                self.bigrama(listaDesc, listaSin, janela, word, i)
+            #print "##"
+            #raw_input()
+        print self.descritores           
     
-   
+    def bigrama(self,listaDesc,listaSin,janela,palavra,i):
+        if(i > 0 and len(palavra) > 2):
+            palavras = palavra.split()
+            for l in range(1,len(palavras)):
+                bigrama = self.conteudo[i-1] + " " + palavras[l]
+                if listaDesc.has_key(bigrama):
+                    if(self.descritores.__contains__(listaDesc[bigrama])):
+                        self.descritores[listaDesc[bigrama]] += 1
+                    else:
+                        self.descritores[listaDesc[bigrama]] = 1
+                        
+                if listaSin.has_key(bigrama):
+                    if(self.descritores.__contains__(listaDesc[listaSin[bigrama]])):
+                        self.descritores[listaDesc[listaSin[bigrama]]] += 1
+                    else:
+                        self.descritores[listaDesc[listaSin[bigrama]]] = 1
+                #print bigrama
+            
 
  
     def filter_desc(self):
@@ -142,7 +165,7 @@ class ArticleReader():
         #print descritores_sugeridos
 
            
-"""
+
 descritores = {'HIV': 'HIV Full String' ,
                'nitric' : 'Nitric full',
                'nitric oxid' : 'Nitric oxide full',
@@ -172,14 +195,14 @@ ar.set_word_filter(wf)
 # Arquivo de Entrada
 ar.set_file(r'..\in\Entrada.txt')
 ar.open_file()
-
+ar.useBigrama = "S"
 ar.prepar_conteudo()
-#ar.compare2(descritores,sinonimos,4)
+ar.compare(descritores,sinonimos,3)
 
 #print descritores
 #print ar.descritores
 
-"""
+
 
 
 
