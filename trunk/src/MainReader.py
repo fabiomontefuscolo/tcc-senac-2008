@@ -15,38 +15,46 @@ def compare(article_qty,janela,tipos):
     precisao = 0.0
     cobertura = 0.0
     total =0.0
-    for i in range(1,article_qty+1):
+    artigos_scielo = open(r"../scielo/artigos_para_leitura.txt",'r')
+    
+    for i in artigos_scielo:
+    #for i in range(1,article_qty+1):
         print "Leitura do artigo ",i
-        scielo.extrair_conteudo(r'../in/Artigo'+str(i)+'.txt')
-        ar.set_conteudo(scielo.artigo)
-        ar.prepar_conteudo()
-        ar.compare(mh.desc_dic,mh.sino_dic,janela)
-        texto = "Descritores Obtidos"
-        if (tipos[0] == "S"):
-            ar.filter_desc()
-            texto += " com o corte"
-        if (tipos[1] == "S"):
-            ar.navigate_tree(mh.tree,mh.desc_dic)
-            texto += " com a navegacao na arvore"     
-        print texto,":", ar.descritores
-        if (tipos[2] == "S"):            
-            scielo.descritores_existentes(scielo.artigo,mh.sino_dic,janela)
-            print "Descritores Pre-definidos existentes no texto: ", scielo.desc_existentes
-            print len(scielo.desc_existentes) , "encontrados de " , len(scielo.descritores_definidos), "pre-definidos"
-            precisao += scielo.precisao(ar.descritores,"E")
-            print "Precisao do artigo: ", scielo.precisao(ar.descritores,"E")
-            cobertura += scielo.cobertura(ar.descritores,"E")
-            print "Cobertura do artigo: ", scielo.cobertura(ar.descritores,"E")
-            
-        else:
-            print "Descritores Pre-definidos no texto: ", scielo.descritores_definidos 
-            precisao += scielo.precisao(ar.descritores, "D")
-            print "Precisao do artigo: ", scielo.precisao(ar.descritores,"D")
-            cobertura += scielo.cobertura(ar.descritores,"D")
-            print "Cobertura do artigo: ", scielo.cobertura(ar.descritores,"D")
-        total=i
-        print ""
-        #raw_input()
+        #scielo.extrair_conteudo(r'../in/Artigo'+str(i)+'.txt')
+        scielo.extrair_conteudo2(r'../scielo/articles_clean/'+i[0:len(i)-1]+'.txt')
+        try:
+            ar.set_conteudo(scielo.artigo)
+            ar.prepar_conteudo()
+            ar.compare(mh.desc_dic,mh.sino_dic,janela)
+            texto = "Descritores Obtidos"
+            if (tipos[0] == "S"):
+                ar.filter_desc()
+                texto += " com o corte"
+            if (tipos[1] == "S"):
+                ar.navigate_tree(mh.tree,mh.desc_dic)
+                texto += " com a navegacao na arvore"     
+            print texto,":", ar.descritores
+            if (tipos[2] == "S"):            
+                scielo.descritores_existentes(scielo.artigo,mh.sino_dic,janela)
+                print "Descritores Pre-definidos existentes no texto: ", scielo.desc_existentes
+                print len(scielo.desc_existentes) , "encontrados de " , len(scielo.descritores_definidos), "pre-definidos"
+                precisao += scielo.precisao(ar.descritores,"E")
+                print "Precisao do artigo: ", scielo.precisao(ar.descritores,"E")
+                cobertura += scielo.cobertura(ar.descritores,"E")
+                print "Cobertura do artigo: ", scielo.cobertura(ar.descritores,"E")
+                
+            else:
+                print "Descritores Pre-definidos no texto: ", scielo.descritores_definidos 
+                precisao += scielo.precisao(ar.descritores, "D")
+                print "Precisao do artigo: ", scielo.precisao(ar.descritores,"D")
+                cobertura += scielo.cobertura(ar.descritores,"D")
+                print "Cobertura do artigo: ", scielo.cobertura(ar.descritores,"D")
+            total += 1.0
+            print ""
+            #raw_input()
+        except:
+             pass
+             #print "Arquivo vazio"
     
     print "\nPrecisao geral do programa para",total,"documentos:",precisao/total
     print "\nCobertura geral do programa para",total,"documentos:",cobertura/total

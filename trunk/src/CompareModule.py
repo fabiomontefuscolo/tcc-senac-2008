@@ -65,6 +65,35 @@ class ArticleScielo():
         #self.descritores_definidos._   
             #self.descritores_definidos = descritores_definidos
  
+    def extrair_conteudo2(self,nomeArquivo):
+        self.nomeArquivoTxt = nomeArquivo
+        self.arquivo = open(self.nomeArquivoTxt,'r')
+        desc = []
+        artigo = ""
+        #Ler conteudo
+        for linha in self.arquivo:
+            artigo =(artigo+" "+linha.strip())
+
+        lista_descritores = open(r"../scielo/500_easy.txt",'r')
+        #Ler Descritores
+        leitura = "N" 
+        for linha in lista_descritores:
+            if(linha.__contains__("pid=")):
+                if (nomeArquivo.__contains__(linha[0:len(linha)-1])):
+                    leitura = "Y"
+                else:
+                    leitura = "N"
+            if(leitura == "Y" and not linha.__contains__("pid=")):
+                desc.append(linha.strip())
+        
+        lista_descritores.close()
+        self.arquivo.close()
+                 
+        self.descritores_definidos = desc 
+        self.artigo = artigo
+        #self.descritores_definidos._   
+      
+ 
  
     def precisao(self,dic,type):
         if type == "D":
