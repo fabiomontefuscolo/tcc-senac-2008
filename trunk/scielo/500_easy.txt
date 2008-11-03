@@ -1,0 +1,6102 @@
+pid=S1020-49892008000600013&
+Animal Diseases
+Animals
+Humans
+Infection
+Plant Diseases
+Terminology as Topic
+pid=S1020-49892008000600007&
+Adolescent
+Adult
+Aged
+Asthma
+Autopsy
+Brazil
+Child
+Child, Preschool
+Female
+Humans
+Infant
+Male
+Middle Aged
+pid=S1020-49892008000600006&
+Adolescent
+Adult
+Contraception
+Female
+Guatemala
+Humans
+Pregnancy
+Pregnancy, Unwanted
+pid=S1020-49892008000600003&
+Adolescent
+Adult
+Brazil
+Female
+Humans
+Male
+Marijuana Abuse
+Middle Aged
+Randomized Controlled Trials as Topic
+Urban Population
+pid=S1020-49892008000600001&
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Costa Rica
+Health Knowledge, Attitudes, Practice
+Humans
+Middle Aged
+Panama
+Prenatal Care
+Questionnaires
+pid=S1519-566X2006000300021&
+Animals
+Bees
+Brazil
+Demography
+pid=S1519-566X2006000300014&
+Animals
+Ceratitis capitata
+Larva
+Metarhizium
+Pesticides
+Pupa
+Soil
+pid=S1519-566X2006000300012&
+Animals
+Crotalaria
+Food Preferences
+Insects
+Peas
+Pollen
+pid=S1519-566X2006000300008&
+Animals
+Hemiptera
+Male
+pid=S1519-566X2006000300004&
+Animals
+Bees
+Brazil
+Male
+Population Dynamics
+Trees
+pid=S1519-566X2006000300003&
+Animals
+Arecaceae
+Arthropods
+Brazil
+Demography
+Environment
+pid=S1519-566X2006000300002&
+Animals
+Bees
+Mites
+Nesting Behavior
+pid=S1519-566X2006000300001&
+Animals
+Bees
+Nesting Behavior
+Wasps
+Wood
+pid=S0124-00642008000100008&
+Abnormalities, Drug-Induced
+Cross-Sectional Studies
+Female
+Humans
+Infant, Newborn
+Male
+Pesticides
+Rural Health
+Venezuela
+pid=S0042-96862007001100013&
+Case-Control Studies
+Cohort Studies
+Cross-Sectional Studies
+pidemiologic Research Design
+pidemiologic Studies
+Guidelines as Topic
+Humans
+Observation
+pid=S0074-02762008000200017&
+Animals
+Brazil
+Copulation
+Female
+Male
+Pheromones
+Psychodidae
+Reproduction
+Vocalization, Animal
+pid=S0074-02762008000200016&
+Aedes
+Animals
+Humidity
+Hypocreales
+Insect Vectors
+Larva
+Ovum
+Pest Control, Biological
+Time Factors
+pid=S0074-02762008000200015&
+Adult
+Animals
+Esophagus
+Female
+History, 19th Century
+Humans
+Male
+Mummies
+Muscidae
+Portugal
+Pupa
+pid=S0074-02762008000200014&
+Animals
+Atlantic Ocean
+Brazil
+Fish Diseases
+Prevalence
+Trematoda
+Trematode Infections
+Tuna
+pid=S0074-02762008000200013&
+Brazil
+Caliciviridae Infections
+Child
+Child, Preschool
+DNA, Complementary
+Electrophoresis, Polyacrylamide Gel
+Feces
+Gastroenteritis
+Genotype
+Hospitalization
+Humans
+Norovirus
+Prevalence
+Reverse Transcriptase Polymerase Chain Reaction
+Rotavirus
+Rotavirus Infections
+pid=S0074-02762008000200012&
+Acute Disease
+Adenovirus Infections, Human
+Adenoviruses, Human
+Bacterial Typing Techniques
+Child
+DNA Restriction Enzymes
+Female
+Genetic Markers
+Genome, Viral
+Humans
+Male
+Mexico
+Nasopharynx
+Polymerase Chain Reaction
+Polymorphism, Restriction Fragment Length
+Respiratory Tract Infections
+Seasons
+pid=S0074-02762008000200011&
+Animals
+Animals, Domestic
+Brazil
+DNA, Bacterial
+Dogs
+Endemic Diseases
+Environment
+Fleas
+Horses
+Humans
+Insect Vectors
+Polymerase Chain Reaction
+Rickettsia Infections
+Rickettsia felis
+Ticks
+pid=S0074-02762008000200010&
+Anaplasma marginale
+Anaplasmosis
+Animals
+Antigens, Bacterial
+Bacterial Vaccines
+CD4-Positive T-Lymphocytes
+Cattle
+Cattle Diseases
+Enzyme-Linked Immunosorbent Assay
+Immunoglobulin G
+Peptide Elongation Factor Tu
+Vaccines, Synthetic
+pid=S0074-02762008000200009&
+Antigens, Viral
+Brazil
+Bronchoalveolar Lavage Fluid
+Cell Culture Techniques
+Female
+Fluorescent Antibody Technique, Indirect
+Humans
+Incidence
+Influenza, Human
+Influenzavirus A
+Influenzavirus B
+Male
+Nasal Lavage Fluid
+Population Surveillance
+Reverse Transcriptase Polymerase Chain Reaction
+Seasons
+pid=S0074-02762008000200008&
+Animals
+Chromatography, Gel
+Chromatography, Ion Exchange
+Electrophoresis, Polyacrylamide Gel
+Hemolymph
+Insect Vectors
+Protozoan Proteins
+Rhodnius
+Time Factors
+Trypanosoma
+pid=S0074-02762008000200006&
+Animals
+Chagas Disease
+Chromosomes
+Colombia
+Cytochromes b
+Geography
+Insect Vectors
+Karyotyping
+Male
+Panama
+Rhodnius
+Variation (Genetics
+pid=S0074-02762008000200005&
+Animals
+Brazil
+DNA, Helminth
+Male
+Polymerase Chain Reaction
+Polymorphism, Restriction Fragment Length
+Rhabditida
+Soil
+Trees
+Tropical Climate
+pid=S0074-02762008000200004&
+Adult
+Anti-HIV Agents
+Brazil
+Child
+Cross-Sectional Studies
+Drug Resistance, Viral
+Female
+Genotype
+HIV Infections
+HIV-1
+Health Surveys
+Humans
+Male
+Middle Aged
+Mutation
+Phylogeny
+Prevalence
+pid=S0074-02762008000200003&
+Adolescent
+Adult
+Aged
+Child
+Child, Preschool
+DNA, Bacterial
+Female
+Haemophilus influenzae
+Humans
+Infant
+Infant, Newborn
+Male
+Meningitis, Bacterial
+Meningitis, Haemophilus
+Meningitis, Meningococcal
+Meningitis, Pneumococcal
+Middle Aged
+Neisseria meningitidis
+Polymerase Chain Reaction
+Reproducibility of Results
+Retrospective Studies
+Streptococcus pneumoniae
+pid=S0074-02762008000200002&
+Antimony
+Antiprotozoal Agents
+Chemistry, Pharmaceutical
+Flow Injection Analysis
+Meglumine
+Organometallic Compounds
+Quality Control
+Spectrophotometry, Atomic
+pid=S0074-02762008000200001&
+AIDS Vaccines
+Animals
+CD8-Positive T-Lymphocytes
+DNA, Viral
+Drug Design
+Epitopes, T-Lymphocyte
+HIV Infections
+Humans
+Immune Tolerance
+Macaca mulatta
+Simian immunodeficiency virus
+Time Factors
+Viral Load
+Virus Replication
+pid=S0074-02762008000200007&
+Animals
+Anopheles
+Attitude
+Awareness
+Feasibility Studies
+Female
+Humans
+India
+Insecticides
+Interviews as Topic
+Malaria, Falciparum
+Male
+Mosquito Control
+Rural Population
+Seasons
+pid=S0074-02762008000100018&
+Animals
+Argentina
+Child
+Dog Diseases
+Dogs
+Humans
+Insect Vectors
+Leishmaniasis, Visceral
+Male
+Psychodidae
+pid=S0074-02762008000100016&
+Animals
+Argentina
+Canidae
+Capillaria
+Feces
+History, Ancient
+Ovum
+Paleopathology
+pid=S0074-02762008000100015&
+Adolescent
+Adult
+Animals
+Argentina
+Cattle
+Child
+Child, Preschool
+DNA, Protozoan
+Dogs
+Feces
+Female
+Genotype
+Giardia lamblia
+Giardiasis
+Humans
+Infant
+Male
+Polymerase Chain Reaction
+Polymorphism, Restriction Fragment Length
+Risk Factors
+Triose-Phosphate Isomerase
+pid=S0074-02762008000100013&
+Animals
+Anopheles
+Colombia
+Female
+Insect Vectors
+Male
+Species Specificity
+Wing
+pid=S0074-02762008000100012&
+Amodiaquine
+Animals
+Antimalarials
+Child
+Child, Preschool
+Chloroquine
+Chlorpheniramine
+Clinical Protocols
+Drug Combinations
+Drug Resistance
+Drug Therapy, Combination
+Female
+Histamine H1 Antagonists
+Humans
+Infant
+Malaria, Falciparum
+Male
+Nigeria
+Plasmodium falciparum
+Pyrimethamine
+Sulfadoxine
+Treatment Outcome
+pid=S0074-02762008000100009&
+Animals
+Biological Assay
+Chlorophenols
+Courtship
+Dose-Response Relationship, Drug
+Female
+Ixodidae
+Male
+Rhipicephalus sanguineus
+Sex Attractants
+Sexual Behavior, Animal
+pid=S0074-02762008000100008&
+Aedes
+Animals
+Dengue
+Insect Vectors
+Mosquito Control
+Ovum
+Population Density
+Population Surveillance
+Seasons
+pid=S0074-02762008000100006&
+Adolescent
+Adult
+Animals
+C-Reactive Protein
+Case-Control Studies
+DNA, Protozoan
+Female
+Humans
+Iran
+Latex Fixation Tests
+Malaria, Falciparum
+Malaria, Vivax
+Male
+Middle Aged
+Nitric Oxide
+Plasmodium falciparum
+Plasmodium vivax
+pid=S0074-02762008000100005&
+Anti-Bacterial Agents
+Brazil
+Candida albicans
+Conservation of Natural Resources
+Escherichia coli
+Gram-Negative Bacteria
+Gram-Positive Bacteria
+Humans
+Immunodiffusion
+Microbial Sensitivity Tests
+Mycobacterium smegmatis
+Plant Extracts
+Plants, Medicinal
+Staphylococcus aureus
+Streptococcus
+Trees
+pid=S0074-02762008000100004&
+Adult
+Chagas Cardiomyopathy
+Female
+Gene Frequency
+Genetic Predisposition to Disease
+Genotype
+Humans
+Male
+Middle Aged
+Polymorphism, Restriction Fragment Length
+Toll-Like Receptor 2
+Toll-Like Receptor 4
+pid=S0074-02762008000100002&
+Animals
+Brazil
+Chagas Disease
+Female
+Genetics, Population
+Head
+Insect Vectors
+Isoenzymes
+Male
+Population Dynamics
+Random Amplified Polymorphic DNA Technique
+Sex Characteristics
+Triatoma
+pid=S0074-02762008000100001&
+Africa
+Animals
+Brazil
+Cattle
+Trypanosoma vivax
+Trypanosomiasis, Bovine
+Variation (Genetics
+pid=S0074-02762008000100019&
+Animals
+Cricetinae
+Feces
+Parasite Egg Count
+Schistosoma mansoni
+Schistosomiasis mansoni
+Sensitivity and Specificity
+pid=S0074-02762008000100003&
+Acute Disease
+Animals
+Chagas Disease
+Immunohistochemistry
+Mice
+Mice, Inbred C3H
+Necrosis
+Parasitemia
+Pentoxifylline
+Spleen
+Splenic Diseases
+Time Factors
+Tumor Necrosis Factor-alpha
+pid=S0074-02762008000100007&
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Animals
+Child
+Child, Preschool
+Cross-Sectional Studies
+Cryptosporidiosis
+Cryptosporidium
+Diarrhea
+Feces
+Female
+Humans
+Infant
+Infant, Newborn
+Male
+Middle Aged
+Poverty
+Prevalence
+Risk Factors
+Sanitation
+Venezuela
+pid=S0074-02762008000100011&
+Animals
+Antibodies, Protozoan
+Blood Donors
+Case-Control Studies
+Enzyme-Linked Immunosorbent Assay
+Humans
+Korea
+Malaria, Vivax
+Mass Screening
+Plasmodium vivax
+Polymerase Chain Reaction
+Sensitivity and Specificity
+pid=S0074-02762008000100020&
+Animals
+Female
+Ochlerotatus
+Ovum
+Preservation, Biological
+Temperature
+Time Factors
+Tissue Survival
+pid=S0074-02762008000100014&
+Adolescent
+Adult
+Aged
+Angiostrongylus cantonensis
+Animals
+Antibodies, Helminth
+Enzyme-Linked Immunosorbent Assay
+Female
+Follow-Up Studies
+Gastrointestinal Diseases
+Humans
+Immunoglobulin G
+Male
+Middle Aged
+Strongylida Infections
+Time Factors
+pid=S0074-02762008000100017&
+Animals
+Ascariasis
+Ascaris
+Cytochromes b
+DNA, Helminth
+Feces
+History, Ancient
+Humans
+Paleopathology
+Polymerase Chain Reaction
+Sensitivity and Specificity
+Sequence Analysis, DNA
+South America
+pid=S0074-02762008000100010&
+Aedes
+Animals
+Argentina
+Dengue
+Dengue Hemorrhagic Fever
+Geography
+Insect Vectors
+Population Density
+Population Dynamics
+Seasons
+pid=S1807-59322007000500025&
+Humans
+Male
+Middle Aged
+Neuroacanthocytosis
+Siblings
+pid=S1807-59322007000500024&
+Aged
+Breast Diseases
+Debridement
+Female
+Humans
+Myocardial Revascularization
+Necrosis
+Surgical Wound Dehiscence
+pid=S1807-59322007000500023&
+Adult
+Aneurysm, False
+Aorta, Abdominal
+Aortic Diseases
+Humans
+Magnetic Resonance Angiography
+Male
+Neoplasms, Germ Cell and Embryonal
+Retroperitoneal Neoplasms
+Testicular Neoplasms
+pid=S1807-59322007000500022&
+AIDS-Associated Nephropathy
+Acute Disease
+Adult
+Glomerulonephritis
+Humans
+Male
+pid=S1807-59322007000500021&
+Female
+Femoral Neoplasms
+Humans
+Hyperostosis
+Lipoma
+Magnetic Resonance Imaging
+Middle Aged
+Periosteum
+Tomography, X-Ray Computed
+pid=S1807-59322007000500020&
+Female
+Humans
+Middle Aged
+Multiple Organ Failure
+Still´s Disease, Adult-Onset
+pid=S1807-59322007000500019&
+Adult
+Bronchial Diseases
+Constriction, Pathologic
+Fatal Outcome
+Female
+Humans
+Lung Neoplasms
+Lung Transplantation
+Lymphangioleiomyomatosis
+Silicones
+Stents
+pid=S1807-59322007000500018&
+Adult
+Contraceptives, Postcoital, Synthetic
+Fallopian Tubes
+Female
+Humans
+Levonorgestrel
+Pregnancy
+Pregnancy, Tubal
+pid=S1807-59322007000500017&
+Aged
+Endoscopy, Gastrointestinal
+Humans
+Jejunal Neoplasms
+Male
+Plasmacytoma
+pid=S1807-59322007000500016&
+Acute Coronary Syndrome
+Aneurysm
+Aortic Aneurysm
+Coronary Aneurysm
+Humans
+Iliac Aneurysm
+Intracranial Aneurysm
+Male
+Middle Aged
+pid=S1807-59322007000500015&
+Animals
+Humans
+Inflammation
+Pleural Effusion
+Pleurodesis
+Talc
+pid=S1807-59322007000500014&
+Adult
+Anterior Cruciate Ligament
+Biomechanics
+Cadaver
+Humans
+Imaging, Three-Dimensional
+Male
+Posterior Cruciate Ligament
+Range of Motion, Articular
+Reproducibility of Results
+pid=S1807-59322007000500013&
+Anterior Cruciate Ligament
+Arthroscopy
+Cadaver
+Femur
+Humans
+pid=S1807-59322007000500012&
+Animals
+Bone Regeneration
+Cartilage
+Epiphyses
+Female
+Glucosamine
+Ovariectomy
+Random Allocation
+Rats
+Rats, Wistar
+Tibia
+pid=S1807-59322007000500011&
+Adolescent
+Adult
+Anthropometry
+Child
+Female
+Funnel Chest
+Humans
+Male
+ROC Curve
+Reference Values
+Thoracic Wall
+Tomography, X-Ray Computed
+pid=S1807-59322007000500010&
+Accidents, Traffic
+Adult
+Analgesia
+Analgesics
+Emergency Treatment
+Female
+Glasgow Coma Scale
+Humans
+Male
+Pain
+Pain Measurement
+Prospective Studies
+Severity of Illness Index
+pid=S1807-59322007000500009&
+Adenosine Deaminase
+Adult
+Biological Markers
+Diagnosis, Differential
+Female
+Humans
+L-Lactate Dehydrogenase
+Lung Neoplasms
+Male
+Middle Aged
+Pleural Effusion
+Sensitivity and Specificity
+Severity of Illness Index
+Tuberculosis, Pulmonary
+pid=S1807-59322007000500008&
+Adolescent
+Adult
+Anti-HIV Agents
+Brazil
+CD4 Lymphocyte Count
+Female
+HIV Infections
+Humans
+Male
+Middle Aged
+Time Factors
+Viral Load
+pid=S1807-59322007000500007&
+Aged
+Aged, 80 and over
+Blindness
+Case-Control Studies
+Cross-Sectional Studies
+Female
+Humans
+Macular Degeneration
+Male
+Middle Aged
+Quality of Life
+Questionnaires
+pid=S1807-59322007000500006&
+Hospitals, University
+Humans
+Interviews as Topic
+Pharmacists
+Pharmacy Service, Hospital
+Professional Role
+Quality Assurance, Health Care
+pid=S1807-59322007000500005&
+Adult
+Aged
+Aged, 80 and over
+Brazil
+Burning Mouth Syndrome
+Female
+Humans
+Male
+Middle Aged
+Pain Measurement
+Questionnaires
+pid=S1807-59322007000500004&
+Adult
+Antithrombin III
+Antithrombins
+Biological Markers
+Blood Coagulation
+Estradiol
+Estrogen Replacement Therapy
+Estrogens, Conjugated (USP
+Female
+Fibrinolysis
+Humans
+Medroxyprogesterone 17-Acetate
+Middle Aged
+Postmenopause
+Thrombin
+pid=S1807-59322007000500003&
+Activities of Daily Living
+Aged
+Aged, 80 and over
+Cognition Disorders
+Delirium
+pidemiologic Methods
+Female
+Femoral Fractures
+Geriatric Assessment
+Humans
+Male
+Middle Aged
+pid=S1807-59322007000500002&
+Candida tropicalis
+Catheterization, Central Venous
+Child, Preschool
+Cross Infection
+Enterobacter
+pidemiologic Methods
+Female
+Humans
+Infant
+Intensive Care Units, Pediatric
+Klebsiella pneumoniae
+Male
+pidermidis
+pid=S0213-91112008000300010&
+Helicobacter Infections
+Helicobacter pylori
+Humans
+Intestines
+Metaplasia
+Prevalence
+Smoking
+pid=S0213-91112008000300003&
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Child
+Child, Preschool
+Female
+Humans
+Incidence
+Infant
+Male
+Middle Aged
+Neoplasms
+Spain
+pid=S0042-96862008000200012&
+Accidents, Traffic
+Adult
+Disability Evaluation
+Disabled Persons
+Female
+Health Status
+Health Status Indicators
+Humans
+Injury Severity Score
+Male
+Middle Aged
+Netherlands
+Public Health
+Quality of Life
+Registries
+Wounds and Injuries
+pid=S0102-311X2008000400021&
+pid=S0102-311X2008000400021&
+Brazil
+Child, Preschool
+Cross-Sectional Studies
+Female
+Humans
+Male
+Malocclusion
+Prevalence
+Tooth, Deciduous
+pid=S0102-311X2008000400020&
+pid=S0102-311X2008000400020&
+AIDS-Related Opportunistic Infections
+Adult
+Brazil
+pidemiologic Methods
+Female
+Humans
+Male
+Middle Aged
+Patient Dropouts
+Prognosis
+Tuberculosis
+Tuberculosis, Pulmonary
+pid=S0102-311X2008000400019&
+pid=S0102-311X2008000400019&
+Activities of Daily Living
+Aged
+Brazil
+Female
+Geriatric Assessment
+Humans
+Logistic Models
+Male
+Middle Aged
+Quality of Life
+Questionnaires
+Socioeconomic Factors
+pid=S0102-311X2008000400018&
+pid=S0102-311X2008000400018&
+Adolescent
+Age Factors
+Birth Weight
+Body Height
+Brazil
+Child
+pidemiology
+Female
+Humans
+Male
+Prospective Studies
+pid=S0102-311X2008000400016&
+pid=S0102-311X2008000400016&
+Bayes Theorem
+Dengue
+Humans
+Models, Statistical
+Monte Carlo Method
+Uncertainty
+pid=S0102-311X2008000400015&
+pid=S0102-311X2008000400015&
+Age Factors
+Aged
+Aged, 80 and over
+Brazil
+Disability Evaluation
+Disabled Persons
+Female
+Frail Elderly
+Geriatric Assessment
+Humans
+Life Expectancy
+Male
+Middle Aged
+Severity of Illness Index
+pid=S0102-311X2008000400014&
+pid=S0102-311X2008000400014&
+Adult
+Age Factors
+Brazil
+pidemiologic Methods
+Female
+Humans
+Menarche
+Premenstrual Syndrome
+Socioeconomic Factors
+pid=S0102-311X2008000400012&
+pid=S0102-311X2008000400012&
+Adult
+Aged
+Aged, 80 and over
+Brazil
+Breast Neoplasms
+Diet
+pidemiologic Methods
+Female
+Food Habits
+Humans
+Middle Aged
+pid=S0102-311X2008000400010&
+pid=S0102-311X2008000400010&
+Adult
+Anthropology, Cultural
+Brazil
+Caregivers
+Child
+Child Nutrition Disorders
+Child, Preschool
+Culture
+Dental Care
+Health Knowledge, Attitudes, Practice
+Humans
+Infant
+Middle Aged
+Mothers
+Poverty Areas
+Qualitative Research
+Questionnaires
+Tooth, Deciduous
+pid=S0102-311X2008000400005&
+pid=S0102-311X2008000400005&
+Adolescent
+Adult
+Aged
+Brazil
+Carcinogens, Environmental
+Child
+Child, Preschool
+Environmental Exposure
+Female
+Food Contamination
+Humans
+Hydrocarbons, Chlorinated
+Infant
+Male
+Middle Aged
+Pesticide Residues
+Risk Assessment
+Soil
+pid=S1806-83242007000400016&
+Activities of Daily Living
+Adenocarcinoma
+Adenoma, Pleomorphic
+Adult
+Carcinoma, Adenoid Cystic
+pidermoid
+Female
+Humans
+Male
+Middle Aged
+Quality of Life
+Questionnaires
+Salivary Gland Neoplasms
+Salivary Glands, Minor
+pid=S1806-83242007000400015&
+Analysis of Variance
+Cariostatic Agents
+Composite Resins
+Confidence Intervals
+Dental Caries
+Dental Enamel
+Dental Restoration, Permanent
+Glass Ionomer Cements
+Humans
+Materials Testing
+Microscopy, Polarization
+Resin Cements
+Streptococcus mutans
+Surface Properties
+pid=S1806-83242007000400014&
+Animals
+Cattle
+Dental Cavity Preparation
+Dental Pulp Cavity
+Diamond
+Equipment Design
+Statistics, Nonparametric
+Surface Properties
+Ultrasonic Therapy
+pid=S1806-83242007000400013&
+Analysis of Variance
+Denture, Complete
+Electrodiagnosis
+Electromyography
+Female
+Humans
+Male
+Mandible
+Masticatory Muscles
+Middle Aged
+Mouth, Edentulous
+Tomography, X-Ray Computed
+Vertical Dimension
+pid=S1806-83242007000400012&
+Adult
+Benzoylarginine-2-Naphthylamide
+Crowns
+Dental Plaque
+Dental Plaque Index
+Female
+Gingival Hemorrhage
+Humans
+Male
+Middle Aged
+Periodontal Diseases
+Periodontal Index
+Periodontal Pocket
+Reproducibility of Results
+Retrospective Studies
+Statistics, Nonparametric
+pid=S1806-83242007000400011&
+Adult
+Anti-Infective Agents, Local
+Chlorhexidine
+Female
+Gram-Negative Bacteria
+Gram-Positive Bacteria
+Humans
+Male
+Maleates
+Mouthwashes
+Placebos
+Polyvinyls
+Sodium Bicarbonate
+Tissue Adhesives
+Triclosan
+pid=S1806-83242007000400010&
+Adolescent
+Adult
+Brazil
+Chi-Square Distribution
+Cytomegalovirus
+Cytomegalovirus Infections
+DNA, Viral
+Epstein-Barr Virus Infections
+Female
+Gingiva
+Gingivitis
+Herpesvirus 4, Human
+Humans
+Male
+Middle Aged
+Periodontal Pocket
+Periodontitis
+Severity of Illness Index
+pid=S1806-83242007000400009&
+Adolescent
+Age Determination by Skeleton
+Analysis of Variance
+Body Height
+Bone Development
+Brazil
+Cephalometry
+Cervical Vertebrae
+Child
+Female
+Hand
+Humans
+Male
+Puberty
+Regression Analysis
+Reproducibility of Results
+Wrist
+pid=S1806-83242007000400008&
+Alginates
+Anti-Infective Agents, Local
+Bacteria
+Chlorhexidine
+Colloids
+Dental Casting Technique
+Dental Impression Materials
+Disinfectants
+Drug Evaluation, Preclinical
+Statistics, Nonparametric
+pid=S1806-83242007000400007&
+Drug Combinations
+Drug Compounding
+Oxidants
+Peroxides
+Pharmacies
+Statistics, Nonparametric
+Tooth Bleaching
+Urea
+pid=S1806-83242007000400006&
+Brazil
+Child
+Cleft Lip
+Cleft Palate
+pidemiologic Studies
+European Continental Ancestry Group
+Female
+Humans
+Male
+Prevalence
+Sex Distribution
+Sex Factors
+pid=S1806-83242007000400005&
+Anti-Infective Agents, Local
+Bone Cements
+Calcium Hydroxide
+Chlorhexidine
+Colony Count, Microbial
+Dental Pulp Cavity
+Drug Combinations
+Drug Evaluation, Preclinical
+Enterococcus faecalis
+Humans
+Root Canal Therapy
+Time Factors
+pid=S1806-83242007000400004&
+Analysis of Variance
+Gutta-Percha
+Materials Testing
+Retreatment
+Solubility
+Solvents
+Time Factors
+pid=S1806-83242007000400003&
+Adolescent
+Adult
+Child
+Dental Alloys
+Dermatitis, Contact
+Female
+Humans
+Male
+Materials Testing
+Nickel
+Orthodontic Brackets
+Patch Tests
+Stainless Steel
+pid=S1806-83242007000400002&
+Animals
+Blood Glucose
+Body Weight
+Diabetes Mellitus, Experimental
+Disease Models, Animal
+Glycemic Index
+Immunosuppressive Agents
+Kidney Transplantation
+Male
+Random Allocation
+Rats
+Rats, Sprague-Dawley
+Tacrolimus
+Time Factors
+pid=S1516-31802007000500012&
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Brazil
+Educational Status
+pidemiologic Methods
+Female
+Helicobacter Infections
+Helicobacter pylori
+Humans
+Male
+Middle Aged
+Outpatient Clinics, Hospital
+pid=S1516-31802007000500011&
+Adenocarcinoma, Mucinous
+Carcinoma, Signet Ring Cell
+Humans
+Keratin-20
+Keratin-7
+Male
+Middle Aged
+Mucins
+Stomach Neoplasms
+Urinary Bladder Neoplasms
+pid=S1516-31802007000500010&
+Biopsy
+Carcinoma, Adenoid Cystic
+Female
+Humans
+Laryngeal Neoplasms
+Laryngectomy
+Middle Aged
+Neoplasm Invasiveness
+pid=S1516-31802007000500009&
+Anal Canal
+Antiretroviral Therapy, Highly Active
+Anus Neoplasms
+Carcinoma, Squamous Cell
+DNA, Viral
+HIV Seropositivity
+Human papillomavirus 16
+Humans
+Male
+Middle Aged
+Neoplasm Invasiveness
+Neoplasm Recurrence, Local
+Papillomavirus Infections
+pid=S1516-31802007000500008&
+Adenocarcinoma, Follicular
+Carcinoma, Papillary
+Cross-Sectional Studies
+Female
+Genotype
+Glutathione Transferase
+Humans
+Male
+Thyroid Neoplasms
+Tumor Markers, Biological
+pid=S1516-31802007000500007&
+Central Nervous System Neoplasms
+Doxorubicin
+Humans
+Lymphoma, Non-Hodgkin
+Male
+Orchiectomy
+Testicular Neoplasms
+Time Factors
+pid=S1516-31802007000500006&
+Adolescent
+Adult
+Age Factors
+Aged
+Angioedema
+Bacterial Infections
+Child
+Child, Preschool
+Chronic Disease
+Female
+Humans
+Male
+Middle Aged
+Prospective Studies
+Sex Factors
+Socioeconomic Factors
+Stress
+Urban Population
+Urticaria
+pid=S1516-31802007000500005&
+Adult
+Biopsy
+Breast Neoplasms
+Contraceptives, Oral, Combined
+Double-Blind Method
+Estriol
+Ethinyl Estradiol-Norgestrel Combination
+Female
+Fibroadenoma
+Humans
+Progesterone
+Statistics, Nonparametric
+pid=S1516-31802007000500004&
+Anti-Anxiety Agents
+Anxiety Disorders
+Depressive Disorder
+Diazepam
+Drug Utilization
+Female
+Humans
+Male
+Middle Aged
+Patient Dropouts
+Physician-Patient Relations
+Primary Health Care
+Professional Practice
+Questionnaires
+Substance-Related Disorders
+pid=S1516-31802007000500003&
+pidemiologic Methods
+Exercise Therapy
+Female
+Humans
+Middle Aged
+Patient Satisfaction
+Pelvic Floor
+Quality of Life
+Urinary Incontinence, Stress
+pid=S1516-31802007000500002&
+Abortion, Incomplete
+Adhesions
+Adolescent
+Brazil
+Curettage
+pidemiologic Methods
+Female
+Humans
+Hysteroscopy
+Middle Aged
+Pregnancy
+Uterine Diseases
+pid=S1516-31802007000500001&
+Diabetic Angiopathies
+Drug-Eluting Stents
+Evidence-Based Medicine
+Humans
+pid=S0102-86502007000500014&
+Adenocarcinoma, Mucinous
+Adult
+Appendiceal Neoplasms
+Humans
+Incidental Findings
+Male
+Neoplasms, Multiple Primary
+Pseudomyxoma Peritonei
+Rectal Neoplasms
+pid=S0102-86502007000500013&
+Adhesions
+Animals
+Enbucrilate
+Fallopian Tubes
+Female
+Fertility
+Fibrosis
+Hysteroscopy
+Models, Animal
+Pregnancy
+Sheep
+Sodium Chloride
+Sterilization, Tubal
+Tissue Adhesives
+pid=S0102-86502007000500012&
+Air Pressure
+Analysis of Variance
+Animals
+Cyanoacrylates
+Densitometry
+Fallopian Tubes
+Female
+Hysteroscopy
+Models, Animal
+Pregnancy
+Pregnancy Rate
+Rabbits
+Random Allocation
+Sterilization, Tubal
+Tissue Adhesives
+pid=S0102-86502007000500011&
+Adult
+Aged
+Aged, 80 and over
+Computer-Aided Design
+Data Interpretation, Statistical
+Dental Implantation, Endosseous
+Female
+Humans
+Jaw, Edentulous
+Male
+Mandible
+Middle Aged
+Models, Anatomic
+Prospective Studies
+Tomography, X-Ray Computed
+Treatment Outcome
+pid=S0102-86502007000500010&
+Abdomen
+Adhesions
+Animals
+Carbon Dioxide
+Cell Proliferation
+Dogs
+Edema
+Male
+Models, Animal
+Pneumoperitoneum, Artificial
+Pressure
+Stomach
+Surgical Stapling
+Time Factors
+Wound Healing
+pid=S0102-86502007000500009&
+Acid-Base Equilibrium
+Acid-Base Imbalance
+Animals
+Appendix
+Cathartics
+Enema
+Glycerol
+Isotonic Solutions
+Magnesium Deficiency
+Male
+Models, Animal
+Phosphates
+Polyethylene Glycols
+Rabbits
+Time Factors
+Water-Electrolyte Balance
+Water-Electrolyte Imbalance
+pid=S0102-86502007000500008&
+Acute Disease
+Amylases
+Analysis of Variance
+Animals
+Cholagogues and Choleretics
+Female
+Injections
+Models, Animal
+Necrosis
+Pancreas
+Pancreatectomy
+Pancreatic Ducts
+Pancreatitis
+Rabbits
+Research Design
+Taurocholic Acid
+pid=S0102-86502007000500007&
+Analysis of Variance
+Animals
+Anti-Inflammatory Agents
+Betamethasone
+Dogs
+Female
+Fibrosis
+Inflammation
+Injections, Spinal
+Male
+Meninges
+Models, Animal
+Necrosis
+Random Allocation
+Sodium Chloride
+Spinal Cord
+Spinal Puncture
+pid=S0102-86502007000500006&
+Animals
+Blood Pressure
+Blood Transfusion
+Blood Volume
+Disease Models, Animal
+Hematocrit
+Hemodilution
+Isotonic Solutions
+Male
+Rats
+Saline Solution, Hypertonic
+Shock, Hemorrhagic
+pid=S0102-86502007000500005&
+Analysis of Variance
+Animals
+Antidepressive Agents
+Depression
+Fluoxetine
+Immobilization
+Male
+Models, Animal
+Motor Activity
+Rats
+Rats, Wistar
+Statistics, Nonparametric
+Swimming
+Thiophenes
+pid=S0102-86502007000500004&
+Animals
+Biopsy
+Edema
+Epithelium
+Erythrocytes
+Heat-Shock Response
+Models, Animal
+Necrosis
+Peritoneal Lavage
+Peritoneum
+Random Allocation
+Rats
+Rats, Wistar
+Sodium Chloride
+pid=S0102-86502007000500003&
+Acarbose
+Animals
+Blood Glucose
+Diabetes Mellitus, Experimental
+Diabetic Nephropathies
+Disease Models, Animal
+Female
+Glomerular Basement Membrane
+Hypoglycemic Agents
+Insulin
+Male
+Podocytes
+Rats
+Rats, Wistar
+pid=S0102-86502007000500002&
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Child
+Female
+Follow-Up Studies
+Humans
+Lymph Node Excision
+Male
+Melanoma
+Middle Aged
+Neoplasm Recurrence, Local
+Prospective Studies
+Sentinel Lymph Node Biopsy
+Skin
+Skin Neoplasms
+pid=S0102-86502007000500001&
+Humans
+Music
+Surgery
+pid=S0102-86502007000400015&
+Adult
+Female
+Humans
+Mammaplasty
+Middle Aged
+Nipples
+Patient Satisfaction
+Postoperative Period
+Prospective Studies
+Surgical Flaps
+Treatment Outcome
+pid=S0102-86502007000400014&
+Animals
+Collagen
+Disease Models, Animal
+Drug Evaluation, Preclinical
+Female
+Image Processing, Computer-Assisted
+Immunosuppressive Agents
+Male
+Postoperative Period
+Random Allocation
+Rats
+Skin
+Wound Healing
+pid=S0102-86502007000400013&
+Animals
+Biocompatible Materials
+Cyanoacrylates
+Drug Evaluation, Preclinical
+Male
+Materials Testing
+Rats
+Rats, Wistar
+Skin
+Suture Techniques
+Tensile Strength
+Tissue Adhesives
+Wound Healing
+pid=S0102-86502007000400012&
+Acetic Acid
+Animals
+Aspirin
+Carcinoma
+Disease Models, Animal
+Drug Combinations
+Drug Screening Assays, Antitumor
+Indicators and Reagents
+Liver
+Liver Neoplasms, Experimental
+Male
+Necrosis
+Neoplasm Transplantation
+Rabbits
+Random Allocation
+pid=S0102-86502007000400011&
+Adjuvants, Anesthesia
+Adrenergic alpha-Agonists
+Animals
+Blood Pressure
+Dexmedetomidine
+Disease Models, Animal
+Drug Evaluation, Preclinical
+Hemodynamics
+Hemorrhage
+Intraoperative Complications
+Kidney
+Kidney Failure, Acute
+Kidney Function Tests
+Male
+Necrosis
+Pentobarbital
+Perioperative Care
+Rats
+Rats, Wistar
+pid=S0102-86502007000400010&
+Alloxan
+Animals
+Diabetes Mellitus, Experimental
+Diabetic Nephropathies
+Disease Models, Animal
+Hemorrhage
+High-Energy Shock Waves
+Kidney Calculi
+Kidney Cortex
+Lithotripsy
+Male
+Rats
+Rats, Wistar
+pid=S0102-86502007000400009&
+Animals
+Constriction, Pathologic
+Disease Models, Animal
+Hepatectomy
+Male
+Portal Vein
+Postoperative Complications
+Random Allocation
+Rats
+Rats, Wistar
+Shock
+Survival Rate
+Time Factors
+pid=S0102-86502007000400008&
+Adrenergic alpha-Agonists
+Analgesics, Opioid
+Anesthetics, Combined
+Anesthetics, Intravenous
+Animals
+Buprenorphine
+Dogs
+Dopamine Antagonists
+Drug Evaluation, Preclinical
+Female
+Hypnotics and Sedatives
+Hysterectomy
+Infusion Pumps
+Medetomidine
+Methotrimeprazine
+Midazolam
+Models, Animal
+Ovariectomy
+Random Allocation
+Xylazine
+pid=S0102-86502007000400007&
+Analysis of Variance
+Hernia, Inguinal
+Humans
+Male
+Middle Aged
+Polypropylenes
+Prospective Studies
+Prostheses and Implants
+Spermatic Cord
+Surgical Mesh
+Testicular Diseases
+Testis
+pid=S0102-86502007000400006&
+Animals
+Biocompatible Materials
+Bone Morphogenetic Proteins
+Bone Regeneration
+Cattle
+Collagen
+Disease Models, Animal
+Drug Evaluation, Preclinical
+Durapatite
+Fracture Healing
+Male
+Rabbits
+Radius Fractures
+pid=S0102-86502007000400005&
+Adult
+Cadaver
+Humans
+Male
+Muscle Strength
+Rectus Abdominis
+Suture Techniques
+Tensile Strength
+pid=S0102-86502007000400004&
+Adenosine Triphosphate
+Analysis of Variance
+Animals
+Bilirubin
+Cell Respiration
+Disease Models, Animal
+Jaundice, Obstructive
+Liver
+Male
+Mitochondria, Liver
+Oxidative Phosphorylation
+Oxygen Consumption
+Random Allocation
+Rats
+Rats, Wistar
+pid=S0102-86502007000400003&
+Adult
+Aged
+Cardiopulmonary Bypass
+Enzyme-Linked Immunosorbent Assay
+Female
+Heart Arrest, Induced
+Humans
+Hypothermia, Induced
+Interleukins
+Male
+Middle Aged
+Myocardial Reperfusion
+Nitric Oxide
+Prospective Studies
+Time Factors
+pid=S0102-86502007000400002&
+Brazil
+Clinical Competence
+Education, Medical, Continuing
+Evidence-Based Medicine
+Humans
+Surgery
+Task Performance and Analysis
+Teaching
+pid=S1677-55382007000500014&
+Humans
+Male
+Serous Membrane
+Surgical Flaps
+Testis
+Urethra
+Urologic Surgical Procedures, Male
+pid=S1677-55382007000500013&
+Animals
+Antineoplastic Agents, Alkylating
+Cystitis
+Disease Models, Animal
+Hemorrhage
+Ifosfamide
+Interleukin-11
+Male
+Mice
+Organ Size
+pid=S1677-55382007000500012&
+Adult
+Aged
+Aged, 80 and over
+Collagen
+Female
+Humans
+Middle Aged
+Treatment Outcome
+Urethra
+Urinary Bladder
+Urinary Incontinence, Stress
+Urodynamics
+pid=S1677-55382007000500011&
+Adult
+Aged
+Female
+Follow-Up Studies
+Humans
+Middle Aged
+Polypropylenes
+Retrospective Studies
+Surgical Mesh
+Treatment Outcome
+Urinary Incontinence, Stress
+Urodynamics
+pid=S1677-55382007000500010&
+Antineoplastic Agents
+Chemotherapy, Adjuvant
+Child
+Child, Preschool
+Dactinomycin
+Female
+Heart Atria
+Humans
+Infant
+Kidney Neoplasms
+Male
+Neoplasm Invasiveness
+Neoplasm Staging
+Retrospective Studies
+Survival Analysis
+Time Factors
+Vena Cava, Inferior
+Vincristine
+Wilms Tumor
+pid=S1677-55382007000500009&
+Aged
+Carcinoma, Renal Cell
+Catheter Ablation
+Humans
+Kidney Neoplasms
+Kidney Pelvis
+Magnetic Resonance Imaging
+Male
+Renal Insufficiency, Acute
+Tomography, X-Ray Computed
+Ureteral Obstruction
+pid=S1677-55382007000500008&
+Adult
+Aged
+Brazil
+pidemiologic Methods
+Erectile Dysfunction
+Humans
+Kidney Failure, Chronic
+Male
+Middle Aged
+Renal Dialysis
+pid=S1677-55382007000500007&
+Aged
+Humans
+Immunohistochemistry
+Male
+Middle Aged
+Neoplasm Staging
+Prognosis
+Prostatectomy
+Prostatic Neoplasms
+Statistics, Nonparametric
+Tumor Markers, Biological
+pid=S1677-55382007000500006&
+Aged
+Aged, 80 and over
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Prognosis
+Prostatic Neoplasms
+Radiotherapy, Conformal
+Retrospective Studies
+Severity of Illness Index
+Time Factors
+Tomography, X-Ray Computed
+Urinary Bladder Diseases
+pid=S1677-55382007000500005&
+Adult
+Aged
+Biopsy, Needle
+Humans
+Male
+Middle Aged
+Neoplasm Staging
+Observer Variation
+Prostate
+Prostatectomy
+Prostatic Neoplasms
+Reproducibility of Results
+pid=S1677-55382007000500004&
+Adolescent
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Carcinoma, Transitional Cell
+Chemotherapy, Adjuvant
+Cisplatin
+Deoxycytidine
+Disease-Free Survival
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Prospective Studies
+Treatment Outcome
+Urinary Bladder Neoplasms
+pid=S1677-55382007000500003&
+Carcinoma, Renal Cell
+Case-Control Studies
+Female
+Gene Frequency
+Genetic Predisposition to Disease
+Genotype
+Humans
+Kidney Neoplasms
+Male
+Matrix Metalloproteinase 1
+Middle Aged
+Polymorphism, Restriction Fragment Length
+Polymorphism, Single Nucleotide
+Promoter Regions (Genetics
+pid=S1677-55382007000500002&
+Chromatin
+DNA Damage
+Humans
+Infertility, Male
+Male
+Oxidative Stress
+Reactive Oxygen Species
+Sperm Count
+Sperm Motility
+Spermatozoa
+pid=S1677-55382007000500001&
+Chromatin
+Humans
+Infertility, Male
+Male
+Oxidative Stress
+Spermatozoa
+pid=S1413-86702007000100040&
+Acute Disease
+Amines
+Amitriptyline
+Analgesics, Non-Narcotic
+Chickenpox
+Cyclohexanecarboxylic Acids
+Female
+Glucocorticoids
+Herpesvirus 3, Human
+Humans
+Methylprednisolone
+Middle Aged
+Myelitis, Transverse
+gamma-Aminobutyric Acid
+pid=S1413-86702007000100039&
+AIDS-Related Opportunistic Infections
+Adult
+Cytomegalovirus Infections
+Humans
+Male
+Myelodysplastic Syndromes
+Polyradiculoneuropathy
+pid=S1413-86702007000100038&
+Aged
+Antibodies, Monoclonal
+Antiviral Agents
+Cryoglobulinemia
+Female
+Hepatitis C
+Humans
+Immunologic Factors
+Interferon Alfa-2a
+Polyethylene Glycols
+Ribavirin
+Treatment Outcome
+pid=S1413-86702007000100037&
+Adult
+Gingival Diseases
+Humans
+Male
+Tuberculosis, Oral
+pid=S1413-86702007000100036&
+Adult
+Fatal Outcome
+Female
+Humans
+Kidney Failure, Chronic
+Time Factors
+Tomography, X-Ray Computed
+Tuberculosis, Renal
+pid=S1413-86702007000100035&
+Enterobacter
+Enterobacteriaceae Infections
+Female
+Humans
+Middle Aged
+Mycoses
+Penicillium
+Peritoneal Dialysis, Continuous Ambulatory
+Peritonitis
+pid=S1413-86702007000100034&
+Acute Disease
+Adult
+Cross Infection
+Fatal Outcome
+Female
+Humans
+Intensive Care Units
+Respiratory Syncytial Virus Infections
+Rhinitis
+Sinusitis
+pid=S1413-86702007000100032&
+Actinomycosis
+Adult
+Humans
+Lung Diseases
+Male
+Severity of Illness Index
+pid=S1413-86702007000100031&
+Animals
+Anthelmintics
+Brazil
+Female
+Humans
+Lung Diseases, Parasitic
+Middle Aged
+Paragonimiasis
+Paragonimus
+Praziquantel
+pid=S1413-86702007000100030&
+Animals
+Antimony Sodium Gluconate
+Antiprotozoal Agents
+Belize
+Eyelid Diseases
+Humans
+Leishmania mexicana
+Leishmaniasis, Cutaneous
+Male
+Middle Aged
+Travel
+Treatment Outcome
+pid=S1413-86702007000100029&
+Animals
+Disease Models, Animal
+Hemoptysis
+Humans
+Leptospirosis
+Lung Diseases
+Pulmonary Alveoli
+Respiratory Distress Syndrome, Adult
+pid=S1413-86702007000100028&
+Cross Infection
+Humans
+Population Surveillance
+Predictive Value of Tests
+Reproducibility of Results
+Risk Assessment
+Surgical Wound Infection
+pid=S1413-86702007000100027&
+Animals
+Birds
+Disease Outbreaks
+Humans
+Influenza A Virus, H5N1 Subtype
+Influenza, Human
+World Health
+pid=S1413-86702007000100026&
+Antiviral Agents
+Drug Administration Schedule
+Drug Therapy, Combination
+Genotype
+Hepacivirus
+Hepatitis C, Chronic
+Humans
+Interferon Alfa-2a
+Interferon Alfa-2b
+Polyethylene Glycols
+RNA, Viral
+Ribavirin
+Viral Load
+pid=S1413-86702007000100025&
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Animals
+Brain
+Brazil
+Child
+Child, Preschool
+Electroencephalography
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Neurocysticercosis
+Prospective Studies
+Severity of Illness Index
+Tomography, X-Ray Computed
+pid=S1413-86702007000100024&
+Adolescent
+Adult
+Aspergillosis
+Bone Marrow Transplantation
+Child
+Female
+Humans
+Lung Diseases, Fungal
+Male
+Middle Aged
+Tomography, X-Ray Computed
+Transplantation, Homologous
+pid=S1413-86702007000100023&
+Animals
+Antibodies, Protozoan
+Bone Marrow Cells
+Brazil
+Cell Culture Techniques
+Child
+Culture Media
+Fluorescent Antibody Technique, Indirect
+Humans
+Leishmania donovani
+Leishmaniasis, Visceral
+Sensitivity and Specificity
+pid=S1413-86702007000100021&
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Blood-Borne Pathogens
+Candida albicans
+Catheterization, Central Venous
+Catheters, Indwelling
+Cross Infection
+Digestive System Surgical Procedures
+Equipment Contamination
+Female
+Gram-Negative Bacteria
+Gram-Positive Bacteria
+Humans
+Male
+Middle Aged
+Risk Factors
+Sepsis
+Time Factors
+pid=S1413-86702007000100020&
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Brazil
+Child
+Female
+Helicobacter Infections
+Helicobacter pylori
+Hospitals, University
+Humans
+Life Style
+Logistic Models
+Male
+Middle Aged
+Retrospective Studies
+Risk Factors
+Stomach Diseases
+pid=S1413-86702007000100019&
+Adenosine Deaminase
+Clinical Enzyme Tests
+Female
+Humans
+L-Lactate Dehydrogenase
+Logistic Models
+Lymphocyte Count
+Male
+Pleural Effusion
+Predictive Value of Tests
+ROC Curve
+Tuberculosis, Pleural
+pid=S1413-86702007000100018&
+Acute Disease
+Adult
+Brazil
+Chlamydia Infections
+Chlamydophila pneumoniae
+Community-Acquired Infections
+Female
+Fluorescent Antibody Technique
+Humans
+Immunoglobulin G
+Immunoglobulin M
+Incidence
+Male
+Middle Aged
+Pneumonia, Bacterial
+Prospective Studies
+pid=S1413-86702007000100017&
+Ascitic Fluid
+Female
+Gram-Negative Bacterial Infections
+Gram-Positive Bacterial Infections
+Humans
+Leukocyte Count
+Male
+Middle Aged
+Peritonitis
+Predictive Value of Tests
+Prospective Studies
+Reagent Strips
+Sensitivity and Specificity
+pid=S1413-86702007000100016&
+Adult
+Anti-Bacterial Agents
+Carrier State
+Electrophoresis, Gel, Pulsed-Field
+Female
+Humans
+Male
+Methicillin Resistance
+Microbial Sensitivity Tests
+Nasal Cavity
+Nigeria
+Risk Factors
+Staphylococcal Infections
+Staphylococcus aureus
+Students, Medical
+pid=S1413-86702007000100015&
+Brazil
+Carrier State
+Case-Control Studies
+Cross Infection
+Hospitals, University
+Humans
+Incidence
+Infection Control
+Intensive Care Units
+Methicillin Resistance
+Program Evaluation
+Prospective Studies
+Staphylococcal Infections
+Staphylococcus aureus
+pid=S1413-86702007000100014&
+Anti-Bacterial Agents
+Brazil
+Guideline Adherence
+Hospitals, Teaching
+Humans
+Methicillin Resistance
+Middle Aged
+Physician´s Practice Patterns
+Practice Guidelines as Topic
+Prevalence
+Prospective Studies
+Staphylococcal Infections
+Staphylococcus aureus
+Vancomycin
+pid=S1413-86702007000100013&
+Ampicillin Resistance
+Brazil
+Haemophilus influenzae
+Hospitals, General
+Humans
+Microbial Sensitivity Tests
+beta-Lactamases
+pid=S1413-86702007000100012&
+Adhesins, Escherichia coli
+Adolescent
+Adult
+Age Distribution
+Bacterial Adhesion
+Child
+Child, Preschool
+Diarrhea
+Escherichia coli
+Escherichia coli Infections
+Feces
+Female
+Humans
+Infant
+Interleukin-8
+Intestines
+Japan
+Male
+Prevalence
+Retrospective Studies
+Seasons
+pid=S1413-86702007000100011&
+Adolescent
+Adult
+Anti-Bacterial Agents
+Brazil
+Child
+Child, Preschool
+Ciprofloxacin
+Drug Resistance, Bacterial
+Electrophoresis, Gel, Pulsed-Field
+Escherichia coli
+Escherichia coli Proteins
+Female
+Humans
+Infant
+Male
+Microbial Sensitivity Tests
+Middle Aged
+pid=S1413-86702007000100010&
+Acute Disease
+Brazil
+Child, Preschool
+Diarrhea
+Electrophoresis, Polyacrylamide Gel
+Enzyme-Linked Immunosorbent Assay
+Feces
+Genotype
+Hospitalization
+Humans
+RNA, Viral
+Reverse Transcriptase Polymerase Chain Reaction
+Rotavirus
+Rotavirus Infections
+pid=S1413-86702007000100009&
+Anti-HIV Agents
+Case-Control Studies
+Female
+Femur Head Necrosis
+HIV Infections
+HIV Protease Inhibitors
+Humans
+Hypercholesterolemia
+Hypertriglyceridemia
+Male
+Risk Factors
+pid=S1413-86702007000100008&
+Brazil
+CD4-Positive T-Lymphocytes
+CD8-Positive T-Lymphocytes
+Epitopes
+Gene Products, env
+HIV Infections
+HIV-1
+Humans
+pid=S1413-86702007000100007&
+Adult
+Anti-HIV Agents
+Antiretroviral Therapy, Highly Active
+Brazil
+pidemiologic Methods
+Female
+HIV Infections
+Humans
+Male
+Socioeconomic Factors
+pid=S1413-86702007000100006&
+Acquired Immunodeficiency Syndrome
+Antiretroviral Therapy, Highly Active
+CD4 Lymphocyte Count
+Child
+Child, Preschool
+Follow-Up Studies
+HIV Protease Inhibitors
+Humans
+Longitudinal Studies
+Pyrimidinones
+RNA, Viral
+Ritonavir
+Treatment Outcome
+Viral Load
+pid=S1413-86702007000100005&
+Adult
+Aged
+Aged, 80 and over
+Brazil
+Cross Infection
+pidemiologic Methods
+Female
+Hepatitis C
+Humans
+Kidney Failure, Chronic
+Male
+Middle Aged
+Renal Dialysis
+pid=S1413-86702007000100004&
+Adult
+Antibodies, Viral
+Brazil
+Female
+Herpesviridae Infections
+Herpesvirus 8, Human
+Humans
+Middle Aged
+Prostitution
+pidemiologic Studies
+Socioeconomic Factors
+Virus Latency
+pid=S1413-86702007000100003&
+Adolescent
+Child
+Child, Preschool
+Diagnosis-Related Groups
+Emigrants and Immigrants
+Female
+Hospitalization
+Humans
+Infant
+Italy
+Male
+Retrospective Studies
+pid=S1413-86702007000100002&
+Antiviral Agents
+Brazil
+Hepatitis B
+Humans
+Societies, Medical
+pid=S0102-311X2008000100022&
+pid=S0102-311X2008000100022&
+Adult
+Brazil
+Cross-Cultural Comparison
+Female
+Health Status Indicators
+Humans
+Job Satisfaction
+Language
+Occupational Diseases
+Occupational Health
+Psychometrics
+Questionnaires
+Reproducibility of Results
+Reward
+Stress, Psychological
+Translations
+Workplace
+pid=S0102-311X2008000100007&
+pid=S0102-311X2008000100007&
+Aedes
+Animals
+Brazil
+Breeding
+Dengue
+Dengue Virus
+Ecosystem
+Entomology
+Humans
+Insect Vectors
+Larva
+Mosquito Control
+Population Density
+Population Surveillance
+Residence Characteristics
+Sample Size
+Urban Population
+pid=S0034-89102008000100020&
+pid=S0034-89102008000100020&
+Abscess
+Adult
+Complementary Therapies
+Cosmetic Techniques
+Disease Outbreaks
+Drug Contamination
+Female
+Humans
+Injections
+Middle Aged
+Mycobacterium Infections, Atypical
+Mycobacterium chelonae
+Peru
+Skin Diseases, Bacterial
+pid=S0034-89102008000100019&
+pid=S0034-89102008000100019&
+Argentina
+Female
+Head Protective Devices
+Humans
+Male
+Motorcycles
+Sex Factors
+pid=S0034-89102008000100014&
+pid=S0034-89102008000100014&
+Adult
+Brazil
+Disability Evaluation
+Female
+Humans
+Logistic Models
+Low Back Pain
+Male
+Middle Aged
+Musculoskeletal Diseases
+Occupational Diseases
+Pain Measurement
+Questionnaires
+Risk Factors
+Sick Leave
+Workplace
+pid=S0034-89102008000100005&
+pid=S0034-89102008000100005&
+Adolescent
+Adolescent Behavior
+Brazil
+Cross-Sectional Studies
+Depressive Disorder
+Employment
+Female
+Humans
+Life Style
+Logistic Models
+Male
+Mental Health
+Occupational Health
+Prevalence
+Socioeconomic Factors
+Stress, Psychological
+Students
+Workplace
+pid=S0034-89102008000100001&
+pid=S0034-89102008000100001&
+Birth Weight
+Brazil
+pidemiologic Methods
+Gestational Age
+Hospitals, Maternity
+Humans
+Infant Mortality
+Infant, Newborn
+Quality of Health Care
+Risk Adjustment
+Socioeconomic Factors
+pid=S0104-42302007000600021&
+Adult
+Aged
+Brazil
+Chronic Disease
+Clinical Competence
+Cross-Sectional Studies
+Dysmenorrhea
+Endometriosis
+Female
+Gynecology
+Humans
+Logistic Models
+Male
+Middle Aged
+Pelvic Pain
+Physician´s Practice Patterns
+Physician-Patient Relations
+Questionnaires
+pid=S0104-42302007000600014&
+Adolescent
+Adult
+Aged
+Circadian Rhythm
+pidemiologic Methods
+Female
+Humans
+Kidney Failure, Chronic
+Male
+Middle Aged
+Quality of Life
+Renal Dialysis
+Restless Legs Syndrome
+Sex Factors
+Sleep
+Sleep Apnea Syndromes
+Sleep Disorders
+Sleep Initiation and Maintenance Disorders
+Snoring
+Time Factors
+pid=S1516-31802007000400013&
+Diagnosis, Differential
+Giant Lymph Node Hyperplasia
+Humans
+Lymph Nodes
+Male
+Middle Aged
+Retroperitoneal Neoplasms
+pid=S1516-31802007000400012&
+Aged
+Angioplasty, Transluminal, Percutaneous Coronary
+Arterial Occlusive Diseases
+Czech Republic
+Female
+Femoral Artery
+Health Status
+Humans
+Male
+Middle Aged
+Popliteal Artery
+Prospective Studies
+Quality of Life
+Questionnaires
+Treatment Outcome
+pid=S1516-31802007000400011&
+Adolescent
+Adult
+Brazil
+Chromosome Aberrations
+Female
+Hematopoietic Stem Cell Transplantation
+Humans
+Karyotyping
+Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+Male
+Middle Aged
+Philadelphia Chromosome
+Prognosis
+Survival Analysis
+Transplantation Conditioning
+pid=S1516-31802007000400010&
+Coronary Artery Bypass
+Coronary Restenosis
+Cytostatic Agents
+Drug-Eluting Stents
+Humans
+Paclitaxel
+Randomized Controlled Trials as Topic
+Sirolimus
+Stents
+Treatment Outcome
+pid=S1516-31802007000400009&
+Adult
+Aged
+Aged, 80 and over
+Anti-Inflammatory Agents
+Brazil
+Dexamethasone
+Drug Administration Schedule
+Drug Therapy, Combination
+pidemiologic Methods
+Female
+Humans
+Male
+Middle Aged
+Placebos
+Shock, Septic
+Time Factors
+Vasoconstrictor Agents
+pid=S1516-31802007000400008&
+Adolescent
+Adult
+Aged
+Brazil
+Carcinoma
+Cervix Uteri
+pidemiologic Methods
+Female
+Humans
+Hysterectomy
+Inflammation
+Lymph Nodes
+Lymphatic Metastasis
+Male
+Middle Aged
+Neoplasm Recurrence, Local
+Neoplasm Staging
+Pelvis
+Uterine Cervical Neoplasms
+pid=S1516-31802007000400007&
+Breast
+Breast Neoplasms
+Cadherins
+Carcinoma
+Carcinoma, Ductal, Breast
+Chi-Square Distribution
+Cross-Sectional Studies
+Female
+Genetic Markers
+Humans
+Microarray Analysis
+pidermal Growth Factor
+Receptors, Estrogen
+Trans-Activators
+Tumor Markers, Biological
+Tumor Suppressor Proteins
+pid=S1516-31802007000400006&
+Adult
+Aged
+Brazil
+Cross-Sectional Studies
+Female
+Humans
+Kidney
+Kidney Transplantation
+Living Donors
+Male
+Middle Aged
+Nephrectomy
+Organ Size
+Reference Values
+Regression Analysis
+Sex Factors
+pid=S1516-31802007000400005&
+Adolescent
+Adult
+Aged
+Brazil
+Female
+Follow-Up Studies
+Head and Neck Neoplasms
+Humans
+Male
+Middle Aged
+Neurilemmoma
+Postoperative Complications
+Postoperative Period
+Preoperative Care
+Retrospective Studies
+Tomography, X-Ray Computed
+pid=S1516-31802007000400004&
+Adipose Tissue
+Adult
+Analysis of Variance
+Body Fat Distribution
+Body Mass Index
+Cross-Sectional Studies
+Female
+Humans
+Male
+Middle Aged
+Muscle Strength
+Obesity
+Pulmonary Ventilation
+Respiratory Muscles
+Spirometry
+Waist-Hip Ratio
+pid=S1516-31802007000400003&
+Adult
+Age Factors
+Aged
+Aged, 80 and over
+Brazil
+Breast Neoplasms
+Female
+Humans
+Mammography
+Mass Screening
+Middle Aged
+Prevalence
+Radiology Information Systems
+Retrospective Studies
+pid=S1516-31802007000400002&
+Adolescent
+Alanine Transaminase
+Antiretroviral Therapy, Highly Active
+Aspartate Aminotransferases
+Child
+pidemiologic Methods
+Female
+HIV Infections
+Hepatitis C
+Hepatitis, Toxic
+Humans
+Liver
+Male
+Viral Load
+pid=S1516-31802007000400001&
+Biomedical Research
+Brazil
+Education, Medical, Graduate
+Evidence-Based Medicine
+Government Agencies
+Humans
+Information Dissemination
+Internet
+Periodicals as Topic
+pid=S1677-55382007000400021&
+Adenocarcinoma
+Atrophy
+Biopsy, Needle
+Diagnosis, Differential
+Humans
+Hyperplasia
+Male
+Prostate
+Prostatic Intraepithelial Neoplasia
+Prostatic Neoplasms
+Prostatitis
+pid=S1677-55382007000400020&
+Anesthesia, Spinal
+Anticoagulants
+Heparin
+Humans
+Male
+Prostatectomy
+Prostatic Neoplasms
+Venous Thromboembolism
+pid=S1677-55382007000400019&
+Carcinoma, Squamous Cell
+Carcinoma, Transitional Cell
+Cystectomy
+Humans
+Prognosis
+Sample Size
+Urinary Bladder Neoplasms
+pid=S1677-55382007000400018&
+Carcinoma, Squamous Cell
+Carcinoma, Transitional Cell
+Cystectomy
+Humans
+Prognosis
+Sample Size
+Urinary Bladder Neoplasms
+pid=S1677-55382007000400017&
+Ambulatory Surgical Procedures
+Humans
+Patient Readmission
+Urologic Surgical Procedures
+pid=S1677-55382007000400016&
+Humans
+Male
+Postoperative Care
+Preoperative Care
+Prostatectomy
+Suburethral Slings
+Surgical Mesh
+Urinary Incontinence, Stress
+pid=S1677-55382007000400015&
+Animals
+Aphrodisiacs
+Drug Evaluation, Preclinical
+Male
+Penis
+Phytotherapy
+Plant Components, Aerial
+Plant Extracts
+Random Allocation
+Rats
+Rats, Wistar
+Sexual Behavior, Animal
+Testosterone
+Tribulus
+pid=S1677-55382007000400014&
+Animals
+Cyclooxygenase 1
+Disease Models, Animal
+Estrogens
+Female
+Gene Expression
+Gene Expression Profiling
+In Situ Hybridization
+Membrane Proteins
+Oligonucleotide Array Sequence Analysis
+Ovariectomy
+Ovary
+Rats
+Rats, Wistar
+Reverse Transcriptase Polymerase Chain Reaction
+Urinary Tract
+Urologic Diseases
+Vascular Endothelial Growth Factor A
+beta 2-Microglobulin
+pid=S1677-55382007000400013&
+Biopsy
+Child
+Child, Preschool
+Female
+Follow-Up Studies
+Humans
+Kidney
+Kidney Diseases
+Laparoscopy
+Length of Stay
+Male
+Nephrectomy
+Retroperitoneal Space
+pid=S1677-55382007000400012&
+Contrast Media
+Female
+Humans
+Iatrogenic Disease
+Infant
+Infant, Newborn
+Male
+Rupture
+Urinary Bladder
+Urinary Bladder Diseases
+Urography
+pid=S1677-55382007000400011&
+Adult
+Aged
+Anastomosis, Surgical
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Mouth Mucosa
+Serous Membrane
+Surgical Flaps
+Urethra
+Urethral Stricture
+Urologic Surgical Procedures, Male
+pid=S1677-55382007000400010&
+Adult
+Brazil
+Carcinoma, Squamous Cell
+Humans
+Male
+Myiasis
+Necrosis
+Penile Neoplasms
+Penis
+pid=S1677-55382007000400009&
+Adult
+Aged, 80 and over
+Automobile Driving
+Carcinoma, Squamous Cell
+Genital Neoplasms, Male
+Humans
+Inhalation Exposure
+Male
+Middle Aged
+Motor Vehicles
+Occupational Diseases
+Retrospective Studies
+Risk Factors
+Scrotum
+Sexual Behavior
+Vehicle Emissions
+pid=S1677-55382007000400008&
+Adult
+Aged
+Aged, 80 and over
+Brazil
+Debridement
+Fournier Gangrene
+Humans
+Male
+Middle Aged
+Penile Diseases
+Perineum
+Scrotum
+Surgical Flaps
+Wound Healing
+pid=S1677-55382007000400007&
+Adult
+Chi-Square Distribution
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Patient Satisfaction
+Penile Erection
+Penile Induration
+Penis
+Postoperative Period
+Quality of Life
+Questionnaires
+Suture Techniques
+Treatment Outcome
+Urologic Surgical Procedures, Male
+pid=S1677-55382007000400006&
+Aged
+Bixaceae
+Double-Blind Method
+Humans
+Male
+Middle Aged
+Peru
+Phytotherapy
+Placebos
+Plant Extracts
+Plant Leaves
+Prospective Studies
+Prostatic Hyperplasia
+Prostatism
+Treatment Outcome
+Urinary Bladder Neck Obstruction
+pid=S1677-55382007000400005&
+Adult
+Analysis of Variance
+Cystectomy
+Cystitis, Interstitial
+Female
+Follow-Up Studies
+Humans
+Ileum
+Intraoperative Complications
+Middle Aged
+Pain
+Pain Measurement
+Quality of Life
+Time Factors
+Urinary Bladder
+Urinary Reservoirs, Continent
+Urination
+pid=S1677-55382007000400004&
+Adult
+Aged
+Biopsy, Needle
+Female
+Humans
+Linear Models
+Male
+Middle Aged
+Neoplasm Invasiveness
+Neoplasm Staging
+Preoperative Care
+Prognosis
+Prostate
+Prostate-Specific Antigen
+Prostatectomy
+Prostatic Neoplasms
+Statistics, Nonparametric
+Tumor Burden
+pid=S1677-55382007000400003&
+Adult
+Aged
+Aged, 80 and over
+Anesthesia, Local
+Biopsy, Needle
+Digital Rectal Examination
+Humans
+Male
+Middle Aged
+Nerve Block
+Pain
+Pain Measurement
+Prostate
+Prostatic Neoplasms
+Retrospective Studies
+Ultrasonography, Interventional
+pid=S1677-55382007000400002&
+Anastomosis, Surgical
+Follow-Up Studies
+Humans
+Male
+Mouth Mucosa
+Penis
+Skin Transplantation
+Surgical Flaps
+Tissue Engineering
+Tissue and Organ Harvesting
+Urethra
+Urethral Stricture
+Urologic Surgical Procedures, Male
+pid=S1677-55382007000400001&
+Cystitis, Interstitial
+Female
+Humans
+Ileum
+Urinary Reservoirs, Continent
+pid=S1519-566X2008000200016&
+Animals
+Ixodidae
+Plant Extracts
+Sapindaceae
+Tick Control
+pid=S1519-566X2008000200010&
+Animals
+Butterflies
+Life Cycle Stages
+pid=S1519-566X2008000200008&
+Animals
+Brazil
+Nesting Behavior
+Seasons
+Temperature
+Time Factors
+Wasps
+pid=S1519-566X2008000200006&
+Animals
+Beetles
+Female
+Gastrointestinal Tract
+Male
+Reproduction
+pid=S1519-566X2008000200005&
+Animals
+Aphids
+Brazil
+Female
+pid=S1519-566X2008000200004&
+Animals
+Ants
+Behavior, Animal
+Exocrine Glands
+Smell
+pid=S1519-566X2008000200001&
+Animals
+Brazil
+Hemiptera
+Population Dynamics
+pid=S0001-37652008000200017&
+Climate
+Ecosystem
+Geography
+Maps as Topic
+Models, Biological
+Plants
+Population Dynamics
+Seasons
+Trees
+Tropical Climate
+pid=S0001-37652008000200016&
+Brazil
+Environmental Monitoring
+Factor Analysis, Statistical
+Metals, Heavy
+Rain
+Seasons
+pid=S0001-37652008000200015&
+Brazil
+Calibration
+China
+Environmental Monitoring
+International Cooperation
+Signal Processing, Computer-Assisted
+Spacecraft
+pid=S0001-37652008000200013&
+Brazil
+Climate
+Geologic Sediments
+History, Ancient
+Humans
+Pollen
+Population Dynamics
+Trees
+pid=S0001-37652008000200012&
+Adult
+Analysis of Variance
+Anti-Anxiety Agents
+Bromazepam
+Double-Blind Method
+Electroencephalography
+Female
+Humans
+Male
+Motor Cortex
+pid=S0001-37652008000200011&
+Animals
+Artemia
+Biomphalaria
+Molluscacides
+Naphthoquinones
+pid=S0001-37652008000200010&
+Algae, Red
+Brazil
+pid=S0001-37652008000200009&
+Animals
+Antibodies, Viral
+Dengue Vaccines
+Dengue Virus
+Macaca mulatta
+RNA, Viral
+Recombination, Genetic
+Reverse Transcriptase Polymerase Chain Reaction
+Vaccines, Attenuated
+Viral Load
+Viremia
+Virus Replication
+Yellow Fever Vaccine
+Yellow fever virus
+pid=S0001-37652008000200008&
+Animals
+Exercise Test
+Male
+Maze Learning
+Memory
+Physical Conditioning, Animal
+Rats
+Rats, Wistar
+Spatial Behavior
+Stress, Psychological
+Time Factors
+pid=S0001-37652008000200007&
+Amphibia
+Animals
+Brazil
+Ecosystem
+Population Density
+Reptiles
+Trees
+Tropical Climate
+pid=S0001-37652008000200005&
+Acetogenins
+Animals
+Annona
+Anthelmintics
+Haemonchus
+Ovum
+Parasitic Sensitivity Tests
+Plant Extracts
+Seeds
+Spectrum Analysis
+pid=S0001-37652008000200003&
+Azo Compounds
+Bromates
+Bromides
+Capsules
+Coloring Agents
+Indigotindisulfonate Sodium
+Pharmaceutical Preparations
+Reproducibility of Results
+Sensitivity and Specificity
+Spectrophotometry
+Stavudine
+Tablets
+Thymolphthalein
+Titrimetry
+pid=S0042-96862008000700017&
+Communicable Disease Control
+Directly Observed Therapy
+Financial Support
+Financing, Organized
+Health Care Costs
+Health Expenditures
+Health Planning Guidelines
+Health Priorities
+Health Services Needs and Demand
+Humans
+International Cooperation
+Models, Econometric
+Organizational Objectives
+Tuberculosis
+World Health
+World Health Organization
+pid=S0042-96862008000700016&
+Adolescent
+Adult
+Africa
+Antiretroviral Therapy, Highly Active
+Asia
+CD4 Lymphocyte Count
+Continuity of Patient Care
+Developing Countries
+Female
+HIV Infections
+HIV-1
+Health Services Accessibility
+Humans
+International Cooperation
+Logistic Models
+Male
+Middle Aged
+Patient Acceptance of Health Care
+Program Evaluation
+Proportional Hazards Models
+Public Health Informatics
+Risk Factors
+South America
+pid=S0042-96862008000700014&
+Africa, Western
+Antipsychotic Agents
+Asia, Southeastern
+Community Mental Health Services
+Cost-Benefit Analysis
+Developing Countries
+Health Care Costs
+Humans
+Mentally Ill Persons
+Models, Econometric
+Models, Organizational
+Psychotherapy
+Public Health Informatics
+Quality-Adjusted Life Years
+Schizophrenia
+South America
+World Health Organization
+pid=S0042-96862008000700015&
+Adolescent
+Adult
+African Continental Ancestry Group
+Autopsy
+Crime Victims
+Cross-Sectional Studies
+Death Certificates
+European Continental Ancestry Group
+Female
+Firearms
+Homicide
+Humans
+Incidence
+Logistic Models
+Male
+Middle Aged
+Public Health
+Registries
+Risk Factors
+Sexual Partners
+Social Class
+South Africa
+Suicide
+Women
+pid=S0042-96862008000700013&
+Adult
+Aged
+Agriculture
+Cardiovascular Diseases
+Cholesterol
+Diet Surveys
+Dietary Fats
+Dietary Fats, Unsaturated
+Energy Intake
+Europe
+European Union
+Fatty Acids
+Female
+Food Supply
+Humans
+Male
+Middle Aged
+Nutrition Policy
+Probability
+Risk Factors
+Stroke
+pid=S0042-96862008000700012&
+Budgets
+Cost-Benefit Analysis
+Data Collection
+Developing Countries
+Diffusion of Innovation
+Evidence-Based Medicine
+Humans
+Information Dissemination
+Interdisciplinary Communication
+International Agencies
+Interviews as Topic
+Knowledge Bases
+Politics
+Public Health Administration
+Public Health Informatics
+Research Support as Topic
+pid=S0042-96862008000700011&
+Africa
+Cost of Illness
+Forecasting
+Health Expenditures
+Health Manpower
+Health Services Needs and Demand
+Healthcare Disparities
+Humans
+Models, Statistical
+Needs Assessment
+Physicians
+World Health
+pid=S0042-96862008000700010&
+Actuarial Analysis
+pidemiology
+Continuity of Patient Care
+Developing Countries
+Humans
+Incidence
+India
+Interviews as Topic
+Neoplasms
+Questionnaires
+Registries
+Survival Analysis
+pid=S0042-96862008000700008&
+Communicable Disease Control
+Communicable Diseases, Emerging
+Ghana
+Humans
+Incidence
+Penicillin G, Benzathine
+Treponema pallidum
+Yaws
+pid=S0042-96862008000700007&
+Health Services, Indigenous
+Humans
+New Zealand
+Oceanic Ancestry Group
+Primary Health Care
+pid=S0042-96862008000700006&
+Developed Countries
+Developing Countries
+Food Supply
+Humans
+International Agencies
+International Cooperation
+Nutrition Surveys
+World Health
+pid=S0042-96862008000700005&
+Humans
+Medical Errors
+Practice Guidelines as Topic
+Safety Management
+Surgical Procedures, Operative
+World Health
+World Health Organization
+pid=S0042-96862008000700004&
+Evidence-Based Medicine
+Health Education
+Humans
+Interdisciplinary Communication
+Periodicals as Topic
+Public Health Practice
+Research
+pid=S0042-96862008000700003&
+Communicable Disease Control
+Community-Institutional Relations
+Humans
+International Cooperation
+Organizational Objectives
+Program Development
+Treponema pallidum
+World Health
+World Health Organization
+Yaws
+pid=S0213-91112008000200007&
+Adult
+Cross-Sectional Studies
+Female
+Humans
+Male
+Needle-Exchange Programs
+Risk-Taking
+Socioeconomic Factors
+Spain
+Substance Abuse, Intravenous
+Syringes
+pid=S1519-69842008000100010&
+Animals
+Body Size
+Body Weight
+Brazil
+Cladocera
+Copepoda
+Female
+Ovum
+Zooplankton
+pid=S1519-69842008000100032&
+Animals
+Decapoda (Crustacea
+Feeding Behavior
+Larva
+Stomach
+pid=S1519-69842008000100031&
+Animals
+Brazil
+Ecosystem
+Insects
+Larva
+Principal Component Analysis
+pid=S1519-69842008000100030&
+Animals
+Brazil
+Citrus
+Larva
+pidoptera
+Population Density
+Population Dynamics
+pid=S1519-69842008000100029&
+Animals
+Brazil
+Crustacea
+Female
+Lizards
+Lung
+Male
+pid=S1519-69842008000100028&
+Animals
+Brazil
+Colubridae
+Crustacea
+Female
+Lung
+Male
+Prevalence
+pid=S1519-69842008000100027&
+Animals
+Brazil
+Female
+Fishes
+Male
+Oocytes
+Reproduction
+Seasons
+Sexual Maturation
+pid=S1519-69842008000100026&
+Animals
+Animals, Laboratory
+Female
+Palinuridae
+pid=S1519-69842008000100025&
+Animals
+Gram-Negative Bacteria
+Larva
+Penaeidae
+Survival Analysis
+Time Factors
+pid=S1519-69842008000100024&
+Animals
+Brazil
+Cichlids
+Ciliophora
+pid=S1519-69842008000100023&
+Animals
+Female
+Hemiptera
+Host-Parasite Interactions
+Hymenoptera
+Odors
+Ovum
+pid=S1519-69842008000100022&
+Animals
+Antimutagenic Agents
+Bixaceae
+Bone Marrow Cells
+Cyclophosphamide
+Erythrocytes
+Male
+Mice
+Micronucleus Tests
+Mitomycin
+Mutagens
+Plant Extracts
+pid=S1519-69842008000100021&
+Animals
+Dose-Response Relationship, Drug
+Female
+Gastrointestinal Hormones
+Kidney Glomerulus
+Kidney Tubules
+Male
+Natriuresis
+Natriuretic Peptides
+Plant Proteins
+Protease Inhibitors
+Rats
+Rats, Inbred WKY
+pid=S1519-69842008000100020&
+Animals
+Annona
+Antimutagenic Agents
+Bone Marrow
+Dose-Response Relationship, Drug
+Erythrocytes, Abnormal
+Male
+Mice
+Micronucleus Tests
+Plant Extracts
+pid=S1519-69842008000100019&
+Animals
+Argentina
+Bufonidae
+Ecosystem
+Female
+Male
+Population Density
+Sex Ratio
+pid=S1519-69842008000100018&
+Acclimatization
+Algae, Green
+Chlorophyll
+Photoperiod
+Photosynthesis
+Spectrometry, Fluorescence
+Sunlight
+Temperature
+Tropical Climate
+pid=S1519-69842008000100017&
+Animals
+Body Size
+Diptera
+Female
+Fertility
+Male
+Population Dynamics
+Seasons
+pid=S1519-69842008000100016&
+Algae
+Biodegradation, Environmental
+Carbon
+Electric Conductivity
+Fresh Water
+Hydrogen-Ion Concentration
+Oxygen Consumption
+Phytoplankton
+pid=S1519-69842008000100015&
+Animals
+Brazil
+Feeding Behavior
+Female
+Gastrointestinal Contents
+Lizards
+Male
+pid=S1519-69842008000100014&
+Animals
+Anura
+Biodiversity
+Brazil
+Population Density
+pid=S1519-69842008000100013&
+Algae
+Angiosperms
+Animals
+Brazil
+Environmental Monitoring
+Metals, Heavy
+Ostreidae
+Seawater
+Spectrophotometry, Atomic
+Water Pollutants, Chemical
+pid=S1519-69842008000100012&
+Animals
+Brazil
+Fisheries
+Humans
+Income
+Linear Models
+Rivers
+pid=S1519-69842008000100011&
+Animal Feed
+Animals
+Aquaculture
+Fishes
+Fresh Water
+Larva
+Time Factors
+Zooplankton
+pid=S1519-69842008000100009&
+Angiosperms
+Biodegradation, Environmental
+Fresh Water
+Minerals
+Models, Biological
+Oxygen Consumption
+Time Factors
+pid=S1519-69842008000100008&
+Animals
+Brazil
+Daphnia
+Environmental Monitoring
+Geologic Sediments
+Rivers
+Toxicity Tests
+Water Pollutants, Chemical
+pid=S1519-69842008000100007&
+Animals
+Behavior, Animal
+Brazil
+Fishes
+Oxygen
+Rivers
+pid=S1519-69842008000100006&
+Animals
+Brazil
+Circadian Rhythm
+Fishes
+Population Dynamics
+Seasons
+pid=S1519-69842008000100005&
+Brazil
+Environmental Monitoring
+Poaceae
+Population Density
+Population Dynamics
+Seasons
+Soil
+pid=S1519-69842008000100004&
+Animals
+Brazil
+Conservation of Natural Resources
+Grasshoppers
+Population Dynamics
+pid=S1519-69842008000100003&
+Animals
+Ants
+Brazil
+Conservation of Natural Resources
+Ecosystem
+Eucalyptus
+Trees
+pid=S1519-69842008000100002&
+Brazil
+Melastomataceae
+Plant Leaves
+Population Density
+pid=S0001-37652008000100015&
+Animals
+Anthozoa
+Brazil
+Geologic Sediments
+Population Density
+Population Dynamics
+Seawater
+Water Movements
+pid=S0001-37652008000100014&
+Brazil
+Carbon Radioisotopes
+Climate
+Ecosystem
+Geologic Sediments
+Humans
+Paleontology
+Pollen
+Population Dynamics
+Trees
+Water Movements
+pid=S0001-37652008000100013&
+Acetaminophen
+Analgesics, Non-Narcotic
+Animals
+Antioxidants
+Cyclic N-Oxides
+Hepatitis, Toxic
+Inflammation
+Mice
+Nitric Oxide Synthase
+Oxidation-Reduction
+Spin Labels
+pid=S0001-37652008000100012&
+Adipocytes
+Adipogenesis
+Case-Control Studies
+Collagen Type XVIII
+Diabetes Mellitus, Type 2
+Endostatins
+Female
+Gene Expression
+Genetic Predisposition to Disease
+Humans
+Male
+Middle Aged
+Obesity
+Polymerase Chain Reaction
+Polymorphism, Genetic
+pid=S0001-37652008000100011&
+Animals
+Imaging, Three-Dimensional
+Microscopy, Electron
+RNA Polymerase II
+Transcription, Genetic
+Trypanosoma cruzi
+pid=S0001-37652008000100010&
+Adult
+Amygdala
+Case-Control Studies
+Female
+Hippocampus
+Humans
+Magnetic Resonance Imaging
+Male
+Middle Aged
+Panic Disorder
+Reproducibility of Results
+pid=S0001-37652008000100009&
+Animals
+Apoptosis
+Calcium
+Carcinoma 256, Walker
+Chelating Agents
+Deferoxamine
+Egtazic Acid
+Flow Cytometry
+Lymphocyte Activation
+Lymphocytes
+Male
+Membrane Potentials
+Mitochondria
+Nifedipine
+Oxidation-Reduction
+Oxidative Stress
+Rats
+Rats, Wistar
+Siderophores
+Spleen
+Time Factors
+tert-Butylhydroperoxide
+pid=S0001-37652008000100008&
+Amino Acid Chloromethyl Ketones
+Animals
+Apoptosis
+CD4-Positive T-Lymphocytes
+CD8-Positive T-Lymphocytes
+Caspase 8
+Cysteine Proteinase Inhibitors
+Female
+Immunity, Cellular
+Interferon Type II
+Leishmania major
+Leishmaniasis, Cutaneous
+Lymph Nodes
+Mice
+Mice, Inbred C57BL
+pid=S0001-37652008000100007&
+Animals
+Avoidance Learning
+Hippocampus
+Humans
+Long-Term Potentiation
+Memory
+Rats
+pid=S0001-37652008000100006&
+Brazil
+Carbon
+Conservation of Natural Resources
+Ecosystem
+Forestry
+Humans
+Natural Disasters
+Trees
+pid=S0001-37652008000100005&
+Animals
+Disease Models, Animal
+Genotype
+Haplotypes
+Interferon Type II
+Interleukin-12
+Major Histocompatibility Complex
+Mice
+Mice, Inbred Strains
+Myeloid Differentiation Factor 88
+Time Factors
+Toll-Like Receptors
+Toxoplasma
+Toxoplasmosis, Animal
+Toxoplasmosis, Cerebral
+Virulence
+pid=S1806-83242007000300015&
+Adult
+Bite Force
+Bruxism
+Case-Control Studies
+Female
+Humans
+Male
+Sex Factors
+Statistics, Nonparametric
+Stress, Psychological
+Temporomandibular Joint Disorders
+pid=S1806-83242007000300014&
+Adult
+Aged
+Aged, 80 and over
+Carcinoma, Squamous Cell
+Cranial Irradiation
+Dose-Response Relationship, Radiation
+Female
+Head and Neck Neoplasms
+Humans
+Linear Models
+Male
+Middle Aged
+Mouth Mucosa
+Osteoradionecrosis
+Saliva
+Salivary Glands
+Salivation
+Secretory Rate
+Xerostomia
+pid=S1806-83242007000300013&
+Dislocations
+Female
+Humans
+Magnetic Resonance Imaging
+Male
+Mandible
+Movement
+Retrospective Studies
+Temporomandibular Joint Disk
+pid=S1806-83242007000300012&
+Adolescent
+Age Determination by Teeth
+Child
+Child, Preschool
+Dental Care for Disabled
+Dentition, Permanent
+Down Syndrome
+Female
+Humans
+Male
+Molar, Third
+Radiography, Panoramic
+Sex Factors
+Tooth Calcification
+pid=S1806-83242007000300011&
+Analysis of Variance
+Dental Alloys
+Dental Instruments
+Dental Leakage
+Device Removal
+Humans
+Post and Core Technique
+Root Canal Filling Materials
+Root Canal Preparation
+Root Canal Therapy
+Tooth Fractures
+Ultrasonics
+pid=S1806-83242007000300010&
+Alendronate
+Alveolar Bone Loss
+Alveolar Process
+Analysis of Variance
+Animals
+Antilipemic Agents
+Bone Density
+Bone Density Conservation Agents
+Disease Models, Animal
+Drug Evaluation, Preclinical
+Estrogens
+Female
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypercholesterolemia
+Mandible
+Osteoporosis
+Ovariectomy
+Random Allocation
+Rats
+Rats, Wistar
+Simvastatin
+pid=S1806-83242007000300009&
+Adult
+Alveolar Bone Loss
+Bone Regeneration
+Combined Modality Therapy
+Debridement
+Dental Enamel Proteins
+Dental Plaque Index
+Double-Blind Method
+Female
+Follow-Up Studies
+Gingival Recession
+Humans
+Male
+Periodontal Attachment Loss
+Surgical Flaps
+Tooth Root
+pid=S1806-83242007000300008&
+Cariostatic Agents
+Child, Preschool
+Dentifrices
+pidemiologic Methods
+Female
+Flavoring Agents
+Fluorides
+Fluorosis, Dental
+Humans
+Male
+Toothbrushing
+Toothpaste
+pid=S1806-83242007000300007&
+Adolescent
+Adult
+Cariostatic Agents
+Child
+Colony Count, Microbial
+Dental Caries
+Dental Caries Susceptibility
+Dental Enamel
+Elastomers
+Female
+Fluorides, Topical
+Humans
+Male
+Orthodontic Appliances
+Saliva
+Streptococcus mutans
+Tooth Demineralization
+pid=S1806-83242007000300006&
+Animals
+Bone Substitutes
+Bone and Bones
+Drug Evaluation, Preclinical
+Fibrin Tissue Adhesive
+Gelatin
+Gelatin Sponge, Absorbable
+Osteogenesis
+Rats
+Tibia
+Wound Healing
+pid=S1806-83242007000300005&
+Alveolar Bone Loss
+Animals
+Bone Resorption
+Disease Models, Animal
+Germ-Free Life
+Ligation
+Male
+Maxillary Diseases
+Periodontitis
+Rats
+Rats, Wistar
+pid=S1806-83242007000300004&
+Biocompatible Materials
+Corrosion
+Dental Alloys
+Electrochemistry
+Electrodes
+Hydrogen-Ion Concentration
+Materials Testing
+Models, Theoretical
+Oxidation-Reduction
+Platinum
+Saliva, Artificial
+Solutions
+pid=S1806-83242007000300003&
+Compressive Strength
+Glass Ionomer Cements
+Materials Testing
+Resin Cements
+Statistics, Nonparametric
+Stress, Mechanical
+Surface Properties
+pid=S1806-83242007000300002&
+Adolescent
+Age Distribution
+Brazil
+Cariostatic Agents
+Child
+Dental Caries
+Dental Health Surveys
+Dentifrices
+Female
+Fluoridation
+Fluorides
+Fluorosis, Dental
+Humans
+Male
+Prevalence
+Severity of Illness Index
+Students
+Urban Population
+Water Supply
+pid=S0004-27302007000700023&
+Administration, Intranasal
+Adult
+Craniopharyngioma
+Creatine Kinase
+Dehydration
+pidus
+Drinking
+Humans
+Hypernatremia
+Male
+Pituitary Neoplasms
+Postoperative Complications
+Rhabdomyolysis
+Thirst
+pid=S0004-27302007000700021&
+Aged
+Female
+Humans
+Organophosphorus Compounds
+Organotechnetium Compounds
+Parathyroid Glands
+Radiopharmaceuticals
+Sensitivity and Specificity
+Technetium Tc 99m Sestamibi
+pid=S0004-27302007000700020&
+Adolescent
+Adult
+Aged
+Apolipoprotein A-I
+Apolipoproteins B
+Arterial Occlusive Diseases
+Arteriolosclerosis
+Biological Markers
+Brain Ischemia
+Child
+Cholesterol, HDL
+Coronary Artery Disease
+pidemiologic Methods
+Female
+Humans
+Male
+Middle Aged
+Pedigree
+Peripheral Vascular Diseases
+Risk Factors
+Smoking
+Stroke
+Triglycerides
+pid=S0004-27302007000700016&
+Adult
+Anthropometry
+Biological Markers
+Blood Glucose
+Chile
+pidemiologic Methods
+Female
+Homeostasis
+Humans
+Insulin
+Male
+Metabolic Syndrome X
+Proinsulin
+pid=S0004-27302007000700014&
+Adrenocorticotropic Hormone
+Adult
+Case-Control Studies
+Cushing Syndrome
+Female
+Ghrelin
+Growth Hormone-Releasing Hormone
+Human Growth Hormone
+Humans
+Hydrocortisone
+Ketoconazole
+Male
+Middle Aged
+Oligopeptides
+Peptide Hormones
+Radioimmunoassay
+Statistics, Nonparametric
+Time Factors
+pid=S0004-27302007000700013&
+Adult
+Analysis of Variance
+Blood Glucose
+Blood Pressure
+Body Mass Index
+Female
+Hormones
+Humans
+Hypertension
+Insulin
+Insulin Resistance
+Obesity
+Overweight
+Polycystic Ovary Syndrome
+Retrospective Studies
+Statistics, Nonparametric
+pid=S0004-27302007000700012&
+Adolescent
+Adult
+Child
+DNA Mutational Analysis
+Female
+Genetic Predisposition to Disease
+Homeodomain Proteins
+Humans
+Hypopituitarism
+Magnetic Resonance Imaging
+Male
+Mutation, Missense
+Pituitary Hormones, Posterior
+Sequence Analysis, DNA
+Transcription Factor Pit-1
+Transcription Factors
+pid=S0104-11692008000200023&
+Esthetics
+Nursing
+Smell
+pid=S0104-11692008000200006&
+Brazil
+Employment
+Nursing
+pid=S0104-11692008000200024&
+Family Nursing
+Social Support
+pid=S0104-11692008000200022&
+Injury Severity Score
+Time Factors
+pid=S0104-11692008000200020&
+Adolescent
+Alcohol Drinking
+Conduct Disorder
+Female
+Humans
+Male
+Mexico
+pid=S0104-11692008000200019&
+Adolescent
+Adult
+Aged
+Brazil
+Cross-Sectional Studies
+Family Health
+Female
+Humans
+Male
+Middle Aged
+Poverty
+Substance-Related Disorders
+pid=S0104-11692008000200018&
+Brazil
+Hospitalization
+pid=S0104-11692008000200017&
+Adolescent
+Brazil
+Female
+Humans
+Interviews as Topic
+Poverty
+Pregnancy
+Pregnancy in Adolescence
+pid=S0104-11692008000200016&
+Adult
+Delivery, Obstetric
+Episiotomy
+Female
+Humans
+Perineum
+Suture Techniques
+pid=S0104-11692008000200015&
+Adult
+Costs and Cost Analysis
+Drug Utilization
+Female
+Humans
+Pregnancy
+Pregnancy Complications
+Risk Factors
+pid=S0104-11692008000200014&
+Adaptation, Psychological
+Adult
+Child
+Family Health
+Female
+HIV Infections
+Humans
+Interviews as Topic
+Mothers
+pid=S0104-11692008000200013&
+Adolescent
+Adult
+Burns
+Female
+Humans
+Male
+Middle Aged
+Quality of Life
+pid=S0104-11692008000200012&
+Anemia
+Child
+Cross-Sectional Studies
+Female
+Humans
+Male
+Socioeconomic Factors
+pid=S0104-11692008000200011&
+Aged
+Cross-Sectional Studies
+Diabetes Mellitus, Type 2
+Female
+Humans
+Male
+Middle Aged
+Risk Factors
+pid=S0104-11692008000200010&
+Adult
+Aged
+Diabetes Mellitus
+Female
+Humans
+Male
+Middle Aged
+Patient Education as Topic
+Program Evaluation
+Prospective Studies
+pid=S0104-11692008000200009&
+Adolescent
+Brazil
+Child
+Cultural Characteristics
+Diabetes Mellitus
+Female
+Humans
+Male
+Quality of Life
+Questionnaires
+pid=S0104-11692008000200008&
+Aged
+Aged, 80 and over
+Female
+Humans
+Intensive Care Units
+Male
+Middle Aged
+Nursing
+Workload
+pid=S0104-11692008000200007&
+Intensive Care
+Nursing
+Self Care
+Spirituality
+pid=S0104-11692008000200005&
+Adult
+Depression
+Female
+Health Status
+Humans
+Male
+Mental Health
+Self Concept
+Students, Nursing
+pid=S0104-11692008000200004&
+Brazil
+Education, Nursing
+Emergency Nursing
+pid=S0104-11692008000200003&
+Nursing
+Personal Autonomy
+Professional Autonomy
+pid=S0104-11692008000200002&
+Clinical Competence
+Competency-Based Education
+Education, Nursing
+pid=S0104-11692008000200001&
+Health Manpower
+Nursing
+pid=S0074-02762007000700008&
+Animals
+Female
+Male
+Peru
+Psychodidae
+pid=S0036-46652008000200014&
+AIDS-Related Opportunistic Infections
+Adult
+Anti-Infective Agents
+Humans
+Male
+Nocardia Infections
+Nocardia asteroides
+Psoas Abscess
+pid=S0036-46652008000200013&
+Adult
+Female
+Gastric Bypass
+Gastroplasty
+Hepatitis B
+Hepatitis B Vaccines
+Humans
+Obesity
+pid=S0036-46652008000200012&
+Adult
+Female
+Hepatitis A
+Hepatitis A Antibodies
+Humans
+Immunoglobulin M
+Immunoglobulins, Intravenous
+Immunologic Factors
+Lymphohistiocytosis, Hemophagocytic
+pid=S0036-46652008000200011&
+Adolescent
+Adult
+Aged
+Animals
+Antiparasitic Agents
+Child
+Child, Preschool
+Female
+Humans
+Infant
+Ivermectin
+Lice Infestations
+Male
+Middle Aged
+Pediculus
+Poverty Areas
+Scalp Dermatoses
+Self-Examination
+Sensitivity and Specificity
+pid=S0036-46652008000200010&
+Adolescent
+Adult
+Aged
+Animals
+Brazil
+Child
+Endemic Diseases
+Female
+Humans
+Hypertension, Portal
+Liver Cirrhosis
+Liver Diseases, Parasitic
+Male
+Middle Aged
+Prevalence
+Schistosomiasis mansoni
+pid=S0036-46652008000200009&
+Animals
+Birds
+Chagas Disease
+Dogs
+Feeding Behavior
+Humans
+Insect Vectors
+Mice
+Opossums
+Panama
+Rhodnius
+Trypanosoma
+pid=S0036-46652008000200008&
+Animals
+Culex
+Egypt
+Insecticides
+Larva
+Lethal Dose 50
+Mosquito Control
+Plant Oils
+pid=S0036-46652008000200007&
+Animals
+Antibodies, Helminth
+Cats
+Child
+Child, Preschool
+Dogs
+Enzyme-Linked Immunosorbent Assay
+Feces
+Female
+Humans
+Immunoglobulin G
+Infant
+Intestinal Diseases, Parasitic
+Male
+Peru
+Prevalence
+Risk Factors
+Severity of Illness Index
+Toxocara
+Toxocariasis
+pid=S0036-46652008000200006&
+Animals
+Antigens, Viral
+Brain
+Brazil
+Chiroptera
+Mice
+Nucleoproteins
+Phylogeny
+Rabies virus
+Reverse Transcriptase Polymerase Chain Reaction
+Sequence Analysis, DNA
+pid=S0036-46652008000200005&
+Base Sequence
+Brazil
+DNA Primers
+Disease Outbreaks
+Encephalitis, Viral
+Flavivirus
+Flavivirus Infections
+Humans
+Molecular Sequence Data
+Phylogeny
+RNA, Viral
+Reverse Transcriptase Polymerase Chain Reaction
+Viral Nonstructural Proteins
+Viral Proteins
+pid=S0036-46652008000200004&
+Colitis, Ulcerative
+Colorectal Neoplasms
+Cytomegalovirus
+Cytomegalovirus Infections
+DNA, Viral
+Humans
+Immunohistochemistry
+Polymerase Chain Reaction
+pid=S0036-46652008000200003&
+Anti-Bacterial Agents
+Antibiotic Prophylaxis
+Cefazolin
+Cesarean Section
+Female
+Humans
+Pregnancy
+Program Evaluation
+Prospective Studies
+Surgical Wound Infection
+pid=S0036-46652008000200002&
+AIDS-Related Opportunistic Infections
+Adult
+Aged
+Amphotericin B
+Antifungal Agents
+Brazil
+Cryptococcosis
+Female
+Fluconazole
+Humans
+Male
+Middle Aged
+Retrospective Studies
+pid=S0036-46652008000200001&
+Animals
+Chagas Cardiomyopathy
+Chronic Disease
+Cytokines
+Humans
+Inflammation
+pid=S0037-86822008000100019&
+Child, Preschool
+Female
+Humans
+Neoplasm Invasiveness
+Neoplasm Recurrence, Local
+Papilloma
+Respiratory Tract Neoplasms
+pid=S0037-86822008000100018&
+Aged
+Amphotericin B
+Antiprotozoal Agents
+Humans
+Leishmaniasis, Mucocutaneous
+Liposomes
+Male
+Treatment Outcome
+pid=S0037-86822008000100013&
+Biological Markers
+Chagas Cardiomyopathy
+Depression
+Humans
+Inflammation
+Models, Biological
+Risk Factors
+pid=S0037-86822008000100010&
+Adult
+Aged
+Aged, 80 and over
+Female
+Hospital Mortality
+Hospitals, University
+Humans
+Male
+Middle Aged
+Prognosis
+Retrospective Studies
+Risk Factors
+Sepsis
+Survival Analysis
+pid=S0037-86822008000100003&
+Adult
+Antitubercular Agents
+Brazil
+pidemiologic Methods
+Extensively Drug-Resistant Tuberculosis
+Female
+Humans
+Isoniazid
+Male
+Middle Aged
+Rifampin
+Tuberculosis, Pulmonary
+Urban Population
+pid=S0037-86822008000100002&
+Biological Markers
+Case-Control Studies
+Cross-Sectional Studies
+Dengue
+Dengue Hemorrhagic Fever
+Female
+Humans
+Infant
+Interferon Type II
+Interleukin-6
+Male
+Tumor Necrosis Factor-alpha
+pid=S0037-86822008000100001&
+Antifungal Agents
+Candida
+DNA Primers
+DNA, Fungal
+Fluconazole
+Genotype
+Humans
+Mycological Typing Techniques
+Random Amplified Polymorphic DNA Technique
+pid=S1519-566X2008000100016&
+Animals
+Asteraceae
+Diptera
+Flowers
+Host-Parasite Interactions
+pid=S1519-566X2008000100015&
+Animals
+Asteraceae
+Brazil
+Diptera
+Flowers
+pid=S1519-566X2008000100014&
+Animals
+Brazil
+Crops, Agricultural
+Hemiptera
+pid=S1519-566X2008000100010&
+Animals
+Dietary Sucrose
+Ethanol
+Food Industry
+Hemiptera
+Saccharum
+pid=S1519-566X2008000100009&
+Animals
+Argentina
+Asteraceae
+Female
+Insects
+Male
+Pest Control, Biological
+South Africa
+pid=S1519-566X2008000100008&
+Animals
+Brazil
+Diptera
+pid=S1519-566X2008000100007&
+Animals
+Colombia
+Female
+Hemiptera
+pid=S1519-566X2008000100005&
+Animals
+Hemiptera
+Latin America
+pid=S1519-566X2008000100001&
+Altitude
+Animals
+Body Size
+Demography
+Wasps
+pid=S0074-02762007000700018&
+Adult
+Angiostrongylus cantonensis
+Animals
+Brazil
+Disease Vectors
+Female
+Humans
+Infant
+Male
+Meningoencephalitis
+Polymerase Chain Reaction
+Polymorphism, Restriction Fragment Length
+Rats
+Snails
+pid=S0074-02762007000700010&
+Adult
+Age Factors
+Aged
+Brazil
+Case-Control Studies
+Chagas Cardiomyopathy
+Chronic Disease
+Female
+Humans
+Middle Aged
+Multivariate Analysis
+Risk Factors
+Socioeconomic Factors
+pid=S0074-02762007000700003&
+Animals
+Antibodies, Bacterial
+Brazil
+Cats
+DNA, Bacterial
+Dogs
+Endemic Diseases
+Fleas
+Fluorescent Antibody Technique, Indirect
+Horses
+Humans
+Opossums
+Rickettsia
+Rickettsia Infections
+Ticks
+pid=S0074-02762007000700001&
+AIDS-Related Opportunistic Infections
+Acute Disease
+Brazil
+Cryptococcus neoformans
+DNA, Fungal
+Electrophoresis, Gel, Pulsed-Field
+Genotype
+Humans
+Meningoencephalitis
+Mycological Typing Techniques
+Random Amplified Polymorphic DNA Technique
+Variation (Genetics
+pid=S0074-02762007000700004&
+Animals
+Chagas Disease
+Construction Materials
+Female
+Housing
+Insect Vectors
+Male
+Mexico
+Population Density
+Risk Factors
+Seasons
+Triatoma
+pid=S0074-02762007000700006&
+Aged
+Aged, 80 and over
+Anti-HIV Agents
+Antiretroviral Therapy, Highly Active
+CD4 Lymphocyte Count
+Drug Resistance, Viral
+Female
+Genotype
+HIV Antibodies
+HIV Infections
+HIV-1
+Humans
+Male
+Middle Aged
+Phylogeny
+Viral Load
+Viremia
+pid=S0074-02762007000700011&
+Animals
+Anti-Bacterial Agents
+Brazil
+Drug Resistance, Bacterial
+Enterococcus
+Food Microbiology
+Microbial Sensitivity Tests
+Milk
+Poultry Products
+pid=S0074-02762007000700012&
+Aeromonas
+Anti-Bacterial Agents
+Antiporters
+Bacterial Proteins
+Chromosomes, Bacterial
+Lettuce
+Microbial Sensitivity Tests
+Phenotype
+Polymerase Chain Reaction
+Tetracycline
+Tetracycline Resistance
+pid=S0074-02762007000700013&
+Adolescent
+Adult
+Aged
+Brazil
+Cohort Studies
+Female
+Genotype
+Hepacivirus
+Hepatitis C, Chronic
+Humans
+Male
+Middle Aged
+Polymerase Chain Reaction
+Polymorphism, Restriction Fragment Length
+Polymorphism, Single Nucleotide
+RNA, Viral
+Retrospective Studies
+pid=S0074-02762007000700019&
+Animals
+Gene Expression
+Leishmania
+Promoter Regions (Genetics
+RNA Polymerase I
+RNA Splice Sites
+pid=S0074-02762007000700002&
+Adult
+Anti-HIV Agents
+Antiretroviral Therapy, Highly Active
+Brazil
+CD4 Lymphocyte Count
+Drug Resistance, Viral
+Female
+Genotype
+HIV Infections
+HIV Protease
+HIV Reverse Transcriptase
+HIV-1
+Humans
+Male
+Middle Aged
+Mutation
+Prevalence
+RNA, Viral
+Treatment Failure
+Viral Load
+pid=S0074-02762007000700015&
+Animals
+Female
+Insect Control
+Insect Vectors
+Male
+Population Density
+Psychodidae
+pid=S0074-02762007000700005&
+Adult
+Base Sequence
+Brazil
+Child
+Cluster Analysis
+Cohort Studies
+DNA, Viral
+Disease Transmission, Horizontal
+Female
+HIV Infections
+HIV-1
+Humans
+Phylogeny
+Polymerase Chain Reaction
+Variation (Genetics
+pid=S0074-02762007000700007&
+DNA, Bacterial
+DNA, Intergenic
+Klebsiella pneumoniae
+Polymerase Chain Reaction
+RNA, Ribosomal, 16S
+RNA, Ribosomal, 23S
+Reproducibility of Results
+Ribotyping
+pid=S0074-02762007000700016&
+Animals
+Base Sequence
+Cattle
+DNA, Helminth
+DNA, Ribosomal Spacer
+Humans
+Molecular Sequence Data
+Onchocerca volvulus
+Phylogeny
+Transcription, Genetic
+Variation (Genetics
+pid=S0074-02762007000700017&
+Angiogenesis Inhibitors
+Animals
+Disease Models, Animal
+Female
+Liver
+Liver Cirrhosis
+Male
+Mice
+Neovascularization, Pathologic
+Schistosomiasis mansoni
+Thalidomide
+pid=S0074-02762007000700009&
+Brazil
+Case-Control Studies
+Child
+Child, Preschool
+Diarrhea
+Endemic Diseases
+Escherichia coli
+Escherichia coli Infections
+Feces
+Humans
+Infant
+Polymerase Chain Reaction
+Serotyping
+pid=S0074-02762007000700014&
+Animals
+Cholesterol
+Detergents
+Fluorescent Antibody Technique
+Membrane Microdomains
+Microscopy, Electron, Transmission
+Microtubules
+Transferrin
+Trypanosoma cruzi
+pid=S0004-28032007000300017&
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Child
+Cholangiography
+Cholecystectomy, Laparoscopic
+Choledocholithiasis
+Female
+Fluoroscopy
+Humans
+Male
+Middle Aged
+Predictive Value of Tests
+Preoperative Care
+Prospective Studies
+Sensitivity and Specificity
+pid=S0004-28032007000300016&
+Absorptiometry, Photon
+Aged
+Bone Density
+Cross-Sectional Studies
+Endoscopy, Gastrointestinal
+Female
+Gastritis, Atrophic
+Helicobacter Infections
+Helicobacter pylori
+Humans
+Middle Aged
+Osteoporosis, Postmenopausal
+Severity of Illness Index
+pid=S0004-28032007000300014&
+Adenocarcinoma
+Aged
+Aged, 80 and over
+Biopsy
+Feasibility Studies
+Female
+Gastric Mucosa
+Gastroscopy
+Humans
+Male
+Middle Aged
+Stomach Neoplasms
+Treatment Outcome
+pid=S0004-28032007000300013&
+Cathartics
+Colon
+Colonoscopy
+Enema
+Female
+Humans
+Male
+Mannitol
+Middle Aged
+Patient Satisfaction
+Picolines
+Prospective Studies
+Single-Blind Method
+Time Factors
+pid=S0004-28032007000300012&
+Adult
+Aged
+Aged, 80 and over
+Biopsy
+Chronic Disease
+Female
+Gastric Mucosa
+Gastritis
+Helicobacter Infections
+Helicobacter pylori
+Humans
+Male
+Middle Aged
+Retrospective Studies
+Severity of Illness Index
+pid=S0004-28032007000300011&
+Adult
+Aged
+Aged, 80 and over
+Antigens, Tumor-Associated, Carbohydrate
+Ascitic Fluid
+Female
+Gastrectomy
+Humans
+Lymph Nodes
+Male
+Middle Aged
+Neoplasm Invasiveness
+Neoplasm Recurrence, Local
+Neoplasm Staging
+Peritoneal Lavage
+Stomach Neoplasms
+pid=S0004-28032007000300010&
+Adult
+Aged
+Case-Control Studies
+Collagen
+Fascia
+Hernia, Inguinal
+Humans
+Male
+Middle Aged
+Prospective Studies
+pid=S0004-28032007000300009&
+Adult
+Aged
+Deglutition
+Female
+Humans
+Male
+Middle Aged
+Reference Values
+Sex Factors
+pid=S0004-28032007000300001&
+Brazil
+Humans
+Liver Failure
+Liver Transplantation
+Patient Selection
+Severity of Illness Index
+Tissue and Organ Procurement
+Waiting Lists
+pid=S1020-49892008000400008&
+Case-Control Studies
+Child, Preschool
+Disease Outbreaks
+Female
+Gastroenteritis
+Humans
+Infant
+Male
+Nicaragua
+Rotavirus Infections
+pid=S1020-49892008000400006&
+Animals
+Bacteriological Techniques
+Ducks
+Feces
+Polymerase Chain Reaction
+Salmonella
+Trinidad and Tobago
+pid=S1020-49892008000400004&
+Adolescent
+Adult
+Child Abuse
+El Salvador
+Female
+Guatemala
+Humans
+Male
+Middle Aged
+Parenting
+Punishment
+pid=S1020-49892008000400001&
+Brazil
+Cost-Benefit Analysis
+Decision Trees
+Humans
+Infant
+Rotavirus Vaccines
+pid=S0042-96862008000600022&
+Adolescent
+Child
+Child, Preschool
+History, 20th Century
+Humans
+Influenza Vaccines
+International Cooperation
+Pneumonia
+Public Health
+Research
+World Health
+pid=S0042-96862008000600021&
+Clinical Trials as Topic
+Disclosure
+Humans
+Publication Bias
+pid=S0042-96862008000600019&
+Female
+Health Promotion
+Humans
+Mass Screening
+Reproductive Medicine
+Uterine Cervical Neoplasms
+pid=S0042-96862008000600018&
+Female
+Humans
+Mass Screening
+Organizational Objectives
+Papillomavirus Vaccines
+United Nations
+Uterine Cervical Neoplasms
+World Health
+pid=S0042-96862008000600017&
+Anemia, Sickle Cell
+Databases as Topic
+Health Services Needs and Demand
+Humans
+Mass Screening
+World Health
+beta-Thalassemia
+pid=S0042-96862008000600016&
+Anniversaries and Special Events
+Brazil
+Health Status Indicators
+Humans
+Immunization Programs
+Monitoring, Immunologic
+Nutrition Surveys
+pid=S0042-96862008000600015&
+Databases, Factual
+Developing Countries
+Health Policy
+Humans
+Mental Health Services
+Policy Making
+Questionnaires
+Reproducibility of Results
+World Health Organization
+pid=S0042-96862008000600014&
+Developing Countries
+Female
+Fetal Mortality
+Humans
+Pregnancy
+Time Factors
+pid=S0042-96862008000600013&
+Allied Health Personnel
+Birth Rate
+Community Health Services
+Data Collection
+Female
+Humans
+Infant Mortality
+Infant, Newborn
+Pakistan
+Perinatal Care
+Pilot Projects
+Pregnancy
+Program Development
+Program Evaluation
+Rural Population
+pid=S0042-96862008000600012&
+Antibody Formation
+Female
+Hepatitis B
+Hepatitis B Antibodies
+Hepatitis B Vaccines
+Humans
+Infant
+Male
+Philippines
+Polysaccharides
+Vaccines, Combined
+pid=S0042-96862008000600011&
+Adult
+Anthropometry
+Antiretroviral Therapy, Highly Active
+Body Mass Index
+CD4 Lymphocyte Count
+Cohort Studies
+Cote d´Ivoire
+Female
+Forecasting
+HIV Infections
+Humans
+Male
+Outcome Assessment (Health Care
+Treatment Outcome
+Viral Load
+pid=S0042-96862008000600010&
+Costs and Cost Analysis
+Health Services Research
+Humans
+Immunization Programs
+Program Evaluation
+Rural Population
+Vietnam
+pid=S0042-96862008000600008&
+Financial Support
+Humans
+Poverty
+Vaccines
+pid=S0042-96862008000600007&
+Developing Countries
+Fear
+Humans
+Immunization Programs
+Public Opinion
+Vaccines
+pid=S0042-96862008000600006&
+Anti-Retroviral Agents
+Community Health Services
+HIV Infections
+Health Services Accessibility
+Humans
+Uganda
+pid=S0042-96862008000600005&
+Health Personnel
+Humans
+Madagascar
+Primary Health Care
+Public Health
+pid=S1020-49892008000500006&
+Acculturation
+Adult
+Awareness
+Catchment Area (Health
+Coitus
+Florida
+HIV Infections
+Health Promotion
+Homosexuality, Male
+Humans
+Latin America
+Male
+Psychology
+Questionnaires
+Risk-Taking
+Substance-Related Disorders
+United States
+West Indies
+pid=S1020-49892008000500004&
+Adolescent
+Alcoholism
+Child
+Conduct Disorder
+Humans
+Puerto Rico
+Risk-Taking
+Schools
+Severity of Illness Index
+Sexual Behavior
+Students
+pid=S1020-49892008000500002&
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Child
+Child, Preschool
+Chile
+Cost-Benefit Analysis
+Demography
+Female
+Hepatitis A
+Hepatitis A Vaccines
+Humans
+Immunization
+Infant
+Infant, Newborn
+Male
+Middle Aged
+Models, Theoretical
+Preventive Health Services
+Universal Coverage
+pid=S0042-96862008000100016&
+Developing Countries
+Disease Transmission, Vertical
+Female
+HIV Infections
+Health Surveys
+Humans
+Infant, Newborn
+Organizational Objectives
+Pregnancy
+Pregnancy Complications, Infectious
+Program Evaluation
+Survival Rate
+pid=S0100-879X2007000700005&
+Adolescent
+Adult
+Analysis of Variance
+Apolipoproteins E
+DNA
+Deoxyribonucleases, Type II Site-Specific
+European Continental Ancestry Group
+Female
+Gene Frequency
+Genotype
+Humans
+pids
+Lipoprotein Lipase
+Polymerase Chain Reaction
+Polymorphism, Restriction Fragment Length
+Polymorphism, Single Nucleotide
+Postpartum Period
+Pregnancy
+Reference Values
+pid=S0004-27492007000600032&
+Fatal Outcome
+Fluorescein Angiography
+Humans
+Lymphoma, Non-Hodgkin
+Male
+Melanosis
+Middle Aged
+Neoplasm Recurrence, Local
+Retinal Diseases
+pid=S0004-27492007000600030&
+Adolescent
+Blood Glucose
+Cataract
+Diabetes Complications
+Humans
+Hyperopia
+Male
+Remission Induction
+pid=S0004-27492007000600020&
+Adolescent
+Adult
+Allergens
+Animals
+Biological Markers
+Cats
+Chi-Square Distribution
+Child
+Child, Preschool
+Conjunctivitis, Allergic
+Dogs
+Dust
+Feathers
+Female
+Fungi
+Humans
+Male
+Prospective Studies
+Severity of Illness Index
+Skin
+Skin Tests
+Statistics, Nonparametric
+pid=S0004-27492007000600019&
+Biomechanics
+Cadaver
+Cryoprotective Agents
+Glycerol
+Humans
+Organ Preservation Solutions
+Sclera
+Time Factors
+pid=S0004-27492007000600017&
+Adult
+Astigmatism
+Female
+Follow-Up Studies
+Humans
+Linear Models
+Male
+Middle Aged
+Myopia
+Photorefractive Keratectomy
+Postoperative Period
+Refraction, Ocular
+Retrospective Studies
+Safety
+Time Factors
+Treatment Outcome
+Visual Acuity
+pid=S0004-27492007000600016&
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Case-Control Studies
+Factor V
+Female
+Genetic Predisposition to Disease
+Genotype
+Humans
+Male
+Methylenetetrahydrofolate Reductase (NADPH2
+Middle Aged
+Mutation
+Odds Ratio
+Phenotype
+Polymerase Chain Reaction
+Prothrombin
+Retinal Vein Occlusion
+Risk Factors
+Thrombophilia
+pid=S0004-27492007000600015&
+Abducens Nerve Diseases
+Adolescent
+Adult
+Aged
+Child
+Esotropia
+Eyeglasses
+Follow-Up Studies
+Humans
+Middle Aged
+Oculomotor Muscles
+Ophthalmologic Surgical Procedures
+Preoperative Care
+Reoperation
+Retrospective Studies
+Time Factors
+Treatment Outcome
+pid=S0004-27492007000600005&
+Amides
+Analysis of Variance
+Animals
+Antihypertensive Agents
+Benzalkonium Compounds
+Biopsy
+Cloprostenol
+Conjunctiva
+Disease Models, Animal
+Female
+Goblet Cells
+Ophthalmic Solutions
+Prostaglandins F, Synthetic
+Prostaglandins, Synthetic
+Rabbits
+Staining and Labeling
+Time Factors
+Timolol
+pid=S0004-27492007000600004&
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Female
+Follow-Up Studies
+Humans
+Injections
+Intraocular Pressure
+Male
+Middle Aged
+Retinal Detachment
+Retrospective Studies
+Silicone Oils
+Suture Techniques
+Treatment Outcome
+Visual Acuity
+Vitrectomy
+pid=S0004-27492007000600003&
+Adolescent
+Adult
+Choroiditis
+Coloring Agents
+Female
+Fluorescein Angiography
+Humans
+Indocyanine Green
+Male
+Prospective Studies
+Recurrence
+Retinitis
+Toxoplasmosis, Ocular
+pid=S1807-59322007000400006&
+Anti-Bacterial Agents
+Half-Life
+Humans
+Infant, Newborn
+Infant, Premature, Diseases
+Metabolic Clearance Rate
+Prospective Studies
+Sepsis
+Vancomycin
+pid=S0716-97602007000400002&
+Animals
+Beetles
+Germination
+Light
+Mimosa
+Predatory Behavior
+Seeds
+Temperature
+pid=S0716-97602007000400011&
+Aged
+Carcinoma, Non-Small-Cell Lung
+Chile
+DNA Methylation
+Female
+Genes, p16
+Humans
+Lung Neoplasms
+Male
+Polymerase Chain Reaction
+Promoter Regions (Genetics
+Smoking
+pid=S0716-97602007000400010&
+Adult
+Aged
+Case-Control Studies
+Diabetes Mellitus, Type 2
+Diabetic Nephropathies
+Female
+Genetic Markers
+Genetic Predisposition to Disease
+Genotype
+Humans
+Male
+Membrane Proteins
+Middle Aged
+Pilot Projects
+Polymorphism, Genetic
+Promoter Regions (Genetics
+pid=S0716-97602007000400009&
+Cells, Cultured
+Chromatography, Gas
+Dermis
+Fibroblasts
+Humans
+Organic Chemicals
+Principal Component Analysis
+Volatilization
+pid=S0716-97602007000400008&
+Animals
+Cholinesterase Inhibitors
+Depression, Chemical
+Indans
+Male
+Morphine
+Phrenic Nerve
+Piperidines
+Rabbits
+Respiration
+pid=S0716-97602007000400007&
+Animals
+Area Under Curve
+Female
+Gonadotropin-Releasing Hormone
+Gonads
+Leuprolide
+Luteinizing Hormone
+Male
+Pregnancy
+Prenatal Exposure Delayed Effects
+Sheep
+Testosterone
+Time Factors
+pid=S0716-97602007000400006&
+Apoptosis
+Cells, Cultured
+Epithelial Cells
+Fallopian Tubes
+Female
+Gene Expression Regulation
+Humans
+Neisseria gonorrhoeae
+Oligonucleotide Array Sequence Analysis
+Proto-Oncogene Proteins c-bcl-2
+Receptors, Tumor Necrosis Factor
+Reverse Transcriptase Polymerase Chain Reaction
+Salpingitis
+pid=S0716-97602007000400004&
+Animals
+Chromosome Aberrations
+Cryopreservation
+Cryoprotective Agents
+Embryo, Mammalian
+Ethylene Glycol
+Freezing
+Mice
+Time Factors
+pid=S0716-97602007000400003&
+Cetrimonium Compounds
+DNA, Complementary
+Gene Expression Regulation, Plant
+Genetic Techniques
+Microarray Analysis
+RNA, Plant
+Reproducibility of Results
+Reverse Transcriptase Polymerase Chain Reaction
+Trees
+pid=S0716-97602007000400001&
+Animals
+Diptera
+Larva
+Microscopy, Electron, Scanning
+Ovum
+Rats
+pid=S0034-98872007000700001&
+Chile
+History, 16th Century
+History, 17th Century
+History, 18th Century
+History, 19th Century
+History, 20th Century
+History, 21st Century
+Periodicals as Topic
+Publishing
+Societies, Medical
+Time Factors
+pid=S0004-28032006000400014&
+Acute Disease
+Amylases
+Animals
+Body Temperature
+Caerulein
+Disease Models, Animal
+Edema
+Hyperthermia, Induced
+Inflammation Mediators
+Interleukin-1beta
+Interleukin-6
+Pancreatitis
+Rats
+Rats, Wistar
+Statistics, Nonparametric
+Tumor Necrosis Factor-alpha
+pid=S0004-28032006000400012&
+Analysis of Variance
+Anthropometry
+Body Height
+Body Size
+Body Weight
+Child Development
+Cholestasis, Extrahepatic
+Cholestasis, Intrahepatic
+Growth Disorders
+Humans
+Infant
+Infant, Newborn
+Jaundice, Neonatal
+Malnutrition
+Nutritional Status
+Triglycerides
+pid=S0004-28032006000400011&
+Amylases
+Biliary Tract Diseases
+C-Reactive Protein
+Capsule Endoscopes
+Catheterization
+Cholangiopancreatography, Endoscopic Retrograde
+Common Bile Duct
+Duodenoscopy
+Female
+Follow-Up Studies
+Humans
+Lipase
+Male
+Middle Aged
+Pancreatitis
+Punctures
+Time Factors
+Treatment Outcome
+pid=S0004-28032006000400009&
+Adult
+Aged
+Azure Stains
+Biopsy
+Carcinoma
+Enzyme-Linked Immunosorbent Assay
+Female
+Helicobacter Infections
+Helicobacter pylori
+Humans
+Male
+Middle Aged
+Prospective Studies
+Stomach
+Stomach Neoplasms
+Urease
+pid=S0004-28032006000400008&
+Adenocarcinoma
+Adult
+Aged
+Aged, 80 and over
+Apoptosis
+Cell Survival
+Female
+Humans
+Immunohistochemistry
+Male
+Middle Aged
+Neoplasm Invasiveness
+Neoplasm Staging
+Proto-Oncogene Proteins c-bcl-2
+Rectal Neoplasms
+Retrospective Studies
+Tumor Markers, Biological
+pid=S0004-28032006000400006&
+Adolescent
+Adult
+Aged
+Antiviral Agents
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+pidemiologic Methods
+Female
+Genotype
+Hepatitis C, Chronic
+Humans
+Interferon Alfa-2a
+Interferon Alfa-2b
+Male
+Middle Aged
+Patient Acceptance of Health Care
+Reverse Transcriptase Polymerase Chain Reaction
+Ribavirin
+Treatment Outcome
+Viral Load
+pid=S0004-28032006000400005&
+Ascites
+Body Weights and Measures
+Creatinine
+Diet Surveys
+Female
+Humans
+Liver Cirrhosis
+Male
+Middle Aged
+Nutritional Status
+Outpatients
+Protein-Energy Malnutrition
+Severity of Illness Index
+Sex Distribution
+Statistics, Nonparametric
+pid=S0004-28032006000400002&
+Brazil
+Bronchoscopes
+Candida
+Cross Infection
+Detergents
+Disinfectants
+Disinfection
+Endoscopes, Gastrointestinal
+Equipment Contamination
+Equipment Reuse
+Gram-Negative Bacteria
+Gram-Positive Bacteria
+Hospitals
+Humans
+pid=S0042-96862008000400004&
+Female
+Humans
+Mexico
+Midwifery
+Obstetrics
+Parturition
+Physician-Nurse Relations
+Pregnancy
+pid=S0042-96862008000500019&
+AIDS-Related Opportunistic Infections
+Child, Preschool
+Haemophilus Vaccines
+Health Status Disparities
+Healthcare Disparities
+Humans
+Incidence
+Infant
+Infant, Newborn
+Pneumococcal Vaccines
+Pneumonia
+Prevalence
+Respiratory Syncytial Virus Infections
+Risk Factors
+Socioeconomic Factors
+World Health
+pid=S0042-96862008000500018&
+Anti-Bacterial Agents
+Child, Preschool
+Community Health Services
+Developed Countries
+Developing Countries
+Health Services Accessibility
+Health Services Needs and Demand
+Health Status Disparities
+Healthcare Disparities
+Humans
+Immunization Programs
+Infant
+Infant, Newborn
+Pneumonia
+Quality of Health Care
+Socioeconomic Factors
+World Health
+pid=S0042-96862008000500017&
+Air Pollutants
+Air Pollution, Indoor
+Child, Preschool
+Coal
+Energy-Generating Resources
+Environmental Exposure
+Humans
+Infant
+Manure
+Pneumonia
+Risk Assessment
+Severity of Illness Index
+Wood
+World Health
+pid=S0042-96862008000500016&
+Africa
+Anti-Bacterial Agents
+Asia
+Case Management
+Child
+Clinical Protocols
+Community Health Aides
+Community Health Services
+Health Personnel
+Humans
+Pneumonia
+World Health
+pid=S0042-96862008000500015&
+AIDS-Related Opportunistic Infections
+Age Factors
+Child, Preschool
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Humans
+Infant
+Pneumococcal Vaccines
+Pneumonia, Pneumococcal
+Product Surveillance, Postmarketing
+Vaccines, Conjugate
+World Health Organization
+pid=S0042-96862008000500014&
+AIDS-Related Opportunistic Infections
+Child
+Financing, Organized
+Haemophilus Vaccines
+Humans
+International Cooperation
+Measles
+Pneumococcal Vaccines
+Pneumonia, Bacterial
+Sentinel Surveillance
+Whooping Cough
+World Health
+pid=S0042-96862008000500013&
+Acute Disease
+Breast Feeding
+Child
+Child Nutrition Disorders
+Dietary Supplements
+Humans
+Micronutrients
+Pneumonia
+Randomized Controlled Trials as Topic
+Respiratory Tract Infections
+World Health
+pid=S0042-96862008000500012&
+AIDS-Related Opportunistic Infections
+Anoxia
+Anti-Bacterial Agents
+Case Management
+Child
+Child Nutrition Disorders
+Child, Preschool
+Comorbidity
+Health Care Rationing
+Health Facilities
+Humans
+Infant
+Infant, Newborn
+Oxygen Inhalation Therapy
+Pneumonia
+Treatment Outcome
+Vitamin A
+Vitamins
+World Health
+pid=S0042-96862008000500011&
+Anoxia
+Child
+Health Services Accessibility
+Hospitals, District
+Hospitals, Pediatric
+Humans
+Inservice Training
+Malawi
+Oxygen Inhalation Therapy
+Pediatrics
+Pneumonia
+Staff Development
+State Medicine
+pid=S0042-96862008000500010&
+Anti-Bacterial Agents
+Child, Preschool
+Community Health Aides
+Community Health Services
+Health Services Accessibility
+Humans
+Infant
+Leadership
+Nepal
+Pneumonia, Bacterial
+Practice Guidelines as Topic
+Program Development
+Vitamin A
+Vitamins
+pid=S0042-96862008000500009&
+Age Factors
+Anti-Bacterial Agents
+Child, Preschool
+Drug Utilization
+Female
+Health Services Accessibility
+Humans
+Infant
+Male
+Patient Acceptance of Health Care
+Pneumonia, Bacterial
+Questionnaires
+Referral and Consultation
+Sex Factors
+Time Factors
+Uganda
+pid=S0042-96862008000500007&
+Child, Preschool
+Developing Countries
+Drug Resistance, Bacterial
+Home Care Services
+Humans
+Infant
+Pakistan
+Patient Acceptance of Health Care
+Pneumonia, Bacterial
+pid=S0042-96862008000500006&
+Community Health Services
+Cuba
+Humans
+Primary Health Care
+Primary Prevention
+Quality of Health Care
+State Medicine
+pid=S0042-96862008000500005&
+Child, Preschool
+Developing Countries
+Financing, Organized
+Humans
+Infant
+Pneumococcal Vaccines
+Pneumonia, Pneumococcal
+World Health
+pid=S0042-96862008000500004&
+AIDS-Related Opportunistic Infections
+Africa South of the Sahara
+Anti-Bacterial Agents
+Child, Preschool
+Health Services Accessibility
+Humans
+Infant
+Pneumonia
+World Health
+pid=S0042-96862008000500003&
+AIDS-Related Opportunistic Infections
+Anti-Bacterial Agents
+Antibiotic Prophylaxis
+Case Management
+Child, Preschool
+Haemophilus Vaccines
+Humans
+Infant
+Pneumococcal Vaccines
+Pneumonia
+Practice Guidelines as Topic
+Primary Prevention
+pid=S0042-96862008000500002&
+Anti-Bacterial Agents
+Child, Preschool
+Communicable Disease Control
+Health Promotion
+Health Services Accessibility
+Humans
+Pneumonia
+World Health
+pid=S0042-96862008000400018&
+Genetic Screening
+Genome, Human
+Health Policy
+Humans
+Mass Screening
+Public Health Practice
+pid=S0042-96862008000400017&
+Africa South of the Sahara
+Asia
+Asphyxia Neonatorum
+Fetal Death
+Humans
+Infant, Newborn
+Perinatal Mortality
+Resuscitation
+Stillbirth
+pid=S0042-96862008000400016&
+Anti-Retroviral Agents
+Data Collection
+HIV Infections
+Humans
+Malawi
+Medical Records
+Research Design
+pid=S0042-96862008000400015&
+Adolescent
+Adult
+Aged
+Child
+Child, Preschool
+Directive Counseling
+Female
+HIV Infections
+HIV Seropositivity
+HIV Seroprevalence
+Humans
+Infant
+Infant, Newborn
+Male
+Middle Aged
+Patient Acceptance of Health Care
+Sexual Partners
+Uganda
+pid=S0042-96862008000400014&
+Bacterial Capsules
+Child, Preschool
+Haemophilus Vaccines
+Haemophilus influenzae type b
+Humans
+Immunization Programs
+Infant
+Infant, Newborn
+Meningitis, Haemophilus
+Pneumonia, Bacterial
+Population Surveillance
+Uganda
+pid=S0042-96862008000400013&
+Child Nutrition Disorders
+Child, Preschool
+Developing Countries
+Health Status Disparities
+Humans
+Infant
+Infant, Newborn
+Socioeconomic Factors
+pid=S0042-96862008000400012&
+Child, Preschool
+Health Services, Indigenous
+Health Status Disparities
+Humans
+Infant
+Infant, Newborn
+Northern Territory
+Oceanic Ancestry Group
+Primary Health Care
+Retrospective Studies
+pid=S0042-96862008000400011&
+Adolescent
+Child
+Circumcision, Female
+Cross-Sectional Studies
+Egypt
+Female
+Humans
+Prevalence
+pid=S0042-96862008000400010&
+Adolescent
+Adult
+Asia
+Child
+Child, Preschool
+Drug Resistance, Multiple, Bacterial
+Endemic Diseases
+Humans
+Middle Aged
+Population Surveillance
+Prospective Studies
+Salmonella typhi
+Typhoid Fever
+pid=S0042-96862008000400009&
+Bangladesh
+Cesarean Section
+Cross-Sectional Studies
+Female
+Healthcare Disparities
+Home Childbirth
+Humans
+Maternal Health Services
+Maternal Mortality
+Maternal Welfare
+Midwifery
+Pregnancy
+Socioeconomic Factors
+pid=S0042-96862008000400007&
+Africa South of the Sahara
+Cross-Cultural Comparison
+Female
+Health Policy
+Health Priorities
+Humans
+Infant
+Infant Mortality
+Infant Welfare
+Infant, Newborn
+Maternal Mortality
+Pregnancy
