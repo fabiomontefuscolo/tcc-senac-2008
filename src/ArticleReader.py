@@ -74,7 +74,7 @@ class ArticleReader():
                 self.bigrama(listaDesc, listaSin, janela, word, i)
             #print "##"
             #raw_input()
-        print self.descritores           
+        #print self.descritores           
     
     def bigrama(self,listaDesc,listaSin,janela,palavra,i):
         if(i > 0 and len(palavra) > 2):
