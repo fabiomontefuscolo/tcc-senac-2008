@@ -15,11 +15,11 @@ def compare(article_qty,janela,tipos):
     precisao = 0.0
     cobertura = 0.0
     total =0.0
-    artigos_scielo = open(r"../scielo/artigos_para_leitura.txt",'r')
+    artigos_scielo = open(r"../scielo/arquivo.txt",'r')
     
     for i in artigos_scielo:
     #for i in range(1,article_qty+1):
-        print "Leitura do artigo ",i
+        #print "Leitura do artigo ",total, "-> " , i
         #scielo.extrair_conteudo(r'../in/Artigo'+str(i)+'.txt')
         scielo.extrair_conteudo2(r'../scielo/articles_clean/'+i[0:len(i)-1]+'.txt')
         try:
@@ -33,24 +33,27 @@ def compare(article_qty,janela,tipos):
             if (tipos[1] == "S"):
                 ar.navigate_tree(mh.tree,mh.desc_dic)
                 texto += " com a navegacao na arvore"     
-            print texto,":", ar.descritores
+            if (tipos[3] == "S"):
+                ar.navigate_tree(mh.tree,mh.desc_dic)
+                ar.filter_desc()
+            #print texto,":", ar.descritores
             if (tipos[2] == "S"):            
                 scielo.descritores_existentes(scielo.artigo,mh.sino_dic,janela)
-                print "Descritores Pre-definidos existentes no texto: ", scielo.desc_existentes
-                print len(scielo.desc_existentes) , "encontrados de " , len(scielo.descritores_definidos), "pre-definidos"
+                #print "Descritores Pre-definidos existentes no texto: ", scielo.desc_existentes
+                #print len(scielo.desc_existentes) , "encontrados de " , len(scielo.descritores_definidos), "pre-definidos"
                 precisao += scielo.precisao(ar.descritores,"E")
-                print "Precisao do artigo: ", scielo.precisao(ar.descritores,"E")
+                #print "Precisao do artigo: ", scielo.precisao(ar.descritores,"E")
                 cobertura += scielo.cobertura(ar.descritores,"E")
-                print "Cobertura do artigo: ", scielo.cobertura(ar.descritores,"E")
+                #print "Cobertura do artigo: ", scielo.cobertura(ar.descritores,"E")
                 
             else:
-                print "Descritores Pre-definidos no texto: ", scielo.descritores_definidos 
+                #print "Descritores Pre-definidos no texto: ", scielo.descritores_definidos 
                 precisao += scielo.precisao(ar.descritores, "D")
-                print "Precisao do artigo: ", scielo.precisao(ar.descritores,"D")
+                #print "Precisao do artigo: ", scielo.precisao(ar.descritores,"D")
                 cobertura += scielo.cobertura(ar.descritores,"D")
-                print "Cobertura do artigo: ", scielo.cobertura(ar.descritores,"D")
+                #print "Cobertura do artigo: ", scielo.cobertura(ar.descritores,"D")
             total += 1.0
-            print ""
+            #print ""
             #raw_input()
         except:
              pass
@@ -133,31 +136,45 @@ ar.set_word_filter(wf)
 #ar.compare(mh.desc_dic,mh.sino_dic)
 scielo = ArticleScielo()
 
-tipos_filtros = ["S" , "S" , "S"]
-print "Escolha os tipos de funcionalidades a serem utilizadas na comparacao (S/N)" 
-tipos_filtros[0] = raw_input("Filtar os descritores obtidos com um corte minimo de aparicoes? :")
-tipos_filtros[1] = raw_input("Efetuar a busca de descritores pais, navegando na arvore do Mesh? :")
-tipos_filtros[2] = raw_input("Comparar somente com os descritores que realmente estao no artigo? :")
+#tipos_filtros = ["S" , "S" , "S"]
+#print "Escolha os tipos de funcionalidades a serem utilizadas na comparacao (S/N)" 
+#tipos_filtros[0] = raw_input("Filtar os descritores obtidos com um corte minimo de aparicoes? :")
+#tipos_filtros[1] = raw_input("Efetuar a busca de descritores pais, navegando na arvore do Mesh? :")
+#tipos_filtros[2] = raw_input("Comparar somente com os descritores que realmente estao no artigo? :")
 n_artigos = 20
 janela = 3
-compare(n_artigos, janela, tipos_filtros)
-"""
+#compare(n_artigos, janela, tipos_filtros)
+
 print "Sem nenhum tratamento"
-tipos_filtros = ["N" , "N" , "N"]
+tipos_filtros = ["N" , "N" , "N" , "N"]
 compare(n_artigos, janela, tipos_filtros)
 
 print "Efetuando o corte nos descritores obtidos"
-tipos_filtros = ["S" , "N" , "N"]
+tipos_filtros = ["S" , "N" , "N", "N"]
+compare(n_artigos, janela, tipos_filtros)
+
+print "Corte dos descritores + Navegando na arvore do Mesh"
+tipos_filtros = ["S" , "S" , "N", "N"]
+compare(n_artigos, janela, tipos_filtros)
+
+print "Corte dos descritores + Navegando na arvore do Mesh + Removendo descritores pre-definos nao encontrados no artigo"
+tipos_filtros = ["S" , "S" , "S", "N"]
 compare(n_artigos, janela, tipos_filtros)
 
 print "Navegando na arvore do Mesh"
-tipos_filtros = ["S" , "S" , "N"]
+tipos_filtros = ["N" , "S" , "N", "N"]
 compare(n_artigos, janela, tipos_filtros)
 
-print "Removendo descritores pre-definos nao encontrados no artigo"
-tipos_filtros = ["S" , "S" , "S"]
+print "Navegando na arvore do Mesh + Removendo descritores pre-definos nao encontrados no artigo"
+tipos_filtros = ["N" , "S" , "S", "N"]
 compare(n_artigos, janela, tipos_filtros)
-"""
+
+print "Navegando na arvore antes do corte dos descritores"
+tipos_filtros = ["N" , "N" , "N", "S"]
+compare(n_artigos, janela, tipos_filtros)
+
+
+
 #mh.serialize(mh.desc_dic, open(r'../mesh/desc_dic','w'))
 #mh.serialize(mh.sino_dic, open(r'../mesh/sino_dic','w'))
 
