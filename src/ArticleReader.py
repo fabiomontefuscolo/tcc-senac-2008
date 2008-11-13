@@ -96,7 +96,7 @@ class ArticleReader():
             
 
  
-    def filter_desc(self):
+    def filter_desc_ocorrencias(self):
         if(self.descritores.__len__() > 0):
             self.descritores = sorted(self.descritores.items(),lambda x, y: cmp(x[1], y[1]), reverse=True)
             #print self.descritores.__getitem__(0)
@@ -115,6 +115,21 @@ class ArticleReader():
             #self.descritores.
             self.descritores = newdesc
             #print self.descritores
+
+    def filter_desc_quantidade(self):
+        #print "Filtro por quantidade"
+        if(self.descritores.__len__() > 0):
+            #print "Tamanho: ", self.descritores.__len__()
+            self.descritores = sorted(self.descritores.items(),lambda x, y: cmp(x[1], y[1]), reverse=True)
+            limite = self.descritores.__len__() / 10
+            #print "Limite: ", limite
+            newdesc ={}
+            for i in range(0,limite):
+                    #print "Descritor: ",i , self.descritores[i][0] , self.descritores[i][1]
+                    newdesc[self.descritores[i][0]] = self.descritores[i][1]
+            #print "Terminou loop"
+            self.descritores = newdesc
+            #print "Atribuiu os descritores"
 
     def navigate_tree(self,tree,desc_dic):
         descritores_pais = {}

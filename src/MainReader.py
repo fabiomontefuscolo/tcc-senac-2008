@@ -25,18 +25,29 @@ def compare(article_qty,janela,tipos):
         try:
             ar.set_conteudo(scielo.artigo)
             ar.prepar_conteudo()
+            
+            if (tipos[4] == "S"):
+                ar.useBigrama = "S"
+            
             ar.compare(mh.desc_dic,mh.sino_dic,janela)
             texto = "Descritores Obtidos"
             if (tipos[0] == "S"):
-                ar.filter_desc()
+                if (tipos[5] == "O"):
+                    ar.filter_desc_ocorrencias()
+                if (tipos[5] == "Q"):
+                    ar.filter_desc_quantidade()
                 texto += " com o corte"
             if (tipos[1] == "S"):
                 ar.navigate_tree(mh.tree,mh.desc_dic)
                 texto += " com a navegacao na arvore"     
             if (tipos[3] == "S"):
                 ar.navigate_tree(mh.tree,mh.desc_dic)
-                ar.filter_desc()
+                if (tipos[5] == "O"):
+                    ar.filter_desc_ocorrencias()
+                if (tipos[5] == "Q"):
+                    ar.filter_desc_quantidade()
             #print texto,":", ar.descritores
+            
             if (tipos[2] == "S"):            
                 scielo.descritores_existentes(scielo.artigo,mh.sino_dic,janela)
                 #print "Descritores Pre-definidos existentes no texto: ", scielo.desc_existentes
@@ -58,9 +69,8 @@ def compare(article_qty,janela,tipos):
         except:
              pass
              #print "Arquivo vazio"
-    
-    print "\nPrecisao geral do programa para",total,"documentos:",precisao/total
-    print "\nCobertura geral do programa para",total,"documentos:",cobertura/total
+    print "Artigos:",total
+    print "Precisao;",precisao/total ,";Cobertura;",cobertura/total , ";F-measure;",(2.0*(precisao/total)*(cobertura/total) )/( (precisao/total) + (cobertura/total) )
 
 
 #MESHREADER
@@ -92,7 +102,7 @@ mh.set_word_filter(wf)
 # Faz o Parser usar o MeshHandler
 parser.setContentHandler(mh)
 
-if(raw_input("Digite 'P' para realizar o parser do XML do MESH ou Digite 'S' para carregar os objetos serializados\n") == "P"):
+"""if(raw_input("Digite 'P' para realizar o parser do XML do MESH ou Digite 'S' para carregar os objetos serializados\n") == "P"):
     # Arquivo XML
     parser.parse(r'../mesh/desc2008.xml')
     if(raw_input("Deseja serializar os objetos: Dicionario Descritor, Dicionario Sinonimos e Arvore Mesh? (S/N)\n") == "S"):
@@ -103,13 +113,13 @@ else:
     #Carregar Dicionarios serializados
     mh.restore(open(r'../mesh/desc_dic'),"DESC")
     mh.restore(open(r'../mesh/sino_dic'),"SINO")
-    mh.restore(open(r'../mesh/tree'), "TREE")
+    mh.restore(open(r'../mesh/tree'), "TREE")"""
+
 
 #Carregar Dicionarios serializados
-#mh.restore(open(r'../mesh/desc_dic'),"DESC")
-#mh.restore(open(r'../mesh/sino_dic'),"SINO")
-#mh.restore(open(r'../mesh/tree'), "TREE")
-
+mh.restore(open(r'../mesh/desc_dic'),"DESC")
+mh.restore(open(r'../mesh/sino_dic'),"SINO")
+mh.restore(open(r'../mesh/tree'), "TREE")
 #print mh.desc_dic
 
 print "Mesh carregado!!!"
@@ -144,35 +154,82 @@ scielo = ArticleScielo()
 n_artigos = 20
 janela = 3
 #compare(n_artigos, janela, tipos_filtros)
-
-print "Sem nenhum tratamento"
-tipos_filtros = ["N" , "N" , "N" , "N"]
+print "CORTES POR OCORRENCIA"
+"""print "Sem nenhum tratamento"
+tipos_filtros = ["N" , "N" , "N" , "N", "N" , "O"]
 compare(n_artigos, janela, tipos_filtros)
 
 print "Efetuando o corte nos descritores obtidos"
-tipos_filtros = ["S" , "N" , "N", "N"]
+tipos_filtros = ["S" , "N" , "N", "N", "N" , "O"]
 compare(n_artigos, janela, tipos_filtros)
 
 print "Corte dos descritores + Navegando na arvore do Mesh"
-tipos_filtros = ["S" , "S" , "N", "N"]
+tipos_filtros = ["S" , "S" , "N", "N", "N" , "O"]
 compare(n_artigos, janela, tipos_filtros)
 
 print "Corte dos descritores + Navegando na arvore do Mesh + Removendo descritores pre-definos nao encontrados no artigo"
-tipos_filtros = ["S" , "S" , "S", "N"]
+tipos_filtros = ["S" , "S" , "S", "N", "N" , "O"]
+compare(n_artigos, janela, tipos_filtros)
+
+print "Corte dos descritores + Navegando na arvore do Mesh + Removendo descritores pre-definos nao encontrados no artigo + Bigramas"
+tipos_filtros = ["S" , "S" , "S", "N", "S" , "O"]
 compare(n_artigos, janela, tipos_filtros)
 
 print "Navegando na arvore do Mesh"
-tipos_filtros = ["N" , "S" , "N", "N"]
+tipos_filtros = ["N" , "S" , "N", "N", "N" , "O"]
 compare(n_artigos, janela, tipos_filtros)
 
 print "Navegando na arvore do Mesh + Removendo descritores pre-definos nao encontrados no artigo"
-tipos_filtros = ["N" , "S" , "S", "N"]
+tipos_filtros = ["N" , "S" , "S", "N", "N" ,"O"]
 compare(n_artigos, janela, tipos_filtros)
 
 print "Navegando na arvore antes do corte dos descritores"
-tipos_filtros = ["N" , "N" , "N", "S"]
+tipos_filtros = ["N" , "N" , "N", "S", "N", "O"]
+compare(n_artigos, janela, tipos_filtros)"""
+
+print "Navegando na arvore antes do corte dos descritores Removendo descritores pre-definos nao encontrados no artigo + Bigramas"
+tipos_filtros = ["N" , "N" , "S", "S", "S", "O"]
 compare(n_artigos, janela, tipos_filtros)
 
+
+
+
+print "CORTES POR QUANTIDADE"
+"""print "Sem nenhum tratamento"
+tipos_filtros = ["N" , "N" , "N" , "N", "N" , "Q"]
+compare(n_artigos, janela, tipos_filtros)
+
+print "Efetuando o corte nos descritores obtidos"
+tipos_filtros = ["S" , "N" , "N", "N", "N" , "Q"]
+compare(n_artigos, janela, tipos_filtros)
+
+print "Corte dos descritores + Navegando na arvore do Mesh"
+tipos_filtros = ["S" , "S" , "N", "N", "N" , "Q"]
+compare(n_artigos, janela, tipos_filtros)
+
+print "Corte dos descritores + Navegando na arvore do Mesh + Removendo descritores pre-definos nao encontrados no artigo"
+tipos_filtros = ["S" , "S" , "S", "N", "N" , "Q"]
+compare(n_artigos, janela, tipos_filtros)
+
+print "Corte dos descritores + Navegando na arvore do Mesh + Removendo descritores pre-definos nao encontrados no artigo + Bigramas"
+tipos_filtros = ["S" , "S" , "S", "N", "S" , "Q"]
+compare(n_artigos, janela, tipos_filtros)
+
+print "Navegando na arvore do Mesh"
+tipos_filtros = ["N" , "S" , "N", "N", "N" , "Q"]
+compare(n_artigos, janela, tipos_filtros)
+
+print "Navegando na arvore do Mesh + Removendo descritores pre-definos nao encontrados no artigo"
+tipos_filtros = ["N" , "S" , "S", "N", "N" ,"Q"]
+compare(n_artigos, janela, tipos_filtros)
+
+print "Navegando na arvore antes do corte dos descritores"
+tipos_filtros = ["N" , "N" , "N", "S", "N", "Q"]
+compare(n_artigos, janela, tipos_filtros)"""
+
+print "Navegando na arvore antes do corte dos descritores Removendo descritores pre-definos nao encontrados no artigo + Bigramas"
+tipos_filtros = ["N" , "N" , "S", "S", "S", "Q"]
+compare(n_artigos, janela, tipos_filtros)
 
 
 #mh.serialize(mh.desc_dic, open(r'../mesh/desc_dic','w'))

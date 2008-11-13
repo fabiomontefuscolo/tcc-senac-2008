@@ -137,6 +137,8 @@ class ArticleScielo():
         #print "Cobertura = " , (count)*1.0/(self.descritores_definidos.__len__())*1.0 , "%"
 
 
+
+
     def descritores_existentes(self,conteudo,listaSino,janela):
         conteudo = self.filter_and_steam(conteudo) 
         descritores = {}
