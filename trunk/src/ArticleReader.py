@@ -42,11 +42,12 @@ class ArticleReader():
                     output += ' '
                 word = ''
         self.conteudo = output 
-    def prepar_conteudo(self):
+    def preparar_conteudo(self):
         self.filter_and_steam()    
         self.conteudo = self.conteudo.split()
         
     def compare(self,listaDesc,listaSin,janela):
+        #print "compare"
         self.descritores = {}
         for i in range(len(self.conteudo)):
             word = ""
@@ -174,14 +175,16 @@ class ArticleReader():
                     
         #print contabilizar_filhos
         #descritores_sugeridos = {}
+        novos = 0.0
         for l in novos_descritores.iteritems():
             if (l[1]*1.0 / contabilizar_filhos[l[0]]*1.0 ) > 0.2:
                 self.descritores[desc_dic[tree[l[0]]] ] = l[1]
+                novos += 1
         #print descritores_sugeridos
-
+        return novos
            
 
-descritores = {'HIV': 'HIV Full String' ,
+"""descritores = {'HIV': 'HIV Full String' ,
                'nitric' : 'Nitric full',
                'nitric oxid' : 'Nitric oxide full',
                'cell' : 'cell Full String' ,
@@ -192,7 +195,6 @@ sinonimos = {'Acquired Immune Deficiency Syndrome Virus' : 'nitric oxid' ,
              'AIDS Virus' : 'HIV' ,
              'HTLV-III' :  'HIV' , 
              'Human Immunodeficiency Virus' :  'HIV' }
-
 
 #Criar um nome ArticleReader
 ar = ArticleReader()
@@ -211,14 +213,14 @@ ar.set_word_filter(wf)
 ar.set_file(r'..\in\Entrada.txt')
 ar.open_file()
 ar.useBigrama = "S"
-ar.prepar_conteudo()
+ar.preparar_conteudo()
 ar.compare(descritores,sinonimos,3)
 
 #print descritores
 #print ar.descritores
 
 
-
+"""
 
 
 
