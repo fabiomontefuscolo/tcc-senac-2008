@@ -147,8 +147,7 @@ class MeshHandler(ContentHandler):
         elif type == "TREE":
             self.tree = pickle.load(file) 
         #print dic
-    def mesh_tree(self):
-        return true 
+ 
 """        
 # Criar um objeto Parser
 parser = make_parser()

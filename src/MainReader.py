@@ -8,69 +8,8 @@ from NullClasses import *
 from MeshReader import MeshHandler
 from ArticleReader import ArticleReader
 from CompareModule import ArticleScielo
+from CompareModule import compare
 
-
-def compare(article_qty,janela,tipos):
-    #print "##Comparacao entre descritores obtidos pelo programa após um corte e analisando a arvore do Mesh com os descritores definidos previamente que realmente estão no texto ##"
-    precisao = 0.0
-    cobertura = 0.0
-    total =0.0
-    artigos_scielo = open(r"../scielo/arquivo.txt",'r')
-    
-    for i in artigos_scielo:
-    #for i in range(1,article_qty+1):
-        #print "Leitura do artigo ",total, "-> " , i
-        #scielo.extrair_conteudo(r'../in/Artigo'+str(i)+'.txt')
-        scielo.extrair_conteudo2(r'../scielo/articles_clean/'+i[0:len(i)-1]+'.txt')
-        try:
-            ar.set_conteudo(scielo.artigo)
-            ar.prepar_conteudo()
-            
-            if (tipos[4] == "S"):
-                ar.useBigrama = "S"
-            
-            ar.compare(mh.desc_dic,mh.sino_dic,janela)
-            texto = "Descritores Obtidos"
-            if (tipos[0] == "S"):
-                if (tipos[5] == "O"):
-                    ar.filter_desc_ocorrencias()
-                if (tipos[5] == "Q"):
-                    ar.filter_desc_quantidade()
-                texto += " com o corte"
-            if (tipos[1] == "S"):
-                ar.navigate_tree(mh.tree,mh.desc_dic)
-                texto += " com a navegacao na arvore"     
-            if (tipos[3] == "S"):
-                ar.navigate_tree(mh.tree,mh.desc_dic)
-                if (tipos[5] == "O"):
-                    ar.filter_desc_ocorrencias()
-                if (tipos[5] == "Q"):
-                    ar.filter_desc_quantidade()
-            #print texto,":", ar.descritores
-            
-            if (tipos[2] == "S"):            
-                scielo.descritores_existentes(scielo.artigo,mh.sino_dic,janela)
-                #print "Descritores Pre-definidos existentes no texto: ", scielo.desc_existentes
-                #print len(scielo.desc_existentes) , "encontrados de " , len(scielo.descritores_definidos), "pre-definidos"
-                precisao += scielo.precisao(ar.descritores,"E")
-                #print "Precisao do artigo: ", scielo.precisao(ar.descritores,"E")
-                cobertura += scielo.cobertura(ar.descritores,"E")
-                #print "Cobertura do artigo: ", scielo.cobertura(ar.descritores,"E")
-                
-            else:
-                #print "Descritores Pre-definidos no texto: ", scielo.descritores_definidos 
-                precisao += scielo.precisao(ar.descritores, "D")
-                #print "Precisao do artigo: ", scielo.precisao(ar.descritores,"D")
-                cobertura += scielo.cobertura(ar.descritores,"D")
-                #print "Cobertura do artigo: ", scielo.cobertura(ar.descritores,"D")
-            total += 1.0
-            #print ""
-            #raw_input()
-        except:
-             pass
-             #print "Arquivo vazio"
-    print "Artigos:",total
-    print "Precisao;",precisao/total ,";Cobertura;",cobertura/total , ";F-measure;",(2.0*(precisao/total)*(cobertura/total) )/( (precisao/total) + (cobertura/total) )
 
 
 #MESHREADER
@@ -185,16 +124,23 @@ compare(n_artigos, janela, tipos_filtros)
 
 print "Navegando na arvore antes do corte dos descritores"
 tipos_filtros = ["N" , "N" , "N", "S", "N", "O"]
-compare(n_artigos, janela, tipos_filtros)"""
+compare(n_artigos, janela, tipos_filtros)
 
 print "Navegando na arvore antes do corte dos descritores Removendo descritores pre-definos nao encontrados no artigo + Bigramas"
 tipos_filtros = ["N" , "N" , "S", "S", "S", "O"]
-compare(n_artigos, janela, tipos_filtros)
+compare(n_artigos, janela, tipos_filtros)"""
+
+print "Efetuando o corte nos descritores obtidos + removendo descritores pre-definidos + bigrama"
+tipos_filtros = ["S" , "N" , "S", "N", "S" , "O"]
+
+#tree
+tipos_filtros = ["S" , "S" , "N", "N", "N" , "O"]
+compare(n_artigos, janela, tipos_filtros,scielo,ar,mh)
 
 
 
 
-print "CORTES POR QUANTIDADE"
+#print "CORTES POR QUANTIDADE"
 """print "Sem nenhum tratamento"
 tipos_filtros = ["N" , "N" , "N" , "N", "N" , "Q"]
 compare(n_artigos, janela, tipos_filtros)
@@ -225,12 +171,15 @@ compare(n_artigos, janela, tipos_filtros)
 
 print "Navegando na arvore antes do corte dos descritores"
 tipos_filtros = ["N" , "N" , "N", "S", "N", "Q"]
-compare(n_artigos, janela, tipos_filtros)"""
+compare(n_artigos, janela, tipos_filtros)
 
 print "Navegando na arvore antes do corte dos descritores Removendo descritores pre-definos nao encontrados no artigo + Bigramas"
 tipos_filtros = ["N" , "N" , "S", "S", "S", "Q"]
 compare(n_artigos, janela, tipos_filtros)
 
+print "Efetuando o corte nos descritores obtidos + removendo descritores pre-definidos + bigrama"
+tipos_filtros = ["S" , "N" , "S", "N", "S" , "Q"]
+compare(n_artigos, janela, tipos_filtros)"""
 
 #mh.serialize(mh.desc_dic, open(r'../mesh/desc_dic','w'))
 #mh.serialize(mh.sino_dic, open(r'../mesh/sino_dic','w'))
@@ -238,3 +187,59 @@ compare(n_artigos, janela, tipos_filtros)
 
 #print mh.desc_dic
 #print ar.descritores
+
+"""
+scielo.extrair_conteudo2(r'../scielo/articles_clean/'+i[0:len(i)-1]+'.txt')
+ar.set_conteudo(scielo.artigo)
+            #print("setou")
+ar.preparar_conteudo()
+            #print("preparou")
+            if (tipos[4] == "S"):
+ar.useBigrama = "S"
+            #print "ei"
+            #print  mh.desc_dic,mh.sino_dic,janela
+ar.compare(mh.desc_dic,mh.sino_dic,janela)
+            #print "comparou"
+            texto = "Descritores Obtidos"
+            if (tipos[0] == "S"):
+                if (tipos[5] == "O"):
+ar.filter_desc_ocorrencias()
+                    #print "occorencias"
+                if (tipos[5] == "Q"):
+ar.filter_desc_quantidade()
+                    #print "quantidade"
+                texto += " com o corte"
+            if (tipos[1] == "S"):
+ar.navigate_tree(mh.tree,mh.desc_dic)
+                #print "tree"
+                texto += " com a navegacao na arvore"     
+            if (tipos[3] == "S"):
+ar.navigate_tree(mh.tree,mh.desc_dic)
+                if (tipos[5] == "O"):
+ar.filter_desc_ocorrencias()
+                if (tipos[5] == "Q"):
+ar.filter_desc_quantidade()
+            #print texto,":", ar.descritores
+            
+            if (tipos[2] == "S"):
+                #print "S"            
+                scielo.descritores_existentes(scielo.artigo,mh.sino_dic,janela)
+                #print "cortou existentes"
+                #print "Descritores Pre-definidos existentes no texto: ", scielo.desc_existentes
+                #print len(scielo.desc_existentes) , "encontrados de " , len(scielo.descritores_definidos), "pre-definidos"
+                precisao += scielo.precisao(ar.descritores,"E")
+                #print "Precisao do artigo: ", scielo.precisao(ar.descritores,"E")
+                cobertura += scielo.cobertura(ar.descritores,"E")
+                #print "Cobertura do artigo: ", scielo.cobertura(ar.descritores,"E")
+                
+            else:
+                #print "N"
+                #print "Descritores Pre-definidos no texto: ", scielo.descritores_definidos 
+                precisao += scielo.precisao(ar.descritores, "D")
+                #print "Precisao do artigo: ", scielo.precisao(ar.descritores,"D")
+                cobertura += scielo.cobertura(ar.descritores,"D")
+                #print "Cobertura do artigo: ", scielo.cobertura(ar.descritores,"D")
+            total += 1.0
+            #print ""
+
+"""
