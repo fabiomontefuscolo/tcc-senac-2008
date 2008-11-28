@@ -134,7 +134,7 @@ print "Efetuando o corte nos descritores obtidos + removendo descritores pre-def
 tipos_filtros = ["S" , "N" , "S", "N", "S" , "O"]
 
 #tree
-tipos_filtros = ["S" , "S" , "N", "N", "N" , "O"]
+tipos_filtros = ["S" , "N" , "S", "N", "N" , "O"]
 compare(n_artigos, janela, tipos_filtros,scielo,ar,mh)
 
 
