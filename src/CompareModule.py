@@ -144,7 +144,8 @@ class ArticleScielo():
         conteudo = self.filter_and_steam(conteudo) 
         descritores = {}
         listaDesc = {}
-        stemmer = PorterStemmer()     
+        stemmer = PorterStemmer()    
+        #print "ddd" 
         for i in self.descritores_definidos:
             output = ""
             word = ''
@@ -180,8 +181,9 @@ class ArticleScielo():
                         descritores[listaDesc[listaSino[word]]] = 1        
                 
                 word += " "
-        
+        diff = (len(self.desc_existentes) - len(descritores)) 
         self.desc_existentes = descritores
+        return diff
         
 def compare(article_qty,janela,tipos,scielo,ar,mh):
     #print "##Comparacao entre descritores obtidos pelo programa após um corte e analisando a arvore do Mesh com os descritores definidos previamente que realmente estão no texto ##"
@@ -201,6 +203,9 @@ def compare(article_qty,janela,tipos,scielo,ar,mh):
         scielo.extrair_conteudo2(r'../scielo/articles_clean/'+i[0:len(i)-1]+'.txt')
         try:
             ar.set_conteudo(scielo.artigo)
+            #novos = len(scielo.descritores_definidos)
+            #media +=novos
+            #novos_tree.append(novos)
             #print("setou")
             ar.preparar_conteudo()
             #print("preparou")
@@ -214,15 +219,18 @@ def compare(article_qty,janela,tipos,scielo,ar,mh):
             if (tipos[0] == "S"):
                 if (tipos[5] == "O"):
                     ar.filter_desc_ocorrencias()
+                    #novos += len(ar.descritores)
+                    #media +=novos
+                    #novos_tree.append(novos)
                     #print "occorencias"
                 if (tipos[5] == "Q"):
                     ar.filter_desc_quantidade()
                     #print "quantidade"
                 texto += " com o corte"
             if (tipos[1] == "S"):
-                novos = ar.navigate_tree(mh.tree,mh.desc_dic)
-                novos_tree.append(novos)
-                media += novos
+                #novos = ar.navigate_tree(mh.tree,mh.desc_dic)
+                #novos_tree.append(novos)
+                #media += novos
                 
                 #print "tree"
                 texto += " com a navegacao na arvore"     
@@ -236,7 +244,10 @@ def compare(article_qty,janela,tipos,scielo,ar,mh):
             
             if (tipos[2] == "S"):
                 #print "S"            
-                scielo.descritores_existentes(scielo.artigo,mh.sino_dic,janela)
+                #scielo.descritores_existentes(scielo.artigo,mh.sino_dic,janela)
+                novos = scielo.descritores_existentes(scielo.artigo,mh.sino_dic,janela)
+                media +=novos
+                novos_tree.append(novos)
                 #print "cortou existentes"
                 #print "Descritores Pre-definidos existentes no texto: ", scielo.desc_existentes
                 #print len(scielo.desc_existentes) , "encontrados de " , len(scielo.descritores_definidos), "pre-definidos"
@@ -261,7 +272,7 @@ def compare(article_qty,janela,tipos,scielo,ar,mh):
     print "Artigos:",total
     print "Precisao;",precisao/total ,";Cobertura;",cobertura/total , ";F-measure;",(2.0*(precisao/total)*(cobertura/total) )/( (precisao/total) + (cobertura/total) )
 
-    media = media / total
+    media = media*1.0 / total
     desvio = 0.0
     for n in novos_tree:
         desvio += pow((n - media),2)
