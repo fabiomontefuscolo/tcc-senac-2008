@@ -181,7 +181,7 @@ class ArticleScielo():
                         descritores[listaDesc[listaSino[word]]] = 1        
                 
                 word += " "
-        diff = (len(self.desc_existentes) - len(descritores)) 
+        diff = (len(self.descritores_definidos) - len(descritores)) 
         self.desc_existentes = descritores
         return diff
         
@@ -264,8 +264,8 @@ def compare(article_qty,janela,tipos,scielo,ar,mh):
                 cobertura += scielo.cobertura(ar.descritores,"D")
                 #print "Cobertura do artigo: ", scielo.cobertura(ar.descritores,"D")
             total += 1.0
-            #print ""
-            #raw_input()
+                #print ""
+                #raw_input()
         except:
              pass
              #print "Arquivo vazio"
