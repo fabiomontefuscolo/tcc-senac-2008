@@ -1,0 +1,68 @@
+\begin{thebibliography}{}
+
+\bibitem[C.~D.~Manning 2008]{manning:08}
+C.~D.~Manning, P.~Raghavan, H.~S. (2008).
+\newblock {\em Introduction to Information Retrieval}.
+\newblock Cambridge University Press, Cambridge.
+
+\bibitem[Gupta 2008]{gupta:08}
+Gupta, V. (2008).
+\newblock {\em Python Implementation of Porter Stemming Algorithm}.
+\newblock Obtido em: http://tartarus.org/~martin/PorterStemmer/python.txt,
+  Acessado em 5 de Mar\c{c}o de 2009, 2 edition.
+
+\bibitem[LANCASTER 2004]{lancaster:04}
+LANCASTER, F.~W. (2004).
+\newblock {\em Indexa\c{c}\~ao e Resumos: Teoria e Pr\'atica}.
+\newblock Briquet de Lemos, Bras\'ilia.
+
+\bibitem[NLM 2006]{nlm:08}
+NLM (2006).
+\newblock {\em Concept Structure in XML MeSH}.
+\newblock Obtido em http://www.nlm.nih.gov/mesh/concept\_structure.html,
+  Acessado em 5 de Mar\c{c}o de 2009.
+
+\bibitem[NLM 2008]{nlmmesh:08}
+NLM (2008).
+\newblock {\em Medical Subject Headings}.
+\newblock Obtido em:
+  ftp://nlmpubs.nlm.nih.gov/online/mesh/.xmlmesh/desc2008.gz, Acesso em 5 de
+  Mar\c{c} de 2009.
+
+\bibitem[NLTK 2008]{nltk:08}
+NLTK (2008).
+\newblock {\em Natural Language Toolkit}.
+\newblock http://www.nltk.org, Acessado em 4 de Mar\c{c}o de 2009.
+
+\bibitem[Porter 1980]{porter:80}
+Porter, M.~F. (1980).
+\newblock {\em An algorithm for suffix stripping}.
+\newblock Obtido em: http://tartarus.org/\~{}martin/PorterStemmer/def.txt,
+  Acessado em: 4 de Mar\c{c}o de 2009.
+
+\bibitem[Python 2008a]{pythonpickle:08}
+Python (2008a).
+\newblock {\em Python object serialization}.
+\newblock Obtido em:
+  http://docs.python.org/library/pickle.html?highlight=pickle, Acessado em 4 de
+  Mar\c{c}o de 2009.
+
+\bibitem[Python 2008b]{pythonsax:08}
+Python (2008b).
+\newblock {\em Support for SAX2 Parsers}.
+\newblock Obtido em: http://docs.python.org/library/xml.sax.html, Acessado em 4
+  de Mar\c{c}o de 2009.
+
+\bibitem[SciELO 2008]{scielo:08}
+SciELO (2008).
+\newblock {\em Scientific Eletronic Library}.
+\newblock http://www.scielo.org, Acessado em 4 de Mar\c{c}o de 2009.
+
+\bibitem[W.~B.~Cavnar 2005]{cavnar:05}
+W.~B.~Cavnar, J. M.~T. (2005).
+\newblock {\em N-gram-based text categorization}.
+\newblock Obtido em:
+  http://www.dcs.fmph.uniba.sk/diplomovky/obhajene/getfile.php/Ng-based-tc.pdf%
+?id=1\&fid=3\&type=application\%2Fpdf, Acessado em: 4 de Mar\c{c}o de 2009.
+
+\end{thebibliography}
