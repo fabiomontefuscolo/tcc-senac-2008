@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.9 (MiKTeX 2.7) (preloaded format=pdflatex 2009.3.4)  6 MAR 2009 08:58
+This is pdfTeX, Version 3.1415926-1.40.9 (MiKTeX 2.7) (preloaded format=pdflatex 2009.3.4)  11 MAR 2009 20:37
 entering extended mode
 **D:/workspace/indexador/documents/ctic2009/fabioRafaelFabricioOrlando.tex
 (D:/workspace/indexador/documents/ctic2009/fabioRafaelFabricioOrlando.tex
@@ -131,19 +131,19 @@ Package: inputenc 2006/05/05 v1.1b Input encoding file
 ("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\base\latin1.def"
 File: latin1.def 2006/05/05 v1.1b Input encoding file
 )) (fabioRafaelFabricioOrlando.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 28.
 
 ("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -203,45 +203,80 @@ driver: pdftex
 \everyMPtoPDFconversion=\toks20
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 28.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 28.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 28.
+(Font)              <12> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 28.
+(Font)              <8> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 28.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 28.
- ("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\psnfss\ot1pcr.fd"
+(Font)              <6> on input line 30.
+
+Overfull \hbox (1.14926pt too wide) in paragraph at lines 30--30
+ [][] 
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 30.
+("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-LaTeX Font Info:    Try loading font information for OMS+pcr on input line 28.
+LaTeX Font Info:    Try loading font information for OMS+pcr on input line 30.
 
 ("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\psnfss\omspcr.fd"
 File: omspcr.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 28.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 30.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
- [1
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 32.
 
-{C:/Documents and Settings/fabio.montefuscolo/Configurações locais/Dados de aplicativos/MiKTeX/2.7/pdftex/config/pdftex.
-map}] [2]
-Underfull \hbox (badness 1540) in paragraph at lines 74--75
-\OT1/ptm/m/n/12 A leitura do XML do Mesh []e feita com a API SAX (Sim-ple API for XML)
+Underfull \hbox (badness 1584) in paragraph at lines 37--38
+\OT1/ptm/m/it/12 mecan-is-mos com base em pro-ces-sa-mento de lin-guagem nat-u-ral. Estes
  []
 
-[3] [4]
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 122.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
+
+Underfull \hbox (badness 1616) in paragraph at lines 42--43
+\OT1/ptm/m/n/12 que s[]ao palavras-chave cu-jos con-ceitos po-dem rep-re-sen-tar de forma re-sum-ida o
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 46--47
+\OT1/ptm/m/n/12 chamado de in-dex-ador, que seguindo um con-junto de re-gras e crit[]erios con-str[]oi
+ []
+
+[1
+
+{C:/Documents and Settings/fabio.montefuscolo/Configurações locais/Dados de aplicativos/MiKTeX/2.7/pdftex/config/pdftex.
+map}]
+Underfull \hbox (badness 1028) in paragraph at lines 54--55
+\OT1/ptm/m/n/12 con-tro-lado s[]ao us-a-dos, com-bi-na-dos ou n[]ao, para de-scr-ever de forma sucinta um
+ []
+
+[2]
+Underfull \hbox (badness 1917) in paragraph at lines 72--73
+[]\OT1/ptm/m/n/12 O de-sen-volvi-mento foi baseado no mod-elo de pro-toti-pagem, onde no-vas
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 76--77
+\OT1/ptm/m/n/12 A leitura do XML do MeSH []e feita com a API SAX (Sim-ple API for XML)
+ []
+
+[3]
+Underfull \hbox (badness 1057) in paragraph at lines 101--102
+\OT1/ptm/m/n/12 con-tro-lado, acon-tece de de-scritores com pou-cas ocorr[]encias e ir-rel-e-vantes para o
+ []
+
+[4]
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 124.
  ("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 122.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 124.
 
 <figuras/tabela1.png, id=21, 615.29875pt x 95.35625pt>
 File: figuras/tabela1.png Graphic file (type png)
@@ -254,8 +289,12 @@ File: figuras/tabela3.png Graphic file (type png)
  <use figuras/tabela3.png>
 <figuras/tabela4.png, id=30, 494.84875pt x 88.33pt>
 File: figuras/tabela4.png Graphic file (type png)
- <use figuras/tabela4.png> [6 <figuras/tabela2.png> <figuras/tabela3.png>] (fabioRafaelFabricioOrlando.bbl [7 <figuras/t
-abela4.png>]
+ <use figuras/tabela4.png> [6 <figuras/tabela2.png> <figuras/tabela3.png>]
+Underfull \hbox (badness 1325) in paragraph at lines 166--168
+\OT1/ptm/m/n/12 Atrav[]es dos re-sul-ta-dos obti-dos pela valida[][]ao, al-gu-mas considera[][]oes po-dem ser
+ []
+
+(fabioRafaelFabricioOrlando.bbl [7 <figuras/tabela4.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 20--24
 []\OT1/ptm/m/n/12 NLM (2006).  \OT1/ptm/m/it/12 Con-cept Struc-ture in XML MeSH\OT1/ptm/m/n/12 .  Obtido em
  []
@@ -311,18 +350,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--67
 Here is how much of TeX's memory you used:
  2374 strings out of 95304
  30486 string characters out of 1182716
- 90391 words of memory out of 1500000
+ 90395 words of memory out of 1500000
  5550 multiletter control sequences out of 110000
  21033 words of font info for 44 fonts, out of 3000000 for 5000
  14 hyphenation exceptions out of 8191
- 30i,8n,28p,1006b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,8n,28p,996b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/Arquivos de programas/MiKTeX 2.7/fonts/enc/dvips/fontname/8r.enc}<D:/Arquivo
 s de programas/MiKTeX 2.7/fonts/type1/bluesky/cm/cmr8.pfb><D:/Arquivos de programas/MiKTeX 2.7/fonts/type1/bluesky/cm/cm
 sy10.pfb><D:/Arquivos de programas/MiKTeX 2.7/fonts/type1/urw/courier/ucrr8a.pfb><D:/Arquivos de programas/MiKTeX 2.7/fo
 nts/type1/urw/helvetic/uhvb8a.pfb><D:/Arquivos de programas/MiKTeX 2.7/fonts/type1/urw/times/utmb8a.pfb><D:/Arquivos de 
 programas/MiKTeX 2.7/fonts/type1/urw/times/utmbi8a.pfb><D:/Arquivos de programas/MiKTeX 2.7/fonts/type1/urw/times/utmr8a
 .pfb><D:/Arquivos de programas/MiKTeX 2.7/fonts/type1/urw/times/utmri8a.pfb>
-Output written on fabioRafaelFabricioOrlando.pdf (8 pages, 133206 bytes).
+Output written on fabioRafaelFabricioOrlando.pdf (8 pages, 133401 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
