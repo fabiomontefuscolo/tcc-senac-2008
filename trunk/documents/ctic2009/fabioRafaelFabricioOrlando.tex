@@ -16,7 +16,7 @@
 
 \title{Indexação automática de documentos por meio de processamento de linguagem natural}
 
-\author{Fabio Montefuscolo, Rafael G. Câmara, Fabrício J. Barth, Orlando Rodriguês Jr.}
+\author{Fabio Montefuscolo, Rafael G. Câmara, Fabrício J. Barth, Orlando Rodrigues Jr.}
 
 
 \address{Faculdade de Ciências Exatas e Tecnologia\\
@@ -69,7 +69,7 @@ O descritores e sinônimos presentes no vocabulário controlado foram associados a
 
 No desenvolvimento deste trabalho, o vocabulário controlado usado foi o MeSH do ano 2008, que conta com 24.767 termos em inglês e mais de 97.000 formas sinônimas para os termos autorizados. A lista de \textit{stop-words} utilizada é a lista proposta pelo projeto NLTK \cite{nltk:08}, composta por 571 termos. Os artigos científicos utilizados são da área da saúde e disponibilizados na biblioteca eletrônica SciELO \cite{scielo:08}.
 
-O desenvolvimento foi baseado no modelo de prototipagem, onde novas funcionalidades foram desenvolvidas a cada ciclo de desenvolvimento, baseando-se nos seguintes marcos: construção de um módulo de leitura para o XML do MeSH ; desenvolvimento do processo de normalização dos termos; construção das estruturas para alocar o vocabulário controlado; construção  do módulo de leitura por janelamento; construção  do módulo de leitura por bigramas \cite{cavnar:05}; desenvolvimento de um módulo de seleção de descritores.
+O desenvolvimento foi baseado no modelo de prototipagem, onde novas funcionalidades foram desenvolvidas a cada ciclo de desenvolvimento, baseando-se nos seguintes marcos: construção de um módulo de leitura para o XML do MeSH ; desenvolvimento do processo de normalização dos termos; construção das estruturas para alocar o vocabulário controlado; construção  do módulo de leitura por janelamento; construção  do módulo de leitura por bigramas \cite{cavnar:94}; desenvolvimento de um módulo de seleção de descritores.
 
 \subsection{Alocação do MeSH na Memória}
 
@@ -114,8 +114,7 @@ Para avaliar as abordagens propostas e desenvolvidas neste trabalho, foi utiliza
 
 Foi obtido através do site da BIREME, um volume de 419 artigos para serem avaliados. Estes com seus respectivos descritores foram armazenados em arquivos de texto puro para a validação de resultados. Cada artigo desta massa possui uma média de 11,28 descritores definidos manualmente, com um desvio padrão de 4,57.
 
-Como o programa teve diferentes técnicas aplicadas, podendo serem executadas de modo independente, a execução do programa com os 419 artigos teve várias combinações de técnicas para descobrir com quais delas é possível obter os melhores valores nas medidas descritas anteriormente. Além desta primeira variável, que é a técnica a ser utilizada no processo, é possível definir o tamanho da janela de leitura, e o tipo de corte que será usado.
-Primeiramente foi executado o processo utilizando o tamanho de janela 3, e com técnicas que não dependem de nenhum tipo de corte.
+O programa teve diferentes técnicas aplicadas, cada uma podendo ser executada de forma independente. Para a execução do programa, foram feitas combinações das técnicas sobre os 419 artigos, visando obter a melhor combinação possível usando as medidas apresentadas anteriormente. Também foram medidos nestes testes a eficiência dos diversos tamanhos de janela de leitura e os tipos de cortes usados. Primeiro foi executado o processo utilizando um tamanho de 3 palavras para a janela de leitura, com técnicas que não dependam de nenhum tipo de corte.
 
 Na tabela 1 é possível visualizar os resultados de precisão, cobertura e F-measure encontrados para as três técnicas (existência dos descritores no artigo, navegação na árvore do MeSH e navegação na árvore do MeSH com filtragem dos descritores pré-definidos) sem cortes.
 
@@ -126,9 +125,9 @@ Na tabela 1 é possível visualizar os resultados de precisão, cobertura e F-measu
 	\label{fig:tabela1}
 \end{table}
 
-É possível observar que a cobertura dos descritores é alta. Porém como o corte não é realizado, um grande número de descritores é retornado, dessa forma a precisão do programa é muito baixa.  Também é observado que com a utilização da navegação na estrutura do MeSH, a cobertura também aumenta. A filtragem dos descritores em muito dos casos aumentará a cobertura também, já que descritores que não estão no texto saem da comparação.
+É possível observar que o programa conseguiu uma cobertura de mais de 60\% de descritores dos artigos. Entrentanto, a não realização do corte faz com que um grande número de descritores seja retornado, diminuindo então a precisão do programa.  Também é observado que com a utilização da navegação na estrutura do MeSH, a cobertura também aumenta. A filtragem dos descritores em muito dos casos aumentará a cobertura também, já que descritores que não estão no texto saem da comparação.
 
-O próximo passo foi avaliar qual o tipo de corte seria mais eficiente. Também foi utilizada a navegação na estrutura do MeSH para obter mais descritores. Esta navegação também foi realizada antes e após o corte, para avaliar o melhor momento que ela deveria ser realizada no processo. Na massa de dados utilizada, a navegação após o corte acrescentou uma média de 3.31 descritores novos por texto, tendo um desvio padrão de 3.34. Na tabela 2 são apresentados os resultados desta avaliação.
+O próximo passo foi avaliar qual o tipo de corte seria mais eficiente. Também foi utilizada a navegação na estrutura do MeSH para obter mais descritores. Esta navegação também foi realizada antes e após o corte, para avaliar o melhor momento que ela deveria ser realizada no processo. Na massa de dados utilizada, a navegação após o corte acrescentou uma média de 3,31 descritores novos por texto, tendo um desvio padrão de 3,34. Na tabela 2 são apresentados os resultados desta avaliação.
 
 \begin{table}[ht]
 	\centering
@@ -146,7 +145,7 @@ Com os últimos resultados, já é possível afirmar que o corte por ocorrência é ma
 	\label{fig:tabela3}
 \end{table}
 
-A tabela 4 revela que tanto o bigrama como o filtro aumentam entre 7-8\% o cobertura do programa, mas a precisão cai aproximadamente 0,8\%. Entretano, a medida hermônica F-measure aponta que o melhor resultado fica por conta da não utilização da navegação do MeSH.
+A tabela 4 revela que tanto o bigrama como o filtro aumentam entre 7 e 8\% o cobertura do programa, mas a precisão cai aproximadamente 0,8\%. Entretano, a medida harmônica F-measure aponta que o melhor resultado fica por conta da não utilização da navegação do MeSH.
 
 Com todos esses resultados entre técnicas e cortes, a melhor abordagem para o programa foi a utilização do corte por ocorrência e a técnica de bigramas para obter os melhores descritores de um artigo. Com isso, um novo teste foi realizado alterando a janela de leitura do programa para quatro, e o resultado obtido pode ser visto na tabela 4.
 
@@ -157,9 +156,9 @@ Com todos esses resultados entre técnicas e cortes, a melhor abordagem para o pr
 	\label{fig:tabela4}
 \end{table}
 
-É possível notar uma pequena melhora nos resultados obtidos. Isso porque o numero de combinações aumenta para a análise de bigramas, e a janela de leitura pode encontrar um descritor de até quatro palavras no texto. Números menores não são aconselhados por eliminar possíveis descritores existentes no vocabulário controlado, e uma janela maior pode distorcer os resultados do bigrama.
+Os novos valores para a média harmônica representam uma sensível melhora nos resultados obtidos. Isso porque o numero de combinações aumenta para a análise de bigramas, e a janela de leitura pode encontrar um descritor de até quatro palavras no texto. Números menores não são aconselhados por eliminar possíveis descritores existentes no vocabulário controlado, e uma janela maior pode distorcer os resultados do bigrama.
 
-Com isso, é possível afirmar que a melhor configuração para o programa é a utilização de uma janela de leitura igual a quatro, com as técnicas de corte por ocorrência e bigramas. O programa com esta configuração final, retornou, para os artigos utilizados na validação, uma média de 35,19 descritores por artigo, com um desvio padrão de 28,8.
+Com isso, é possível afirmar que a melhor configuração para o programa é a utilização de uma janela de leitura igual a quatro palavras, com as técnicas de corte por ocorrência e bigramas. O programa com esta configuração final, retornou, para os artigos utilizados na validação, uma média de 35,19 descritores por artigo, com um desvio padrão de 28,8.
 
 \section{Considerações sobre os resultados e trabalhos futuros}
 
@@ -167,7 +166,7 @@ Através dos resultados obtidos pela validação, algumas considerações podem ser r
 Outro ponto importante e interessante é a questão de que, com a navegação na estrutura do MeSH para descobrir novos descritores possíveis para o texto ter prejudicado a qualidade dos resultados. Foram identificadas duas razões para este fato. A primeira é que a heurística utilizada para definir novos descritores está imprecisa. Isto acarreta em trazer descritores diferentes dos escolhidos por um indexador manual, e diminuir a cobertura e a precisão da validação. A outra razão é a de que, para estes artigos, os profissionais que definiram os descritores para os artigos preferem utilizar aqueles que são de assuntos mais específicos, evitando a utilização de um descritor mais genérico que consiga representar uma parte significativa destes assuntos.
 
 Existem algumas alterações possíveis ao programa para que este consiga obter resultados melhores para sua proposta. A criação de um módulo para o aprendizado de maquina poderia personalizar o programa com as características de um único indexador manual, aprendendo com os artigos já indexados. Assim o resultado será aproximado de um profissional da área.
-Para melhorar a leitura no artigo, seria interessante atribuir pesos para algumas seções do texto, como por exemplo, o título, resumo e conclusões. Todo o conteúdo do artigo esta em ênfase nesses pontos. Conseguindo atribuir um peso maior aos descritores encontrados nestas partes, acredita-se que os resultados possam retornar resultados melhores.
+Para melhorar a leitura no artigo, seria interessante atribuir pesos para algumas seções do texto, como por exemplo, o título, resumo e conclusões, já que estes são trechos que provêem uma síntese do conteúdo tratado no documento. Conseguindo atribuir um peso maior aos descritores encontrados nestas partes, acredita-se que melhores resultados podem ser alcançados.
 Para melhorar a leitura no artigo, seria interessante atribuir pesos para algumas seções do texto, como por exemplo, o título, resumo e conclusões. Todo o conteúdo do artigo esta em ênfase nesses pontos. Conseguindo atribuir um peso maior aos descritores encontrados nestas partes, acredita-se que os resultados possam retornar resultados melhores.
 Para indexar um artigo, o contexto onde este será inserido deve ser levado em consideração \cite{lancaster:04}. Dependendo da biblioteca onde será inserido o artigo, podem ser escolhidos descritores mais abrangentes ou que tratem de um assunto mais específico. Este seria outro aprimoramento possível de se realizar neste programa. 
 

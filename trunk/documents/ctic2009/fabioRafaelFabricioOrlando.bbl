@@ -1,9 +1,12 @@
 \begin{thebibliography}{}
 
-\bibitem[C.~D.~Manning 2008]{manning:08}
-C.~D.~Manning, P.~Raghavan, H.~S. (2008).
-\newblock {\em Introduction to Information Retrieval}.
-\newblock Cambridge University Press, Cambridge.
+\bibitem[Cavnar and Trenkle 1994]{cavnar:94}
+Cavnar, W.~B. and Trenkle, J.~M. (1994).
+\newblock N-gram-based text categorization.
+\newblock In {\em In Proceedings of SDAIR-94, 3rd Annual Symposium on Document
+  Analysis and Information Retrieval}, pages 161--175, Obtido em:
+  http://www.dcs.fmph.uniba.sk/diplomovky/obhajene/getfile.php/Ng-based-tc.pdf%
+?id=1\&fid=3\&type=application\%2Fpdf, Acessado em: 4 de Mar\c{c}o de 2009.
 
 \bibitem[Gupta 2008]{gupta:08}
 Gupta, V. (2008).
@@ -15,6 +18,11 @@ Gupta, V. (2008).
 LANCASTER, F.~W. (2004).
 \newblock {\em Indexa\c{c}\~ao e Resumos: Teoria e Pr\'atica}.
 \newblock Briquet de Lemos, Bras\'ilia.
+
+\bibitem[Manning et~al. 2008]{manning:08}
+Manning, C.~D., Raghavan, P., and Sch\"utze, H. (2008).
+\newblock {\em Introduction to Information Retrieval}.
+\newblock Cambridge University Press, Cambridge.
 
 \bibitem[NLM 2006]{nlm:08}
 NLM (2006).
@@ -34,11 +42,10 @@ NLTK (2008).
 \newblock {\em Natural Language Toolkit}.
 \newblock http://www.nltk.org, Acessado em 4 de Mar\c{c}o de 2009.
 
-\bibitem[Porter 1980]{porter:80}
-Porter, M.~F. (1980).
-\newblock {\em An algorithm for suffix stripping}.
-\newblock Obtido em: http://tartarus.org/\~{}martin/PorterStemmer/def.txt,
-  Acessado em: 4 de Mar\c{c}o de 2009.
+\bibitem[Porter 1997]{porter:80}
+Porter, M.~F. (1997).
+\newblock An algorithm for suffix stripping.
+\newblock pages 313--316.
 
 \bibitem[Python 2008a]{pythonpickle:08}
 Python (2008a).
@@ -57,12 +64,5 @@ Python (2008b).
 SciELO (2008).
 \newblock {\em Scientific Eletronic Library}.
 \newblock http://www.scielo.org, Acessado em 4 de Mar\c{c}o de 2009.
-
-\bibitem[W.~B.~Cavnar 2005]{cavnar:05}
-W.~B.~Cavnar, J. M.~T. (2005).
-\newblock {\em N-gram-based text categorization}.
-\newblock Obtido em:
-  http://www.dcs.fmph.uniba.sk/diplomovky/obhajene/getfile.php/Ng-based-tc.pdf%
-?id=1\&fid=3\&type=application\%2Fpdf, Acessado em: 4 de Mar\c{c}o de 2009.
 
 \end{thebibliography}

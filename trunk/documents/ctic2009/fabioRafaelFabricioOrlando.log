@@ -1,13 +1,14 @@
-This is pdfTeX, Version 3.1415926-1.40.9 (MiKTeX 2.7) (preloaded format=pdflatex 2009.3.4)  11 MAR 2009 20:37
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdfcslatex 2009.2.27)  15 MAR 2009 00:39
 entering extended mode
-**D:/workspace/indexador/documents/ctic2009/fabioRafaelFabricioOrlando.tex
-(D:/workspace/indexador/documents/ctic2009/fabioRafaelFabricioOrlando.tex
+ %&-line parsing enabled.
+**fabioRafaelFabricioOrlando.tex
+(./fabioRafaelFabricioOrlando.tex
 LaTeX2e <2005/12/01>
-Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, german, ngerman, german-x-2008-06-18, ngerm
-an-x-2008-06-18, french, loaded.
-("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\base\article.cls"
+Loading CZ hyphenation patterns: Pavel Sevecek, v3, 1995
+Loading SK hyphenation patterns: Jana Chlebikova, 1992
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
 Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
-("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\base\size12.clo"
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
 File: size12.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -21,23 +22,15 @@ File: size12.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (sbc-template.sty
+) (./sbc-template.sty
 Package: sbc-template 2001/06/09
 
-("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\geometry\geometry.sty"
-Package: geometry 2008/12/21 v4.2 Page Geometry
+(/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+Package: geometry 2002/07/08 v3.2 Page Geometry
 
-("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\graphics\keyval.sty"
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
-\KV@toks@=\toks14
-)
-("D:\Arquivos de programas\MiKTeX 2.7\tex\generic\oberdiek\ifpdf.sty"
-Package: ifpdf 2007/12/12 v1.6 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in pdf mode detected.
-)
-("D:\Arquivos de programas\MiKTeX 2.7\tex\generic\oberdiek\ifvtex.sty"
-Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
-Package ifvtex Info: VTeX not detected.
+\KV@toks@=\toks16
 )
 \Gm@cnth=\count87
 \Gm@cntv=\count88
@@ -46,75 +39,72 @@ Package ifvtex Info: VTeX not detected.
 \Gm@wd@mp=\dimen104
 \Gm@odd@mp=\dimen105
 \Gm@even@mp=\dimen106
-\Gm@dimlist=\toks15
-
-("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\geometry\geometry.cfg")) (caption2.sty
+\Gm@dimlist=\toks17
+) (./caption2.sty
 Package: caption2 2002/08/03 v2.1 Customising captions (AS)
 \captionmargin=\dimen107
 \captionwidth=\dimen108
 \captionindent=\dimen109
-Package caption2 Info: Running in caption2 v2.0 compatibility mode on input line 147.
+Package caption2 Info: Running in caption2 v2.0 compatibility mode on input lin
+e 147.
 \captionlinewidth=\dimen110
 )
-("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\psnfss\times.sty"
+(/usr/share/texmf-texlive/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
 \c@instn=\count90
 
-("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\titlesec\titlesec.sty"
-Package: titlesec 2007/08/12 v2.8 Sectioning titles
+(/usr/share/texmf-texlive/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2005/01/22 v2.6 Sectioning titles
 \ttl@box=\box26
 \beforetitleunit=\skip43
 \aftertitleunit=\skip44
 \ttl@plus=\dimen111
 \ttl@minus=\dimen112
-\ttl@toksa=\toks16
 \titlewidth=\dimen113
 \titlewidthlast=\dimen114
 \titlewidthfirst=\dimen115
 ))
-("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\graphics\graphicx.sty"
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\graphics\graphics.sty"
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
 Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\graphics\trig.sty"
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\00miktex\graphics.cfg"
+(/etc/texmf/tex/latex/config/graphics.cfg
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 90.
 
-("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\pdftex-def\pdftex.def"
-File: pdftex.def 2008/09/08 v0.04l Graphics/color for pdfTeX
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
 \Gread@gobject=\count91
 ))
 \Gin@req@height=\dimen116
 \Gin@req@width=\dimen117
 )
-("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\ltxmisc\url.sty"
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
 \Urlmuskip=\muskip10
-Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
 )
-("D:\Arquivos de programas\MiKTeX 2.7\tex\generic\babel\babel.sty"
-Package: babel 2008/07/06 v3.8l The Babel package
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2005/11/23 v3.8h The Babel package
 
-*************************************
-* Local config file bblopts.cfg used
-*
-("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\00miktex\bblopts.cfg"
-File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2005/11/23 v3.8h Babel common definitions
+
+(/usr/share/texmf-texlive/tex/generic/babel/switch.def
+File: switch.def 2005/11/23 v3.8h Babel language switching mechanism
 )
-("D:\Arquivos de programas\MiKTeX 2.7\tex\generic\babel\portuges.ldf"
-Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
-
-("D:\Arquivos de programas\MiKTeX 2.7\tex\generic\babel\babel.def"
-File: babel.def 2008/07/06 v3.8l Babel common definitions
 \babel@savecnt=\count92
 \U@D=\dimen118
 )
+(/usr/share/texmf-texlive/tex/generic/babel/portuges.ldf
+Language: portuges 2005/03/31 v1.2p Portuguese support from the babel system
+
 
 Package babel Warning: No hyphenation patterns were loaded for
 (babel)                the language `Portuguese'
@@ -123,19 +113,24 @@ Package babel Warning: No hyphenation patterns were loaded for
 \l@portuges = a dialect from \language0
 \l@brazil = a dialect from \language\l@portuges 
 Package babel Info: Making " an active character on input line 145.
-)) ("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\base\inputenc.sty"
+)) (/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
 Package: inputenc 2006/05/05 v1.1b Input encoding file
-\inpenc@prehook=\toks17
-\inpenc@posthook=\toks18
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
 
-("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\base\latin1.def"
+(/usr/share/texmf-texlive/tex/latex/base/latin1.def
 File: latin1.def 2006/05/05 v1.1b Input encoding file
-)) (fabioRafaelFabricioOrlando.aux)
+))
+(./fabioRafaelFabricioOrlando.aux)
+\openout1 = `fabioRafaelFabricioOrlando.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
@@ -145,11 +140,9 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 28.
 
-("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\psnfss\ot1ptm.fd"
+(/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-*geometry auto-detecting driver*
-*geometry detected driver: pdftex*
 -------------------- Geometry parameters
 paper: a4paper
 landscape: --
@@ -189,19 +182,6 @@ driver: pdftex
 
 (1in=72.27pt, 1cm=28.45pt)
 -----------------------
-("D:\Arquivos de programas\MiKTeX 2.7\tex\context\base\supp-pdf.tex"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count93
-\scratchdimen=\dimen119
-\scratchbox=\box27
-\nofMPsegments=\count94
-\nofMParguments=\count95
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count96
-\MPscratchDim=\dimen120
-\MPnumerator=\count97
-\everyMPtoPDFconversion=\toks20
-)
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
@@ -218,12 +198,12 @@ Overfull \hbox (1.14926pt too wide) in paragraph at lines 30--30
  []
 
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 30.
-("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\psnfss\ot1pcr.fd"
+(/usr/share/texmf-texlive/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Try loading font information for OMS+pcr on input line 30.
 
-("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\psnfss\omspcr.fd"
+(/usr/share/texmf-texlive/tex/latex/psnfss/omspcr.fd
 File: omspcr.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10> not available
@@ -232,138 +212,182 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 32.
 
 Underfull \hbox (badness 1584) in paragraph at lines 37--38
-\OT1/ptm/m/it/12 mecan-is-mos com base em pro-ces-sa-mento de lin-guagem nat-u-ral. Estes
+\OT1/ptm/m/it/12 mecan-is-mos com base em pro-ces-sa-mento de lin-guagem nat-u-
+ral. Estes
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
 
 Underfull \hbox (badness 1616) in paragraph at lines 42--43
-\OT1/ptm/m/n/12 que s[]ao palavras-chave cu-jos con-ceitos po-dem rep-re-sen-tar de forma re-sum-ida o
+\OT1/ptm/m/n/12 que s[]ao palavras-chave cu-jos con-ceitos po-dem rep-re-sen-ta
+r de forma re-sum-ida o
  []
 
 
 Underfull \hbox (badness 1264) in paragraph at lines 46--47
-\OT1/ptm/m/n/12 chamado de in-dex-ador, que seguindo um con-junto de re-gras e crit[]erios con-str[]oi
+\OT1/ptm/m/n/12 chamado de in-dex-ador, que seguindo um con-junto de re-gras e 
+crit[]erios con-str[]oi
  []
 
 [1
 
-{C:/Documents and Settings/fabio.montefuscolo/Configurações locais/Dados de aplicativos/MiKTeX/2.7/pdftex/config/pdftex.
-map}]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Underfull \hbox (badness 1028) in paragraph at lines 54--55
-\OT1/ptm/m/n/12 con-tro-lado s[]ao us-a-dos, com-bi-na-dos ou n[]ao, para de-scr-ever de forma sucinta um
+\OT1/ptm/m/n/12 con-tro-lado s[]ao us-a-dos, com-bi-na-dos ou n[]ao, para de-sc
+r-ever de forma sucinta um
  []
 
 [2]
 Underfull \hbox (badness 1917) in paragraph at lines 72--73
-[]\OT1/ptm/m/n/12 O de-sen-volvi-mento foi baseado no mod-elo de pro-toti-pagem, onde no-vas
+[]\OT1/ptm/m/n/12 O de-sen-volvi-mento foi baseado no mod-elo de pro-toti-pagem
+, onde no-vas
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 72--73
+\OT1/ptm/m/n/12 fun-cional-i-dades foram de-sen-volvi-das a cada ci-clo de de-s
+en-volvi-mento, baseando-
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 72--73
+\OT1/ptm/m/n/12 se nos seguintes mar-cos: constru[][]ao de um m[]odulo de leitu
+ra para o XML do
  []
 
 
 Underfull \hbox (badness 1237) in paragraph at lines 76--77
-\OT1/ptm/m/n/12 A leitura do XML do MeSH []e feita com a API SAX (Sim-ple API for XML)
+\OT1/ptm/m/n/12 A leitura do XML do MeSH []e feita com a API SAX (Sim-ple API f
+or XML)
  []
 
 [3]
 Underfull \hbox (badness 1057) in paragraph at lines 101--102
-\OT1/ptm/m/n/12 con-tro-lado, acon-tece de de-scritores com pou-cas ocorr[]encias e ir-rel-e-vantes para o
+\OT1/ptm/m/n/12 con-tro-lado, acon-tece de de-scritores com pou-cas ocorr[]enci
+as e ir-rel-e-vantes para o
  []
 
 [4]
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 124.
- ("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\psnfss\ot1phv.fd"
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 123.
+
+ (/usr/share/texmf-texlive/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 124.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 123.
 
 <figuras/tabela1.png, id=21, 615.29875pt x 95.35625pt>
 File: figuras/tabela1.png Graphic file (type png)
- <use figuras/tabela1.png> [5 <figuras/tabela1.png>]
-<figuras/tabela2.png, id=28, 540.0175pt x 156.585pt>
+
+<use figuras/tabela1.png> [5 <./figuras/tabela1.png>]
+<figuras/tabela2.png, id=27, 540.0175pt x 156.585pt>
 File: figuras/tabela2.png Graphic file (type png)
  <use figuras/tabela2.png>
-<figuras/tabela3.png, id=29, 541.02126pt x 133.49875pt>
+<figuras/tabela3.png, id=28, 541.02126pt x 133.49875pt>
 File: figuras/tabela3.png Graphic file (type png)
- <use figuras/tabela3.png>
-<figuras/tabela4.png, id=30, 494.84875pt x 88.33pt>
+
+<use figuras/tabela3.png> <figuras/tabela4.png, id=29, 494.84875pt x 88.33pt>
 File: figuras/tabela4.png Graphic file (type png)
- <use figuras/tabela4.png> [6 <figuras/tabela2.png> <figuras/tabela3.png>]
-Underfull \hbox (badness 1325) in paragraph at lines 166--168
-\OT1/ptm/m/n/12 Atrav[]es dos re-sul-ta-dos obti-dos pela valida[][]ao, al-gu-mas considera[][]oes po-dem ser
+
+<use figuras/tabela4.png> [6 <./figuras/tabela2.png> <./figuras/tabela3.png>]
+Underfull \hbox (badness 1325) in paragraph at lines 165--167
+\OT1/ptm/m/n/12 Atrav[]es dos re-sul-ta-dos obti-dos pela valida[][]ao, al-gu-m
+as considera[][]oes po-dem ser
  []
 
-(fabioRafaelFabricioOrlando.bbl [7 <figuras/tabela4.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 20--24
-[]\OT1/ptm/m/n/12 NLM (2006).  \OT1/ptm/m/it/12 Con-cept Struc-ture in XML MeSH\OT1/ptm/m/n/12 .  Obtido em
- []
-
-
-Underfull \hbox (badness 3281) in paragraph at lines 20--24
-\OT1/ptm/m/n/12 http://www.nlm.nih.gov/mesh/concept[]structure.html, Aces-sado em 5 de Mar[]o
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--31
-[]\OT1/ptm/m/n/12 NLM (2008).  \OT1/ptm/m/it/12 Med-i-cal Sub-ject Head-ings\OT1/ptm/m/n/12 .  Obtido em:
+(./fabioRafaelFabricioOrlando.bbl
+Underfull \hbox (badness 2134) in paragraph at lines 4--10
+[]\OT1/ptm/m/n/12 Cavnar, W. B. and Tren-kle, J. M. (1994).  N-gram-based text 
+cat-e-go-riza-tion.
  []
 
 
-Underfull \hbox (badness 6284) in paragraph at lines 26--31
-\OT1/ptm/m/n/12 ftp://nlmpubs.nlm.nih.gov/online/mesh/.xmlmesh/desc2008.gz, Acesso em 5 de
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
+\OT1/ptm/m/n/12 In \OT1/ptm/m/it/12 In Pro-ceed-ings of SDAIR-94, 3rd An-nual S
+ym-po-sium on Doc-u-ment
  []
 
 
-Underfull \hbox (badness 6758) in paragraph at lines 38--42
-[]\OT1/ptm/m/n/12 Porter, M. F. (1980).  \OT1/ptm/m/it/12 An al-go-rithm for suf-fix strip-ping\OT1/ptm/m/n/12 .  Obtido
- em:
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
+\OT1/ptm/m/it/12 Anal-y-sis and In-for-ma-tion Re-trieval\OT1/ptm/m/n/12 , page
+s 161--175, Obtido em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--49
-[]\OT1/ptm/m/n/12 Python (2008a).  \OT1/ptm/m/it/12 Python ob-ject se-ri-al-iza-tion\OT1/ptm/m/n/12 .  Obtido em:
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
+\OT1/ptm/m/n/12 http://www.dcs.fmph.uniba.sk/diplomovky/obhajene/getfile.php/Ng
+-based-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--49
-\OT1/ptm/m/n/12 http://docs.python.org/library/pickle.html?highlight=pickle, Aces-sado em 4 de
+Underfull \hbox (badness 5161) in paragraph at lines 4--10
+\OT1/ptm/m/n/12 tc.pdf?id=1&fid=3&type=application%2Fpdf, Aces-sado em: 4 de Ma
+r[]o de
+ []
+
+[7 <./figuras/tabela4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 28--32
+[]\OT1/ptm/m/n/12 NLM (2006).  \OT1/ptm/m/it/12 Con-cept Struc-ture in XML MeSH
+\OT1/ptm/m/n/12 .  Obtido em
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--55
-[]\OT1/ptm/m/n/12 Python (2008b).  \OT1/ptm/m/it/12 Sup-port for SAX2 Parsers\OT1/ptm/m/n/12 .  Obtido em:
+Underfull \hbox (badness 3281) in paragraph at lines 28--32
+\OT1/ptm/m/n/12 http://www.nlm.nih.gov/mesh/concept[]structure.html, Aces-sado 
+em 5 de Mar[]o
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 62--67
-[]\OT1/ptm/m/n/12 W. B. Cav-nar, J. M. T. (2005).  \OT1/ptm/m/it/12 N-gram-based text cat-e-go-riza-tion\OT1/ptm/m/n/12 
-.  Obtido
+Underfull \hbox (badness 10000) in paragraph at lines 34--39
+[]\OT1/ptm/m/n/12 NLM (2008).  \OT1/ptm/m/it/12 Med-i-cal Sub-ject Head-ings\OT
+1/ptm/m/n/12 .  Obtido em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--67
-\OT1/ptm/m/n/12 em: http://www.dcs.fmph.uniba.sk/diplomovky/obhajene/getfile.php/Ng-based-
+Underfull \hbox (badness 6284) in paragraph at lines 34--39
+\OT1/ptm/m/n/12 ftp://nlmpubs.nlm.nih.gov/online/mesh/.xmlmesh/desc2008.gz, Ace
+sso em 5 de
  []
 
-) [8] (fabioRafaelFabricioOrlando.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--56
+[]\OT1/ptm/m/n/12 Python (2008a).  \OT1/ptm/m/it/12 Python ob-ject se-ri-al-iza
+-tion\OT1/ptm/m/n/12 .  Obtido em:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--56
+\OT1/ptm/m/n/12 http://docs.python.org/library/pickle.html?highlight=pickle, Ac
+es-sado em 4 de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--62
+[]\OT1/ptm/m/n/12 Python (2008b).  \OT1/ptm/m/it/12 Sup-port for SAX2 Parsers\O
+T1/ptm/m/n/12 .  Obtido em:
+ []
+
+) [8] (./fabioRafaelFabricioOrlando.aux) ) 
 Here is how much of TeX's memory you used:
- 2374 strings out of 95304
- 30486 string characters out of 1182716
- 90395 words of memory out of 1500000
- 5550 multiletter control sequences out of 110000
- 21033 words of font info for 44 fonts, out of 3000000 for 5000
- 14 hyphenation exceptions out of 8191
- 30i,8n,28p,996b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
-{D:/Arquivos de programas/MiKTeX 2.7/fonts/enc/dvips/fontname/8r.enc}<D:/Arquivo
-s de programas/MiKTeX 2.7/fonts/type1/bluesky/cm/cmr8.pfb><D:/Arquivos de programas/MiKTeX 2.7/fonts/type1/bluesky/cm/cm
-sy10.pfb><D:/Arquivos de programas/MiKTeX 2.7/fonts/type1/urw/courier/ucrr8a.pfb><D:/Arquivos de programas/MiKTeX 2.7/fo
-nts/type1/urw/helvetic/uhvb8a.pfb><D:/Arquivos de programas/MiKTeX 2.7/fonts/type1/urw/times/utmb8a.pfb><D:/Arquivos de 
-programas/MiKTeX 2.7/fonts/type1/urw/times/utmbi8a.pfb><D:/Arquivos de programas/MiKTeX 2.7/fonts/type1/urw/times/utmr8a
-.pfb><D:/Arquivos de programas/MiKTeX 2.7/fonts/type1/urw/times/utmri8a.pfb>
-Output written on fabioRafaelFabricioOrlando.pdf (8 pages, 133401 bytes).
+ 2023 strings out of 94960
+ 26574 string characters out of 1181643
+ 85795 words of memory out of 1500000
+ 5297 multiletter control sequences out of 10000+50000
+ 21033 words of font info for 44 fonts, out of 1200000 for 2000
+ 24 hyphenation exceptions out of 8191
+ 30i,8n,28p,954b,321s stack positions out of 5000i,500n,6000p,200000b,5000s
+{/usr/share/texmf-texlive/fonts/enc/d
+vips/base/8r.enc}</usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr8.pfb></us
+r/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/texmf-texli
+ve/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw
+/helvetic/uhvb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmb8a.pfb
+></usr/share/texmf-texlive/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-
+texlive/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-texlive/fonts/type1/
+urw/times/utmri8a.pfb>
+Output written on fabioRafaelFabricioOrlando.pdf (8 pages, 200448 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
+ 70 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
