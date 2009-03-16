@@ -1,13 +1,5 @@
 \begin{thebibliography}{}
 
-\bibitem[Cavnar and Trenkle 1994]{cavnar:94}
-Cavnar, W.~B. and Trenkle, J.~M. (1994).
-\newblock N-gram-based text categorization.
-\newblock In {\em In Proceedings of SDAIR-94, 3rd Annual Symposium on Document
-  Analysis and Information Retrieval}, pages 161--175, Obtido em:
-  http://www.dcs.fmph.uniba.sk/diplomovky/obhajene/getfile.php/Ng-based-tc.pdf%
-?id=1\&fid=3\&type=application\%2Fpdf, Acessado em: 4 de Mar\c{c}o de 2009.
-
 \bibitem[Gupta 2008]{gupta:08}
 Gupta, V. (2008).
 \newblock {\em Python Implementation of Porter Stemming Algorithm}.
