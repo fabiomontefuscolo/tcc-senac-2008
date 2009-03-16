@@ -69,7 +69,38 @@ O descritores e sinônimos presentes no vocabulário controlado foram associados a
 
 No desenvolvimento deste trabalho, o vocabulário controlado usado foi o MeSH do ano 2008, que conta com 24.767 termos em inglês e mais de 97.000 formas sinônimas para os termos autorizados. A lista de \textit{stop-words} utilizada é a lista proposta pelo projeto NLTK \cite{nltk:08}, composta por 571 termos. Os artigos científicos utilizados são da área da saúde e disponibilizados na biblioteca eletrônica SciELO \cite{scielo:08}.
 
-O desenvolvimento foi baseado no modelo de prototipagem, onde novas funcionalidades foram desenvolvidas a cada ciclo de desenvolvimento, baseando-se nos seguintes marcos: construção de um módulo de leitura para o XML do MeSH ; desenvolvimento do processo de normalização dos termos; construção das estruturas para alocar o vocabulário controlado; construção  do módulo de leitura por janelamento; construção  do módulo de leitura por bigramas \cite{cavnar:94}; desenvolvimento de um módulo de seleção de descritores.
+A aplicação desenvolvida neste trabalho é composta por dois módulos: alocação do MeSH na memória; leitura de artigos e validação de resultados. Na figura 1 , é possivel visualizar a estrutura de todos os módulos e seus componentes. 
+
+\begin{figure}[ht]
+	\centering
+		\caption{Módulos Desenvolvidos}
+		\includegraphics[width=0.7\textwidth]{figuras/modulos.png}
+	\label{fig:modulo1}
+\end{figure}
+
+
+%\begin{figure}[ht]
+%	\centering
+%		\caption{Módulo Alocação do MeSH na mémoria}
+%		\includegraphics[width=0.5\textwidth]{figuras/modulo_mesh.png}
+%	\label{fig:modulo1}
+%\end{figure}
+
+
+%\begin{figure}[ht]
+%	\centering
+%		\caption{Módulo Leitura de Artigos}
+%		\includegraphics[width=0.7\textwidth]{figuras/modulo_artigo.png}
+%	\label{fig:modulo2}
+%\end{figure}
+
+
+%\begin{figure}[ht]
+%	\centering
+%		\caption{Módulo Validação de Resultados}
+%		\includegraphics[width=0.5\textwidth]{figuras/modulo_validacao.png}
+%	\label{fig:modulo3}
+%\end{figure}
 
 \subsection{Alocação do MeSH na Memória}
 
