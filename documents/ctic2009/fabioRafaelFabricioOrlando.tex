@@ -83,8 +83,12 @@ O descritores e sinônimos presentes no vocabulário controlado foram associados a
 A aplicação desenvolvida neste trabalho
 é composta por três módulos: módulo para leitura do MeSH, módulo para leitura dos
 artigos e módulo para validação dos
-resultados. Na figura 1 é possivel
-visualizar a estrutura de todos os módulos e seus componentes.  
+resultados. O objetivo do módulo para leitura do MeSH é transformar o MeSH em
+uma estrutura que será utilizada pelo módulo para leitura dos artigos. O
+objetivo do módulo para leitura dos artigos é identificar os descritores para
+cada artigo fornecido. O módulo para validação dos resultados tem como objetivo
+verificar a eficiência da aplicação desenvolvida neste trabalho. Na figura 1 é
+possivel visualizar a estrutura de todos os módulos e seus componentes.
 
 \begin{figure}[ht]
 	\centering
@@ -93,52 +97,113 @@ visualizar a estrutura de todos os módulos e seus componentes.
 	\label{fig:modulo1}
 \end{figure}
 
-%O objetivo do módulo para
-%leitura do MeSH é manipular todas as
-%informações contidas no MeSH. O objetivo
-%do módulo para leitura dos artigos é
-%identificar os descritos de cada artigo
-%e o objetivo
-
-Os componentes utilizados na
-implementação dos módulos são:
+Os componentes utilizados nos módulos para
+leitura do MeSH e no módulo para a leitura de artigos são:
 
 \begin{itemize}
-  \item \textit{Alocação do MeSH na Memória}: a leitura do XML do MeSH é feita com a API SAX (Simple API for XML) \cite{pythonsax:08}. Apesar de existirem outras API mais fáceis de usar, o SAX é o mais adequado para este trabalho, pois não preciso colocar todo o arquivo em memória para manipulá-lo.
-A medida que um termo era lido pela API SAX, métodos para o armazenamento eram executados. Caso o termo encontrado seja um descritor preferido, sua forma normalizada se torna a chave no \textit{dictionary} e o termo completo é o valor associado a tal chave. Caso o termo é um sinônimo, outra estrutura é usada, onde a chave é a forma normalizada do sinônimo, e o valor é a forma normalizada do descritor correspondente. 
-Tendo as estruturas já formadas, elas são serializadas e gravadas em disco para que não seja necessário repetir o procedimento de leitura do XMLL. A serialização e a carga dos \textit{dictionarys} são realizadas com auxílio da API Pickle do Python \cite{pythonpickle:08}.
+  \item \textbf{Alocação do MeSH na Memória}: a leitura do XML do MeSH é feita
+  com a API SAX (Simple API for XML) \cite{pythonsax:08}. Apesar de existirem 
+  outras API mais fáceis de usar, o SAX é o mais adequado para este trabalho, 
+  pois não preciso colocar todo o arquivo em memória para manipulá-lo. A medida
+  que um termo é lido pela API SAX, métodos para o armazenamento são
+  executados. Caso o termo encontrado seja um descritor preferido, sua forma
+  normalizada se torna a chave em um dicionário e o termo completo é o valor
+  associado a tal chave. Caso o termo é um sinônimo, outra estrutura é usada, 
+  onde a chave é a forma normalizada do sinônimo, e o valor é a forma
+  normalizada do descritor correspondente. Tendo as estruturas já formadas, 
+  elas são serializadas e gravadas em disco para que não seja necessário
+  repetir o procedimento de leitura do XML. A serialização e a carga dos
+  dicionários são realizadas com auxílio da \textit{API Pickle} do Python
+  \cite{pythonpickle:08}.
 
-\item \textit{Normalização de
-termos}: para implementar a normalização
-de termos, foram criadas duas classes e uma lista de \textit{stop-words}. A primeira é uma implementação em Python do algoritmo de \textit{Stemming} de Martin Porter \cite{gupta:08}, reponsável pela inflexão de palavras na aplicação. A outra classe identifica as \textit{stop-words}, cruzando cada palavra de entrada com a lista obtida do projeto NLTK.
+\item \textbf{Normalização de termos}: para implementar a normalização
+de termos foram criadas duas classes e uma lista de \textit{stop-words}. A
+primeira é uma implementação em Python do algoritmo de \textit{Stemming} de
+Martin Porter \cite{gupta:08}, reponsável pela inflexão de palavras na
+aplicação. A outra classe identifica as \textit{stop-words}, cruzando cada 
+palavra de entrada com a lista obtida do projeto NLTK.
 
-\item \textit{Navegação no MeSH}: para
-otenção de novos descritores, foi implementado um algoritmo capaz de navegar pela estrutura do MeSH utilizando a identificação hierárquica de cada descritor. Com isso, é possível contabilizar todos os ascendentes de cada descritor. Após esta etapa, é avaliada a relevância de cada ascendente para o texto. Aquele que possuir mais de 20\% de seus filhos no texto será acrescentado a lista do programa.
+\item \textbf{Navegação no MeSH}: para obtenção de novos descritores foi
+implementado um algoritmo capaz de navegar pela estrutura do MeSH utilizando a
+identificação hierárquica de cada descritor. Com isso, é possível contabilizar 
+todos os ascendentes de cada descritor. Após esta etapa, é avaliada a
+relevância de cada ascendente para o texto. Esta relevância é determinada de
+acordo com o número de filhos do descritor que estão presentes no texto.
 
-\item \textit{Janelamento}: no processo de identificação de descritores para o artigo, existem duas ocasiões em que a técnica de janelamento é utilizada. A primeira delas é diretamente na comparação entre palavras do artigo e vocabulário controlado. Existem descritores no vocabulário que possuem mais de uma palavra, então na leitura do artigo utilizamos uma janela de leitura para verificar a existência de várias palavras como sendo um descritor válido. Esse processo é parametrizável, possibilitando assim definir quantas palavras serão utilizadas. 
-A segunda ocasião é para a análise dos bigramas, onde a janela representa a quantidade de palavras a frente de uma que está em leitura.
+\item \textbf{Janelamento}: no processo de identificação de descritores para o 
+artigo existem duas ocasiões em que a técnica de janelamento é utilizada. A 
+primeira delas é diretamente na comparação entre palavras do artigo e
+vocabulário controlado. Existem descritores no vocabulário que possuem mais de 
+uma palavra, então na leitura do artigo é utilizado uma janela de leitura para
+verificar a existência de várias palavras como sendo um descritor válido. Esse
+processo é parametrizável, possibilitando assim definir quantas palavras serão utilizadas. 
+A segunda ocasião é para a análise dos bigramas, onde a janela representa a quantidade de 
+palavras a frente de uma que está em leitura.
 
-\item \textit{Bigrama}: a aplicação da técnica de bigramas é dependente do conceito utilizado na leitura em janelamento no artigo, já que este conceito é reutilizado nesta técnica. Quando uma palavra esta no processo de leitura do texto, são feitas combinações com as palavras seguintes dentro de uma janela pré-definida e buscadas no vocabulário controlado. Porém a primeira combinação é descartada, já que a leitura do texto em janelamento cobre o primeiro caso de bigrama.
+\item \textbf{Bigrama}: a aplicação da técnica de bigramas é dependente do
+conceito utilizado na leitura em janelamento no artigo, já que este conceito é
+reutilizado nesta técnica. Quando uma palavra esta no processo de leitura do
+texto, são feitas combinações com as palavras seguintes dentro de uma janela 
+pré-definida e buscadas no vocabulário controlado. Porém a primeira combinação
+é descartada, já que a leitura do texto em janelamento cobre o primeiro caso de bigrama.
 
-\item \textit{Corte de descritores}: como o programa é capaz de cruzar todas as palavras do artigo com vocabulário controlado, acontece de descritores com poucas ocorrências e irrelevantes para o assunto aparecerem como resultados do programa. Sendo assim, a eliminação destes é fundamental para a qualidade dos resultados e para isto, duas técnicas de corte foram implementadas.
-O corte por ocorrência, como diz o nome, leva em consideração o número de aparições do descritor no texto. Todos os descritores são ordenados por ordem de aparições e então o corte é feito baseado no descritor de maior ocorrência no texto. Aqueles descritores que tiveram um número de aparições menor que 20\% do número de aparições do descritor de maior ocorrência são eliminados do resultado. 
-Já o corte por quantidade simplesmente ordena os descritores, e mantém 10\% dos descritores que tiveram maior numero de ocorrências.
-
-\item \textit{Corte de descritores
-pré-definidos não existentes no texto}: para a validação dos descritores obtidos pelo programa foram utilizados artigos indexados manualmente por um profissional da área. Com isso, foram armazenados artigos e descritores. Para tornar a validação dos resultados coerente, é necessário verificar se os descritores pré-definidos para o artigo realmente estão no texto. Este procedimento é necessário, pois caso não realizado, os descritores obtidos pelo programa serão comparados com descritores que foram escolhidos subjetivamente por um profissional. Como a técnica utilizada é apenas a definição de termos encontrados no texto, é correto comparar os resultados apenas com os descritores pré-definidos que realmente aparecem no artigo. São verificados se os descritores e seus sinônimos possuem alguma ocorrência no texto, e quando o caso é negativo, estes são eliminados dos descritores que serão usados para avaliar a qualidade dos resultados obtidos.
+\item \textbf{Corte de descritores}: a aplicação desenvolvida neste trabalho é
+capaz de cruzar todas as palavras de um artigo com o vocabulário controlado.
+Conseqüentemente, é comum fazer parte do resultado descritores com poucas
+ocorrências e irrelevantes para o artigo. Sendo assim, a eliminação destes é
+fundamental para o aumento da qualidade dos resultados. Para isto, duas
+técnicas de corte de descritores foram implementadas. O corte por ocorrência,
+como diz o nome, leva em consideração o número de aparições do descritor no
+texto. Todos os descritores são ordenados por ordem de aparições e então o 
+corte é feito baseado no descritor de maior ocorrência no texto. Aqueles 
+descritores que tiveram um número de aparições menor que 20\% do número de 
+aparições do descritor de maior ocorrência são eliminados do resultado. Já o 
+corte por quantidade simplesmente ordena os descritores, e mantém 10\% dos 
+descritores que tiveram maior numero de ocorrências.
 
 \end{itemize}
+
+Para a validação dos descritores
+obtidos pelo programa foram utilizados artigos indexados manualmente por um
+profissional da área. Com isso, foram armazenados artigos e descritores. Para
+tornar a validação dos resultados coerente, é necessário verificar se os
+descritores pré-definidos para o artigo realmente estão no texto. Este
+procedimento é necessário, pois caso não realizado, os descritores obtidos pelo
+programa serão comparados com descritores que foram escolhidos subjetivamente
+por um profissional. Como a técnica utilizada é apenas a definição de termos
+encontrados no texto, é correto comparar os resultados apenas com os
+descritores pré-definidos que realmente aparecem no artigo. 
+O componente \textit{corte de descritores pré-definidos não existentes no
+texto} verifica se os descritores e seus sinônimos possuem alguma ocorrência
+no texto, e quando o caso é negativo, o componente elimina estes casos dos
+descritores que serão usados para avaliar a qualidade dos resultados obtidos.
 
 \section{Resultados}
 \label{resultados}
 
-Para avaliar as abordagens propostas e desenvolvidas neste trabalho foi utilizada uma coleção de artigos para obter a média dos valores de precisão, cobertura e F-measure \cite{manning:08}. Os artigos utilizados foram extraídos da base de dados da SciELO. Esta fonte foi escolhida tendo em vista artigos completos, disponíveis para download e indexados.
+Para avaliar as abordagens propostas e desenvolvidas neste trabalho foi
+utilizada uma coleção de artigos  para obter a média dos valores de precisão,
+cobertura e F-measure \cite{manning:08}.  Os artigos utilizados foram extraídos
+da base de dados da SciELO \cite{scielo:08}. Esta fonte foi escolhida tendo em
+vista artigos completos, disponíveis para download e indexados.
 
-Foi obtido através do site da BIREME um volume de 419 artigos para serem avaliados. Estes com seus respectivos descritores foram armazenados em arquivos de texto puro para a validação de resultados. Cada artigo desta massa possui uma média de 11,28 descritores definidos manualmente, com um desvio padrão de 4,57.
+No total, foram utilizados 419 artigos na avaliação. Estes artigos, com seus
+respectivos descritores, foram armazenados em arquivos de texto puro para a
+validação de resultados. Cada artigo desta massa possui uma média de 11,28
+descritores definidos manualmente, com um desvio padrão de 4,57.
 
-O programa teve diferentes técnicas aplicadas, cada uma podendo ser executada de forma independente. Para a execução do programa, foram feitas combinações das técnicas sobre os 419 artigos, visando obter a melhor combinação possível usando as medidas apresentadas anteriormente. Também foram medidos nestes testes a eficiência dos diversos tamanhos de janela de leitura e os tipos de cortes usados. Primeiro foi executado o processo utilizando um tamanho de 3 palavras para a janela de leitura, com técnicas que não dependam de nenhum tipo de corte.
+O programa teve diferentes técnicas aplicadas, cada uma podendo ser executada de forma independente. 
+Para a execução do programa, foram feitas combinações das técnicas sobre os 419
+artigos, visando obter a melhor combinação possível usando as medidas apresentadas anteriormente. 
+Também foram medidos nestes testes a eficiência dos diversos tamanhos de janela de leitura e os 
+tipos de cortes usados. Primeiro foi executado o processo utilizando um tamanho de 3 palavras 
+para a janela de leitura com técnicas que não dependem de nenhum tipo de corte.
 
-Na tabela 1 é possível visualizar os resultados de precisão, cobertura e F-measure encontrados para as três técnicas (existência dos descritores no artigo, navegação na árvore do MeSH e navegação na árvore do MeSH com filtragem dos descritores pré-definidos) sem cortes.
+Na tabela \ref{fig:tabela1} é possível visualizar os resultados de precisão,
+cobertura e F-measure encontrados utilizando: apenas o identificador de
+descritores no artigo; o identificador de descritos mais a navegação na árvore
+do MeSH; e, o identificador de descritos mais a navegação 
+na árvore do MeSH com filtragem dos descritores pré-definidos.
 
 \begin{table}[ht]
 	\centering
@@ -147,9 +212,19 @@ Na tabela 1 é possível visualizar os resultados de precisão, cobertura e F-measu
 	\label{fig:tabela1}
 \end{table}
 
-É possível observar que o programa conseguiu uma cobertura de mais de 60\% de descritores dos artigos. Entrentanto, a não realização do corte faz com que um grande número de descritores seja retornado, diminuindo então a precisão do programa.  Também é observado que com a utilização da navegação na estrutura do MeSH, a cobertura também aumenta. A filtragem dos descritores em muito dos casos aumentará a cobertura também, já que descritores que não estão no texto saem da comparação.
+É possível observar que o programa conseguiu uma cobertura maior que 60\% de
+descritores dos artigos. Entrentanto, a não realização do corte faz com que um
+grande número de descritores seja retornado, diminuindo então a precisão do programa.  
+Também é observado que com a utilização da navegação na estrutura do MeSH, a cobertura também aumenta. 
+A filtragem dos descritores em muito dos casos aumentará a cobertura também, já que descritores que 
+não estão no texto saem da comparação.
 
-O próximo passo foi avaliar qual o tipo de corte seria mais eficiente. Também foi utilizada a navegação na estrutura do MeSH para obter mais descritores. Esta navegação também foi realizada antes e após o corte, para avaliar o melhor momento que ela deveria ser realizada no processo. Na massa de dados utilizada, a navegação após o corte acrescentou uma média de 3,31 descritores novos por texto, tendo um desvio padrão de 3,34. Na tabela 2 são apresentados os resultados desta avaliação.
+O próximo passo foi avaliar qual o tipo de corte seria mais eficiente. Também foi utilizada a 
+navegação na estrutura do MeSH para obter mais descritores. Esta navegação foi realizada 
+antes e após o corte, para avaliar o melhor momento que ela deveria ser realizada no processo. 
+Na massa de dados utilizada, a navegação após o corte acrescentou uma média de 3,31 descritores 
+novos por texto. Na tabela \ref{fig:tabela2} são apresentados os resultados
+desta avaliação.
 
 \begin{table}[ht]
 	\centering
@@ -158,7 +233,12 @@ O próximo passo foi avaliar qual o tipo de corte seria mais eficiente. Também fo
 	\label{fig:tabela2}
 \end{table}
 
-Com os últimos resultados, já é possível afirmar que o corte por ocorrência é mais eficiente que o corte por quantidade, porém mais alguns testes serão feitos com ambos os cortes. Como já foi visto que o filtro nos descritores melhora a cobertura. O principal motivo é o fato de que, no conjunto de artigos utilizado, tem-se uma média de 3,19 descritores com desvio padrão de 2,17 que são definidos subjetivamente e não estão presentes no texto. O próximo resultado apresenta a combinação desta técnica mais a do bigrama na tabela 3. 
+Com os resultados apresentados na tabela \ref{fig:tabela2} é possível afirmar
+que o corte por ocorrência é mais eficiente que o corte por quantidade. No
+entanto, falta verificar qual o impacto do uso de bigramas e no uso do
+componentes que elimina descritores pré-definidos não existentes no texto,
+chamado de filtragem. Na tabela \ref{fig:tabela3} são apresentados os
+resultados gerados a partir da combinação destes dois componentes.
 
 \begin{table}[ht]
 	\centering
@@ -167,9 +247,16 @@ Com os últimos resultados, já é possível afirmar que o corte por ocorrência é ma
 	\label{fig:tabela3}
 \end{table}
 
-A tabela 4 revela que tanto o bigrama como o filtro aumentam entre 7 e 8\% o cobertura do programa, mas a precisão cai aproximadamente 0,8\%. Entretano, a medida harmônica F-measure aponta que o melhor resultado fica por conta da não utilização da navegação do MeSH.
+(((((A tabela \ref{fig:tabela3} revela que tanto o bigrama como o filtro
+aumentam entre 7 e 8\% a cobertura do programa, mas a precisão cai aproximadamente
+0,8\%. Entretano, a medida harmônica F-measure aponta que o melhor resultado 
+fica por conta da não utilização da navegação do MeSH.
 
-Com todos esses resultados entre técnicas e cortes, a melhor abordagem para o programa foi a utilização do corte por ocorrência e a técnica de bigramas para obter os melhores descritores de um artigo. Com isso, um novo teste foi realizado alterando a janela de leitura do programa para quatro, e o resultado obtido pode ser visto na tabela 4.
+Até o presente momento, a melhor abordagem para obter os melhores descritores
+foi a utilização do corte por ocorrência em conjunto com a técnica de bigramas.
+No entanto, ainda falta testar o tamanho da janela de leitura. O resultado
+obtido com janelas de tamanho 3 e 4 pode ser visto na tabela
+\ref{fig:tabela4}.)))) - REVER
 
 \begin{table}[ht]
 	\centering
@@ -178,20 +265,51 @@ Com todos esses resultados entre técnicas e cortes, a melhor abordagem para o pr
 	\label{fig:tabela4}
 \end{table}
 
-Os novos valores para a média harmônica representam uma sensível melhora nos resultados obtidos. Isso porque o numero de combinações aumenta para a análise de bigramas, e a janela de leitura pode encontrar um descritor de até quatro palavras no texto. Números menores não são aconselhados por eliminar possíveis descritores existentes no vocabulário controlado, e uma janela maior pode distorcer os resultados do bigrama.
+Os novos valores para a média harmônica representam uma sensível melhora nos
+resultados obtidos. Isso porque o numero de combinações aumenta para a análise de bigramas, 
+e a janela de leitura pode encontrar um descritor de até quatro palavras no texto. Números 
+menores não são aconselhados por eliminar possíveis descritores existentes no vocabulário 
+controlado, e uma janela maior pode distorcer os resultados do bigrama.
 
-Com isso, é possível afirmar que a melhor configuração para o programa é a utilização de uma janela de leitura igual a quatro palavras, com as técnicas de corte por ocorrência e bigramas. O programa com esta configuração final, retornou, para os artigos utilizados na validação, uma média de 35,19 descritores por artigo, com um desvio padrão de 28,8.
+Com isso, é possível afirmar que a melhor configuração para o programa é a utilização de 
+uma janela de leitura igual a quatro palavras, com as técnicas de corte por ocorrência e bigramas. 
+O programa com esta configuração final, retornou, para os artigos utilizados na validação, uma 
+média de 35,19 descritores por artigo, com um desvio padrão de 28,8.
 
 \section{Considerações sobre os resultados e trabalhos futuros}
 \label{consideracoes}
 
-Através dos resultados obtidos pela validação, algumas considerações podem ser realizadas sobre as mesmas. O fato da média final de descritores sugeridos ser alta reflete a capacidade do computador de cruzar todas as palavras do artigo com as existentes no vocabulário controlado, e assim, retornar um grande número de descritores. Esta atividade é dificilmente realizada por uma pessoa, já que a mesma precisaria saber todo o vocabulário controlado, ou então ter que procurar uma a uma as palavras ao ler o texto.
-Outro ponto importante e interessante é a questão de que, com a navegação na estrutura do MeSH para descobrir novos descritores possíveis para o texto ter prejudicado a qualidade dos resultados. Foram identificadas duas razões para este fato. A primeira é que a heurística utilizada para definir novos descritores está imprecisa. Isto acarreta em trazer descritores diferentes dos escolhidos por um indexador manual, e diminuir a cobertura e a precisão da validação. A outra razão é a de que, para estes artigos, os profissionais que definiram os descritores para os artigos preferem utilizar aqueles que são de assuntos mais específicos, evitando a utilização de um descritor mais genérico que consiga representar uma parte significativa destes assuntos.
+= FALTA VER!!!
 
-Existem algumas alterações possíveis ao programa para que este consiga obter resultados melhores para sua proposta. A criação de um módulo para o aprendizado de maquina poderia personalizar o programa com as características de um único indexador manual, aprendendo com os artigos já indexados. Assim o resultado será aproximado de um profissional da área.
-Para melhorar a leitura no artigo, seria interessante atribuir pesos para algumas seções do texto, como por exemplo, o título, resumo e conclusões, já que estes são trechos que provêem uma síntese do conteúdo tratado no documento. Conseguindo atribuir um peso maior aos descritores encontrados nestas partes, acredita-se que melhores resultados podem ser alcançados.
-Para melhorar a leitura no artigo, seria interessante atribuir pesos para algumas seções do texto, como por exemplo, o título, resumo e conclusões. Todo o conteúdo do artigo esta em ênfase nesses pontos. Conseguindo atribuir um peso maior aos descritores encontrados nestas partes, acredita-se que os resultados possam retornar resultados melhores.
-Para indexar um artigo, o contexto onde este será inserido deve ser levado em consideração \cite{lancaster:04}. Dependendo da biblioteca onde será inserido o artigo, podem ser escolhidos descritores mais abrangentes ou que tratem de um assunto mais específico. Este seria outro aprimoramento possível de se realizar neste programa. 
+Através dos resultados obtidos pela validação, algumas considerações podem ser realizadas sobre as mesmas. 
+O fato da média final de descritores sugeridos ser alta reflete a capacidade do computador de cruzar todas 
+as palavras do artigo com as existentes no vocabulário controlado, e assim, retornar um grande número de 
+descritores. Esta atividade é dificilmente realizada por uma pessoa, já que a mesma precisaria saber todo o 
+vocabulário controlado, ou então ter que procurar uma a uma as palavras ao ler o texto.
+Outro ponto importante e interessante é a questão de que, com a navegação na estrutura do MeSH para descobrir 
+novos descritores possíveis para o texto ter prejudicado a qualidade dos resultados. Foram identificadas 
+duas razões para este fato. A primeira é que a heurística utilizada para definir novos descritores está 
+imprecisa. Isto acarreta em trazer descritores diferentes dos escolhidos por um indexador manual, e diminuir 
+a cobertura e a precisão da validação. A outra razão é a de que, para estes artigos, os profissionais que 
+definiram os descritores para os artigos preferem utilizar aqueles que são de assuntos mais específicos, 
+evitando a utilização de um descritor mais genérico que consiga representar uma parte significativa destes 
+assuntos.
+
+Existem algumas alterações possíveis ao programa para que este consiga obter resultados melhores para sua 
+proposta. A criação de um módulo para o aprendizado de maquina poderia personalizar o programa com as 
+características de um único indexador manual, aprendendo com os artigos já indexados. Assim o resultado 
+será aproximado de um profissional da área.
+Para melhorar a leitura no artigo, seria interessante atribuir pesos para algumas seções do texto, como 
+por exemplo, o título, resumo e conclusões, já que estes são trechos que provêem uma síntese do conteúdo 
+tratado no documento. Conseguindo atribuir um peso maior aos descritores encontrados nestas partes, acredita-se 
+que melhores resultados podem ser alcançados.
+Para melhorar a leitura no artigo, seria interessante atribuir pesos para algumas seções do texto, 
+como por exemplo, o título, resumo e conclusões. Todo o conteúdo do artigo esta em ênfase nesses pontos. 
+Conseguindo atribuir um peso maior aos descritores encontrados nestas partes, acredita-se que os resultados 
+possam retornar resultados melhores.
+Para indexar um artigo, o contexto onde este será inserido deve ser levado em consideração \cite{lancaster:04}. 
+Dependendo da biblioteca onde será inserido o artigo, podem ser escolhidos descritores mais abrangentes ou 
+que tratem de um assunto mais específico. Este seria outro aprimoramento possível de se realizar neste programa. 
 
 
 \bibliographystyle{sbc}
