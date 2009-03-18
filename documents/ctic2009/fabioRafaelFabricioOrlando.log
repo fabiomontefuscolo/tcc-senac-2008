@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2009.3.12)  15 MAR 2009 21:46
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2008.11.7)  18 MAR 2009 01:47
 entering extended mode
  %&-line parsing enabled.
 **fabioRafaelFabricioOrlando.tex
@@ -45,7 +45,9 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \Gm@odd@mp=\dimen105
 \Gm@even@mp=\dimen106
 \Gm@dimlist=\toks15
-) (./caption2.sty
+
+(/usr/share/texmf-texlive/tex/xelatex/xetexconfig/geometry.cfg))
+(./caption2.sty
 Package: caption2 2002/08/03 v2.1 Customising captions (AS)
 \captionmargin=\dimen107
 \captionwidth=\dimen108
@@ -53,8 +55,7 @@ Package: caption2 2002/08/03 v2.1 Customising captions (AS)
 Package caption2 Info: Running in caption2 v2.0 compatibility mode on input lin
 e 147.
 \captionlinewidth=\dimen110
-)
-(/usr/share/texmf-texlive/tex/latex/psnfss/times.sty
+) (/usr/share/texmf-texlive/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
 \c@instn=\count90
@@ -82,11 +83,10 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 (/etc/texmf/tex/latex/config/graphics.cfg
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: pdftex.def on input line 90.
+Package graphics Info: Driver file: dvips.def on input line 90.
 
-(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
-\Gread@gobject=\count91
+(/usr/share/texmf-texlive/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
 ))
 \Gin@req@height=\dimen116
 \Gin@req@width=\dimen117
@@ -103,7 +103,7 @@ Language: portuges 2005/03/31 v1.2p Portuguese support from the babel system
 
 (/usr/share/texmf-texlive/tex/generic/babel/babel.def
 File: babel.def 2005/11/23 v3.8h Babel common definitions
-\babel@savecnt=\count92
+\babel@savecnt=\count91
 \U@D=\dimen118
 )
 \l@brazil = a dialect from \language\l@portuges 
@@ -120,19 +120,19 @@ File: latin1.def 2006/05/05 v1.1b Input encoding file
 (./fabioRafaelFabricioOrlando.aux)
 \openout1 = `fabioRafaelFabricioOrlando.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 26.
 
 (/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -154,7 +154,7 @@ truedimen: --
 includehead: --
 includefoot: --
 includemp: --
-driver: pdftex
+driver: 
 -------------------- Page layout dimensions and switches
 \paperwidth  597.50787pt
 \paperheight 845.04684pt
@@ -177,105 +177,160 @@ driver: pdftex
 (1in=72.27pt, 1cm=28.45pt)
 -----------------------
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 28.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 30.
+(Font)              <12> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 30.
+(Font)              <8> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 30.
+(Font)              <6> on input line 28.
 
-Overfull \hbox (1.14926pt too wide) in paragraph at lines 30--30
- [][] 
- []
 
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 30.
-(/usr/share/texmf-texlive/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-LaTeX Font Info:    Try loading font information for OMS+pcr on input line 30.
+LaTeX Warning: No \author given.
 
-(/usr/share/texmf-texlive/tex/latex/psnfss/omspcr.fd
-File: omspcr.fd 
-)
-LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
+! Undefined control sequence.
+\@maketitle ...r}[t]{c}\inst {\instnum }\@address 
+                                                  \end {tabular}\par } \vglu...
+l.28 \maketitle
+               
+? 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 32.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 30.
 
-Underfull \hbox (badness 1584) in paragraph at lines 37--38
+Underfull \hbox (badness 1584) in paragraph at lines 35--36
 \OT1/ptm/m/it/12 me-ca-nis-mos com base em pro-ces-sa-mento de lin-gua-gem na-t
 u-ral. Es-tes
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
 
-Underfull \hbox (badness 1616) in paragraph at lines 42--43
+Underfull \hbox (badness 1616) in paragraph at lines 40--41
 \OT1/ptm/m/n/12 que s[]ao palavras-chave cu-jos con-cei-tos po-dem re-pre-sen-t
 ar de forma re-su-mida o
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 46--47
+Underfull \hbox (badness 1264) in paragraph at lines 44--45
 \OT1/ptm/m/n/12 cha-mado de in-de-xa-dor, que se-guindo um con-junto de re-gras
  e crit[]erios constr[]oi
  []
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 1028) in paragraph at lines 54--55
+]
+Underfull \hbox (badness 1028) in paragraph at lines 63--64
 \OT1/ptm/m/n/12 con-tro-lado s[]ao usa-dos, com-bi-na-dos ou n[]ao, para des-cr
 e-ver de forma su-cinta um
  []
 
 [2]
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 76.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 91.
  (/usr/share/texmf-texlive/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 76.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 91.
 
-<figuras/modulos.png, id=15, 793.96625pt x 671.50874pt>
-File: figuras/modulos.png Graphic file (type png)
 
-<use figuras/modulos.png>
-Underfull \hbox (badness 1237) in paragraph at lines 107--108
-\OT1/ptm/m/n/12 A lei-tura do XML do MeSH []e feita com a API SAX (Sim-ple API 
-for XML)
+! LaTeX Error: Cannot determine size of graphic in figuras/modulos.png (no Boun
+dingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.92 ...[width=0.8\textwidth]{figuras/modulos.png}
+                                                  
+? 
+File: figuras/modulos.png Graphic file (type eps)
+<figuras/modulos.png>
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 107.
+
+ (/usr/share/texmf-texlive/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 107.
+
+[3]
+Underfull \hbox (badness 1783) in paragraph at lines 123--126
+\OT1/ptm/m/n/12 ocorr[]encias e ir-re-le-van-tes para o as-sunto apa-re-ce-rem 
+como re-sul-ta-dos do
  []
 
-[3 <./figuras/modulos.png>]
-Underfull \hbox (badness 1057) in paragraph at lines 132--133
-\OT1/ptm/m/n/12 con-tro-lado, acon-tece de des-cri-to-res com pou-cas ocorr[]en
-cias e ir-re-le-van-tes para o
+[4]
+Underfull \hbox (badness 2065) in paragraph at lines 128--129
+\OT1/ptm/m/n/12 dos des-cri-to-res ob-ti-dos pelo pro-grama fo-ram uti-li-za-do
+s ar-ti-gos in-de-xa-dos
  []
 
-[4] <figuras/tabela1.png, id=24, 615.29875pt x 95.35625pt>
-File: figuras/tabela1.png Graphic file (type png)
 
-<use figuras/tabela1.png> [5]
-<figuras/tabela2.png, id=28, 540.0175pt x 156.585pt>
-File: figuras/tabela2.png Graphic file (type png)
- <use figuras/tabela2.png>
-<figuras/tabela3.png, id=29, 541.02126pt x 133.49875pt>
-File: figuras/tabela3.png Graphic file (type png)
+! LaTeX Error: Cannot determine size of graphic in figuras/tabela1.png (no Boun
+dingBox).
 
-<use figuras/tabela3.png> [6 <./figuras/tabela1.png> <./figuras/tabela2.png>]
-<figuras/tabela4.png, id=35, 494.84875pt x 88.33pt>
-File: figuras/tabela4.png Graphic file (type png)
- <use figuras/tabela4.png>
-Underfull \hbox (badness 1325) in paragraph at lines 196--198
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146 ...s[width=1\textwidth]{figuras/tabela1.png}
+                                                  
+? 
+File: figuras/tabela1.png Graphic file (type eps)
+<figuras/tabela1.png> [5]
+
+! LaTeX Error: Cannot determine size of graphic in figuras/tabela2.png (no Boun
+dingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.157 ...s[width=1\textwidth]{figuras/tabela2.png}
+                                                  
+? 
+File: figuras/tabela2.png Graphic file (type eps)
+<figuras/tabela2.png>
+
+! LaTeX Error: Cannot determine size of graphic in figuras/tabela3.png (no Boun
+dingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.166 ...width=0.9\textwidth]{figuras/tabela3.png}
+                                                  
+? 
+File: figuras/tabela3.png Graphic file (type eps)
+<figuras/tabela3.png>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+
+! LaTeX Error: Cannot determine size of graphic in figuras/tabela4.png (no Boun
+dingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.177 ...width=0.9\textwidth]{figuras/tabela4.png}
+                                                  
+? 
+File: figuras/tabela4.png Graphic file (type eps)
+<figuras/tabela4.png>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+Underfull \hbox (badness 1325) in paragraph at lines 188--190
 \OT1/ptm/m/n/12 Atrav[]es dos re-sul-ta-dos ob-ti-dos pela valida[][]ao, al-gu-
 mas considera[][]oes po-dem ser
  []
 
-[7 <./figuras/tabela3.png> <./figuras/tabela4.png>]
-(./fabioRafaelFabricioOrlando.bbl
+[8] [9] (./fabioRafaelFabricioOrlando.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 20--24
 []\OT1/ptm/m/n/12 NLM (2006).  \OT1/ptm/m/it/12 Con-cept Struc-ture in XML MeSH
 \OT1/ptm/m/n/12 .  Ob-tido em
@@ -317,26 +372,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--54
 OT1/ptm/m/n/12 .  Ob-tido em:
  []
 
-) [8] (./fabioRafaelFabricioOrlando.aux) ) 
+) [10] (./fabioRafaelFabricioOrlando.aux) ) 
 Here is how much of TeX's memory you used:
- 1983 strings out of 94101
- 25962 string characters out of 1165810
- 86284 words of memory out of 1500000
- 5241 multiletter control sequences out of 10000+50000
- 21033 words of font info for 44 fonts, out of 1200000 for 2000
+ 1884 strings out of 94102
+ 24611 string characters out of 1165833
+ 83768 words of memory out of 1500000
+ 5154 multiletter control sequences out of 10000+50000
+ 12283 words of font info for 34 fonts, out of 1200000 for 2000
  637 hyphenation exceptions out of 8191
- 30i,8n,28p,954b,321s stack positions out of 5000i,500n,6000p,200000b,5000s
-{/usr/share/texmf-texlive/fonts/enc/d
-vips/base/8r.enc}</usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr8.pfb></us
-r/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/texmf-texli
-ve/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw
-/helvetic/uhvb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmb8a.pfb
-></usr/share/texmf-texlive/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-
-texlive/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-texlive/fonts/type1/
-urw/times/utmri8a.pfb>
-Output written on fabioRafaelFabricioOrlando.pdf (8 pages, 230308 bytes).
-PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 131072)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 30i,8n,28p,1308b,251s stack positions out of 5000i,500n,6000p,200000b,5000s
 
+Output written on fabioRafaelFabricioOrlando.dvi (10 pages, 34372 bytes).
