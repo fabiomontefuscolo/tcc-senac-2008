@@ -22,7 +22,7 @@ NLM (2006).
 \newblock Obtido em http://www.nlm.nih.gov/mesh/concept\_structure.html,
   Acessado em 5 de Mar\c{c}o de 2009.
 
-\bibitem[NLM 2008]{nlmMeSH:08}
+\bibitem[NLM 2008]{nlmmesh:08}
 NLM (2008).
 \newblock {\em Medical Subject Headings}.
 \newblock Obtido em:
@@ -37,7 +37,7 @@ NLTK (2008).
 \bibitem[Porter 1997]{porter:80}
 Porter, M.~F. (1997).
 \newblock An algorithm for suffix stripping.
-\newblock pages 313--316.
+\newblock {\em Readings in information retrieval}, pages 313--316.
 
 \bibitem[Python 2008a]{pythonpickle:08}
 Python (2008a).
