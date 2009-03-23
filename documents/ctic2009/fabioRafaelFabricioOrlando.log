@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.9 (MiKTeX 2.7) (preloaded format=pdflatex 2009.3.4)  20 MAR 2009 14:11
+This is pdfTeX, Version 3.1415926-1.40.9 (MiKTeX 2.7) (preloaded format=pdflatex 2009.3.4)  23 MAR 2009 17:23
 entering extended mode
 **D:/workspace/indexador/documents/ctic2009/fabioRafaelFabricioOrlando.tex
 (D:/workspace/indexador/documents/ctic2009/fabioRafaelFabricioOrlando.tex
@@ -213,20 +213,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 28.
 
+Overfull \hbox (1.14926pt too wide) in paragraph at lines 28--28
+ [][] 
+ []
 
-LaTeX Warning: No \author given.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 28.
+("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Try loading font information for OMS+pcr on input line 28.
 
-! Undefined control sequence.
-\@maketitle ...r}[t]{c}\inst {\instnum }\@address 
-                                                  \end {tabular}\par } \vglu...
-l.28 \maketitle
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
+("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\psnfss\omspcr.fd"
+File: omspcr.fd 
+)
+LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 28.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 30.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
@@ -257,9 +258,9 @@ File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 111.
 
-<figuras/modulos.png, id=13, 793.96625pt x 671.50874pt>
+<figuras/modulos.png, id=15, 793.96625pt x 671.50874pt>
 File: figuras/modulos.png Graphic file (type png)
- <use figuras/modulos.png>
+ <use figuras/modulos.png> [3 <figuras/modulos.png>]
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 120.
 
 ("D:\Arquivos de programas\MiKTeX 2.7\tex\latex\psnfss\omsptm.fd"
@@ -267,14 +268,14 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 120.
- [3 <figuras/modulos.png>]
+
 Underfull \hbox (badness 1997) in paragraph at lines 166--179
 []\OT1/ptm/m/n/12 e co-mum fazer parte do re-sul-tado de-scritores com pou-cas ocorr[]encias e
  []
 
-[4] <figuras/tabela1.png, id=24, 615.29875pt x 95.35625pt>
+[4] <figuras/tabela1.png, id=25, 615.29875pt x 95.35625pt>
 File: figuras/tabela1.png Graphic file (type png)
- <use figuras/tabela1.png> [5 <figuras/tabela1.png>]
+ <use figuras/tabela1.png> [5]
 <figuras/tabela2.png, id=29, 540.0175pt x 156.585pt>
 File: figuras/tabela2.png Graphic file (type png)
  <use figuras/tabela2.png>
@@ -283,8 +284,8 @@ File: figuras/tabela3.png Graphic file (type png)
  <use figuras/tabela3.png>
 <figuras/tabela4.png, id=31, 494.84875pt x 88.33pt>
 File: figuras/tabela4.png Graphic file (type png)
- <use figuras/tabela4.png> [6 <figuras/tabela2.png> <figuras/tabela3.png>] [7 <figuras/tabela4.png>] (fabioRafaelFabrici
-oOrlando.bbl
+ <use figuras/tabela4.png> [6 <figuras/tabela1.png> <figuras/tabela2.png> <figuras/tabela3.png>] [7 <figuras/tabela4.png
+>] (fabioRafaelFabricioOrlando.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 20--24
 []\OT1/ptm/m/n/12 NLM (2006).  \OT1/ptm/m/it/12 Con-cept Struc-ture in XML MeSH\OT1/ptm/m/n/12 .  Obtido em
  []
@@ -321,22 +322,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--54
 
 ) [8] (fabioRafaelFabricioOrlando.aux) ) 
 Here is how much of TeX's memory you used:
- 2340 strings out of 95304
- 30060 string characters out of 1182716
- 91136 words of memory out of 1500000
- 5520 multiletter control sequences out of 110000
- 20011 words of font info for 41 fonts, out of 3000000 for 5000
+ 2392 strings out of 95304
+ 30772 string characters out of 1182716
+ 91401 words of memory out of 1500000
+ 5564 multiletter control sequences out of 110000
+ 21033 words of font info for 44 fonts, out of 3000000 for 5000
  14 hyphenation exceptions out of 8191
- 30i,8n,28p,699b,224s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,8n,28p,699b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/Arquivos de programas/MiKTeX 2.7/fonts/enc/dvips/fontname/8r.enc}<D:/Arquivo
 s de programas/MiKTeX 2.7/fonts/type1/bluesky/cm/cmr8.pfb><D:/Arquivos de programas/MiKTeX 2.7/fonts/type1/bluesky/cm/cm
-sy10.pfb><D:/Arquivos de programas/MiKTeX 2.7/fonts/type1/urw/helvetic/uhvb8a.pfb><D:/Arquivos de programas/MiKTeX 2.7/f
-onts/type1/urw/times/utmb8a.pfb><D:/Arquivos de programas/MiKTeX 2.7/fonts/type1/urw/times/utmbi8a.pfb><D:/Arquivos de p
-rogramas/MiKTeX 2.7/fonts/type1/urw/times/utmr8a.pfb><D:/Arquivos de programas/MiKTeX 2.7/fonts/type1/urw/times/utmri8a.
-pfb>
-Output written on fabioRafaelFabricioOrlando.pdf (8 pages, 157886 bytes).
+sy10.pfb><D:/Arquivos de programas/MiKTeX 2.7/fonts/type1/urw/courier/ucrr8a.pfb><D:/Arquivos de programas/MiKTeX 2.7/fo
+nts/type1/urw/helvetic/uhvb8a.pfb><D:/Arquivos de programas/MiKTeX 2.7/fonts/type1/urw/times/utmb8a.pfb><D:/Arquivos de 
+programas/MiKTeX 2.7/fonts/type1/urw/times/utmbi8a.pfb><D:/Arquivos de programas/MiKTeX 2.7/fonts/type1/urw/times/utmr8a
+.pfb><D:/Arquivos de programas/MiKTeX 2.7/fonts/type1/urw/times/utmri8a.pfb>
+Output written on fabioRafaelFabricioOrlando.pdf (8 pages, 170208 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
+ 73 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

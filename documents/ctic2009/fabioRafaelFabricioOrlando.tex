@@ -17,12 +17,12 @@
 \title{Indexação automática de artigos
 científicos da área da saúde}
 
-%\author{Fabio Montefuscolo, Rafael G. Câmara, Fabrício J. Barth, Orlando
-%Rodrigues Jr.} \address{Faculdade de Ciências Exatas e Tecnologia\\
-%  Centro Universitário Senac -- São Paulo, SP -- Brazil
-%\email{\{fabio.montefuscolo,rafael.gcamara\}@gmail.com}
-%\email{\{fabricio.jbarth,orlando.rodrigues\}@sp.senac.br}
-%}
+\author{Fabio Montefuscolo, Rafael G. Câmara, Fabrício J. Barth, Orlando
+Rodrigues Jr.} \address{Faculdade de Ciências Exatas e Tecnologia\\
+  Centro Universitário Senac -- São Paulo, SP -- Brazil
+\email{\{fabio.montefuscolo,rafael.gcamara\}@gmail.com,}
+\email{\{fabricio.jbarth,orlando.rodrigues\}@sp.senac.br}
+}
 \begin{document} 
 
 \maketitle
@@ -54,7 +54,7 @@ O vocabulário controlado contém um conjunto de descritores que são agrupados de 
 
 O processo de indexação é feito por um profissional da informação, comumente chamado de indexador, que seguindo um conjunto de regras e critérios constrói representações de documentos para que sejam incluídos em uma base de dados. Este processo é uma atividade complexa, lenta e custosa, geralmente realizada por poucas pessoas \cite{lancaster:04}.
 
-O objetivo deste trabalho reside na construção de uma aplicação capaz de auxiliar e melhorar a qualidade do trabalho desse profissional no reconhecimento de descritores para artigos científicos da área da saúde. A aplicação construída deverá  apresentar palavras candidatas a descritores para um artigo, o que pode aumentar a quantidade de artigos indexados em um determinado intervalo de tempo, fazendo com que o indexador complete seu trabalho de forma mais eficiente e menos custosa.
+O objetivo deste trabalho reside na construção de uma aplicação capaz de auxiliar e melhorar a qualidade do trabalho desse profissional no reconhecimento de descritores para artigos científicos da área da saúde. A aplicação construída  apresenta palavras candidatas a descritores para um artigo, podendo aumentar a quantidade de artigos indexados em um determinado intervalo de tempo, fazendo com que o indexador complete seu trabalho de forma mais eficiente e menos custosa.
 
 Este artigo está estruturado da
 seguinte maneira: na seção
@@ -78,7 +78,7 @@ sucinta um documento. O vocabulário controlado utilizado neste trabalho foi o
 MeSH (Medical Subjects Heading) \cite{nlmmesh:08}, distribuído pela
 NLM (National Library of Medicine).
 
-O MeSH pode ser encontrado em arquivos de vários padrões, mas para este trabalho foi usado o arquivo XML (Extensible Markup Language). Este trabalho analisa no MeSH três tipos de elementos para realizar o processo de indexação: descritores, conceito e termos. Os descritores são representados por termos, cuja função é expor de forma objetiva os conceitos existentes no vocabulário controlado. Descritores são representados pelo elemento \textit{descriptor} no MeSH, que aninha uma lista de conceitos\cite{nlm:08}. 
+O MeSH pode ser encontrado em arquivos de vários padrões, mas para este trabalho foi usado o arquivo XML (Extensible Markup Language). São analisados três tipos de elementos no MeSH para realizar o processo de indexação: descritores, conceitos e termos. Os descritores são representados por termos, cuja função é expor de forma objetiva os conceitos existentes no vocabulário controlado. Descritores são representados pelo elemento \textit{descriptor} no MeSH, que aninha uma lista de conceitos\cite{nlm:08}. 
 
 Os conceitos, representados no arquivo pelo elemento \textit{concept}, guardam um termo e uma definição conceitual para este termo. Um conceito é preferido quando seu uso é indicado para o descritor ao qual está associado. O conceito preferido guarda um termo idêntico ao termo do descritor a que pertence. Já os conceitos não preferidos têm termos diferentes do termo do descritor, mas são considerados sinônimos do conceito preferido \cite{nlm:08}.
 
@@ -90,7 +90,7 @@ Para a extração de descritores de documentos eletrônicos é necessário que sejam 
 \label{desenvolvimento}
 
 No desenvolvimento deste trabalho, o
-vocabulário controlado usado foi o MeSH do ano 2008, que conta com 24.767 termos em inglês e mais de 97.000 formas sinônimas para os termos autorizados \cite{nlm:08}. A lista de \textit{stop-words} utilizada é a lista proposta pelo projeto NLTK \cite{nltk:08}, composta por 571 termos. Os artigos científicos utilizados são da área da saúde e disponibilizados na biblioteca eletrônica SciELO \cite{scielo:08}.
+vocabulário controlado usado foi o MeSH do ano 2008, contendo 24.767 termos em inglês e mais de 97.000 formas sinônimas para os termos autorizados \cite{nlm:08}. A lista de \textit{stop-words} utilizada foi a proposta para projeto NLTK \cite{nltk:08}, composta por 571 termos. Os artigos científicos utilizados são da área da saúde e disponibilizados na biblioteca eletrônica SciELO \cite{scielo:08}.
 
 O vocabulário MeSH foi tratado da mesma forma que os textos dos documentos. Foram extraídos do vocabulário controlado todos os termos dos descritores e sinônimos. Os termos retirados dos descritores, que são os termos preferidos para descrever o  conceito, são armazenados em um dicionário de descritores. Os outros termos, que são sinônimos ao termo preferido são armazenados em um dicionário de sinônimos. Todo termo presente no dicionário de sinônimos tem uma referência para um termo do dicionário de descritores. Um descritor pode ter vários sinônimos, mas um sinônimo está relacionado somente a um descritor.
 
@@ -224,7 +224,7 @@ na árvore do MeSH com filtragem dos descritores pré-definidos.
 \begin{table}[ht]
 	\centering
 		\caption{Técnicas sem corte e seus resultados}
-		\includegraphics[width=0.9\textwidth]{figuras/tabela1.png}
+		\includegraphics[width=0.8\textwidth]{figuras/tabela1.png}
 	\label{fig:tabela1}
 \end{table}
 
@@ -244,7 +244,7 @@ por texto. Na tabela \ref{fig:tabela2} são apresentados os resultados desta aval
 \begin{table}[ht]
 	\centering
 		\caption{Comparação entre os possíveis cortes em diferentes técnicas}
-		\includegraphics[width=0.9\textwidth]{figuras/tabela2.png}
+		\includegraphics[width=0.8\textwidth]{figuras/tabela2.png}
 	\label{fig:tabela2}
 \end{table}
 
@@ -276,7 +276,7 @@ obtido com janelas de tamanho 3 e 4 pode ser visto na tabela
 \begin{table}[ht]
 	\centering
 		\caption{Comparações entre janelas}
-		\includegraphics[width=0.9\textwidth]{figuras/tabela4.png}
+		\includegraphics[width=0.8\textwidth]{figuras/tabela4.png}
 	\label{fig:tabela4}
 \end{table}
 
