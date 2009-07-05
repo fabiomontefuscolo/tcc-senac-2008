@@ -1,0 +1,485 @@
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=latex 2009.3.31)  5 JUL 2009 02:52
+entering extended mode
+**fabioRafaelFabricioOrlando.tex
+(./fabioRafaelFabricioOrlando.tex
+LaTeX2e <2003/12/01>
+Babel <v3.8d> and hyphenation patterns for american, french, german, ngerman, b
+ahasa, basque, bulgarian, catalan, croatian, czech, danish, dutch, esperanto, e
+stonian, finnish, greek, icelandic, irish, italian, latin, magyar, norsk, polis
+h, portuges, romanian, russian, serbian, slovak, slovene, spanish, swedish, tur
+kish, ukrainian, nohyphenation, loaded.
+(./sig-alternate.cls
+(/PCBSD/local/share/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(/PCBSD/local/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/PCBSD/local/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/PCBSD/local/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+
+(/PCBSD/local/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/PCBSD/local/share/texmf-dist/tex/latex/graphics/graphics.cfg
+File: graphics.cfg 2005/02/03 v1.3 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 80.
+
+(/PCBSD/local/share/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+\epsfxsize=\dimen104
+\epsfysize=\dimen105
+)
+(/PCBSD/local/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+
+(/PCBSD/local/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+))
+(/PCBSD/local/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip41
+
+For additional information on amsmath, use the `?' option.
+(/PCBSD/local/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/PCBSD/local/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen106
+))
+(/PCBSD/local/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen107
+)
+(/PCBSD/local/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count79
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count80
+\leftroot@=\count81
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count82
+\DOTSCASE@=\count83
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count84
+\c@MaxMatrixCols=\count85
+\dotsspace@=\muskip10
+\c@parentequation=\count86
+\dspbrk@lvl=\count87
+\tag@help=\toks17
+\row@=\count88
+\column@=\count89
+\maxfields@=\count90
+\andhelp@=\toks18
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks19
+\multlinegap=\skip42
+\multlinetaggap=\skip43
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+Document Class 'sig-alternate' <22nd. April '09>. Modified by G.K.M. Tobin/Gerr
+y Murray
+Based in part upon document Style `acmconf' <22 May 89>. Hacked 4/91 by
+shivers@cs.cmu.edu, 4/93 by theobald@cs.mcgill.ca
+Excerpts were taken from (Journal Style) 'esub2acm.cls'.
+****** Bugs/comments/suggestions/technicalities to Gerry Murray -- murray@hq.ac
+m.org ******
+Questions on the style, SIGS policies, etc. to Adrienne Griscti griscti@acm.org
+
+\footheight=\dimen115
+\@maxsep=\dimen116
+\@dblmaxsep=\dimen117
+\aucount=\count91
+\originalaucount=\count92
+\auwidth=\dimen118
+\auskip=\dimen119
+\auskipcount=\count93
+\auskip=\dimen120
+\allauboxes=\dimen121
+\addauthors=\toks21
+\addauflag=\count94
+\subtitletext=\toks22
+\savesection=\count95
+\sectioncntr=\count96
+\c@figure=\count97
+\c@table=\count98
+\titleboxnotes=\toks23
+\titleboxnoteflag=\count99
+Document Class: sig-alternate 2009/04/22 - V2.4 - based on acmproc.cls V1.3 <No
+v. 30 '99>
+(/PCBSD/local/share/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+\@acmtitlebox=\box28
+\titlenotecount=\count100
+\tntoks=\toks24
+\tntokstwo=\toks25
+\tntoksthree=\toks26
+\tntoksfour=\toks27
+\tntoksfive=\toks28
+\catcount=\count101
+\copyrightnotice=\toks29
+\conf=\toks30
+\confinfo=\toks31
+\c@part=\count102
+\c@section=\count103
+\c@subsection=\count104
+\c@subsubsection=\count105
+\c@paragraph=\count106
+
+Using 'Abbrev' bibliography style
+LaTeX Info: Redefining \cite on input line 1211.
+\bibindent=\dimen122
+\colcntr=\count107
+\saveb@x=\box29
+\copyrtyr=\toks32
+\acmcopyr=\toks33
+\boilerplate=\toks34
+\copyrightetc=\toks35
+(/PCBSD/local/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2004/02/22 v1.99f Standard LaTeX package
+
+(/PCBSD/local/share/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2004/02/22 v1.99f Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
+
+(/PCBSD/local/share/texmf-dist/tex/latex/ae/t1aer.fd
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+)))
+(/PCBSD/local/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2004/03/15  ver 3.1  Verb mode for urls, etc.
+)
+(/PCBSD/local/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2004/11/20 v3.8d The Babel package
+
+(/PCBSD/local/share/texmf-dist/tex/generic/babel/portuges.ldf
+Language: portuges 2004/02/19 v1.2p Portuguese support from the babel system
+
+(/PCBSD/local/share/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2004/11/20 v3.8d Babel common definitions
+\babel@savecnt=\count108
+\U@D=\dimen123
+)
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+))
+(/PCBSD/local/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2004/02/05 v1.0d Input encoding file
+
+(/PCBSD/local/share/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2004/02/05 v1.0d Input encoding file
+))
+(./fabioRafaelFabricioOrlando.aux)
+\openout1 = `fabioRafaelFabricioOrlando.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Try loading font information for U+msa on input line 50.
+
+(/PCBSD/local/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 50.
+
+(/PCBSD/local/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 50.
+
+(/PCBSD/local/share/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Underfull \hbox (badness 1314) in paragraph at lines 53--61
+\T1/aer/m/n/9 fil-te-ring, in-flect words and iden-tify them as po-ten-tial
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 73--74
+[]\T1/aer/m/n/9 Em bi-bli-o-te-cas fí-si-cas e di-gi-tais, a or-ga-ni-za-ção da
+
+ []
+
+
+Underfull \hbox (badness 3623) in paragraph at lines 75--76
+[]\T1/aer/m/n/9 O vo-ca-bu-lá-rio con-tro-lado con-tém um con-junto de
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 75--76
+\T1/aer/m/n/9 des-cri-tor é ar-ma-ze-nado de forma que con-sigo es-te-jam
+ []
+
+
+Underfull \hbox (badness 3108) in paragraph at lines 77--78
+\T1/aer/m/n/9 se-guindo um con-junto de re-gras e cri-té-rios cons-trói
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 103--104
+\T1/aer/m/n/9 pa-drões, mas para este tra-ba-lho foi usado o ar-quivo
+ []
+
+[1
+
+
+]
+Underfull \hbox (badness 2980) in paragraph at lines 107--108
+\T1/aer/m/n/9 pre-sen-tes no vo-ca-bu-lá-rio con-tro-lado uti-li-zado para a
+ []
+
+
+Underfull \hbox (badness 5064) in paragraph at lines 114--116
+[]\T1/aer/m/n/9 No de-sen-vol-vi-mento deste tra-ba-lho, o vo-ca-bu-lá-rio
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 119--120
+[]\T1/aer/m/n/9 O des-cri-to-res e sinô-ni-mos pre-sen-tes no vo-ca-bu-lá-rio
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 134--148
+\T1/aer/m/n/9 em disco para que não seja ne-ces-sá-rio re-pe-tir o
+ []
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 149--155
+\T1/aer/m/n/9 e uma lista de \T1/aer/m/it/9 stop-words\T1/aer/m/n/9 . A pri-mei
+ra é uma
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 156--162
+\T1/aer/m/n/9 des-cri-to-res foi im-ple-men-tado um al-go-ritmo ca-paz
+ []
+
+
+Underfull \hbox (badness 2809) in paragraph at lines 163--172
+[]\T1/aer/bx/n/9 Janelamento\T1/aer/m/n/9 : no pro-cesso de iden-ti-fi-ca-ção d
+e
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 173--179
+[]\T1/aer/bx/n/9 Bigrama\T1/aer/m/n/9 : a apli-ca-ção da téc-nica de bi-gra-mas
+
+ []
+
+
+Underfull \hbox (badness 3724) in paragraph at lines 173--179
+\T1/aer/m/n/9 ja-ne-la-mento no ar-tigo, já que este con-ceito é
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--193
+\T1/aer/m/n/9 de um ar-tigo com o vo-ca-bu-lá-rio con-tro-lado.
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 180--193
+\T1/aer/m/n/9 des-cri-to-res com pou-cas ocor-rên-cias e ir-re-le-van-tes
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 180--193
+\T1/aer/m/n/9 des-cri-to-res fo-ram im-ple-men-ta-das. O corte por
+ []
+
+[2]
+Underfull \hbox (badness 1067) in paragraph at lines 220--224
+[]\T1/aer/m/n/9 No to-tal, fo-ram uti-li-za-dos 419 ar-ti-gos na ava-li-a-ção.
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 220--224
+\T1/aer/m/n/9 Es-tes ar-ti-gos, com seus res-pec-ti-vos des-cri-to-res, fo-ram
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 225--231
+\T1/aer/m/n/9 po-dendo ser exe-cu-tada de forma in-de-pen-dente. Para
+ []
+
+
+Underfull \hbox (badness 3568) in paragraph at lines 225--231
+\T1/aer/m/n/9 com-bi-na-ção pos-sí-vel usando as me-di-das apre-sen-ta-das
+ []
+
+
+Overfull \hbox (5.36316pt too wide) in paragraph at lines 243--243
+[]\T1/aer/m/n/9 Cobertura| 
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 245--245
+\T1/aer/m/n/9 des-cri-to-res no
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 247--247
+[]\T1/aer/m/n/9 Navegação na
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 249--249
+[]\T1/aer/m/n/9 Navegação na
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--250
+[]\T1/aer/m/n/9 Filtragem do
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--250
+\T1/aer/m/n/9 des-cri-to-res
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 256--262
+[]\T1/aer/m/n/9 É pos-sí-vel ob-ser-var que o pro-grama con-se-guiu uma
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 256--262
+\T1/aer/m/n/9 co-ber-tura maior que 60% de des-cri-to-res dos ar-ti-gos.
+ []
+
+
+LaTeX Warning: Reference `fig:tabela3' on page \thepage  undefined on input lin
+e 292.
+
+
+Overfull \hbox (11.87851pt too wide) in paragraph at lines 327--341
+ [][] 
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
+[]\secfnt CONSIDERAÇÕES SO-BRE OS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
+\secfnt RE-SUL-TA-DOS E TRA-BA-LHOS
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 357--361
+\T1/aer/m/n/9 tes-ta-das inú-me-ras con-fi-gu-ra-ções para o sis-tema. A
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 362--369
+\T1/aer/m/n/9 con-tro-lado, e as-sim, re-tor-nar um grande nú-mero de
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 385--389
+[]\T1/aer/m/n/9 A cri-a-ção de um mó-dulo que uti-liza téc-ni-cas
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 385--389
+\T1/aer/m/n/9 o pro-grama com as ca-rac-te-rís-ti-cas de um único
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 385--389
+\T1/aer/m/n/9 in-de-xa-dor ma-nual, apren-dendo com os ar-ti-gos já
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 406--411
+\T1/aer/m/n/9 neste tra-ba-lho pode ser uti-li-zada para a su-ges-tão de
+ []
+
+
+Underfull \hbox (badness 5274) in paragraph at lines 406--411
+\T1/aer/m/n/9 de in-de-xa-ção em gran-des cen-tros de in-for-ma-ção e
+ []
+
+(./fabioRafaelFabricioOrlando.bbl
+Overfull \hbox (5.80348pt too wide) in paragraph at lines 4--8
+\T1/aer/m/n/9 http://tartarus.org/ mar-tin/PorterStemmer/python.txt, 
+ []
+
+[4]
+Overfull \hbox (2.28456pt too wide) in paragraph at lines 20--24
+\T1/aer/m/n/9 http://www.nlm.nih.gov/mesh/concept_structure.html, 
+ []
+
+
+Overfull \hbox (37.21269pt too wide) in paragraph at lines 26--31
+\T1/aer/m/n/9 ftp://nlmpubs.nlm.nih.gov/online/mesh/.xmlmesh/desc2008.gz, 
+ []
+
+
+Overfull \hbox (25.31462pt too wide) in paragraph at lines 43--48
+\T1/aer/m/n/9 http://docs.python.org/library/pickle.html?highlight=pickle, 
+ []
+
+) [5
+
+] (./fabioRafaelFabricioOrlando.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2263 strings out of 94501
+ 25883 string characters out of 1174670
+ 91205 words of memory out of 1000000
+ 5404 multiletter control sequences out of 10000+100000
+ 39824 words of font info for 51 fonts, out of 500000 for 2000
+ 580 hyphenation exceptions out of 1000
+ 39i,10n,26p,656b,256s stack positions out of 1500i,500n,5000p,200000b,5000s
+
+Output written on fabioRafaelFabricioOrlando.dvi (5 pages, 35720 bytes).
