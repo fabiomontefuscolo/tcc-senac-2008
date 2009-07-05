@@ -1,0 +1,60 @@
+\begin{thebibliography}{10}
+
+\bibitem{gupta:08}
+V.~Gupta.
+\newblock {\em Python Implementation of Porter Stemming Algorithm}.
+\newblock Obtido em: http://tartarus.org/~martin/PorterStemmer/python.txt,
+  Acessado em 5 de Mar\c{c}o de 2009, 2 edition, 2008.
+
+\bibitem{lancaster:04}
+F.~W. LANCASTER.
+\newblock {\em Indexa\c{c}\~ao e Resumos: Teoria e Pr\'atica}.
+\newblock Briquet de Lemos, Bras\'ilia, 2004.
+
+\bibitem{manning:08}
+C.~D. Manning, P.~Raghavan, and H.~Sch\"utze.
+\newblock {\em Introduction to Information Retrieval}.
+\newblock Cambridge University Press, Cambridge, 2008.
+
+\bibitem{nlm:08}
+NLM.
+\newblock {\em Concept Structure in XML MeSH}.
+\newblock Obtido em http://www.nlm.nih.gov/mesh/concept\_structure.html,
+  Acessado em 5 de Mar\c{c}o de 2009., 2006.
+
+\bibitem{nlmmesh:08}
+NLM.
+\newblock {\em Medical Subject Headings}.
+\newblock Obtido em:
+  ftp://nlmpubs.nlm.nih.gov/online/mesh/.xmlmesh/desc2008.gz, Acesso em 5 de
+  Mar\c{c} de 2009., 2008.
+
+\bibitem{nltk:08}
+NLTK.
+\newblock {\em Natural Language Toolkit}.
+\newblock http://www.nltk.org, Acessado em 4 de Mar\c{c}o de 2009, 2008.
+
+\bibitem{porter:80}
+M.~F. Porter.
+\newblock An algorithm for suffix stripping.
+\newblock {\em Readings in information retrieval}, pages 313--316, 1997.
+
+\bibitem{pythonpickle:08}
+Python.
+\newblock {\em Python object serialization}.
+\newblock Obtido em:
+  http://docs.python.org/library/pickle.html?highlight=pickle, Acessado em 4 de
+  Mar\c{c}o de 2009., 2008.
+
+\bibitem{pythonsax:08}
+Python.
+\newblock {\em Support for SAX2 Parsers}.
+\newblock Obtido em: http://docs.python.org/library/xml.sax.html, Acessado em 4
+  de Mar\c{c}o de 2009, 2008.
+
+\bibitem{scielo:08}
+SciELO.
+\newblock {\em Scientific Eletronic Library}.
+\newblock http://www.scielo.org, Acessado em 4 de Mar\c{c}o de 2009., 2008.
+
+\end{thebibliography}
