@@ -1,4 +1,4 @@
-This is pdfeTeXk, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=latex 2009.3.31)  8 JUL 2009 01:29
+This is pdfeTeXk, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2009.3.31)  8 JUL 2009 11:31
 entering extended mode
  file:line:error style messages enabled.
 **fabioRafaelFabricioOrlando.tex
@@ -29,10 +29,11 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 (/PCBSD/local/share/texmf-dist/tex/latex/graphics/graphics.cfg
 File: graphics.cfg 2005/02/03 v1.3 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: dvips.def on input line 80.
+Package graphics Info: Driver file: pdftex.def on input line 80.
 
-(/PCBSD/local/share/texmf-dist/tex/latex/graphics/dvips.def
-File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+(/PCBSD/local/share/texmf-dist/tex/latex/graphics/pdftex.def
+File: pdftex.def 2002/06/19 v0.03k graphics/color for pdftex
+\Gread@gobject=\count79
 ))
 \Gin@req@height=\dimen102
 \Gin@req@width=\dimen103
@@ -71,13 +72,13 @@ Package: amsbsy 1999/11/29 v1.2d
 (/PCBSD/local/share/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count79
+\inf@bad=\count80
 LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count80
-\leftroot@=\count81
+\uproot@=\count81
+\leftroot@=\count82
 LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count82
-\DOTSCASE@=\count83
+\classnum@=\count83
+\DOTSCASE@=\count84
 LaTeX Info: Redefining \ldots on input line 379.
 LaTeX Info: Redefining \dots on input line 382.
 LaTeX Info: Redefining \cdots on input line 467.
@@ -86,15 +87,15 @@ LaTeX Info: Redefining \cdots on input line 467.
 \big@size=\dimen108
 LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count84
-\c@MaxMatrixCols=\count85
+\macc@depth=\count85
+\c@MaxMatrixCols=\count86
 \dotsspace@=\muskip10
-\c@parentequation=\count86
-\dspbrk@lvl=\count87
+\c@parentequation=\count87
+\dspbrk@lvl=\count88
 \tag@help=\toks17
-\row@=\count88
-\column@=\count89
-\maxfields@=\count90
+\row@=\count89
+\column@=\count90
+\maxfields@=\count91
 \andhelp@=\toks18
 \eqnshift@=\dimen109
 \alignsep@=\dimen110
@@ -121,22 +122,22 @@ Questions on the style, SIGS policies, etc. to Adrienne Griscti griscti@acm.org
 \footheight=\dimen115
 \@maxsep=\dimen116
 \@dblmaxsep=\dimen117
-\aucount=\count91
-\originalaucount=\count92
+\aucount=\count92
+\originalaucount=\count93
 \auwidth=\dimen118
 \auskip=\dimen119
-\auskipcount=\count93
+\auskipcount=\count94
 \auskip=\dimen120
 \allauboxes=\dimen121
 \addauthors=\toks21
-\addauflag=\count94
+\addauflag=\count95
 \subtitletext=\toks22
-\savesection=\count95
-\sectioncntr=\count96
-\c@figure=\count97
-\c@table=\count98
+\savesection=\count96
+\sectioncntr=\count97
+\c@figure=\count98
+\c@table=\count99
 \titleboxnotes=\toks23
-\titleboxnoteflag=\count99
+\titleboxnoteflag=\count100
 Document Class: sig-alternate 2009/04/22 - V2.4 - based on acmproc.cls V1.3 <No
 v. 30 '99>
 (/PCBSD/local/share/texmf-dist/tex/latex/base/latexsym.sty
@@ -146,26 +147,26 @@ LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
 )
 \@acmtitlebox=\box28
-\titlenotecount=\count100
+\titlenotecount=\count101
 \tntoks=\toks24
 \tntokstwo=\toks25
 \tntoksthree=\toks26
 \tntoksfour=\toks27
 \tntoksfive=\toks28
-\catcount=\count101
+\catcount=\count102
 \copyrightnotice=\toks29
 \conf=\toks30
 \confinfo=\toks31
-\c@part=\count102
-\c@section=\count103
-\c@subsection=\count104
-\c@subsubsection=\count105
-\c@paragraph=\count106
+\c@part=\count103
+\c@section=\count104
+\c@subsection=\count105
+\c@subsubsection=\count106
+\c@paragraph=\count107
 
 Using 'Abbrev' bibliography style
 LaTeX Info: Redefining \cite on input line 1211.
 \bibindent=\dimen122
-\colcntr=\count107
+\colcntr=\count108
 \saveb@x=\box29
 \copyrtyr=\toks32
 \acmcopyr=\toks33
@@ -195,7 +196,7 @@ Language: portuges 2004/02/19 v1.2p Portuguese support from the babel system
 
 (/PCBSD/local/share/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2004/11/20 v3.8d Babel common definitions
-\babel@savecnt=\count108
+\babel@savecnt=\count109
 \U@D=\dimen123
 )
 \l@brazil = a dialect from \language\l@portuges 
@@ -210,8 +211,8 @@ File: latin1.def 2004/02/05 v1.0d Input encoding file
 (/PCBSD/local/share/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2003/11/30 v6.74m Hypertext links for LaTeX
 \@linkdim=\dimen124
-\Hy@linkcounter=\count109
-\Hy@pagecounter=\count110
+\Hy@linkcounter=\count110
+\Hy@pagecounter=\count111
 
 (/PCBSD/local/share/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2003/11/30 v6.74m Hyperref: PDFDocEncoding definition (HO)
@@ -239,7 +240,7 @@ Package hyperref Info: Backreferencing OFF on input line 1900.
 Implicit mode ON; LaTeX internals redefined
 Package hyperref Info: Bookmarks ON on input line 2004.
 LaTeX Info: Redefining \url on input line 2143.
-\Fld@menulength=\count111
+\Fld@menulength=\count112
 \Field@Width=\dimen125
 \Fld@charsize=\dimen126
 \Choice@toks=\toks36
@@ -249,22 +250,28 @@ Package hyperref Info: Link nesting OFF on input line 2623.
 Package hyperref Info: Hyper index ON on input line 2626.
 Package hyperref Info: backreferencing OFF on input line 2633.
 Package hyperref Info: Link coloring OFF on input line 2638.
-\c@Item=\count112
-\c@Hfootnote=\count113
+\c@Item=\count113
+\c@Hfootnote=\count114
 )
-*hyperref using default driver hdvips*
-(/PCBSD/local/share/texmf-dist/tex/latex/hyperref/hdvips.def
-File: hdvips.def 2003/11/30 v6.74m Hyperref driver for dvips
+*hyperref using default driver hpdftex*
+(/PCBSD/local/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2003/11/30 v6.74m Hyperref driver for pdfTeX
 
-(/PCBSD/local/share/texmf-dist/tex/latex/hyperref/pdfmark.def
-File: pdfmark.def 2003/11/30 v6.74m Hyperref definitions for pdfmark specials
-\pdf@docset=\toks38
-\pdf@box=\box30
-\pdf@toks=\toks39
-\pdf@defaulttoks=\toks40
-\Fld@listcount=\count114
-\@outlinefile=\write3
+(/PCBSD/local/share/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2004/09/15 PSNFSS-v9.2 Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(/PCBSD/local/share/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(/PCBSD/local/share/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
 ))
+\Fld@listcount=\count115
+\@outlinefile=\write3
+)
 (./fabioRafaelFabricioOrlando.aux)
 \openout1 = `fabioRafaelFabricioOrlando.aux'.
 
@@ -284,11 +291,45 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
-Package hyperref Info: Link coloring OFF on input line 27.
 
-(/PCBSD/local/share/texmf-dist/tex/latex/hyperref/nameref.sty
+(/PCBSD/local/share/texmf-dist/tex/context/base/supp-pdf.tex
+(/PCBSD/local/share/texmf-dist/tex/context/base/supp-mis.tex
+loading : Context Support Macros / Miscellaneous (2004.10.26)
+\protectiondepth=\count116
+\scratchcounter=\count117
+\scratchtoks=\toks38
+\scratchdimen=\dimen127
+\scratchskip=\skip44
+\scratchmuskip=\muskip12
+\scratchbox=\box30
+\scratchread=\read1
+\scratchwrite=\write4
+\zeropoint=\dimen128
+\onepoint=\dimen129
+\onebasepoint=\dimen130
+\minusone=\count118
+\thousandpoint=\dimen131
+\onerealpoint=\dimen132
+\emptytoks=\toks39
+\nextbox=\box31
+\nextdepth=\dimen133
+\everyline=\toks40
+\!!counta=\count119
+\!!countb=\count120
+\recursecounter=\count121
+)
+loading : Context Support Macros / PDF (2004.03.26)
+\nofMPsegments=\count122
+\nofMParguments=\count123
+\MPscratchCnt=\count124
+\MPscratchDim=\dimen134
+\MPnumerator=\count125
+\everyMPtoPDFconversion=\toks41
+)
+Package hyperref Info: Link coloring OFF on input line 27.
+ (/PCBSD/local/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2003/12/03 v2.21 Cross-referencing by name of section
-\c@section@level=\count115
+\c@section@level=\count126
 )
 LaTeX Info: Redefining \ref on input line 27.
 LaTeX Info: Redefining \pageref on input line 27.
@@ -316,191 +357,181 @@ Underfull \hbox (badness 1314) in paragraph at lines 68--86
  []
 
 
-Underfull \hbox (badness 2205) in paragraph at lines 89--97
+Underfull \hbox (badness 2205) in paragraph at lines 89--96
 []\T1/aer/m/n/9 Em bi-bli-o-te-cas fí-si-cas e di-gi-tais, a or-ga-ni-za-ção da
 
  []
 
 
-Underfull \hbox (badness 3623) in paragraph at lines 98--105
+Underfull \hbox (badness 3623) in paragraph at lines 97--104
 []\T1/aer/m/n/9 O vo-ca-bu-lá-rio con-tro-lado con-tém um con-junto de
  []
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 98--105
+Underfull \hbox (badness 2020) in paragraph at lines 97--104
 \T1/aer/m/n/9 para aju-dar o in-de-xa-dor em sua ta-refa. Com uso
  []
 
 
-Underfull \hbox (badness 3108) in paragraph at lines 106--111
+Underfull \hbox (badness 3108) in paragraph at lines 105--110
 \T1/aer/m/n/9 se-guindo um con-junto de re-gras e cri-té-rios cons-trói
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 137--144
+Underfull \hbox (badness 1430) in paragraph at lines 136--143
 \T1/aer/m/n/9 pa-drões, mas para este tra-ba-lho foi usado o ar-quivo
  []
 
-[1
+[1{/PCBSD/local/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-Underfull \hbox (badness 2980) in paragraph at lines 152--155
+Underfull \hbox (badness 2980) in paragraph at lines 151--154
 \T1/aer/m/n/9 pre-sen-tes no vo-ca-bu-lá-rio con-tro-lado uti-li-zado para a
  []
 
 
-Underfull \hbox (badness 5064) in paragraph at lines 166--172
+Underfull \hbox (badness 5064) in paragraph at lines 165--171
 []\T1/aer/m/n/9 No de-sen-vol-vi-mento deste tra-ba-lho, o vo-ca-bu-lá-rio
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 173--180
+Underfull \hbox (badness 1221) in paragraph at lines 172--179
 []\T1/aer/m/n/9 Foram ex-traí-dos do vo-ca-bu-lá-rio con-tro-lado to-dos os
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 181--185
+Underfull \hbox (badness 1377) in paragraph at lines 180--184
 []\T1/aer/m/n/9 Os des-cri-to-res e sinô-ni-mos pre-sen-tes no vo-ca-bu-lá-rio
  []
 
 
-Underfull \hbox (badness 1448) in paragraph at lines 210--216
+Underfull \hbox (badness 1448) in paragraph at lines 209--215
 []\T1/aer/bx/n/9 Normalização de ter-mos\T1/aer/m/n/9 : duas clas-ses fo-ram
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 217--223
+Underfull \hbox (badness 1430) in paragraph at lines 216--222
 \T1/aer/m/n/9 des-cri-to-res foi im-ple-men-tado um al-go-ritmo ca-paz
  []
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 224--229
+Underfull \hbox (badness 1348) in paragraph at lines 223--228
 []\T1/aer/bx/n/9 Janelamento\T1/aer/m/n/9 : exis-tem duas oca-siões em que é
  []
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 224--229
+Underfull \hbox (badness 1454) in paragraph at lines 223--228
 \T1/aer/m/n/9 pa-ra-me-tri-zá-vel, acon-tece na com-pa-ra-ção en-tre as
  []
 
 
-Underfull \hbox (badness 1087) in paragraph at lines 230--234
+Underfull \hbox (badness 1087) in paragraph at lines 229--233
 \T1/aer/m/n/9 ja-nela com as de-mais pa-la-vras. Cada uma das
  []
 
 
-Underfull \hbox (badness 1924) in paragraph at lines 235--243
+Underfull \hbox (badness 1924) in paragraph at lines 234--242
 \T1/aer/m/n/9 con-tro-lado acar-reta no sur-gi-mento de des-cri-to-res
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 246--259
+Underfull \hbox (badness 1389) in paragraph at lines 245--258
 \T1/aer/m/n/9 é ne-ces-sá-rio, pois é co-mum que o pro-fis-si-o-nal uti-lize
  []
 
 [2]
-Underfull \hbox (badness 1052) in paragraph at lines 273--280
+Underfull \hbox (badness 1052) in paragraph at lines 272--279
 \T1/aer/m/n/9 po-dendo ser exe-cu-tada de forma in-de-pen-dente. Para
  []
 
 
-Underfull \hbox (badness 3568) in paragraph at lines 273--280
+Underfull \hbox (badness 3568) in paragraph at lines 272--279
 \T1/aer/m/n/9 com-bi-na-ção pos-sí-vel usando as me-di-das apre-sen-ta-das
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 281--286
+Underfull \hbox (badness 1028) in paragraph at lines 280--285
 \T1/aer/m/n/9 des-cri-tos junto a na-ve-ga-ção na ár-vore do MeSH; e o
  []
 
 
-Overfull \hbox (5.36316pt too wide) in paragraph at lines 292--292
+Overfull \hbox (5.36316pt too wide) in paragraph at lines 291--291
 []\T1/aer/m/n/9 Cobertura| 
  []
 
 
-Underfull \hbox (badness 2359) in paragraph at lines 294--294
+Underfull \hbox (badness 2359) in paragraph at lines 293--293
 \T1/aer/m/n/9 des-cri-to-res no
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 296--296
+Underfull \hbox (badness 2608) in paragraph at lines 295--295
 []\T1/aer/m/n/9 Navegação na
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 298--298
+Underfull \hbox (badness 2608) in paragraph at lines 297--297
 []\T1/aer/m/n/9 Navegação na
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 298--298
 []\T1/aer/m/n/9 Filtragem do
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 298--298
 \T1/aer/m/n/9 des-cri-to-res
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 305--311
+Underfull \hbox (badness 1173) in paragraph at lines 304--310
 []\T1/aer/m/n/9 É pos-sí-vel ob-ser-var que o pro-grama con-se-guiu uma
  []
 
 
-Underfull \hbox (badness 2213) in paragraph at lines 305--311
+Underfull \hbox (badness 2213) in paragraph at lines 304--310
 \T1/aer/m/n/9 co-ber-tura maior que 60% de des-cri-to-res dos ar-ti-gos.
  []
 
 
-Overfull \hbox (11.87851pt too wide) in paragraph at lines 376--390
+Overfull \hbox (11.87851pt too wide) in paragraph at lines 375--389
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 405--405
-[]\secfnt CONSIDERAÇÕES SO-BRE OS
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 405--405
-\secfnt RE-SUL-TA-DOS E TRA-BA-LHOS
- []
-
-
-Underfull \hbox (badness 2418) in paragraph at lines 408--412
+Underfull \hbox (badness 2418) in paragraph at lines 407--411
 \T1/aer/m/n/9 tes-ta-das inú-me-ras con-fi-gu-ra-ções para o sis-tema. A
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 413--420
+Underfull \hbox (badness 2158) in paragraph at lines 412--419
 \T1/aer/m/n/9 con-tro-lado, e as-sim, re-tor-nar um grande nú-mero de
  []
 
 [3]
-Underfull \hbox (badness 4316) in paragraph at lines 436--440
+Underfull \hbox (badness 4316) in paragraph at lines 435--439
 []\T1/aer/m/n/9 A cri-a-ção de um mó-dulo que uti-liza téc-ni-cas
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 436--440
+Underfull \hbox (badness 1635) in paragraph at lines 435--439
 \T1/aer/m/n/9 o pro-grama com as ca-rac-te-rís-ti-cas de um único
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 436--440
+Underfull \hbox (badness 1043) in paragraph at lines 435--439
 \T1/aer/m/n/9 in-de-xa-dor ma-nual, apren-dendo com os ar-ti-gos já
  []
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 457--462
+Underfull \hbox (badness 1348) in paragraph at lines 456--461
 \T1/aer/m/n/9 neste tra-ba-lho pode ser uti-li-zada para a su-ges-tão de
  []
 
 
-Underfull \hbox (badness 5274) in paragraph at lines 457--462
+Underfull \hbox (badness 5274) in paragraph at lines 456--461
 \T1/aer/m/n/9 de in-de-xa-ção em gran-des cen-tros de in-for-ma-ção e
  []
 
@@ -526,12 +557,24 @@ Overfull \hbox (25.31462pt too wide) in paragraph at lines 43--48
 
 ) [4] (./fabioRafaelFabricioOrlando.aux) ) 
 Here is how much of TeX's memory you used:
- 4550 strings out of 94501
- 55647 string characters out of 1174670
- 126970 words of memory out of 1000000
- 7665 multiletter control sequences out of 10000+100000
- 39824 words of font info for 51 fonts, out of 500000 for 2000
+ 4943 strings out of 94500
+ 60579 string characters out of 1174647
+ 126098 words of memory out of 1000000
+ 8000 multiletter control sequences out of 10000+100000
+ 50228 words of font info for 68 fonts, out of 500000 for 2000
  580 hyphenation exceptions out of 1000
- 39i,10n,37p,492b,282s stack positions out of 1500i,500n,5000p,200000b,5000s
-
-Output written on fabioRafaelFabricioOrlando.dvi (4 pages, 45992 bytes).
+ 39i,10n,37p,492b,262s stack positions out of 1500i,500n,5000p,200000b,5000s
+PDF statistics:
+ 115 PDF objects out of 300000
+ 26 named destinations out of 131072
+ 65 words of extra memory for PDF output out of 65536
+</PCBSD/local/share/texmf-dist/fonts/
+type1/bluesky/cm/cmbx9.pfb></PCBSD/local/share/texmf-dist/fonts/type1/bluesky/c
+m/cmsy9.pfb></PCBSD/local/share/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb>{/P
+CBSD/local/share/texmf-dist/fonts/enc/dvips/psnfss/8r.enc}</PCBSD/local/share/t
+exmf-dist/fonts/type1/urw/times/utmri8a.pfb></PCBSD/local/share/texmf-dist/font
+s/type1/urw/times/utmr8a.pfb></PCBSD/local/share/texmf-dist/fonts/type1/bluesky
+/cm/cmr9.pfb></PCBSD/local/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></
+PCBSD/local/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></PCBSD/local/
+share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>
+Output written on fabioRafaelFabricioOrlando.pdf (4 pages, 129242 bytes).
