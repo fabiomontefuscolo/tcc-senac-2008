@@ -787,7 +787,7 @@
    \color@endgroup} %g}
 \fi
 \setcounter{footnote}{0}
-\section*{ABSTRACT}\normalsize%\ninept
+\section*{RESUMO}\normalsize%\ninept
 }
 
 \def\endabstract{\if@twocolumn\else\endquotation\fi}

@@ -1,4 +1,4 @@
-This is pdfeTeXk, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2009.3.31)  8 JUL 2009 11:31
+This is pdfeTeXk, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2009.3.31)  8 JUL 2009 14:48
 entering extended mode
  file:line:error style messages enabled.
 **fabioRafaelFabricioOrlando.tex
@@ -352,33 +352,44 @@ LaTeX Font Info:    Try loading font information for U+lasy on input line 66.
 (/PCBSD/local/share/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Underfull \hbox (badness 1314) in paragraph at lines 68--86
-\T1/aer/m/n/9 fil-te-ring, in-flect words and iden-tify them as po-ten-tial
+Underfull \hbox (badness 5359) in paragraph at lines 68--76
+\T1/aer/m/n/9 ca-paz de ana-li-sar um texto ci-en-tí-fico da área da
  []
 
 
-Underfull \hbox (badness 2205) in paragraph at lines 89--96
+Underfull \hbox (badness 1147) in paragraph at lines 68--76
+\T1/aer/m/n/9 trans-mi-tido pelo texto. Para isto, fo-ram cons-truí-dos
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 68--76
+\T1/aer/m/n/9 e uti-li-za-dos me-ca-nis-mos ca-pa-zes de fil-trar, in-fle-xi-o-
+nar
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 79--86
 []\T1/aer/m/n/9 Em bi-bli-o-te-cas fí-si-cas e di-gi-tais, a or-ga-ni-za-ção da
 
  []
 
 
-Underfull \hbox (badness 3623) in paragraph at lines 97--104
+Underfull \hbox (badness 3623) in paragraph at lines 87--94
 []\T1/aer/m/n/9 O vo-ca-bu-lá-rio con-tro-lado con-tém um con-junto de
  []
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 97--104
+Underfull \hbox (badness 2020) in paragraph at lines 87--94
 \T1/aer/m/n/9 para aju-dar o in-de-xa-dor em sua ta-refa. Com uso
  []
 
 
-Underfull \hbox (badness 3108) in paragraph at lines 105--110
+Underfull \hbox (badness 3108) in paragraph at lines 95--100
 \T1/aer/m/n/9 se-guindo um con-junto de re-gras e cri-té-rios cons-trói
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 136--143
+Underfull \hbox (badness 1430) in paragraph at lines 126--133
 \T1/aer/m/n/9 pa-drões, mas para este tra-ba-lho foi usado o ar-quivo
  []
 
@@ -386,152 +397,155 @@ Underfull \hbox (badness 1430) in paragraph at lines 136--143
 
 
 ]
-Underfull \hbox (badness 2980) in paragraph at lines 151--154
+Underfull \hbox (badness 2980) in paragraph at lines 141--144
 \T1/aer/m/n/9 pre-sen-tes no vo-ca-bu-lá-rio con-tro-lado uti-li-zado para a
  []
 
 
-Underfull \hbox (badness 5064) in paragraph at lines 165--171
+Underfull \hbox (badness 5064) in paragraph at lines 155--161
 []\T1/aer/m/n/9 No de-sen-vol-vi-mento deste tra-ba-lho, o vo-ca-bu-lá-rio
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 172--179
+Underfull \hbox (badness 1221) in paragraph at lines 162--169
 []\T1/aer/m/n/9 Foram ex-traí-dos do vo-ca-bu-lá-rio con-tro-lado to-dos os
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 180--184
+Underfull \hbox (badness 1377) in paragraph at lines 170--174
 []\T1/aer/m/n/9 Os des-cri-to-res e sinô-ni-mos pre-sen-tes no vo-ca-bu-lá-rio
  []
 
 
-Underfull \hbox (badness 1448) in paragraph at lines 209--215
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 200--206
 []\T1/aer/bx/n/9 Normalização de ter-mos\T1/aer/m/n/9 : duas clas-ses fo-ram
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 216--222
+Underfull \hbox (badness 1430) in paragraph at lines 207--213
 \T1/aer/m/n/9 des-cri-to-res foi im-ple-men-tado um al-go-ritmo ca-paz
  []
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 223--228
+Underfull \hbox (badness 1348) in paragraph at lines 214--219
 []\T1/aer/bx/n/9 Janelamento\T1/aer/m/n/9 : exis-tem duas oca-siões em que é
  []
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 223--228
+Underfull \hbox (badness 1454) in paragraph at lines 214--219
 \T1/aer/m/n/9 pa-ra-me-tri-zá-vel, acon-tece na com-pa-ra-ção en-tre as
  []
 
 
-Underfull \hbox (badness 1087) in paragraph at lines 229--233
+Underfull \hbox (badness 1087) in paragraph at lines 220--224
 \T1/aer/m/n/9 ja-nela com as de-mais pa-la-vras. Cada uma das
  []
 
 
-Underfull \hbox (badness 1924) in paragraph at lines 234--242
+Underfull \hbox (badness 1924) in paragraph at lines 225--233
 \T1/aer/m/n/9 con-tro-lado acar-reta no sur-gi-mento de des-cri-to-res
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 245--258
+Underfull \hbox (badness 1389) in paragraph at lines 236--249
 \T1/aer/m/n/9 é ne-ces-sá-rio, pois é co-mum que o pro-fis-si-o-nal uti-lize
  []
 
 [2]
-Underfull \hbox (badness 1052) in paragraph at lines 272--279
+Underfull \hbox (badness 1052) in paragraph at lines 263--270
 \T1/aer/m/n/9 po-dendo ser exe-cu-tada de forma in-de-pen-dente. Para
  []
 
 
-Underfull \hbox (badness 3568) in paragraph at lines 272--279
+Underfull \hbox (badness 3568) in paragraph at lines 263--270
 \T1/aer/m/n/9 com-bi-na-ção pos-sí-vel usando as me-di-das apre-sen-ta-das
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 280--285
+Underfull \hbox (badness 1028) in paragraph at lines 271--276
 \T1/aer/m/n/9 des-cri-tos junto a na-ve-ga-ção na ár-vore do MeSH; e o
  []
 
 
-Overfull \hbox (5.36316pt too wide) in paragraph at lines 291--291
+Overfull \hbox (5.36316pt too wide) in paragraph at lines 282--282
 []\T1/aer/m/n/9 Cobertura| 
  []
 
 
-Underfull \hbox (badness 2359) in paragraph at lines 293--293
+Underfull \hbox (badness 2359) in paragraph at lines 284--284
 \T1/aer/m/n/9 des-cri-to-res no
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 295--295
+Underfull \hbox (badness 2608) in paragraph at lines 286--286
 []\T1/aer/m/n/9 Navegação na
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 297--297
+Underfull \hbox (badness 2608) in paragraph at lines 288--288
 []\T1/aer/m/n/9 Navegação na
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 298--298
+Underfull \hbox (badness 10000) in paragraph at lines 289--289
 []\T1/aer/m/n/9 Filtragem do
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 298--298
+Underfull \hbox (badness 10000) in paragraph at lines 289--289
 \T1/aer/m/n/9 des-cri-to-res
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 304--310
+Underfull \hbox (badness 1173) in paragraph at lines 295--301
 []\T1/aer/m/n/9 É pos-sí-vel ob-ser-var que o pro-grama con-se-guiu uma
  []
 
 
-Underfull \hbox (badness 2213) in paragraph at lines 304--310
+Underfull \hbox (badness 2213) in paragraph at lines 295--301
 \T1/aer/m/n/9 co-ber-tura maior que 60% de des-cri-to-res dos ar-ti-gos.
  []
 
 
-Overfull \hbox (11.87851pt too wide) in paragraph at lines 375--389
+Overfull \hbox (11.87851pt too wide) in paragraph at lines 366--380
  [][] 
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 407--411
+Underfull \hbox (badness 2418) in paragraph at lines 398--402
 \T1/aer/m/n/9 tes-ta-das inú-me-ras con-fi-gu-ra-ções para o sis-tema. A
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 412--419
+Underfull \hbox (badness 2158) in paragraph at lines 403--410
 \T1/aer/m/n/9 con-tro-lado, e as-sim, re-tor-nar um grande nú-mero de
  []
 
 [3]
-Underfull \hbox (badness 4316) in paragraph at lines 435--439
+Underfull \hbox (badness 4316) in paragraph at lines 426--430
 []\T1/aer/m/n/9 A cri-a-ção de um mó-dulo que uti-liza téc-ni-cas
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 435--439
+Underfull \hbox (badness 1635) in paragraph at lines 426--430
 \T1/aer/m/n/9 o pro-grama com as ca-rac-te-rís-ti-cas de um único
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 435--439
+Underfull \hbox (badness 1043) in paragraph at lines 426--430
 \T1/aer/m/n/9 in-de-xa-dor ma-nual, apren-dendo com os ar-ti-gos já
  []
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 456--461
+Underfull \hbox (badness 1348) in paragraph at lines 447--452
 \T1/aer/m/n/9 neste tra-ba-lho pode ser uti-li-zada para a su-ges-tão de
  []
 
 
-Underfull \hbox (badness 5274) in paragraph at lines 456--461
+Underfull \hbox (badness 5274) in paragraph at lines 447--452
 \T1/aer/m/n/9 de in-de-xa-ção em gran-des cen-tros de in-for-ma-ção e
  []
 
@@ -559,7 +573,7 @@ Overfull \hbox (25.31462pt too wide) in paragraph at lines 43--48
 Here is how much of TeX's memory you used:
  4943 strings out of 94500
  60579 string characters out of 1174647
- 126098 words of memory out of 1000000
+ 127096 words of memory out of 1000000
  8000 multiletter control sequences out of 10000+100000
  50228 words of font info for 68 fonts, out of 500000 for 2000
  580 hyphenation exceptions out of 1000
@@ -577,4 +591,4 @@ s/type1/urw/times/utmr8a.pfb></PCBSD/local/share/texmf-dist/fonts/type1/bluesky
 /cm/cmr9.pfb></PCBSD/local/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></
 PCBSD/local/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></PCBSD/local/
 share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on fabioRafaelFabricioOrlando.pdf (4 pages, 129242 bytes).
+Output written on fabioRafaelFabricioOrlando.pdf (4 pages, 128870 bytes).
