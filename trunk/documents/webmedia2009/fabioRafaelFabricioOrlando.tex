@@ -65,24 +65,14 @@ pdfsubject = {Indexação de documentos científicos da saúde}}
 \maketitle
 
 \begin{abstract}
-This article describes the development of an application capable of parsing a 
-scientific text from health area and summarizes it in keywords, stored in a 
-controlled vocabulary, which represent the concept transmitted by the text. For
-this, were constructed and used mechanisms capable of filtering, inflect words 
-and identify them as potential keywords. The intention is that the application 
-can be used in aid of professionals engaged in this activity in large centers
-of information and documentation.
+Este artigo descreve o desenvolvimento de uma aplicação capaz de analisar um
+texto científico da área da saúde e sintetizá-lo em palavras-chave, armazenadas
+em um vocabulário controlado, que representam o conceito transmitido pelo
+texto. Para isto, foram construídos e utilizados mecanismos capazes de filtrar,
+inflexionar palavras e identificá-las como possíveis palavras-chave. A intenção
+é que a aplicação possa ser utilizadano auxílio de profissionais que exercem
+esta atividade em grandes centros de informação e documentação.
 \end{abstract}
-%     
-%\begin{resumo}
-%Este artigo descreve o desenvolvimento de uma aplicação capaz de analisar um
-%texto científico da área da saúde e sintetizá-lo em palavras-chave, armazenadas
-%em um vocabulário controlado, que representam o conceito transmitido pelo
-%texto. Para isto, foram construídos e utilizados mecanismos capazes de filtrar,
-%inflexionar palavras e identificá-las como possíveis palavras-chave. A intenção
-%é que a aplicação possa ser utilizadano auxílio de profissionais que exercem
-%esta atividade em grandes centros de informação e documentação.
-%\end{resumo}
 
 \section{Introdução}
 
@@ -130,8 +120,8 @@ Um vocabulário controlado é uma ferramenta que agrupa conceitos e termos de
 forma hierárquica, de acordo com áreas temáticas. Os termos existentes no
 vocabulário controlado são usados, combinados ou não, para descrever de forma
 sucinta um documento. O vocabulário controlado utilizado neste trabalho foi o
-MeSH (Medical Subjects Heading) \cite{nlmmesh:08}, distribuído pela
-NLM (National Library of Medicine).
+MeSH (\textit{Medical Subjects Heading}) \cite{nlmmesh:08}, distribuído pela
+NLM (\textit{National Library of Medicine}).
 
 O MeSH pode ser encontrado em arquivos de vários padrões, mas para este trabalho
 foi usado o arquivo XML (\textit{Extensible Markup Language}). São analisados 
@@ -190,6 +180,7 @@ leitura dos artigos é identificar os descritores para cada artigo fornecido. O
 módulo para validação dos resultados tem como objetivo verificar a eficiência
 da aplicação desenvolvida neste trabalho. 
 
+\vspace{3.5\baselineskip}
 Os componentes utilizados nos módulos para leitura do MeSH e no módulo para a
 leitura de artigos são:
 
