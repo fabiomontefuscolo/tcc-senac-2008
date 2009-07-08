@@ -4,16 +4,31 @@
 \usepackage{graphicx,url}
 \usepackage[brazil]{babel}
 \usepackage[latin1]{inputenc}
+\usepackage[unicode=true,
+ bookmarks=true,
+ bookmarksnumbered=false,
+ bookmarksopen=false,
+ breaklinks=false,
+ pdfborder={0 0 1},
+ backref=false,
+ colorlinks=false]
+ {hyperref}
 
+\hypersetup{
+pdfauthor = {Fabio Montefuscolo, Rafael G. Câmara,
+Fabrício J. Barth, Orlando Rodrigues Jr.},
+pdftitle = {Indexação automática de artigos científicos da área da saúde},
+pdfsubject = {Indexação de documentos científicos da saúde}}
+
+\pdfadjustspacing=1
 \hyphenpenalty = 10000
 \sloppy
 
 \begin{document}
 
-%\conferenceinfo{WEBMEDIA}{'2009 Fortaleza, Ceará Brasil}
+\conferenceinfo{WEBMEDIA}{'2009 Fortaleza, Ceará Brasil}
 
-\title{Indexação automática de artigos
-científicos da área da saúde}
+\title{Indexação automática de artigos científicos\\da área da saúde}
 
 \numberofauthors{4}
 
@@ -23,13 +38,13 @@ científicos da área da saúde}
        \affaddr{Faculdade de Ciências Exatas e Tecnologia}\\
        \affaddr{Centro Universitário Senac}\\
        \affaddr{São Paulo/SP, Brasil}\\
-       \email{fabio.montefuscolo@\\gmail.com}
+       \email{fabio.montefuscolo\\@gmail.com}
 %
 \alignauthor Rafael Gomes Câmara\\
        \affaddr{Faculdade de Ciências Exatas e Tecnologia}\\
        \affaddr{Centro Universitário Senac}\\
        \affaddr{São Paulo/SP, Brasil}\\
-       \email{rafael.gcamara@\\gmail.com}
+       \email{rafael.gcamara\\@gmail.com}
 %
 \and  
 %
@@ -37,57 +52,76 @@ científicos da área da saúde}
        \affaddr{Faculdade de Ciências Exatas e Tecnologia}\\
        \affaddr{Centro Universitário Senac}\\
        \affaddr{São Paulo/SP, Brasil}\\
-       \email{fabricio.jbarth@\\sp.senac.br}
+       \email{fabricio.jbarth\\@sp.senac.br}
 %
 \alignauthor Orlando Rodrigues Jr.\\
        \affaddr{Faculdade de Ciências Exatas e Tecnologia}\\
        \affaddr{Centro Universitário Senac}\\
        \affaddr{São Paulo/SP, Brasil}\\
-       \email{orlando.rodrigues@\\sp.senac.br}
+       \email{orlando.rodrigues\\@sp.senac.br}
 }
 
 
 \maketitle
 
 \begin{abstract}
-This article describes the development of an application capable of parsing
-a scientific text from health area and summarizes it in keywords, stored in 
-a controlled vocabulary, which represent the concept transmitted by the 
-text. For this, were constructed and used mechanisms capable of filtering, 
-inflect words and identify them as potential keywords. The intention is 
-that the application can be used in aid of professionals engaged in this 
-activity in large centers of information and documentation.
+This article describes the development of an application capable of parsing a 
+scientific text from health area and summarizes it in keywords, stored in a 
+controlled vocabulary, which represent the concept transmitted by the text. For
+this, were constructed and used mechanisms capable of filtering, inflect words 
+and identify them as potential keywords. The intention is that the application 
+can be used in aid of professionals engaged in this activity in large centers
+of information and documentation.
 \end{abstract}
-     
+%     
 %\begin{resumo}
 %Este artigo descreve o desenvolvimento de uma aplicação capaz de analisar um
 %texto científico da área da saúde e sintetizá-lo em palavras-chave, armazenadas
-%em um vocabulário controlado, que representam o conceito transmitido pelo texto.
-%Para isto, foram construídos e utilizados mecanismos capazes de filtrar, inflexionar palavras e identificá-las 
-%como possíveis palavras-chave. A intenção é que a aplicação possa ser utilizada
-%no auxílio de profissionais que exercem esta atividade em grandes centros de informação e documentação.
+%em um vocabulário controlado, que representam o conceito transmitido pelo
+%texto. Para isto, foram construídos e utilizados mecanismos capazes de filtrar,
+%inflexionar palavras e identificá-las como possíveis palavras-chave. A intenção
+%é que a aplicação possa ser utilizadano auxílio de profissionais que exercem
+%esta atividade em grandes centros de informação e documentação.
 %\end{resumo}
 
 \section{Introdução}
 
-Em bibliotecas físicas e digitais, a organização da informação é baseada em descritores, que são palavras-chave cujos conceitos podem representar de forma resumida o documento onde estão contidas. Os descritores de um texto podem ser escolhidos livremente, de acordo com que o autor ou profissional de indexação imagina ser mais adequada ao documento. Outra forma é recorrer a um conjunto de descritores pré-definidos presentes em um vocabulário controlado, seguindo um conjunto de regras \cite{lancaster:04}.
+Em bibliotecas físicas e digitais, a organização da informação é baseada em 
+descritores, que são palavras-chave cujos conceitos podem representar de forma 
+resumida o documento onde estão contidas. Os descritores de um texto podem ser 
+escolhidos livremente, de acordo com que o autor ou profissional de indexação 
+imagina ser o mais adequado ao documento. Outra forma é recorrer a um conjunto 
+de descritores pré-definidos presentes em um vocabulário controlado, seguindo um
+conjunto de regras.
+\cite{lancaster:04}.
 
-O vocabulário controlado contém um conjunto de descritores que são agrupados de forma hierárquica. Todo descritor é armazenado de forma que consigo estejam presentes a descrição de seu conceito, termos sinônimos e comentários deixados para ajudar o indexador em sua tarefa. Com uso do vocabulário controlado é possível organizar de forma eficiente uma coleção de documentos, pois além do conceito do descritor que sintetiza o assunto do documento, a hierarquia do vocabulário classifica este documento em tópicos mais genéricos \cite{lancaster:04}.
+O vocabulário controlado contém um conjunto de descritores que são agrupados de 
+forma hierárquica. Todo descritor é armazenado de forma que carreguem a 
+descrição do conceito que representa, termos sinônimos e comentários para ajudar
+o indexador em sua tarefa. Com uso do vocabulário controlado é possível
+organizar de forma eficiente uma coleção de documentos, pois além do conceito do
+descritor, que sintetiza o assunto do documento, a hierarquia do vocabulário
+classifica este documento em tópicos mais genéricos \cite{lancaster:04}.
 
-O processo de indexação é feito por um profissional da informação, comumente chamado de indexador, que seguindo um conjunto de regras e critérios constrói representações de documentos para que sejam incluídos em uma base de dados. Este processo é uma atividade complexa, lenta e custosa, geralmente realizada por poucas pessoas \cite{lancaster:04}.
+O processo de indexação é feito por um profissional da informação, comumente 
+chamado de indexador, que seguindo um conjunto de regras e critérios constrói 
+representações de documentos para que sejam incluídos em uma base de dados. Este
+processo é uma atividade complexa, lenta e custosa, geralmente realizada por
+poucas pessoas \cite{lancaster:04}.
 
-O objetivo deste trabalho reside na construção de uma aplicação capaz de auxiliar e melhorar a qualidade do trabalho desse profissional no reconhecimento de descritores para artigos científicos da área da saúde. A aplicação construída  apresenta palavras candidatas a descritores para um artigo, podendo aumentar a quantidade de artigos indexados em um determinado intervalo de tempo, fazendo com que o indexador complete seu trabalho de forma mais eficiente e menos custosa.
+O objetivo deste trabalho reside na construção de uma aplicação capaz de
+auxiliar e melhorar a qualidade do trabalho desse profissional no reconhecimento
+de descritores para artigos científicos da área da saúde. A aplicação construída
+apresenta palavras candidatas a descritores para um artigo, podendo aumentar a
+quantidade de artigos indexados em um determinado intervalo de tempo, fazendo 
+com que o indexador complete seu trabalho de forma mais eficiente e menos
+custosa.
 
-Este artigo está estruturado da
-seguinte maneira: na seção
-\ref{fundamentacao} é descrita uma
-breve fundamentação teórica sobre o tema
-e sobre os dados utilizados neste trabalho; na
-seção \ref{desenvolvimento} é descrita a
-implementação do extrator de
-descritores; na seção \ref{resultados}
-são apresentados os resultados obtidos
-e, por fim, a seção \ref{consideracoes}
+Este artigo está estruturado da seguinte maneira: na seção \ref{fundamentacao}
+é descrita uma breve fundamentação teórica sobre o tema e sobre os dados
+utilizados neste trabalho; na seção \ref{desenvolvimento} é descrita a
+implementação do extrator de descritores; na seção \ref{resultados} são 
+apresentados os resultados obtidos e, por fim, a seção \ref{consideracoes}
 contém as considerações finais deste trabalho. 
 
 \section{Fundamentação teórica}
@@ -100,96 +134,112 @@ sucinta um documento. O vocabulário controlado utilizado neste trabalho foi o
 MeSH (Medical Subjects Heading) \cite{nlmmesh:08}, distribuído pela
 NLM (National Library of Medicine).
 
-O MeSH pode ser encontrado em arquivos de vários padrões, mas para este trabalho foi usado o arquivo XML (Extensible Markup Language). São analisados três tipos de elementos no MeSH para realizar o processo de indexação: descritores, conceitos e termos. Os descritores são representados por termos, cuja função é expor de forma objetiva os conceitos existentes no vocabulário controlado. Descritores são representados pelo elemento \textit{descriptor} no MeSH, que aninha uma lista de conceitos\cite{nlm:08}. 
+O MeSH pode ser encontrado em arquivos de vários padrões, mas para este trabalho
+foi usado o arquivo XML (\textit{Extensible Markup Language}). São analisados 
+três tipos de elementos no MeSH para realizar o processo de indexação: 
+descritores, conceitos e termos. Os descritores são representados por termos, 
+cuja função é expor de forma objetiva os conceitos existentes no vocabulário 
+controlado. Descritores são representados pelo elemento \textit{descriptor} no 
+MeSH, que aninha uma lista de conceitos\cite{nlm:08}. 
 
-Os conceitos, representados no arquivo pelo elemento \textit{concept}, guardam um termo e uma definição conceitual para este termo. Um conceito é preferido quando seu uso é indicado para o descritor ao qual está associado. O conceito preferido guarda um termo idêntico ao termo do descritor a que pertence. Já os conceitos não preferidos têm termos diferentes do termo do descritor, mas são considerados sinônimos do conceito preferido \cite{nlm:08}.
+Os conceitos, representados no arquivo pelo elemento \textit{concept}, guardam
+um termo e uma definição conceitual para este termo. Um conceito é preferido 
+quando seu uso é indicado para o descritor ao qual está associado. 
+O conceito preferido guarda um termo idêntico ao termo do descritor a que 
+pertence. Já os conceitos não preferidos têm termos diferentes do termo do 
+descritor, mas são considerados sinônimos do conceito preferido \cite{nlm:08}.
 
-Para a extração de descritores de documentos eletrônicos é necessário que sejam encontradas palavras cujo conceito, além de descrever o conteúdo de texto também estejam presentes no vocabulário controlado utilizado para a indexação.
+Para a extração de descritores de documentos eletrônicos é necessário que sejam
+encontradas palavras cujo conceito, além de descrever o conteúdo de texto também
+estejam presentes no vocabulário controlado utilizado para a indexação.
 
-É necessário que haja um tratamento dos textos de entrada e do vocabulário controlado para que as buscas por descritores nos textos aconteçam da forma mais eficaz possível. Este tratamento implica em reduzir as palavras aos seus radicais, através de um algoritmo de \textit{stemming} \cite{porter:80}, e retirar do texto palavras que não tem função conceitual, através de uma lista de \textit{stop words} \cite{nltk:08}.
+É necessário um tratamento dos textos de entrada e do vocabulário controlado 
+para que as buscas por descritores nos textos aconteçam da forma mais eficaz
+possível. Este tratamento implica em reduzir as palavras aos seus radicais,
+através de um algoritmo de \textit{stemming} \cite{porter:80}, e retirar do
+texto palavras que não tem função conceitual, através de uma lista de
+\textit{stop words} \cite{nltk:08}.
 
-\section{Desenvolvimento}
+\section{Desenvolvimento do extrator}
 \label{desenvolvimento}
 
-No desenvolvimento deste trabalho, o
-vocabulário controlado usado foi o MeSH do ano 2008, contendo 24.767 termos em inglês e mais de 97.000 formas sinônimas para os termos autorizados \cite{nlm:08}. A lista de \textit{stop-words} utilizada foi a proposta para projeto NLTK \cite{nltk:08}, composta por 571 termos. Os artigos científicos utilizados são da área da saúde e disponibilizados na biblioteca eletrônica SciELO \cite{scielo:08}.
+No desenvolvimento deste trabalho, o vocabulário controlado usado foi o MeSH do
+ano 2008, contendo 24.767 termos em inglês e mais de 97.000 formas sinônimas
+para os termos autorizados \cite{nlm:08}. A lista de \textit{stop-words}
+utilizada foi a proposta para projeto NLTK \cite{nltk:08}, composta por 571
+termos. Os artigos científicos utilizados são da área da saúde e
+disponibilizados na biblioteca eletrônica SciELO \cite{scielo:08}.
 
-O vocabulário MeSH foi tratado da mesma forma que os textos dos documentos. Foram extraídos do vocabulário controlado todos os termos dos descritores e sinônimos. Os termos retirados dos descritores, que são os termos preferidos para descrever o  conceito, são armazenados em um dicionário de descritores. Os outros termos, que são sinônimos ao termo preferido são armazenados em um dicionário de sinônimos. Todo termo presente no dicionário de sinônimos tem uma referência para um termo do dicionário de descritores. Um descritor pode ter vários sinônimos, mas um sinônimo está relacionado somente a um descritor.
+Foram extraídos do vocabulário controlado todos os termos dos descritores e dos
+sinônimos. Os termos retirados dos descritores, que são os termos preferidos
+para descrever o  conceito, são armazenados em um dicionário de descritores. Os
+outros termos, que são sinônimos ao termo preferido são armazenados em um
+dicionário de sinônimos. Todo termo presente no dicionário de sinônimos tem uma
+referência para um termo do dicionário de descritores. Um descritor pode ter
+vários sinônimos, mas um sinônimo está relacionado somente a um descritor.
 
-O descritores e sinônimos presentes no vocabulário controlado foram associados a identificados e armazenados em estruturas do tipo \textit{hashmap}, de forma que fosse possível mapear a relação hierarquica entre os termos do vocabulário controlado.
+Os descritores e sinônimos presentes no vocabulário controlado foram associados
+a identificadores e armazenados em estruturas do tipo \textit{hashmap}, de forma
+que fosse possível mapear a relação hierárquica entre os termos do vocabulário
+controlado.
 
-A aplicação desenvolvida neste trabalho
-é composta por três módulos: módulo para leitura do MeSH, módulo para leitura dos
-artigos e módulo para validação dos
-resultados. O objetivo do módulo para leitura do MeSH é transformar o MeSH em
-uma estrutura que será utilizada pelo módulo para leitura dos artigos. O
-objetivo do módulo para leitura dos artigos é identificar os descritores para
-cada artigo fornecido. O módulo para validação dos resultados tem como objetivo
-verificar a eficiência da aplicação desenvolvida neste trabalho. 
+A aplicação desenvolvida é composta por três módulos: um para leitura do MeSH,
+outro para leitura dos artigos e outro para validação dos resultados. O objetivo
+do módulo para leitura do MeSH é de transformá-lo em uma estrutura que será
+utilizada pelo módulo para leitura dos artigos. O objetivo do módulo para
+leitura dos artigos é identificar os descritores para cada artigo fornecido. O
+módulo para validação dos resultados tem como objetivo verificar a eficiência
+da aplicação desenvolvida neste trabalho. 
 
-Os componentes utilizados nos módulos para
-leitura do MeSH e no módulo para a leitura de artigos são:
+Os componentes utilizados nos módulos para leitura do MeSH e no módulo para a
+leitura de artigos são:
 
 \begin{itemize}
-  \item \textbf{Alocação do MeSH na Memória}: a leitura do XML do MeSH é feita
-  com a API SAX (Simple API for XML) \cite{pythonsax:08}. Apesar de existirem 
-  outras API mais fáceis de usar, o SAX é o mais adequado para este trabalho, 
-  pois não é preciso colocar todo o arquivo em memória para manipulá-lo. A medida
-  que um termo é lido pela API SAX, métodos para o armazenamento são
-  executados. Caso o termo encontrado seja um descritor preferido, sua forma
-  normalizada se torna a chave em um dicionário e o termo completo é o valor
-  associado a tal chave. Caso o termo seja um sinônimo, outra estrutura é usada, 
-  onde a chave é a forma normalizada do sinônimo, e o valor é a forma
-  normalizada do descritor correspondente. Tendo as estruturas já formadas, 
-  elas são serializadas e gravadas em disco para que não seja necessário
-  repetir o procedimento de leitura do XML. A serialização e a carga dos
-  dicionários são realizadas com auxílio da \textit{API Pickle} do Python
-  \cite{pythonpickle:08}.
+\item \textbf{Alocação do MeSH na Memória}: a leitura do XML do MeSH é feita
+com a API SAX (\textit{Simple API for XML}) \cite{pythonsax:08}, visando
+poupar recursos computacionais. A medida que um termo é lido pela API SAX,
+métodos para o armazenamento são executados. Caso o termo encontrado seja um
+descritor preferido, sua forma normalizada se torna a chave em um dicionário e o
+termo completo é o valor associado a tal chave. Caso o termo seja um sinônimo,
+outra estrutura é usada, onde a chave é a forma normalizada do sinônimo, e o
+valor é a forma normalizada do descritor correspondente. Após formadas as
+estruturas, elas são serializadas e gravadas em disco através da 
+\textit{API Pickle} \cite{pythonpickle:08}, para que não seja necessário repetir
+o procedimento de leitura do XML.
 
-\item \textbf{Normalização de termos}: para implementar a normalização
-de termos foram criadas duas classes e uma lista de \textit{stop-words}. A
+\item \textbf{Normalização de termos}: duas classes foram criadas para fazerem
+uso de uma lista de \textit{stop-words} e efetuar a normalização dos termos. A
 primeira é uma implementação em Python do algoritmo de \textit{Stemming} de
 Martin Porter \cite{gupta:08}, reponsável pela inflexão de palavras na
 aplicação. A outra classe identifica as \textit{stop-words}, cruzando cada 
-palavra de entrada com a lista obtida do projeto NLTK.
+palavra da entrada com a lista obtida do projeto NLTK.
 
 \item \textbf{Navegação no MeSH}: para obtenção de novos descritores foi
 implementado um algoritmo capaz de navegar pela estrutura do MeSH utilizando a
-identificação hierárquica de cada descritor. Com isso, é possível contabilizar 
-todos os ascendentes de cada descritor. Após esta etapa, é avaliada a
-relevância de cada ascendente para o texto. Esta relevância é determinada de
-acordo com o número de filhos do descritor que estão presentes no texto.
+identificação hierárquica de cada descritor. Com isso, é possível contar todos 
+os ascendentes de cada descritor. Após esta etapa, é avaliada a relevância de
+cada ascendente para o texto. Esta relevância é determinada de acordo com o
+número de filhos do descritor que estão presentes no texto.
 
-\item \textbf{Janelamento}: no processo de identificação de descritores para o 
-artigo existem duas ocasiões em que a técnica de janelamento é utilizada. A 
-primeira delas é diretamente na comparação entre palavras do artigo e
-vocabulário controlado. Existem descritores no vocabulário que possuem mais de 
-uma palavra, então na leitura do artigo é utilizado uma janela de leitura para
-verificar a existência de várias palavras como sendo um descritor válido. Esse
-processo é parametrizável, possibilitando assim definir quantas palavras serão utilizadas. 
-A segunda ocasião é para a análise dos bigramas, onde a janela representa a quantidade de 
-palavras a frente de uma que está em leitura.
+\item \textbf{Janelamento}: existem duas ocasiões em que é empregada esta
+técnica: a primeira, com tamanho parametrizável, acontece na comparação entre as
+palavras do artigo e do vocabulário controlado, por existem descritores formados
+por mais de uma palavra; a segunda ocasião acontece em outra técnica, que é a
+análise de bigramas.
 
-\item \textbf{Bigrama}: a aplicação da técnica de bigramas é dependente do
-conceito utilizado na leitura em janelamento no artigo, já que este conceito é
-reutilizado nesta técnica. Quando uma palavra esta no processo de leitura do
-texto, são feitas combinações com as palavras seguintes dentro de uma janela 
-pré-definida e buscadas no vocabulário controlado. Porém a primeira combinação
-é descartada, já que a leitura do texto em janelamento cobre o primeiro caso de bigrama.
+\item \textbf{Bigrama}: durante a aplicação do janelamento, foram efetuadas
+combinações entre a primeira palavra da janela com as demais palavras. Cada uma
+das combinações encontradas é pesquisada no vocabulário controlado, exceto a
+primeira, que já aconteceu na aplicação do janelamento sem aplicão dos bigramas.
 
-\item \textbf{Corte de descritores}: a aplicação desenvolvida neste trabalho é
-capaz de cruzar todas as palavras de um artigo com o vocabulário controlado.
-Conseqüentemente, é comum fazer parte do resultado descritores com poucas
-ocorrências e irrelevantes para o artigo. Sendo assim, a eliminação destes é
-fundamental para o aumento da qualidade dos resultados. Para isto, duas
-técnicas de corte de descritores foram implementadas. O corte por ocorrência,
-como diz o nome, leva em consideração o número de aparições do descritor no
-texto. Todos os descritores são ordenados por ordem de aparições e então o 
-corte é feito baseado no descritor de maior ocorrência no texto. Aqueles 
-descritores que tiveram um número de aparições menor que 20\% do número de 
-aparições do descritor de maior ocorrência são eliminados do resultado. Já o 
-corte por quantidade simplesmente ordena os descritores, e mantém 10\% dos 
-descritores que tiveram maior numero de ocorrências.
+\item \textbf{Corte de descritores}: a capacidade de cruzar todas as palavras
+de um texto com as do vocabulário controlado acarreta no surgimento de 
+descritores irrelevantes para um determinado artigo, prejudicando a qualidade do
+resultado. Para contornar isto, foram elaboradas duas técnicas para eliminar
+descritores irrelevantes: a de corte por ocorrência, que elimina o decritores 
+cujo número de aparições seja menor que 20\% da quantidade de aparições do
+descritor mais encontrado e a de corte por quantidade, que considera somente os
+10\% dos descritores com maior resultado.
 
 \end{itemize}
 
@@ -197,43 +247,42 @@ Para a validação dos descritores obtidos pelo programa foram utilizados artigos
 indexados manualmente por um profissional da área. Com isso, foram armazenados 
 artigos e descritores. Para tornar a validação dos resultados coerente, é 
 necessário verificar se os descritores pré-definidos para o artigo realmente 
-estão no texto. Este
-procedimento é necessário, pois caso não realizado, os descritores obtidos pelo
-programa serão comparados com descritores que foram escolhidos subjetivamente
-por um profissional. Como a técnica utilizada é apenas a definição de termos
-encontrados no texto, é correto comparar os resultados apenas com os
-descritores pré-definidos que realmente aparecem no artigo. 
-O componente \textit{corte de descritores pré-definidos não existentes no
-texto} verifica se os descritores e seus sinônimos possuem alguma ocorrência
-no texto, e quando o caso é negativo, o componente elimina estes casos dos
-descritores que serão usados para avaliar a qualidade dos resultados obtidos.
+estão no texto. Este procedimento é necessário, pois é comum que o profissional
+utilize descritores que não estão no texto, mas que têm seu uso apropriado. Como
+a técnica utilizada é apenas a definição de termos encontrados no texto, são
+comparados apenas os resultados apenas com descritores pré-definidos que
+realmente aparecem no artigo.
+O componente corte de descritores pré-definidos que não são existem no texto,
+verifica se um descritor ou seus sinônimos possuem alguma ocorrência. Quando não
+não há ocorrências o descritor é ignorado para o processo de avaliação dos
+resultados obtidos.
 
 \section{Resultados}
 \label{resultados}
 
-Para avaliar as abordagens propostas e desenvolvidas neste trabalho foi
-utilizada uma coleção de artigos  para obter a média dos valores de precisão,
-cobertura e F-measure \cite{manning:08}.  Os artigos utilizados foram extraídos
-da base de dados da SciELO \cite{scielo:08}. Esta fonte foi escolhida tendo em
-vista artigos completos, disponíveis para download e indexados.
+As abordagens propostas e desenvolvidas foram avaliadas a partir dos valores de
+cobertura, precisão e F-Measure \cite{manning:08} calculados com a execução do
+protótipo sobre uma coleção de artigos completos e indexados extraídos da
+SciELO \cite{scielo:08}.
 
-No total, foram utilizados 419 artigos na avaliação. Estes artigos, com seus
-respectivos descritores, foram armazenados em arquivos de texto puro para a
-validação de resultados. Cada artigo desta massa possui uma média de 11,28
-descritores definidos manualmente, com um desvio padrão de 4,57.
+A avaliação consistiu em coletar descritores de 419 artigos e armazená-los em um
+arquivo texto, sobre o qual foi foi calculada a média da quantidade de 
+descritores que cada artigo possui, que é de 11,28 descritores com um desvio
+padrão de 4,57.
 
-O programa teve diferentes técnicas aplicadas, cada uma podendo ser executada de forma independente. 
-Para a execução do programa, foram feitas combinações das técnicas sobre os 419
-artigos, visando obter a melhor combinação possível usando as medidas apresentadas anteriormente. 
-Também foram medidos nestes testes a eficiência dos diversos tamanhos de janela de leitura e os 
-tipos de cortes usados. Primeiro foi executado o processo utilizando um tamanho de 3 palavras 
+O programa teve diferentes técnicas aplicadas, cada uma podendo ser executada de
+forma independente. Para a execução do programa, foram feitas combinações das
+técnicas sobre os 419 artigos, visando obter a melhor combinação possível usando
+as medidas apresentadas anteriormente. Também foram medidos nestes testes a
+eficiência dos diversos tamanhos de janela de leitura e os tipos de cortes
+usados. Primeiro foi executado o processo utilizando um tamanho de 3 palavras 
 para a janela de leitura com técnicas que não dependem de nenhum tipo de corte.
 
 Na tabela \ref{tab:tabela1} é possível visualizar os resultados de precisão,
 cobertura e F-measure encontrados utilizando: apenas o identificador de
-descritores no artigo; o identificador de descritos mais a navegação na árvore
-do MeSH; e, o identificador de descritos mais a navegação 
-na árvore do MeSH com filtragem dos descritores pré-definidos.
+descritores no artigo; o identificador de descritos junto a navegação na árvore
+do MeSH; e o identificador de descritos junto a navegação na árvore do MeSH e
+filtrando os descritores pré-definidos.
 
 \begin{table}[ht]
 \centering 
@@ -255,16 +304,17 @@ Filtragem do descritores pré-definidos & 4,264\% & 68,946\% & 8,031\%\tabularnew
 
 É possível observar que o programa conseguiu uma cobertura maior que 60\% de
 descritores dos artigos. Entretanto, a não realização do corte faz com que um
-grande número de descritores seja retornado, diminuindo então a precisão do programa.
-A utilização da navegação na estrutura do MeSH e a filtragem dos descritores são técnicas
-que podem aumentar a cobertura. No caso da filtragem, isso acontece por não comparar 
-descritores que não estejam presentes no texto.
+grande número de descritores seja retornado, diminuindo então a precisão do
+programa. A utilização da navegação na estrutura do MeSH e a filtragem dos
+descritores são técnicas que podem aumentar a cobertura. No caso da filtragem,
+isso acontece por não comparar descritores que não estejam presentes no texto.
 
-O próximo passo foi avaliar qual o tipo de corte seria mais eficiente. A navegação na 
-estrutura do MeSH foi realizada antes e após o corte, para obter mais descritores e 
-avaliar o melhor momento que ela deveria ser realizada no processo. Na massa de dados 
-utilizada, a navegação após o corte acrescentou uma média de 3,31 descritores novos 
-por texto. Na tabela \ref{tab:tabela2} são apresentados os resultados desta avaliação.
+O próximo passo foi avaliar qual o tipo de corte seria mais eficiente. A
+navegação na estrutura do MeSH foi realizada antes e após o corte, para obter
+mais descritores e avaliar o melhor momento que ela deveria ser realizada no
+processo. Na massa de dados utilizada, a navegação após o corte acrescentou uma
+média de 3,31 descritores novos por texto. Na tabela \ref{tab:tabela2} são
+apresentados os resultados desta avaliação.
 
 \begin{table*}
 \centering
@@ -285,12 +335,12 @@ Navegação do MeSH antes do Corte & 16,989\% & 20,514\% & 18,586\% & 15,839\% & 1
 \label{tab:tabela2}
 \end{table*}
 
-Com os resultados apresentados na tabela \ref{tab:tabela2} é possível afirmar
-que o corte por ocorrência é mais eficiente que o corte por quantidade. No
-entanto, falta verificar qual o impacto do uso de bigramas e no uso do
-componentes que elimina descritores pré-definidos não existentes no texto,
-chamado de filtragem. Na tabela \ref{fig:tabela3} são apresentados os
-resultados gerados a partir da combinação destes dois componentes.
+Com os resultados apresentados na tabela \ref{tab:tabela2} afirma-se que o corte
+por ocorrência é mais eficiente que o corte por quantidade. No entanto, é
+necessário verificar qual o impacto do uso de bigramas e no uso do componentes
+que eliminam descritores pré-definidos e não existentes no texto, chamado de
+filtragem. Na tabela \ref{tab:tabela3} são apresentados os resultados gerados a
+partir da combinação destes dois componentes.
 
 \begin{table*}
 \centering
@@ -310,16 +360,15 @@ Corte antes da navegação+Filtragem & 14,989\% & 28,787\% & 19,714\% & 14,134\% &
 \end{table*}
 
 
-A tabela \ref{tab:tabela3} revela que tanto o bigrama como o filtro
-aumentam entre 7 e 8\% a cobertura do programa, mas a precisão cai aproximadamente
-0,8\%. Entretanto, a medida harmônica F-measure aponta que o melhor resultado 
-fica por conta da não utilização da navegação do MeSH.
+A tabela \ref{tab:tabela3} revela que tanto o bigrama como o filtro aumentaram 
+entre 7 e 8\% a cobertura do programa, mas a precisão cai aproximadamente 0,8\%.
+Entretanto, a medida harmônica F-measure aponta que o melhor resultado fica por
+conta da não utilização da navegação do MeSH.
 
-Até o presente momento, a melhor abordagem para a obtenção de descritores
-foi a utilização do corte por ocorrência em conjunto com a técnica de bigramas.
-No entanto, ainda falta testar o tamanho da janela de leitura. O resultado
-obtido com janelas de tamanho 3 e 4 pode ser visto na tabela
-\ref{tab:tabela4}.
+Até o presente momento, a melhor abordagem para a obtenção de descritores foi a
+utilização do corte por ocorrência em conjunto com a técnica de bigramas. No
+entanto, ainda falta testar o tamanho da janela de leitura. O resultado obtido
+com janelas de tamanho 3 e 4 pode ser visto na tabela \ref{tab:tabela4}.
 
 \begin{table}[ht]
 \centering
@@ -341,15 +390,17 @@ Bigramas (Janela 4) &  &  & \tabularnewline
 \end{table}
 
 Os novos valores para a média harmônica representam uma sensível melhora nos
-resultados obtidos. Isso porque o número de combinações aumenta para a análise de bigramas, 
-e a janela de leitura pode encontrar um descritor de até quatro palavras no texto. Números 
-menores não são aconselhados por eliminar possíveis descritores existentes no vocabulário 
-controlado, e uma janela maior pode distorcer os resultados do bigrama.
+resultados obtidos. Isso porque o número de combinações aumentam para a análise
+de bigramas, e a janela de leitura pode encontrar um descritor de até quatro
+palavras no texto. Números menores não são aconselhados por eliminar possíveis
+descritores existentes no vocabulário controlado, e uma janela maior pode
+distorcer os resultados do bigrama.
 
-Com isso, é possível afirmar que a melhor configuração para o programa é a utilização de 
-uma janela de leitura igual a quatro palavras, com as técnicas de corte por ocorrência e bigramas. 
-O programa com esta configuração final, retornou, para os artigos utilizados na validação, uma 
-média de 35,19 descritores por artigo.
+Com isso, é possível afirmar que a melhor configuração para o programa é a
+utilização de uma janela de leitura igual a quatro palavras, com as técnicas de
+corte por ocorrência e bigramas. 
+O programa com esta configuração final retornou, para os artigos utilizados na
+validação, uma média de 35,19 descritores por artigo.
 
 \section{Considerações sobre os resultados e trabalhos futuros}
 \label{consideracoes}

@@ -1,5 +1,17 @@
 \relax 
 \catcode`"\active
+\ifx\hyper@anchor\@undefined
+\global \let \oldcontentsline\contentsline
+\gdef \contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
+\global \let \oldnewlabel\newlabel
+\gdef \newlabel#1#2{\newlabelxx{#1}#2}
+\gdef \newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\let \contentsline\oldcontentsline
+\let \newlabel\oldnewlabel}
+\else
+\global \let \hyper@last\relax 
+\fi
+
 \citation{lancaster:04}
 \citation{lancaster:04}
 \citation{lancaster:04}
@@ -9,9 +21,9 @@
 \@writefile{toc}{\select@language{brazil}}
 \@writefile{lof}{\select@language{brazil}}
 \@writefile{lot}{\select@language{brazil}}
-\@writefile{toc}{\contentsline {section}{\numberline {1}Introdu\c c\~ao}{\thepage }}
-\@writefile{toc}{\contentsline {section}{\numberline {2}Fundamenta\c c\~ao te\'orica}{\thepage }}
-\newlabel{fundamentacao}{{2}{\thepage }}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introdu\c c\~ao}{\thepage }{section.1}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Fundamenta\c c\~ao te\'orica}{\thepage }{section.2}}
+\newlabel{fundamentacao}{{2}{\thepage }{Fundamentação teórica\relax }{section.2}{}}
 \citation{nlm:08}
 \citation{porter:80}
 \citation{nltk:08}
@@ -21,28 +33,23 @@
 \citation{pythonsax:08}
 \citation{pythonpickle:08}
 \citation{gupta:08}
-\@writefile{toc}{\contentsline {section}{\numberline {3}Desenvolvimento}{\thepage }}
-\newlabel{desenvolvimento}{{3}{\thepage }}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Desenvolvimento do extrator}{\thepage }{section.3}}
+\newlabel{desenvolvimento}{{3}{\thepage }{Desenvolvimento do extrator\relax }{section.3}{}}
 \citation{manning:08}
 \citation{scielo:08}
-\@writefile{toc}{\contentsline {section}{\numberline {4}Resultados}{\thepage }}
-\newlabel{resultados}{{4}{\thepage }}
-\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces T\'ecnicas sem corte e seus resultados}}{\thepage }}
-\newlabel{tab:tabela1}{{1}{\thepage }}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Resultados}{\thepage }{section.4}}
+\newlabel{resultados}{{4}{\thepage }{Resultados\relax }{section.4}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces T\'ecnicas sem corte e seus resultados}}{\thepage }{table.1}}
+\newlabel{tab:tabela1}{{1}{\thepage }{Resultados\relax }{table.1}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Compara\c c\~oes entre janelas}}{\thepage }{table.4}}
+\newlabel{tab:tabela4}{{4}{\thepage }{Resultados\relax }{table.4}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Considera\c c\~oes sobre os resultados e trabalhos futuros}{\thepage }{section.5}}
+\newlabel{consideracoes}{{5}{\thepage }{Considerações sobre os resultados e trabalhos futuros\relax }{section.5}{}}
 \bibstyle{abbrv}
 \bibdata{fabioRafaelFabricioOrlando}
 \bibcite{gupta:08}{1}
 \bibcite{lancaster:04}{2}
 \bibcite{manning:08}{3}
-\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Compara\c c\~ao entre poss\IeC {\'\i }veis cortes em diferentes t\'ecnicas}}{\thepage }}
-\newlabel{tab:tabela2}{{2}{\thepage }}
-\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Resultados com as t\'ecnicas de filtragem e bigramas}}{\thepage }}
-\newlabel{tab:tabela3}{{3}{\thepage }}
-\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Compara\c c\~oes entre janelas}}{\thepage }}
-\newlabel{tab:tabela4}{{4}{\thepage }}
-\@writefile{toc}{\contentsline {section}{\numberline {5}Considera\c c\~oes sobre os resultados e trabalhos futuros}{\thepage }}
-\newlabel{consideracoes}{{5}{\thepage }}
-\@writefile{toc}{\contentsline {section}{\numberline {6}References}{\thepage }}
 \bibcite{nlm:08}{4}
 \bibcite{nlmmesh:08}{5}
 \bibcite{nltk:08}{6}
@@ -50,3 +57,8 @@
 \bibcite{pythonpickle:08}{8}
 \bibcite{pythonsax:08}{9}
 \bibcite{scielo:08}{10}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Compara\c c\~ao entre poss\IeC {\'\i }veis cortes em diferentes t\'ecnicas}}{\thepage }{table.2}}
+\newlabel{tab:tabela2}{{2}{\thepage }{Resultados\relax }{table.2}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Resultados com as t\'ecnicas de filtragem e bigramas}}{\thepage }{table.3}}
+\newlabel{tab:tabela3}{{3}{\thepage }{Resultados\relax }{table.3}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}References}{\thepage }{section.6}}
